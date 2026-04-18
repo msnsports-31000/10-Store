@@ -477,7 +477,7 @@
     <mobileCapable>true</mobileCapable>
   </app>
   <app id="inecraft-for-indows-10">
-    <name>Minecraft for Windows 10</name>
+    <name>Minecraft Windows 10 Edition</name>
     <version>0.16.1.0</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-400-1776522639.png</icon>
     <publisher>Microsoft Studios</publisher>
