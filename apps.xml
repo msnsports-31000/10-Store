@@ -501,4 +501,19 @@
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
+  <app id="inecraft-for-indows-10-etter-ogether">
+    <name>Minecraft for Windows 10 (Better Together)</name>
+    <version>1.2.3.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/MCSquare310x310Logo.scale-100-1776686001.png</icon>
+    <publisher>Microsoft Studios</publisher>
+    <featured>false</featured>
+    <description>The better together update for Minecraft Windows 10 Edition, I'm sure you need to own the game to play this, so just buy minecraft.</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.MinecraftUWP_1.2.203.0_x64__8wekyb3d8bbwe-1776686001.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Minecraft-20_04_2026-12_42_54-1776686002.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Minecraft-20_04_2026-12_49_54-1776686004.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Minecraft-20_04_2026-12_50_27-1776686006.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Minecraft-20_04_2026-12_52_05-1776686007.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+  </app>
 </data>
