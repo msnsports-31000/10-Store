@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>YouTube Player</title>
+    <style>
+        body {
+            margin: 0;
+            background: #000;
+            overflow: hidden;
+            font-family: Segoe UI, sans-serif;
+        }
+
+        #playerFrame {
+            width: 100vw;
+            height: 100vh;
+            border: none;
+            display: none;
+        }
+
+        #error {
+            color: white;
+            padding: 20px;
+            display: none;
+        }
+
+        /* Floating chat button */
+        #chatBtn {
+            position: fixed;
+            top: 15px;
+            right: 15px;
+            background: rgba(255,255,255,0.15);
+            color: white;
+            padding: 10px 16px;
+            border: 1px solid rgba(255,255,255,0.3);
+            cursor: pointer;
+            display: none;
+            z-index: 20;
+        }
+
+        /* Slide‑in chat panel */
+        #chatPanel {
+            position: fixed;
+            top: 0;
+            right: -400px;
+            width: 400px;
+            height: 100vh;
+            background: #111;
+            border-left: 1px solid #333;
+            transition: right 0.25s ease;
+            z-index: 19;
+        }
+
+        #chatFrame {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .open {
+            right: 0 !important;
+        }
+    </style>
+</head>
+<body>
+
+<iframe id="playerFrame" allowfullscreen></iframe>
+<div id="error">unable to connect</div>
+
+<button id="chatBtn">Chat</button>
+
+<div id="chatPanel">
+    <iframe id="chatFrame"></iframe>
+</div>
+
+<script>
+(function () {
+    "use strict";
+
+    var params = new URLSearchParams(window.location.search);
+    var videoId = params.get("id");
+
+    var frame = document.getElementById("playerFrame");
+    var error = document.getElementById("error");
+    var chatBtn = document.getElementById("chatBtn");
+    var chatPanel = document.getElementById("chatPanel");
+    var chatFrame = document.getElementById("chatFrame");
+
+    if (!videoId) {
+        error.style.display = "block";
+        return;
+    }
+
+    // Load the video
+    var embedUrl = "https://www.youtube.com/embed/" + encodeURIComponent(videoId);
+    frame.src = embedUrl;
+    frame.onload = function () {
+        frame.style.display = "block";
+    };
+
+    // Detect if it's a live stream using YouTube oEmbed
+    var oembedUrl = "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=" 
+                    + encodeURIComponent(videoId) + "&format=json";
+
+    fetch(oembedUrl)
+        .then(function (res) { return res.json(); })
+        .then(function (data) {
+            if (data && data.live_broadcast === "live") {
+                // Show chat button
+                chatBtn.style.display = "block";
+
+                // Set chat iframe
+                chatFrame.src =
+                    "https://www.youtube.com/live_chat?v=" + encodeURIComponent(videoId) + "&embed_domain=" + location.hostname;
+            }
+        })
+        .catch(function () {
+            // If oEmbed fails, do nothing
+        });
+
+    // Toggle chat panel
+    chatBtn.onclick = function () {
+        if (chatPanel.classList.contains("open")) {
+            chatPanel.classList.remove("open");
+        } else {
+            chatPanel.classList.add("open");
+        }
+    };
+})();
+</script>
+
+</body>
+</html>
