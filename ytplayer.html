@@ -16,12 +16,73 @@
             font-family: sans-serif;
         }
 
-        /* Full screen video iframe */
+        /* Full screen video container */
+        #video-container {
+            width: 100%;
+            height: 100%;
+            transition: width 0.3s ease; /* Smooth transition when chat opens */
+        }
+        
         #video-frame {
             width: 100%;
             height: 100%;
             border: none;
-            transition: width 0.3s ease; /* Smooth transition when chat opens */
+            pointer-events: none; /* Prevents clicking the video to pause, forcing custom controls */
+        }
+
+        /* Custom Controls Bar */
+        #custom-controls {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(24, 24, 24, 0.9);
+            padding: 10px 20px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            z-index: 1000;
+            color: white;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.8);
+            transition: transform 0.3s ease, left 0.3s ease;
+            width: 60%;
+            min-width: 400px;
+        }
+
+        /* Shift controls when chat opens */
+        .chat-open #custom-controls {
+            left: calc(50% - 175px); 
+        }
+
+        #play-pause-btn {
+            background-color: #cc0000;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.2s;
+            width: 80px;
+        }
+
+        #play-pause-btn:hover {
+            background-color: #ff0000;
+        }
+
+        #seek-bar {
+            flex-grow: 1;
+            cursor: pointer;
+            accent-color: #cc0000; /* Styles the slider red in modern browsers */
+        }
+
+        #time-display {
+            font-size: 14px;
+            font-family: monospace;
+            min-width: 90px;
+            text-align: right;
         }
 
         /* Floating Chat Button */
@@ -34,6 +95,8 @@
             background-color: #cc0000;
             color: white;
             border: none;
+            border-radius: 8px;
+            cursor: pointer;
             z-index: 1000;
             font-weight: bold;
             box-shadow: 0 4px 6px rgba(0,0,0,0.5);
@@ -64,16 +127,24 @@
         }
 
         /* Shrink video when chat is open */
-        .chat-open #video-frame {
+        .chat-open #video-container {
             width: calc(100% - 350px);
         }
     </style>
 </head>
 <body>
 
-    <button id="chat-btn">💬</button>
+    <button id="chat-btn">💬 Open Chat</button>
 
-    <iframe id="video-frame" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+    <div id="video-container">
+        <div id="video-frame"></div>
+    </div>
+
+    <div id="custom-controls" style="display: none;">
+        <button id="play-pause-btn">⏸ Pause</button>
+        <input type="range" id="seek-bar" value="0" min="0" step="1">
+        <span id="time-display">0:00 / 0:00</span>
+    </div>
 
     <div id="chat-container">
         <iframe id="chat-frame"></iframe>
@@ -83,42 +154,132 @@
         // 1. Extract parameters from the URL
         const urlParams = new URLSearchParams(window.location.search);
         const videoId = urlParams.get('id');
-        const isLive = urlParams.get('live') === 'true'; // Looking for &live=true
-
-        // 2. Get the current domain (Required by YouTube for the chat embed)
+        const isLive = urlParams.get('live') === 'true'; 
         const currentDomain = window.location.hostname || "localhost"; 
 
-        if (videoId) {
-            // Load the YouTube video
-            document.getElementById('video-frame').src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        // Video Player Variables
+        let player;
+        let updateTimer;
+        const playPauseBtn = document.getElementById('play-pause-btn');
+        const seekBar = document.getElementById('seek-bar');
+        const timeDisplay = document.getElementById('time-display');
+        const controlsContainer = document.getElementById('custom-controls');
 
-            // 3. Handle Live Stream logic
+        // Helper function to format seconds into M:SS or H:MM:SS
+        function formatTime(seconds) {
+            seconds = Math.round(seconds);
+            const h = Math.floor(seconds / 3600);
+            const m = Math.floor((seconds % 3600) / 60);
+            const s = seconds % 60;
+            const sStr = s < 10 ? '0' + s : s;
+            if (h > 0) {
+                const mStr = m < 10 ? '0' + m : m;
+                return `${h}:${mStr}:${sStr}`;
+            } else {
+                return `${m}:${sStr}`;
+            }
+        }
+
+        if (videoId) {
+            // 2. Load the YouTube IFrame API asynchronously
+            const tag = document.createElement('script');
+            tag.src = "https://www.youtube.com/iframe_api";
+            const firstScriptTag = document.getElementsByTagName('script')[0];
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+            // 3. This function is called automatically by the YT API when it's ready
+            window.onYouTubeIframeAPIReady = function() {
+                player = new YT.Player('video-frame', {
+                    videoId: videoId,
+                    playerVars: {
+                        'autoplay': 1,
+                        'controls': 0,        // Hide default YouTube controls
+                        'disablekb': 1,       // Disable default keyboard shortcuts
+                        'rel': 0,             // Hide related videos at the end
+                        'modestbranding': 1   // Reduce YouTube branding
+                    },
+                    events: {
+                        'onReady': onPlayerReady,
+                        'onStateChange': onPlayerStateChange
+                    }
+                });
+            };
+
+            function onPlayerReady(event) {
+                controlsContainer.style.display = 'flex'; // Show controls
+                
+                // If it's not a live stream, set the max value of the seek bar
+                if (!isLive) {
+                    seekBar.max = player.getDuration();
+                }
+
+                // Play/Pause Button Logic
+                playPauseBtn.addEventListener('click', () => {
+                    if (player.getPlayerState() === YT.PlayerState.PLAYING) {
+                        player.pauseVideo();
+                    } else {
+                        player.playVideo();
+                    }
+                });
+
+                // Seek Bar Logic (User dragging the slider)
+                seekBar.addEventListener('input', () => {
+                    const seekToTime = seekBar.value;
+                    player.seekTo(seekToTime, true);
+                });
+
+                // Start loop to update the seek bar and time text every second
+                updateTimer = setInterval(updateUI, 1000);
+            }
+
+            function onPlayerStateChange(event) {
+                if (event.data === YT.PlayerState.PLAYING) {
+                    playPauseBtn.innerText = '⏸ Pause';
+                    // Update max duration in case it wasn't available immediately
+                    if (!isLive) seekBar.max = player.getDuration(); 
+                } else if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.ENDED) {
+                    playPauseBtn.innerText = '▶️ Play';
+                }
+            }
+
+            function updateUI() {
+                if (player && player.getPlayerState() === YT.PlayerState.PLAYING) {
+                    const currentTime = player.getCurrentTime();
+                    const duration = player.getDuration();
+                    
+                    if (!isLive) {
+                        seekBar.value = currentTime;
+                        timeDisplay.innerText = `${formatTime(currentTime)} / ${formatTime(duration)}`;
+                    } else {
+                        timeDisplay.innerText = "LIVE";
+                        seekBar.style.display = 'none'; // Hide seek bar for live streams
+                    }
+                }
+            }
+
+            // 4. Handle Live Stream Chat logic (Unchanged)
             if (isLive) {
                 const chatBtn = document.getElementById('chat-btn');
                 const chatContainer = document.getElementById('chat-container');
                 const chatFrame = document.getElementById('chat-frame');
                 let chatOpen = false;
 
-                // Show the floating button
                 chatBtn.style.display = 'block';
 
-                // Handle button clicks
                 chatBtn.addEventListener('click', () => {
                     chatOpen = !chatOpen;
                     
                     if (chatOpen) {
-                        // Only set the src when opened the first time to save bandwidth
                         if (!chatFrame.src) {
                             chatFrame.src = `https://www.youtube.com/live_chat?v=${videoId}&embed_domain=${currentDomain}`;
                         }
-                        
                         chatContainer.style.display = 'block';
-                        document.body.classList.add('chat-open'); // Triggers CSS to shrink video
-                        chatBtn.innerText = '❌';
+                        document.body.classList.add('chat-open');
+                        chatBtn.innerText = '❌ Close Chat';
                     } else {
                         chatContainer.style.display = 'none';
-                        document.body.classList.remove('chat-open'); // Restores video to full width
-                        chatBtn.innerText = '💬';
+                        document.body.classList.remove('chat-open');
+                        chatBtn.innerText = '💬 Open Chat';
                     }
                 });
             }
