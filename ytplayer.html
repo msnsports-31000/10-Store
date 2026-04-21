@@ -2,139 +2,260 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>YouTube Player</title>
-
+    <title>YouTube</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <style>
-        body {
-            margin: 0;
-            background: #000;
-            overflow: hidden;
-            font-family: Segoe UI, sans-serif;
+        html,body { height:100%; margin:0; background:#000; font-family:Segoe UI, sans-serif; }
+        #playerContainer { position:relative; width:100%; height:100%; overflow:hidden; background:#000; }
+        /* WebView or iframe */
+        .playerSurface {
+            position:absolute; top:0; left:0; width:100%; height:100%;
+            visibility:hidden; opacity:0; transition:opacity .2s linear;
+            background:#000;
         }
-
-        /* Main video WebView */
-        #playerWebView {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            visibility: hidden; /* UWP-safe */
-        }
-
-        #error {
-            color: white;
-            padding: 20px;
-            display: none;
-        }
-
-        /* Floating chat button */
+        .visible { visibility:visible; opacity:1; }
+        #error { color:#fff; padding:16px; display:none; }
+        /* Chat button */
         #chatBtn {
-            position: fixed;
-            top: 15px;
-            right: 15px;
-            background: rgba(255,255,255,0.15);
-            color: white;
-            padding: 10px 16px;
-            border: 1px solid rgba(255,255,255,0.3);
-            cursor: pointer;
-            display: none;
-            z-index: 50;
+            position:fixed; top:12px; right:12px; z-index:60;
+            background:rgba(255,255,255,0.12); color:#fff; border:1px solid rgba(255,255,255,0.2);
+            padding:8px 12px; cursor:pointer; display:none;
         }
-
-        /* Chat panel wrapper (safe to animate) */
+        /* Chat wrapper safe to animate */
         #chatWrapper {
-            position: fixed;
-            top: 0;
-            right: -400px;
-            width: 400px;
-            height: 100vh;
-            background: #111;
-            border-left: 1px solid #333;
-            transition: right 0.25s ease;
-            z-index: 40;
+            position:fixed; top:0; right:-420px; width:420px; height:100%; z-index:55;
+            background:#111; border-left:1px solid #333; transition:right .25s ease;
         }
-
-        /* Chat WebView (never animate directly) */
-        #chatWebView {
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-
-        .open {
-            right: 0 !important;
-        }
+        #chatWrapper.open { right:0; }
+        /* Chat surface */
+        .chatSurface { width:100%; height:100%; border:0; }
+        /* Basic fallback message */
+        #fallbackMsg { color:#fff; padding:20px; display:none; }
     </style>
 </head>
 <body>
+    <div id="playerContainer">
+        <!-- x-ms-webview will be used when available; otherwise iframe fallback is created by script -->
+        <x-ms-webview id="playerWebView" class="playerSurface"></x-ms-webview>
+        <div id="iframeHolder"></div>
+        <div id="error">Unable to load video. Your environment may be too old or blocking embedded content.</div>
+    </div>
 
-<x-ms-webview id="playerWebView"></x-ms-webview>
-<div id="error">unable to connect</div>
+    <button id="chatBtn">Chat</button>
 
-<button id="chatBtn">Chat</button>
-
-<div id="chatWrapper">
-    <x-ms-webview id="chatWebView"></x-ms-webview>
-</div>
+    <div id="chatWrapper" aria-hidden="true">
+        <x-ms-webview id="chatWebView" class="chatSurface"></x-ms-webview>
+        <div id="chatIframeHolder"></div>
+    </div>
 
 <script>
 (function () {
     "use strict";
 
-    var params = new URLSearchParams(window.location.search);
-    var videoId = params.get("id");
+    // Manual query parsing for maximum compatibility
+    function getQueryParam(name) {
+        var q = window.location.search || "";
+        if (q.indexOf("?") === 0) q = q.substring(1);
+        var parts = q.split("&");
+        for (var i = 0; i < parts.length; i++) {
+            var kv = parts[i].split("=");
+            if (decodeURIComponent(kv[0] || "") === name) {
+                return typeof kv[1] === "undefined" ? "" : decodeURIComponent(kv[1]);
+            }
+        }
+        return null;
+    }
 
-    var player = document.getElementById("playerWebView");
-    var error = document.getElementById("error");
+    var videoId = getQueryParam("id");
+    var playerWebView = document.getElementById("playerWebView");
+    var iframeHolder = document.getElementById("iframeHolder");
+    var errorEl = document.getElementById("error");
     var chatBtn = document.getElementById("chatBtn");
     var chatWrapper = document.getElementById("chatWrapper");
     var chatWebView = document.getElementById("chatWebView");
+    var chatIframeHolder = document.getElementById("chatIframeHolder");
 
     if (!videoId) {
-        error.style.display = "block";
+        errorEl.style.display = "block";
+        errorEl.textContent = "No video id provided in the URL";
         return;
     }
 
-    // Load video
-    var embedUrl = "https://www.youtube.com/embed/" + encodeURIComponent(videoId);
-    player.navigate(embedUrl);
+    // Build embed URLs
+    var embedUrl = "https://www.youtube.com/embed/" + encodeURIComponent(videoId) + "?rel=0&modestbranding=1";
+    var chatUrl = "https://www.youtube.com/live_chat?v=" + encodeURIComponent(videoId) + "&embed_domain=" + encodeURIComponent(location.hostname || "localhost");
 
-    player.addEventListener("MSWebViewNavigationCompleted", function (ev) {
-        if (ev.isSuccess) {
-            player.style.visibility = "visible";
-        } else {
-            error.style.display = "block";
+    // Feature detect x-ms-webview
+    var hasXms = false;
+    try { hasXms = !!document.createElement("x-ms-webview").navigate; } catch (e) { hasXms = false; }
+
+    // Helper to show surface
+    function showSurface(el) {
+        try {
+            el.className = (el.className || "") + " visible";
+        } catch (e) {
+            // fallback
+            el.style.visibility = "visible";
+            el.style.opacity = "1";
         }
-    });
+    }
 
-    // Detect live stream
-    var oembedUrl = "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=" 
-                    + encodeURIComponent(videoId) + "&format=json";
+    // Helper to toggle chat wrapper
+    function toggleChat() {
+        var cls = chatWrapper.className || "";
+        if (cls.indexOf("open") === -1) {
+            chatWrapper.className = cls + " open";
+            chatWrapper.setAttribute("aria-hidden", "false");
+        } else {
+            chatWrapper.className = cls.replace("open", "").trim();
+            chatWrapper.setAttribute("aria-hidden", "true");
+        }
+    }
 
-    fetch(oembedUrl)
-        .then(function (res) { return res.json(); })
-        .then(function (data) {
-            if (data && data.live_broadcast === "live") {
-                chatBtn.style.display = "block";
-
-                var chatUrl =
-                    "https://www.youtube.com/live_chat?v=" + encodeURIComponent(videoId) +
-                    "&embed_domain=" + location.hostname;
-
-                chatWebView.navigate(chatUrl);
+    // Navigation completed handler for x-ms-webview
+    function attachWebViewNavCompleted(webview, onSuccess, onFail) {
+        if (!webview) { onFail(); return; }
+        try {
+            if (webview.addEventListener) {
+                webview.addEventListener("MSWebViewNavigationCompleted", function (ev) {
+                    try {
+                        if (ev && ev.isSuccess) onSuccess();
+                        else onFail();
+                    } catch (e) { onFail(); }
+                });
+            } else if (webview.attachEvent) {
+                // older hosts
+                webview.attachEvent("MSWebViewNavigationCompleted", function (ev) {
+                    try {
+                        if (ev && ev.isSuccess) onSuccess();
+                        else onFail();
+                    } catch (e) { onFail(); }
+                });
+            } else {
+                // no event support, assume success after short delay
+                setTimeout(onSuccess, 800);
             }
-        })
-        .catch(function () {
-            // ignore
-        });
+        } catch (e) {
+            setTimeout(onFail, 200);
+        }
+    }
 
-    // Toggle chat panel (animate wrapper, NOT WebView)
-    chatBtn.onclick = function () {
-        chatWrapper.classList.toggle("open");
-    };
+    // If x-ms-webview exists, use navigate
+    if (hasXms) {
+        try {
+            // Ensure the element exists and has navigate method
+            if (playerWebView && typeof playerWebView.navigate === "function") {
+                playerWebView.navigate(embedUrl);
+                attachWebViewNavCompleted(playerWebView, function () {
+                    showSurface(playerWebView);
+                }, function () {
+                    errorEl.style.display = "block";
+                });
+            } else {
+                // If x-ms-webview element is present but navigate not available, fallback to iframe
+                hasXms = false;
+            }
+        } catch (e) {
+            hasXms = false;
+        }
+    }
+
+    // Fallback to iframe when x-ms-webview not available or failed
+    if (!hasXms) {
+        try {
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute("src", embedUrl);
+            iframe.setAttribute("allowfullscreen", "true");
+            iframe.style.width = "100%";
+            iframe.style.height = "100%";
+            iframe.className = "playerSurface";
+            // onload handler for older browsers
+            iframe.onload = function () {
+                showSurface(iframe);
+            };
+            // append and show after a short timeout if onload doesn't fire
+            iframeHolder.appendChild(iframe);
+            setTimeout(function () {
+                // If still hidden, try to show (some old browsers won't fire onload)
+                try { showSurface(iframe); } catch (e) {}
+            }, 1200);
+        } catch (e) {
+            errorEl.style.display = "block";
+            errorEl.textContent = "Failed to create player surface";
+        }
+    }
+
+    // Detect live stream using XHR to oEmbed
+    try {
+        var oembedUrl = "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=" + encodeURIComponent(videoId) + "&format=json";
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", oembedUrl, true);
+        // Some old hosts block cross origin; handle errors gracefully
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState !== 4) return;
+            if (xhr.status >= 200 && xhr.status < 300) {
+                try {
+                    var data = JSON.parse(xhr.responseText || "{}");
+                    // oEmbed does not reliably include live_broadcast in all cases.
+                    // We'll check title for "Live" as a heuristic if live_broadcast missing.
+                    var isLive = false;
+                    if (data && data.live_broadcast === "live") isLive = true;
+                    else if (data && data.title && (data.title.toLowerCase().indexOf("live") !== -1)) isLive = true;
+
+                    if (isLive) {
+                        // show chat button
+                        chatBtn.style.display = "block";
+
+                        // navigate chat into x-ms-webview or iframe fallback
+                        if (hasXms && chatWebView && typeof chatWebView.navigate === "function") {
+                            try {
+                                chatWebView.navigate(chatUrl);
+                            } catch (e) {
+                                // fallback to iframe inside chatWrapper
+                                var cf = document.createElement("iframe");
+                                cf.setAttribute("src", chatUrl);
+                                cf.className = "chatSurface";
+                                chatIframeHolder.appendChild(cf);
+                            }
+                        } else {
+                            var cf2 = document.createElement("iframe");
+                            cf2.setAttribute("src", chatUrl);
+                            cf2.className = "chatSurface";
+                            chatIframeHolder.appendChild(cf2);
+                        }
+                    }
+                } catch (e) {
+                    // ignore parse errors
+                }
+            } else {
+                // oEmbed failed; do nothing
+            }
+        };
+        xhr.send(null);
+    } catch (e) {
+        // ignore XHR errors
+    }
+
+    // Wire up chat button toggle using attachEvent fallback
+    try {
+        if (chatBtn.addEventListener) chatBtn.addEventListener("click", toggleChat);
+        else if (chatBtn.attachEvent) chatBtn.attachEvent("onclick", toggleChat);
+        else chatBtn.onclick = toggleChat;
+    } catch (e) {
+        chatBtn.onclick = toggleChat;
+    }
+
+    // Final fallback message for extremely old browsers
+    // Detect very old user agents and show a helpful message
+    try {
+        var ua = (navigator && navigator.userAgent) ? navigator.userAgent.toLowerCase() : "";
+        if (ua.indexOf("msie 2") !== -1 || ua.indexOf("internet explorer/2") !== -1) {
+            // IE2 era detected
+            errorEl.style.display = "block";
+            errorEl.textContent = "This environment is too old to play YouTube. Use a modern browser or update the host.";
+        }
+    } catch (e) {}
 })();
 </script>
-
 </body>
 </html>
