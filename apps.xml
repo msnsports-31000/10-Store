@@ -253,6 +253,7 @@
     <package>https://github.com/bloomthebloom/Appboxers/raw/refs/heads/main/18476MPBrun.BrowserQuest_2.6.2.0_x86__5j38zygvezh8g.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
   </app>
   <app id="ports">
     <name>MSN Sports</name>
