@@ -507,4 +507,17 @@
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
+  <app id="app-1777047765">
+    <name>OREO</name>
+    <version>1.0.0.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/storelogo.scale-180-1777047769.png</icon>
+    <publisher>DraydenYT Classics</publisher>
+    <featured>false</featured>
+    <description/>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/OREO_1.0.0.0_AnyCPU-1777047765.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/download-1777047770.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
