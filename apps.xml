@@ -483,7 +483,8 @@
     <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/freshpaint4-1776509240.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/freshpaint8-1776509240.png</screenshot5>
     <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
   </app>
   <app id="inecraft-for-indows-10">
     <name>Minecraft Windows 10 Edition</name>
