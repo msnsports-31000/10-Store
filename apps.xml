@@ -56,6 +56,7 @@
     <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704616_image3.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
   </app>
   <app id="lumia-camera">
     <name>Lumia Camera</name>
