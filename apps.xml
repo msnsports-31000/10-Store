@@ -205,6 +205,7 @@
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/RevelSoftware.PianoTimePro_1.0.0.16_neutral__rm1v733ay04k0-1775673263.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
   </app>
   <app id="icrosoft-ibs">
     <name>Microsoft.VCLibs.140.00_14.0.33519.0_x64</name>
