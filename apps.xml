@@ -413,7 +413,8 @@
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.5220175982889_2014.1003.12.4961_neutral_-_8wekyb3d8bbwe-1776004122.appxbundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2026-04-12-171202-1776004126.png</screenshot1>
     <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
   </app>
   <app id="z-lay-eady-upiter-pp">
     <name>zPlayReady Jupiter App</name>
