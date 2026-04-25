@@ -3,5 +3,5 @@
   <categories>
   </categories>
   <apps>
-  </apps>
+  <app id="est-app-upload-from-windows-8-1-charm"><name>Test app upload from windows 8.1 charm</name><version>1.0.0.0</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1777121928.png</icon><publisher>Drayden ta meee</publisher><featured>false</featured><description>yes</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/CnWeather_M1-1777121928.appx</package><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
 </data>
