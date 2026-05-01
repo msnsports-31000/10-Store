@@ -650,4 +650,16 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="pload-your-apps-to-10-tore">
+    <name>ADS: Upload your apps to 10Store!</name>
+    <version>10.2.7.2026.1004.13</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallTile.scale-100-1777645520.png</icon>
+    <publisher>DraydenYT &amp; Bloom</publisher>
+    <featured>false</featured>
+    <description>The new 10Store uploader for Windows 10/8.1 can upload apps to 10Store and make it bigger</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/UploadApps10STR_1.0.0.2_AnyCPU-1777645519.appx</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
