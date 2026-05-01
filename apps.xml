@@ -156,8 +156,9 @@
   </app>
   <app id="8-ip">
     <name>8Zip</name>
-    <version>1.2.103.1000</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/descarga-1-1775491174.png</icon>
+    <version>1.2.103.1000</version>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/descarga-1-1775491174.png
+    <icon>
+    </icon>
     <publisher>Finebits OÜ</publisher>
     <featured>true</featured>
     <description>Out with the old, in with the new. The powerful archiver 8 Zip has expanded its set of capabilities with the new Continuum, Cortana and Windows Hello technologies.
