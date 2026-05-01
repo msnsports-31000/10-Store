@@ -3,5 +3,5 @@
   <categories>
   </categories>
   <apps>
-  </apps>
+  <app id="test"><name>test</name><version>1.0.0.0</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ReworkLogoNew-1777638165.png</icon><publisher>bloom</publisher><featured>false</featured><description>This is a test App for the Metro Upload Portal</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.WinJS.1.0_1.0.9200.20789_neutral__8wekyb3d8bbwe-1777638164.appx</package><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
 </data>
