@@ -3,17 +3,5 @@
   <categories>
   </categories>
   <apps>
-    <app id="eather">
-      <name>MSN Weather</name>
-      <version>2016.014.23.3280</version>
-      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Weather-1777815865.png</icon>
-      <publisher>Microsoft Corporation</publisher>
-      <featured>false</featured>
-      <description/>
-      <package>https://archive.org/download/10-store-is-available-for-windows-81/newRetiled.zip/newRetiled%2FMicrosoft.BingWeather_2016.1014.23.3280_neutral___8wekyb3d8bbwe.appxbundle</package>
-      <pcCapable>true</pcCapable>
-      <mobileCapable>false</mobileCapable>
-      <win81compatible>true</win81compatible>
-    </app>
   </apps>
 </data>
