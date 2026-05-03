@@ -3,5 +3,14 @@
   <categories>
   </categories>
   <apps>
-  </apps>
+  <app id="ews"><name>MSN News</name><version>2016.408.1840.2841</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/News-1777816155.png</icon><publisher>Microsoft Corporation</publisher><featured>false</featured><description>MSN News delivers breaking news and trusted, in-depth reporting from the world's best journalists.&#13;
+ &#13;
+- Our editors curate the most trusted, important, interesting and trending news&#13;
+- You choose which topics matter most to you.&#13;
+- MSN News updates you with notifications of breaking news, quickly and accurately, 24/7&#13;
+- Sync your preferences across the app and the web. &#13;
+ &#13;
+MSN News works in partnership with hundreds of publishers in dozens of countries globally. Select from editions in more 20 countries, carrying content from 3,000 top brands. &#13;
+&#13;
+MSN News makes it easy to for you to keep informed, to intuitively move from story to story, and from section to section. Our clean design lets you read articles without clutter, with useful features like a dark mode for night-time reading. The app is free to download and use with no limits on how many articles or videos you can view.</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BingNews_2016.408.1840.2841_neutral___8wekyb3d8bbwe-1777816151.appxbundle</package><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
 </data>
