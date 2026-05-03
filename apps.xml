@@ -674,13 +674,14 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="eather">
+  <app id="weather81">
     <name>MSN Weather</name>
     <version>2016.1014.23.3280</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/weather-1777815343.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
-    <description/>
+    <description/>MSN Weather: The best way to plan your day.
+    Get the latest weather conditions, whether you're hitting the slopes or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BingWeather_2016.1014.23.3280_neutral___8wekyb3d8bbwe-1777815338.appxbundle</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
