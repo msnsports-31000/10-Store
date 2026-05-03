@@ -3,5 +3,5 @@
   <categories>
   </categories>
   <apps>
-  </apps>
+  <app id="erobit-usic"><name>Aerobit Music</name><version>0.5.0.0</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/AeroMusic-1777819103.png</icon><publisher>Aerobit</publisher><featured>false</featured><description>Aerobit Music is a little simple app made by me! It is a WebView app that supports on Windows 8.1 and higher. You can listen to uncopyrighted music fore free! (This app also requires WIFI to listen)</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Aerobit-Music_0.5.0.0_AnyCPU_Debug-1777819102.appx</package><screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Capture-1777819105.png</screenshot1><screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/splashscreen.scale-100-1777819106.png</screenshot2><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
 </data>
