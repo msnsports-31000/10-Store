@@ -3,5 +3,7 @@
   <categories>
   </categories>
   <apps>
-  </apps>
+  <app id="eather"><name>MSN Weather</name><version>2016.1014.23.3280</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Weather-1777815807.png</icon><publisher>Microsoft Corporation</publisher><featured>false</featured><description>MSN Weather: The best way to plan your day.&#13;
+&#13;
+Get the latest weather conditions, whether you're hitting the slopes or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BingWeather_2016.1014.23.3280_neutral___8wekyb3d8bbwe-1777815803.appxbundle</package><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
 </data>
