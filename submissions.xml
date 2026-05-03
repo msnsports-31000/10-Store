@@ -17,17 +17,5 @@
       <mobileCapable>false</mobileCapable>
       <win81compatible>true</win81compatible>
     </app>
-    <app id="oney">
-      <name>MSN Money</name>
-      <version>2016.408.1841.3666</version>
-      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Finance-1777821902.png</icon>
-      <publisher>Microsoft Corporation</publisher>
-      <featured>false</featured>
-      <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
-      <package>https://archive.org/download/10-store-is-available-for-windows-81/newRetiled.zip/newRetiled%2FMicrosoft.BingFinance_2016.408.1841.3666_neutral___8wekyb3d8bbwe.appxbundle</package>
-      <pcCapable>true</pcCapable>
-      <mobileCapable>false</mobileCapable>
-      <win81compatible>true</win81compatible>
-    </app>
   </apps>
 </data>
