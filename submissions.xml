@@ -3,5 +3,18 @@
   <categories>
   </categories>
   <apps>
-  </apps>
+  <app id="e-indows-usic-obile"><name>ReWindowsMusic Mobile</name><version>1.0.0.0</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square71x71Logo.scale-240-1777917081.png</icon><publisher>ReOpenGlebsur</publisher><featured>false</featured><description>🎵 ReWindowsMusic – Ultimate Music Player for Windows Phone 8.1&#13;
+ReWindowsMusic is a powerful, lightweight, and feature‑rich music player built specifically for Windows Phone 8.1 using pure HTML5, CSS3, and JavaScript (no WinJS dependencies). It delivers a smooth, touch‑friendly experience even on older devices.&#13;
+&#13;
+✨ Key Features&#13;
+🎧 Play Local &amp; Online Music – Load tracks from an XML feed, JSON API, or external sources.&#13;
+&#13;
+📀 Smart Playlists – Create, edit, and save playlists locally (stored in localStorage).&#13;
+&#13;
+🎙️ Podcast Player (PodCats) – Stream podcast episodes from an XML feed.&#13;
+&#13;
+📂 ReOpenTracks – Load and play a huge JSON‑based music collection (150+ tracks).&#13;
+&#13;
+&#13;
+🔍 Real‑time Search – Filter songs, podcasts, or tracks by title or artist.</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ReWinMusIc.WindowsPhone_1.0.0.1_AnyCPU_Debug-1777917080.appx</package><pcCapable>false</pcCapable><mobileCapable>true</mobileCapable><win81compatible>false</win81compatible></app></apps>
 </data>
