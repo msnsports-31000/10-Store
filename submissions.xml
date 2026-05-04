@@ -3,14 +3,5 @@
   <categories>
   </categories>
   <apps>
-  <app id="aily-ic"><name>Daily Pic</name><version>1.3.0.1</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-100-1777931871.png</icon><publisher>T. Partl</publisher><featured>false</featured><description>You like the Bing Picture of the Day? With this app, you can download them in Full-HD resolution, set them as your desktop wallpaper or lock screen and much more!&#13;
-&#13;
-• View and download todays and past Bing wallpapers&#13;
-• Many download resolutions (landscape &amp; portrait orientation)&#13;
-• Live Tile showing the current Bing picture&#13;
-• Choose from different regions for different pictures&#13;
-• Interesting additional information and links&#13;
-• Optional daily automatic download of the Bing wallpaper&#13;
-• Set a Bing wallpaper as your lockscreen or desktop background&#13;
-• Optional title of the picture on the lock screen or desktop background</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/49297T.Partl.BingPictureoftheDay_1.3.0.1_neutral_-_jr9bq2af9farr-1777931869.appxbundle</package><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
+  </apps>
 </data>
