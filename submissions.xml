@@ -3,27 +3,5 @@
   <categories>
   </categories>
   <apps>
-  <app id="e-indows-tore-obile"><name>ReWindowsStore Mobile</name><version>1.0.0.8</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square44x44Logo.scale-240-1777916974.png</icon><publisher>ReOpenGlebsur</publisher><featured>false</featured><description>📱 ReWinStore Mobile – Description&#13;
-ReWinStore Mobile is a lightweight version of our app store, specifically designed for Windows Phone devices. It brings the full power of ReWinStore to the mobile platform with an optimized interface and smooth performance.&#13;
-&#13;
-🔹 Key Features of ReWinStore Mobile:&#13;
-Windows Phone native design – clean, touch-friendly layout adapted for smaller screens.&#13;
-&#13;
-Fast navigation – swipe between sections, tap to download.&#13;
-&#13;
-Full app catalog – access all apps and games available in the main ReWinStore.&#13;
-&#13;
-One‑tap download – open download links directly in your browser.&#13;
-&#13;
-My Apps list – keep track of apps you’ve downloaded, stored locally.&#13;
-&#13;
-Lightweight and fast – works flawlessly on older Windows Phone hardware.&#13;
-&#13;
-💡 Note: ReWinStore Mobile is available via the "Mobile Mode" button in the left menu of the main ReWinStore application.&#13;
-&#13;
-1.0.0.8&#13;
-Fixed apps downloading&#13;
-&#13;
-1.0.0.0&#13;
-First release</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ReWinMusIc.WindowsPhone_1.0.0.1_AnyCPU_Debug-1777916973.appx</package><screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/wp_ss_20260504_0001-1777916975.png</screenshot1><screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/wp_ss_20260504_0002-1777916976.png</screenshot2><screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/wp_ss_20260504_0003-1777916978.png</screenshot3><pcCapable>false</pcCapable><mobileCapable>true</mobileCapable><win81compatible>false</win81compatible></app></apps>
+  </apps>
 </data>
