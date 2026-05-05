@@ -1070,4 +1070,16 @@
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="niversal-egedit">
+    <name>Universal Regedit</name>
+    <version>1.0.34.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2026-05-05-225419-1778011253.png</icon>
+    <publisher>IT Dev Team</publisher>
+    <featured>false</featured>
+    <description/>
+    <package>https://github.com/OpenGlebsur/win8storerevivalserver/raw/refs/heads/main/52346ITDevTeam.UniversalRegistryEditor_1.0.34.0_neutral_~_feeqnmc1868va.AppxBundle</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
