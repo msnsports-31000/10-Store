@@ -3,5 +3,29 @@
   <categories>
   </categories>
   <apps>
-  <app id="app-1777993222"><name>VK</name><version>2.3.2.1</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo30.scale-140-1777993226.png</icon><publisher>VK corp.</publisher><featured>false</featured><description></description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/C6965DD5.VK_2.3.2.1_x64__v422avzh127ra-1777993222.appx</package><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
+    <app id="app-1777993222">
+      <name>VK</name>
+      <version>2.3.2.1</version>
+      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo30.scale-140-1777993226.png</icon>
+      <publisher>VK corp.</publisher>
+      <featured>false</featured>
+      <description/>
+      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/C6965DD5.VK_2.3.2.1_x64__v422avzh127ra-1777993222.appx</package>
+      <pcCapable>true</pcCapable>
+      <mobileCapable>false</mobileCapable>
+      <win81compatible>true</win81compatible>
+    </app>
+    <app id="7digital-usic-tore">
+      <name>7digital Music Store</name>
+      <version>2.1.10.3</version>
+      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-180-1777993360.png</icon>
+      <publisher>7digitalLtd</publisher>
+      <featured>false</featured>
+      <description></description>
+      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/7digitalLtd.7digitalMusicStore_2.1.10.3_x86__qv1vc61z2t2b4-1777993358.appx</package>
+      <pcCapable>true</pcCapable>
+      <mobileCapable>false</mobileCapable>
+      <win81compatible>false</win81compatible>
+    </app>
+  </apps>
 </data>
