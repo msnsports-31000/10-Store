@@ -3,5 +3,5 @@
   <categories>
   </categories>
   <apps>
-  <app id="lappy-ird"><name>Flappy Bird</name><version>1.0.0.0</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Flappy_Bird-1778006167.webp</icon><publisher>Saraf</publisher><featured>false</featured><description></description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_-_k1kv61aetwx78-1778006160.appxbundle</package><pcCapable>true</pcCapable><mobileCapable>true</mobileCapable><win81compatible>false</win81compatible></app></apps>
+  </apps>
 </data>
