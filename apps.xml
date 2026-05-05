@@ -1034,4 +1034,16 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="lassi-ube">
+    <name>ClassiCube</name>
+    <version>1.0.0.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo.scale-100-1778004235.png</icon>
+    <publisher>Bargmy</publisher>
+    <featured>false</featured>
+    <description>an minecraft classic UWP port</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ClassiCube-1778004233.appx</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
