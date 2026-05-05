@@ -3,5 +3,5 @@
   <categories>
   </categories>
   <apps>
-  <app id="ytube-for-indows-hone"><name>Mytube for Windows Phone</name><version>35.39.0</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-400-1777989327.png</icon><publisher>Ryken Studio</publisher><featured>false</featured><description></description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/myTube-_3.5.39.0_arm-1777989321.appx</package><pcCapable>false</pcCapable><mobileCapable>true</mobileCapable><win81compatible>false</win81compatible></app></apps>
+  </apps>
 </data>
