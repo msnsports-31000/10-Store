@@ -1128,4 +1128,16 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="ytube-ro-eta">
+    <name>Mytube Pro ( Beta )</name>
+    <version>4.0.21.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/myTube-20Pro-20Logo-1778069796.png</icon>
+    <publisher>Ryken Studio</publisher>
+    <featured>false</featured>
+    <description>the youtube uwp client (need API keys)</description>
+    <package>https://github.com/OpenGlebsur/win8storerevivalserver/raw/refs/heads/main/59750RykenApps.myTubeBeta_4.0.21.0_x86__zd92nzxdcatqw.Appx</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
