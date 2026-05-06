@@ -1183,4 +1183,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="icrosoft-liplets">
+    <name>Microsoft BLINK Cliplets</name>
+    <version>1.0.1.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778084602.png</icon>
+    <publisher>Microsoft Research</publisher>
+    <featured>false</featured>
+    <description>BLINK Cliplets lets you exercise your creative talents by layering static and dynamic visual elements. Create fun and surprising results that you can share with friends or the world. Import or record short videos, and choose which parts to animate and which parts to freeze. You can then share your cliplet on Facebook, Twitter, or BLINK.so.cl, or simply save it as an animated GIF or video file.</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BLINKCliplets_1.0.1.0_x64__8wekyb3d8bbwe-1778084595.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1778084602.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1778084604.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1778084607.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1778084609.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1778084612.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
