@@ -1131,7 +1131,7 @@
   <app id="ytube-ro-eta">
     <name>Mytube Pro ( Beta )</name>
     <version>4.0.21.0</version>
-    <icon>>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-400-1778069873.png</icon>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-400-1778069873.png</icon>
     <publisher>Ryken Studio</publisher>
     <featured>true</featured>
     <description>the youtube uwp client (need API keys)</description>
