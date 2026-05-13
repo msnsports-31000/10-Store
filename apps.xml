@@ -1196,7 +1196,7 @@
     <win81compatible>false</win81compatible>
   </app>
   <app id="link-liplets">
-    <name>Blink Cliplets (ARM/RT)</name>
+    <name>Microsoft BLINK Cliplets (ARM/RT)</name>
     <version>1.0.1.0</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778090046.png</icon>
     <publisher>Microsoft Research</publisher>
