@@ -868,6 +868,7 @@
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
+    <drayYTproject>true</drayYTproject>
   </app>
   <app id="ray-for-windows-8-1-panish">
     <name>DrayAI - ¡El mejor cliente de AI para Windows 8.1!</name>
