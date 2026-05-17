@@ -867,7 +867,7 @@
     <featured>true</featured>
     <description>(This app is currently broken) DrayAI Metro is an Ai Client for Windows 8.1, Powered by both Gemini &amp; ChatGPT Apis</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Drayai8.1EN-1777988161.appx</package>
-    <pcCapable>false</pcCapable>
+    <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
     <drayYTproject>true</drayYTproject>
