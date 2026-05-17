@@ -1244,8 +1244,9 @@
     <featured>false</featured>
     <description>Drive trains – have fun! Drive the iconic InterCity 225 trains on the ECML. Get into the trains by jumping in from the top :) Contains real sounds recorded in Grantham, UK.</description>
     <package>https://.appx</package>
-    <pcCapable>true</pcCapable>
+    <pcCapable>false</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
+    <drayYTproject>true</drayYTproject>
   </app>
 </data>
