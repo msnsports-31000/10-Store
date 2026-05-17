@@ -800,7 +800,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="here-s-s-my-ater">
-    <name>Wheres My Water</name>
+    <name>Where's My Water?</name>
     <version>1.13.1.3</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo-1777981225.png</icon>
     <publisher>Disney</publisher>
