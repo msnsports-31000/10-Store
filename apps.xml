@@ -1250,4 +1250,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="ode-riter">
+    <name>Code Writer</name>
+    <version>2.0.0.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779122944.png</icon>
+    <publisher>Actipro Software LLC</publisher>
+    <featured>false</featured>
+    <description>Code Writer is a free text and code editor app with over 20 supported file types, and active syntax highlighting that updates as you edit documents. Use it as a replacement for Notepad and other quick edit apps. The app has been built from the ground up for Windows 10. It's fast and fluid, and gives you the power to edit documents with features you'd normally only find in desktop apps. Code Writer is perfect for editing any text-based file, doing code reviews, or giving presentations with code samples. The text editor allows you to edit documents in near full-screen mode with the chrome fading to the background. The collapsible side bar houses features like a document explorer, search functionality, advanced editing commands, print/share, settings, and help. A popup command palette provides quick keyboard access to almost every command in the app. Easily create new or open existing documents from any accessible source. Color is used pervasively throughout the app to create a bond between you and the various file types you work with. Configure the editor theme and other options such as font size to mold your ideal editing environment. Learn about every product feature with the included detailed documentation. The app requires Windows 10 Fall Creators Update (version 1709) or later, and is fully supported on ARM, x86, and x64 devices. IF YOU LIKE THIS FREE APP, PLEASE SUPPORT ITS CONTINUED DEVELOPMENT WITH GOOD RATINGS. We have many plans for further improvements but want to hear your suggestions too. It is most helpful if you post your own ideas for app features in our support forum or in the Windows Feedback app (instead of or in addition to reviews in the Store) so that we can communicate directly with you. Sometimes we may need more information about the feature request and by posting in our forums or the Feedback app, we can get that from you. Thank you for your support, it is much appreciated. Happy coding! Follow us on Twitter with @CodeWriterApp. You can even chat directly with our dev team via Slack (http://www.actiprosoftware.com/community/chat) to help guide future Code Writer features!</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ActiproSoftwareLLC.562882FEEB491_2.0.11.12_neutral__24pqs290vpjk0-1779122942.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1779122945.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1779122946.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1779122947.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-4-1779122949.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-5-1779122951.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
