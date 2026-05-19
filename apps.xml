@@ -1328,17 +1328,4 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="eddit2-o">
-    <name>Reddit2Go!</name>
-    <version>3.1.2.3</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo.scale-100-1779155789.png</icon>
-    <publisher>ross456</publisher>
-    <featured>false</featured>
-    <description>Reddit for Windows 10!</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/55382ross456.RedditToGo_3.1.2.3_neutral__02dxdbb1qg9kw-1779155788.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Capture-1779155790.png</screenshot1>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
 </data>
