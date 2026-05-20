@@ -356,23 +356,6 @@
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
-  <app id="10-tore">
-    <name>10Store</name>
-    <version>2.7.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/storelogo.scale-400-1775903658.png</icon>
-    <publisher>DraydenYT</publisher>
-    <featured>false</featured>
-    <description>10Store, The best store alternative on Windows 10, Fast, Straightforward, And easy to use, Get it on Windows 10 Mobile, Surface, and a Windows 10 1507+ PC.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/10StoreBETA_2.7.0.0_AnyCPU-1775903657.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1775903659.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1775903660.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1775903661.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1775903662.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1775903664.png</screenshot5>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
-    <drayYTproject>true</drayYTproject>
-  </app>
   <app id="onnect4">
     <name>Connect4</name>
     <version>1.0.0.0</version>
