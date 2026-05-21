@@ -1237,7 +1237,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="hazam">
+  <app id="hazam-arm-rt">
     <name>Shazam</name>
     <version>1.5.0.408 x64</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779152031.png</icon>
