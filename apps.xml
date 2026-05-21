@@ -1495,4 +1495,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="etworks-x64">
+    <name>FX Networks(x64)</name>
+    <version>1.2.3.105</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/default_small-1779355193.png</icon>
+    <publisher>FX Networks, LLC</publisher>
+    <featured>false</featured>
+    <description>The FX Networks app for Windows 8 is your personal companion viewing experience for all your favorite FX shows and blockbuster movies. When you watch your favorite shows on FX, you can now use the FX Windows 8 app to engage even more with American Horror Story, Sons of Anarchy, Justified, It's Always Sunny in Philadelphia, Anger Management, Louie, Wilfred, Archer, The League, Totally Biased with W. Kamau Bell, and Brand X with Russell Brand. Join in Live conversations with other fans across your favorite social platforms, plus check-in for stickers, watch video clips and more. Use the FX Networks Windows 8 app to also connect with FX Has the Movies and your favorite box office hits showing on FX.</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/21767Katans.Todo_1.3.1.64_x64__ey1k83fg9dn8w-1779355192.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fxnetworks1-1779355195.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fxnetworks2-1779355196.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fxnetworks3-1779355199.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fxnetworks4-1779355203.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fxnetworks5-1779355205.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
