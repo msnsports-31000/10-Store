@@ -3,5 +3,5 @@
   <categories>
   </categories>
   <apps>
-  </apps>
+  <app id="my-ube-atched"><name>myTube! Patched</name><version>2.7.0.21</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Captura-de-pantalla-2026-05-20-225849-1779339665.png</icon><publisher>Ryken Studio</publisher><featured>false</featured><description>A fast and easy YouTube client</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/myTube-Patched-1779339663.appx</package><screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Captura-de-pantalla-1-1779339669.png</screenshot1><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
 </data>
