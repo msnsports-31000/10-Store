@@ -1449,4 +1449,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="arth-onders">
+    <name>BBC Earth Wonders</name>
+    <version>1.1.0.2</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earth.logo.310x310.scale-80-1779415795.png</icon>
+    <publisher>BBC Worldwide Ltd</publisher>
+    <featured>false</featured>
+    <description>This BBC Earth Wonders app showcases some of the most beautiful BBC natural history content, taken from landmark series such as Planet Earth, Frozen Planet and Life, along with stunning images from world-renowned natural history photographers. We won’t give it all away now, of course, but with this app you’ll learn an astonishing fact (or two) about the diminutive spectral tarsier, one of the world’s most unusual and secretive primates. The killer whale is a whale by name only - can you imagine what species it actually is? * Explore points of interest * Explore all the content by using a simple map interface - toggle easily between themes. For example ‘Bone smashers’ in Bird wonders, or ‘Awesome aurora’ and ‘Crystal caves’ from the theme of Beautiful wonders. * HD video * Each of the 50 points of interest has a 30 second clip of pin-sharp HD video, up to three hi-res full-screen images and facts written by the BBC’s natural history team. *Picture of the day* There’s a new picture to enjoy each day of the year. Each picture of the day is accompanied by a little-known fact - so remember to check each day. Did you know, for example, that some studies show that chimpanzees may suffer from mid-life crises? Or that the mantid has just one ear...located on its belly? --------------------------------------- **PLEASE NOTE** This app features 700MB of downloadable video content and we recommend that you have a steady wifi connection when using it on a tablet. Map locations are approximate. --------------------------------------- Want more natural history? Visit bbcearth.com to learn more about nature’s most incredible stories, or join us on Facebook at facebook.com/PlanetEarth. --------------------------------------- This app is produced by BBC Worldwide, the commercial arm of the BBC. BBC Worldwide is self-funded and returns profits to the BBC to be reinvested in programmes and services to help keep the UK licence fee as low as possible. For those who wonder why our apps aren't free, BBC Worldwide has the responsibility of channelling funds back to the BBC, so the BBC can continue to create amazing content.</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/BBCWorldwideLtd.BBCEarthWonders_1.1.0.2_neutral__g2s5c4trewyqj-1779415791.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders1-1779415796.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders2-1779415797.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders3-1779415799.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders4-1779415801.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders5-1779415803.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
