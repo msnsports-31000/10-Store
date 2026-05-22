@@ -1456,19 +1456,25 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="ngry-irds-pace">
-    <name>Angry Birds Space</name>
-    <version>1.6.1.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo-1779480339.png</icon>
-    <publisher>Rovio Entertainment Ltd</publisher>
+  <app id="aily-ic">
+    <name>Daily Pic</name>
+    <version>1.3.0.1</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-180-1779480857.png</icon>
+    <publisher>T. Partl</publisher>
     <featured>false</featured>
-    <description>ALL NEW ANGRY BIRDS GAME FROM ROVIO -- the #1 mobile game of all time blasts off into space! After a giant claw kidnaps their eggs, the Angry Birds chase it into a wormhole and find themselves floating in a strange new galaxy – surrounded by space pigs! Luckily the Angry Birds have super powers of their own... Angry Birds Space features over 160 interstellar levels on planets and in zero gravity, resulting in spectacular gameplay ranging from slow-motion puzzles to lightspeed destruction. With regular free updates, brand new birds, brand new superpowers, and a whole galaxy to explore, the sky is no longer the limit! Features: Over 160 interstellar levels! Regular free updates! Brand new birds! Brand new superpowers! Zero-gravity space adventures! Trick shots using planets’ gravity! Hidden bonus levels! Beautifully detailed backgrounds! Join the global phenomenon as it goes galactic! Become a fan of Angry Birds on Facebook: http://facebook.angrybirds.com Follow us on Twitter: http://twitter.angrybirds.com Terms of Use: http://www.rovio.com/eula Privacy Policy: http://www.rovio.com/privacy Support: support@rovio.com Important Message for Parents This game may include: - Direct links to social networking websites that are intended for an audience over the age of 13. - Direct links to the internet that can take players away from the game with the potential to browse any web page. - Advertising of Rovio products and also products from select partners. - The option to make in-app purchases. The bill payer should always be consulted beforehand.</description>
-    <package>https://archive.org/download/Win8AppxArchive/Original%20APPX/Games/1ED5AEA5.AngryBirdsSpace_p2gbknwb5d8r2.zip/1ED5AEA5.AngryBirdsSpace_1.6.1.0_x86__p2gbknwb5d8r2.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/angry1-1779480340.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/angry2-1779480341.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/angry3-1779480343.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/angry4-1779480345.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/angry5-1779480348.png</screenshot5>
+    <description>You like the Bing Picture of the Day? With this app, you can download them in Full-HD resolution, set them as your desktop wallpaper or lock screen and much more!
+    • View and download todays and past Bing wallpapers
+    • Many download resolutions (landscape &amp;amp; portrait orientation)
+    • Live Tile showing the current Bing picture
+    • Choose from different regions for different pictures
+    • Interesting additional information and links
+    • Optional daily automatic download of the Bing wallpaper
+    • Set a Bing wallpaper as your lockscreen or desktop background
+    • Optional title of the picture on the lock screen or desktop background</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Daily_Pic-1779480856.appxbundle</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot1-1779480859.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot2-1779480860.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot3-1779480865.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
