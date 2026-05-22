@@ -1471,4 +1471,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="ill-limb-acing">
+    <name>Hill Climb Racing</name>
+    <version>1.29.10.71</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779455334.png</icon>
+    <publisher>Fingersoft</publisher>
+    <featured>false</featured>
+    <description>One of the most addictive and entertaining physics based driving game ever made! And it's free! Meet Newton Bill, the young aspiring uphill racer. He is about to embark on a journey that takes him to where no ride has ever been before. With little respect to the laws of physics, Newton Bill will not rest until he has conquered the highest hills up on the moon! Face the challenges of unique hill climbing environments with many different cars. Gain bonuses from daring tricks and collect coins to upgrade your car and reach even higher distances. Watch out though - Bill's stout neck is not what it used to be when he was a kid! And his good ol' gasoline crematorium will easily run out of fuel. Like us at Facebook and stay tuned with all new games and updates: http://www.facebook.com/Fingersoft We'd appreciate if you'd report any issues you're having with the game to support@fingersoft.net, please include your device make and model.</description>
+    <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Hill%20Climb%20Racing/Fingersoft.HillClimbRacing_1.29.10.71_x86__r6rtpscs7gwyg.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779455336.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779455337.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779455338.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1779455341.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1779455344.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
