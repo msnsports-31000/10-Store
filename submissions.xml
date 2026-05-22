@@ -3,23 +3,6 @@
   <categories>
   </categories>
   <apps>
-    <app id="ate-renchy-s-andom-xe">
-      <name>Nate &amp; Frenchy's Random Axe</name>
-      <version>1.2.0.8</version>
-      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/RandomAxe_150x150-1779486571.png</icon>
-      <publisher>Liquid Daffodil</publisher>
-      <featured>false</featured>
-      <description>Get the coolest "random" app available for Windows! Using Nate &amp; Frenchy’s Random Axe is simple. Just tap or click on Nate, and they’ll quickly evaluate the viability of your hairstyle and give you randomized facts, numbers, and, even locations, weather and insults! Randomly generate: - Facts! - Insults! - Numbers (even configure the range)! - Passwords! - Locations! - Weather! - Twitter statuses! What are you waiting for? Become that person everyone on the street can’t stop staring at, because your “glowing aura” is so frickin’ random! …the person your mother always randomly warned you about!</description>
-      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysRandomAxe_1.2.0.8_neutral__3sywn08pm3zd6-1779486569.appx</package>
-      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe1-1779486571.png</screenshot1>
-      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe2-1779486572.png</screenshot2>
-      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe3-1779486574.png</screenshot3>
-      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe4-1779486575.png</screenshot4>
-      <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe5-1779486576.png</screenshot5>
-      <pcCapable>true</pcCapable>
-      <mobileCapable>false</mobileCapable>
-      <win81compatible>true</win81compatible>
-    </app>
     <app id="ate-renchy-s-ranslator">
       <name>Nate &amp; Frenchy's Translator</name>
       <version>1.2.0.8</version>
