@@ -3,22 +3,5 @@
   <categories>
   </categories>
   <apps>
-    <app id="ate-renchy-s-andom-xe">
-      <name>Nate &amp; Frenchy's Random Axe</name>
-      <version>1.2.0.8</version>
-      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Translator_150x150-1779486174.png</icon>
-      <publisher>Liquid Daffodil</publisher>
-      <featured>false</featured>
-      <description>Time to add another cool Nate &amp; Frenchy app to your Toolbox! The coolest, easiest Translator available for Windows, guided by them! Translate any content to any of the 39 languages supported, as well as have both your source and translated content identified and spoken if the selected language is supported for speech!</description>
-      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysTranslator_1.2.0.8_neutral__3sywn08pm3zd6-1779486172.appx</package>
-      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate1-1779486176.png</screenshot1>
-      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate2-1779486177.png</screenshot2>
-      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate3-1779486179.png</screenshot3>
-      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate4-1779486180.png</screenshot4>
-      <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate5-1779486182.png</screenshot5>
-      <pcCapable>true</pcCapable>
-      <mobileCapable>false</mobileCapable>
-      <win81compatible>true</win81compatible>
-    </app>
   </apps>
 </data>
