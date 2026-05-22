@@ -3,5 +3,38 @@
   <categories>
   </categories>
   <apps>
-  <app id="news-presso"><name>newsXpresso</name><version>2.0.2.208</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.contrast-standard_scale-180-1779415086.png</icon><publisher>Esobil Incorporated</publisher><featured>false</featured><description>newsXpresso is a smart and friendly news reader that allows you to follow real-time news, videos, magazines, and blogs in multiple languages and global regions. Browse through extensive content catalog to create a fully personalized news reading experience. Read beautifully presented articles arranged in a magazine layout, and view interesting YouTube videos in full-screen. Also, with the 3D page flipping effect, the smooth transition gives you the feel of actually flipping a book.</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/esobiIncorporated.newsXpressoMetro_2.0.2.208_neutral__sngswjb5h6fyg-1-1779415084.appx</package><screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779415087.png</screenshot1><screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779415090.png</screenshot2><screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779415093.png</screenshot3><screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1779415095.png</screenshot4><screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1779415097.png</screenshot5><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
+    <app id="news-presso">
+      <name>newsXpresso</name>
+      <version>2.0.2.208</version>
+      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.contrast-standard_scale-180-1779415086.png</icon>
+      <publisher>Esobil Incorporated</publisher>
+      <featured>false</featured>
+      <description>newsXpresso is a smart and friendly news reader that allows you to follow real-time news, videos, magazines, and blogs in multiple languages and global regions. Browse through extensive content catalog to create a fully personalized news reading experience. Read beautifully presented articles arranged in a magazine layout, and view interesting YouTube videos in full-screen. Also, with the 3D page flipping effect, the smooth transition gives you the feel of actually flipping a book.</description>
+      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/esobiIncorporated.newsXpressoMetro_2.0.2.208_neutral__sngswjb5h6fyg-1-1779415084.appx</package>
+      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779415087.png</screenshot1>
+      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779415090.png</screenshot2>
+      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779415093.png</screenshot3>
+      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1779415095.png</screenshot4>
+      <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1779415097.png</screenshot5>
+      <pcCapable>true</pcCapable>
+      <mobileCapable>false</mobileCapable>
+      <win81compatible>true</win81compatible>
+    </app>
+    <app id="etwork-peed-est">
+      <name>Network Speed Test</name>
+      <version>1.0.0.23</version>
+      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo-1779415328.png</icon>
+      <publisher>Microsoft Research</publisher>
+      <featured>false</featured>
+      <description>How fast is your Internet connection? Network Speed Test measures your network delay, download speed and upload speed. Using servers all over the world, Network Speed Test measures your network connection’s latency and throughput. Based on your connection’s speed, Network Speed Test will tell you what activities you might be able to do, such as stream music or video calls. Slide to the right to see a history of your previous tests for easy comparisons. When you test your network using the Network Speed Test, certain characteristics of your device and the network connection will be sent to Microsoft to help improve our understanding of network quality and availability. If you consent, we may also collect information about your location at the time of the test. The data we collect is not associated with you, and will not be used to identify or contact you or for other purposes like targeted marketing. For additional information, see our privacy statement.</description>
+      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.NetworkSpeedTest_1.0.0.23_x64__8wekyb3d8bbwe-1779415327.appx</package>
+      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot_1-1779415329.png</screenshot1>
+      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot_2-1779415330.png</screenshot2>
+      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot_3-1779415332.png</screenshot3>
+      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot_4-1779415335.png</screenshot4>
+      <pcCapable>true</pcCapable>
+      <mobileCapable>false</mobileCapable>
+      <win81compatible>true</win81compatible>
+    </app>
+  </apps>
 </data>
