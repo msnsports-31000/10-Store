@@ -3,5 +3,5 @@
   <categories>
   </categories>
   <apps>
-  </apps>
+  <app id="odafone-obile-roadband"><name>Vodafone Mobile Broadband</name><version>1.1.6.472</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo-1779414455.png</icon><publisher>Vodafone Group Services</publisher><featured>false</featured><description>This application helps you manage your mobile world. Access your online account, get messages, special offers, and find help and support. You can use this app with a Vodafone or partner SIM card and a mobile broadband device like a USB dongle or modem. To find out which mobile broadband devices are compatible, go to the ‘Details’ screen or search the FAQs.</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/VodafoneGroupServices.VodafoneMobileBroadband_1.1.6.472_neutral__cx08jceyq9bcp-1779414453.appx</package><screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779414456.png</screenshot1><screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779414457.png</screenshot2><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
 </data>
