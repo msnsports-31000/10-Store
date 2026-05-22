@@ -522,19 +522,6 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="hris-illo-usic">
-    <name>ChrisRLillo Music</name>
-    <version>1.2.1.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-100-1777458131.png</icon>
-    <publisher>ChrisRLillo</publisher>
-    <featured>false</featured>
-    <description>Discover music, updates, and exclusive content from ChrisRLillo.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ChrisRLillo-Music_1.2.1.0_AnyCPU-1777458128.appxbundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/rlillo-1777458133.png</screenshot1>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="a-uide-to-8-tore">
     <name>a Guide to 8Store</name>
     <version>1.0.0.2</version>
