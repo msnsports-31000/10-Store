@@ -1479,4 +1479,20 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="eat-he-oss-2">
+    <name>Beat The Boss 2</name>
+    <version>2.3.0.3</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SquareTile-1779481281.png</icon>
+    <publisher>Game Hive</publisher>
+    <featured>false</featured>
+    <description>The Boss is back and ready to make your life a living hell. But you're not the same good guy taking order anymore. You've been granted the power to take sweet vengeance on this tyrannical boss. Backed by an arsenal of dangerous weapons, Beat the Boss with magical forces, lethal guns and deadly blades. Let him PAY THE PRICE of messing with the wrong guy. Beat the Boss 2 is the highly anticipated sequel to the original title. With 50 million downloads to date; it strives to better what made the first one a hit in every possible way. The simple controls remain the same but it offers new art, weapons, stages, sound effects, and enhanced gameplay. This is not a good game; it’s a freaking awesome one! Why?</description>
+    <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Beat%20The%20Boss%202/2.3.0.3/x86/GameHive.BeatTheBoss2_2.3.0.3_x86__2snrr3jr3f292.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ss1-1779481282.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ss2-1779481284.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ss3-1779481286.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ss4-1779481288.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
