@@ -766,18 +766,6 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-  <app id="eat-he-oss-2">
-    <name>Beat The Boss 2</name>
-    <version>2.3.0.3</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square70Tile-1777982291.png</icon>
-    <publisher>Game Hive</publisher>
-    <featured>false</featured>
-    <description/>
-    <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Beat%20The%20Boss%202/2.3.0.3/x86/GameHive.BeatTheBoss2_2.3.0.3_x86__2snrr3jr3f292.Appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="aint3">
     <name>Paint3D</name>
     <version>2.1703.21017.1000</version>
