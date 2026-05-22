@@ -3,5 +3,39 @@
   <categories>
   </categories>
   <apps>
-  <app id="ate-renchy-s-ife-oach"><name>Nate &amp; Frenchy's Life Coach</name><version>1.2.0.8</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LifeCoach_150x150-1779485377.png</icon><publisher>Liquid Daffodil</publisher><featured>false</featured><description>Life got you down? Just plain bored with your life and need a change? Let Nate &amp; Frenchy guide you through life by staying in tune with your Mystical Biorhythmic Epidermal Frequencies! Using Nate &amp; Frenchy’s Life Coach is simple. Just tap on them (together) with both of your thumbs, and they’ll quickly evaluate the density of your endoplasmic reticulum and give you advice on what you should do to increase your immediate life satisfaction and overall well-being! What are you waiting for? Become that person everyone on the street can’t stop staring at, because your “glowing aura” is frickin’ far out! …the person your mother always warned you about!</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysLifeCoach_1.2.0.8_neutral__3sywn08pm3zd6-1779485375.appx</package><screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach1-1779485379.png</screenshot1><screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach2-1779485380.png</screenshot2><screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach3-1779485381.png</screenshot3><screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach4-1779485384.png</screenshot4><screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach5-1779485385.png</screenshot5><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>true</win81compatible></app></apps>
+    <app id="ate-renchy-s-ife-oach">
+      <name>Nate &amp; Frenchy's Life Coach</name>
+      <version>1.2.0.8</version>
+      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LifeCoach_150x150-1779485377.png</icon>
+      <publisher>Liquid Daffodil</publisher>
+      <featured>false</featured>
+      <description>Life got you down? Just plain bored with your life and need a change? Let Nate &amp; Frenchy guide you through life by staying in tune with your Mystical Biorhythmic Epidermal Frequencies! Using Nate &amp; Frenchy’s Life Coach is simple. Just tap on them (together) with both of your thumbs, and they’ll quickly evaluate the density of your endoplasmic reticulum and give you advice on what you should do to increase your immediate life satisfaction and overall well-being! What are you waiting for? Become that person everyone on the street can’t stop staring at, because your “glowing aura” is frickin’ far out! …the person your mother always warned you about!</description>
+      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysLifeCoach_1.2.0.8_neutral__3sywn08pm3zd6-1779485375.appx</package>
+      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach1-1779485379.png</screenshot1>
+      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach2-1779485380.png</screenshot2>
+      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach3-1779485381.png</screenshot3>
+      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach4-1779485384.png</screenshot4>
+      <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach5-1779485385.png</screenshot5>
+      <pcCapable>true</pcCapable>
+      <mobileCapable>false</mobileCapable>
+      <win81compatible>true</win81compatible>
+    </app>
+    <app id="ate-renchy-s-andom-xe">
+      <name>Nate &amp; Frenchy's Random Axe</name>
+      <version>1.2.0.8</version>
+      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/RandomAxe_150x150-1779485767.png</icon>
+      <publisher>Liquid Daffodil</publisher>
+      <featured>false</featured>
+      <description>Get the coolest "random" app available for Windows! Using Nate &amp; Frenchy’s Random Axe is simple. Just tap or click on Nate, and they’ll quickly evaluate the viability of your hairstyle and give you randomized facts, numbers, and, even locations, weather and insults! Randomly generate: - Facts! - Insults! - Numbers (even configure the range)! - Passwords! - Locations! - Weather! - Twitter statuses! What are you waiting for? Become that person everyone on the street can’t stop staring at, because your “glowing aura” is so frickin’ random! …the person your mother always randomly warned you about!</description>
+      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysRandomAxe_1.2.0.8_neutral__3sywn08pm3zd6-1779485764.appx</package>
+      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe1-1779485769.png</screenshot1>
+      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe2-1779485770.png</screenshot2>
+      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe3-1779485771.png</screenshot3>
+      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe4-1779485774.png</screenshot4>
+      <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe5-1779485775.png</screenshot5>
+      <pcCapable>true</pcCapable>
+      <mobileCapable>false</mobileCapable>
+      <win81compatible>true</win81compatible>
+    </app>
+  </apps>
 </data>
