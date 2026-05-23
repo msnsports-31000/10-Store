@@ -1551,4 +1551,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="onic-ash">
+    <name>Sonic Dash</name>
+    <version>3.6.4.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779535830.png</icon>
+    <publisher>SEGA Networks Inc.</publisher>
+    <featured>false</featured>
+    <description>How far can the world’s fastest hedgehog run? Play as Sonic the Hedgehog as you dash, jump and spin your way across stunning 3D environments. Swipe your way over and under challenging obstacles in this fast and frenzied endless running game. SONIC… The world famous Sonic the Hedgehog stars in his first endless running game – how far can you go? …DASH! Unleash Sonic’s incredible dash move that allows you to run at insane speed and destroy everything in your path! AMAZING ABILITIES Utilise Sonic’s powers to dodge hazards, jump over barriers and speed around loop de loops. Plus defeat enemies using Sonic’s devastating homing attack! STUNNING GRAPHICS Sonic’s beautifully detailed world comes to life on mobile and tablet – never has an endless runner looked so good! MULTIPLE CHARACTERS Choose to play as one of Sonic’s friends, including Tails, Shadow and Knuckles. EPIC BOSS BATTLES Face off against two of Sonic's biggest rivals, the always scheming and cunning Dr. Eggman and the devastatingly deadly Zazz from Sonic Lost World! Use all of Sonic's agility and speed to take down these villains before it's too late! POWERUPS Unlock, win or buy ingenious power-ups to help you run further. Including head starts, shields, ring magnets and unique score boosters! KEEP ON RUNNING Get more rewards the more you play! Level up your score multiplier by completing unique missions, or win amazing prizes including Red Star Rings &amp; additional characters by completing Daily Challenges and playing the Daily Spin. COMING SOON We’re working hard to bring you future FREE updates!</description>
+    <package>https://files.catbox.moe/zetjpy.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic1-1779535832.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic2-1779535834.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic3-1779535837.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic4-1779535838.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic5-1779535840.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
