@@ -1568,4 +1568,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="ay-al-ere">
+    <name>PayPal Here</name>
+    <version>2016.1222.2003.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square30x30Logo_old.targetsize-256-1779537265.png</icon>
+    <publisher>PayPal Inc.</publisher>
+    <featured>false</featured>
+    <description>PayPal Here is the secure and easy-to-use mobile business app for all your payment needs. Get back-office management, POS, and start accepting credit and debit card payments—in person and on the go with our mobile card reader and free app. Pay a low transaction fee of only 2.7% per US card swipe. With PayPal Here, you’ll enjoy 24/7 live customer support and there are no commitments or monthly fees</description>
+    <package>https://files.catbox.moe/g5cg55.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay1-1779537267.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay2-1779537268.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay3-1779537270.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay4-1779537275.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay5-1779537277.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
