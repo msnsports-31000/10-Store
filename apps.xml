@@ -1585,4 +1585,16 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="adon-rowzer">
+    <name>Radon Browzer</name>
+    <version>1.14.16</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/278850855-feaa49da-9efd-40a7-9aec-9754c210ae09-1779540050.png</icon>
+    <publisher>itzbluebxrry</publisher>
+    <featured>false</featured>
+    <description>a browzer for 10Store</description>
+    <package>https://github.com/OpenGlebsur/8ReworkStore-Server/releases/download/77/Project.Radon_1.4.16.0_x86_x64.msixbundle</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
