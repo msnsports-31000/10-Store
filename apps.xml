@@ -560,7 +560,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="ews">
-    <name>MSN News 8.1</name>
+    <name>MSN News</name>
     <version>2016.408.1840.2841</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/News-1777816155.png</icon>
     <publisher>Microsoft Corporation</publisher>
