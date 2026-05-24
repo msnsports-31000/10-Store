@@ -3,22 +3,5 @@
   <categories>
   </categories>
   <apps>
-    <app id="ruit-inja">
-      <name>Fruit Ninja</name>
-      <version>1.8.1.66</version>
-      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/TileSquareImage-1779617652.png</icon>
-      <publisher>Halfbrick Studios Pty Ltd</publisher>
-      <featured>false</featured>
-      <description>Slice across the screen to deliciously slash and splatter fruit like a true ninja warrior. Be careful of bombs – they are explosive to touch and will put a swift end to your juicy adventure! Fruit Ninja features Classic, Zen and the amazing Arcade mode! Your success will also please the wise ninja Sensei, who will accompany your journey with wise words and fun fruit facts. Fruit Ninja is the messiest and most satisfying fruit game ever! **** IMPORTANT NOTICE TO PARENTS This game may contain: - The ability to make optional in-app purchases using real money. - Links to external social networking sites intended for users over the age of 13. - Direct links to the internet which may open the default web browser on your device. Privacy Policy: http://www.halfbrick.com/pp Terms of Service: http://www.halfbrick.com/tos</description>
-      <package>https://files.catbox.moe/7rzfzj.appx</package>
-      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit1-1779617654.png</screenshot1>
-      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit2-1779617656.png</screenshot2>
-      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit3-1779617658.png</screenshot3>
-      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit4-1779617661.png</screenshot4>
-      <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit5-1779617663.png</screenshot5>
-      <pcCapable>true</pcCapable>
-      <mobileCapable>false</mobileCapable>
-      <win81compatible>true</win81compatible>
-    </app>
   </apps>
 </data>
