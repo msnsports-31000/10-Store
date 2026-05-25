@@ -1713,7 +1713,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="huffle-arty">
+  <app id="huffle-arty-arm-rt">
     <name>Shuffle Party(ARM/RT)</name>
     <version>2.2.0.0</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.40222.9007199266247474.d9433003-9ced-46b3-8ac4-8310c15c6aa2-1779704430.png</icon>
