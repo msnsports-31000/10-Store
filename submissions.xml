@@ -3,5 +3,39 @@
   <categories>
   </categories>
   <apps>
-  <app id="uzzley"><name>Muzzley</name><version>2.7.4.0</version><icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/aaaaaa-1779736246.png</icon><publisher>MUZZLEY S.A.</publisher><featured>false</featured><description>Create and Enjoy your Smart Home with Muzzley! Now available on Windows 10 Desktop and Windows 10 Mobile! Muzzley allows you to connect with and manage all your smart devices in the same app! Through a wifi or 4G connection, you can control them anytime, from anywhere! Create your own set of automation rules &amp; connect your devices according to your needs, without even having to open the app! When you go to bed at night, do you want to turn on the alarm? DONE! When you arrive home, do you want your living room lights to turn on? DONE! Want to make sure your home doors are locked when you are not at home? DONE! With so many devices &amp; automation options, the possibilities are endless! You don’t need to adjust to your home…now your home adjusts to you! FEATURES * Wide range of compatible devices, including: Wink Hub (Lights added through the Wink Hub: Hampton, Connected Cree, Commercial Electric, TCP LED, OSRAM, GE Link, Philips Hue ; Locks added through the Wink Hub: Kwikset, Schlage), Nest Thermostat, Nest Smoke Detector, Withings Scale, Koubachi Plant Sensor, Milight and Easybulb, TCP lighting, Rachio Iro Sprinkler, Insteon Hub V2 (model 2245-222), iHealth, Beurer, Misfit, FitBit, Jawbone, Lockitron, GreenIQ, Automatic, Egardia, LIFX * Shortcuts in-app * Home Automation * Security &amp; Surveillance * Health tracking * Manual/Remote Control * Location and Time based Agents, and much more! We are here to help! If you have any questions and/or suggestions, please email us at support@muzzley.com</description><package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzzley.muzzley_2.7.4.0_x64__sfq2wxfwv48s4-1779736243.appx</package><screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz1-1779736248.png</screenshot1><screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz2-1779736249.png</screenshot2><screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz3-1779736251.png</screenshot3><screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz4-1779736253.png</screenshot4><screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muz5-1779736255.png</screenshot5><pcCapable>true</pcCapable><mobileCapable>false</mobileCapable><win81compatible>false</win81compatible></app></apps>
+    <app id="uzzley">
+      <name>Muzzley</name>
+      <version>2.7.4.0</version>
+      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/aaaaaa-1779736246.png</icon>
+      <publisher>MUZZLEY S.A.</publisher>
+      <featured>false</featured>
+      <description>Create and Enjoy your Smart Home with Muzzley! Now available on Windows 10 Desktop and Windows 10 Mobile! Muzzley allows you to connect with and manage all your smart devices in the same app! Through a wifi or 4G connection, you can control them anytime, from anywhere! Create your own set of automation rules &amp; connect your devices according to your needs, without even having to open the app! When you go to bed at night, do you want to turn on the alarm? DONE! When you arrive home, do you want your living room lights to turn on? DONE! Want to make sure your home doors are locked when you are not at home? DONE! With so many devices &amp; automation options, the possibilities are endless! You don’t need to adjust to your home…now your home adjusts to you! FEATURES * Wide range of compatible devices, including: Wink Hub (Lights added through the Wink Hub: Hampton, Connected Cree, Commercial Electric, TCP LED, OSRAM, GE Link, Philips Hue ; Locks added through the Wink Hub: Kwikset, Schlage), Nest Thermostat, Nest Smoke Detector, Withings Scale, Koubachi Plant Sensor, Milight and Easybulb, TCP lighting, Rachio Iro Sprinkler, Insteon Hub V2 (model 2245-222), iHealth, Beurer, Misfit, FitBit, Jawbone, Lockitron, GreenIQ, Automatic, Egardia, LIFX * Shortcuts in-app * Home Automation * Security &amp; Surveillance * Health tracking * Manual/Remote Control * Location and Time based Agents, and much more! We are here to help! If you have any questions and/or suggestions, please email us at support@muzzley.com</description>
+      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzzley.muzzley_2.7.4.0_x64__sfq2wxfwv48s4-1779736243.appx</package>
+      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz1-1779736248.png</screenshot1>
+      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz2-1779736249.png</screenshot2>
+      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz3-1779736251.png</screenshot3>
+      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz4-1779736253.png</screenshot4>
+      <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muz5-1779736255.png</screenshot5>
+      <pcCapable>true</pcCapable>
+      <mobileCapable>false</mobileCapable>
+      <win81compatible>false</win81compatible>
+    </app>
+    <app id="odern-otepad">
+      <name>Modern Notepad</name>
+      <version>1.2.0.0</version>
+      <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779738227.png</icon>
+      <publisher>dishantshah</publisher>
+      <featured>false</featured>
+      <description>Get best text editing experience on your PC and ARM devices, It is carefully designed for touch ,mouse and keyboard. It has best UI that you will love to use.</description>
+      <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/58229dishantshah.ModernNotepad_1.2.0.0_neutral__10r96kznk2q98-1779738224.appx</package>
+      <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen1-1779738227.png</screenshot1>
+      <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen2-1779738229.png</screenshot2>
+      <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen3-1779738230.png</screenshot3>
+      <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen4-1779738232.png</screenshot4>
+      <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen5-1779738233.png</screenshot5>
+      <pcCapable>true</pcCapable>
+      <mobileCapable>false</mobileCapable>
+      <win81compatible>true</win81compatible>
+    </app>
+  </apps>
 </data>
