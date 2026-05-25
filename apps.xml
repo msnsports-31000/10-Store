@@ -1713,4 +1713,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="huffle-arty">
+    <name>Shuffle Party(ARM/RT)</name>
+    <version>2.2.0.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.40222.9007199266247474.d9433003-9ced-46b3-8ac4-8310c15c6aa2-1779704430.png</icon>
+    <publisher>Microsoft Studios</publisher>
+    <featured>false</featured>
+    <description>Shuffle Party is back for Windows 8! Compete in various shuffleboard games using your Xbox Avatar! Featuring Bowling, the standard bowling game played on a shuffleboard table; League Bowling, where players bowl in weekly tournaments against other Xbox Live users; Challenge Mode, get the best score possible while faced with obstacles such as bumpers, ramps, gates, and portals; Shuffleboard, the classic table game - try to get as close to the score zones without falling off the table; and Pass &amp; Play, a two-player version of shuffleboard where you and a friend take turns by passing the device. Earn cash in all game modes to buy new Pro Shop items, such as pucks, pins, tables, and table frames! Earn Xbox achievements, and get bragging rights when you earn the top spot on leaderboards.</description>
+    <package>https://files.catbox.moe/j2lf8n.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle1-1779704431.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle2-1779704433.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle3-1779704436.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle4-1779704437.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle5-1779704438.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
