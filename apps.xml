@@ -1774,4 +1774,20 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="in-ote">
+    <name>Win Note</name>
+    <version>1.2.7.1000</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square310x310Logo.scale-200-1779814443.png</icon>
+    <publisher>Pix3d</publisher>
+    <featured>false</featured>
+    <description>Win note is a simple application for managing notes. With Win note you can write and edit anything you want in a practical and quick way. Some features: - search functionality - pin every single note to the start screen - protect data with a Pin code - share note via email, sms, facebook and many others - backup notes on onedrive and restores them when you want</description>
+    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/16401Pix3d.WinNote_1.2.7.1000_x64__6xvbe7f7418rc-1779814441.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/note1-1779814446.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/note2-1779814449.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/note3-1779814452.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/note4-1779814454.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
