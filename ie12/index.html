@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Internet Explorer</title>
+
+    <link href="winjs/ui-dark.css" rel="stylesheet" />
+    <script src="winjs/base.js"></script>
+    <script src="winjs/ui.js"></script>
+
+    <link href="css/default.css" rel="stylesheet" />
+    <script src="js/main.js"></script>
+</head>
+
+<body class="win-type-body">
+    <div id="viewArea">
+        <div id="assistantPanel">
+            <x-ms-webview id="assistantView"></x-ms-webview>
+        </div>
+        <div id="webviewsContainer"></div>
+    </div>
+
+    <footer id="browserFooter">
+        <div id="tabsRow">
+            <button id="addTabButton" class="newtab-button win-button"
+                    data-win-res="{attributes: {title: 'newTab'}}">
+                <span class="win-icon">&#xE109;</span>
+            </button>
+        </div>
+        <div id="footerControls">
+            <button id="backButton" class="nav-button win-button"
+                    data-win-res="{attributes: {title: 'back'}}">
+                <span class="win-icon">&#xE112;</span>
+            </button>
+            <button id="assistantButton" disabled class="nav-button win-button"
+                    data-win-res="{attributes: {title: 'assistant'}}">
+                <span class="win-icon">&#xE15F;</span>
+            </button>
+            <div id="urlBox"
+                 data-win-control="WinJS.UI.AutoSuggestBox"
+                 data-win-res="{winControl: {placeholderText: 'searchPlaceholder'}}"></div>
+            <button id="refreshButton" class="nav-button win-button"
+                    data-win-res="{attributes: {title: 'refresh'}}">
+                <span class="win-icon">&#xE117;</span>
+            </button>
+            <button id="forwardButton" class="nav-button win-button"
+                    data-win-res="{attributes: {title: 'forward'}}">
+                <span class="win-icon">&#xE111;</span>
+            </button>
+        </div>
+    </footer>
+</body>
+</html>

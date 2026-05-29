@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>True</PackageOptionalProjectsInIdeBuilds>
+    <Source>C:\Users\drayd\Desktop\splashscreen.contrast-black_scale-180.png</Source>
+    <SmallTileSource>C:\Users\drayd\Desktop\splashscreen.contrast-black_scale-180.png</SmallTileSource>
+    <MediumTileSource>C:\Users\drayd\Desktop\splashscreen.contrast-black_scale-180.png</MediumTileSource>
+    <WideTileSource>C:\Users\drayd\Desktop\splashscreen.contrast-black_scale-180.png</WideTileSource>
+    <LargeTileSource>C:\Users\drayd\Desktop\splashscreen.contrast-black_scale-180.png</LargeTileSource>
+    <AppIconSource>C:\Users\drayd\Desktop\splashscreen.contrast-black_scale-180.png</AppIconSource>
+    <SplashScreenSource>C:\Users\drayd\Desktop\splashscreen.contrast-black_scale-180.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\drayd\Desktop\splashscreen.contrast-black_scale-180.png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+    <WindowsPhoneEmulatorID>617134C4-B2DB-4193-AEFD-66AC4322C107;Mobile Emulator 10.0.14393.0 QHD 5.2 inch 3GB</WindowsPhoneEmulatorID>
+  </PropertyGroup>
+</Project>
