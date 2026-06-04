@@ -28,12 +28,12 @@
     <category title="Games" type="picks">
       <appIds/>
     </category>
-    <category title="Apps" type="picks">
-      <appIds>msn-weather,draymusic,lumia-camera,msn-news,msn-money,ray-usic-for-indows-10,enon-tore,etro-ommander,8-ip,ray-i-or-indows-10,ports,etronome,peak,10-tore-1-0-atched,10-tore,hris-illo-usic,ing,etflix,z-lay-eady-upiter-pp,resh-aint,hrome-etro-lient</appIds>
-    </category>
     <category title="Music" type="picks">
       <appIds>
       </appIds>
+    </category>
+    <category title="Apps" type="picks">
+      <appIds>msn-weather,draymusic,lumia-camera,msn-news,msn-money,ray-usic-for-indows-10,enon-tore,etro-ommander,8-ip,ray-i-or-indows-10,ports,etronome,peak,10-tore-1-0-atched,10-tore,hris-illo-usic,ing,etflix,z-lay-eady-upiter-pp,resh-aint,hrome-etro-lient</appIds>
     </category>
     <category title="Lost Media" type="picks" featured="true">
       <appIds>onnect4,ing,z-lay-eady-upiter-pp,uma-horts</appIds>
