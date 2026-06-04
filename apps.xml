@@ -37,6 +37,10 @@
     <category title="Windows Phone Apps" type="picks">
       <appIds>inecraft,lumia-camera</appIds>
     </category>
+    <category title="Music" type="picks">
+      <appIds>
+      </appIds>
+    </category>
   </categories>
   <apps/>
   <app id="msn-weather">
