@@ -1721,23 +1721,6 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="odern-otepad">
-    <name>Modern Notepad</name>
-    <version>1.2.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779738227.png</icon>
-    <publisher>dishantshah</publisher>
-    <featured>false</featured>
-    <description>Get best text editing experience on your PC and ARM devices, It is carefully designed for touch ,mouse and keyboard. It has best UI that you will love to use.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/58229dishantshah.ModernNotepad_1.2.0.0_neutral__10r96kznk2q98-1779738224.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen1-1779738227.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen2-1779738229.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen3-1779738230.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen4-1779738232.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen5-1779738233.png</screenshot5>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="uzzley">
     <name>Muzzley</name>
     <version>2.7.4.0</version>
