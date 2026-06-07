@@ -1342,18 +1342,18 @@
   </app>
   <app id="odafone-obile-roadband">
     <name>Vodafone Mobile Broadband</name>
-    <version>1.1.6.472</version>
+    <version>2.10.46.0</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo-1779414590.png</icon>
     <publisher>Vodafone Group Services</publisher>
     <featured>true</featured>
     <description>This application helps you manage your mobile world. Access your online account, get messages, special offers, and find help and support. You can use this app with a Vodafone or partner SIM card and a mobile broadband device like a USB dongle or modem. To find out which mobile broadband devices are compatible, go to the ‘Details’ screen or search the FAQs.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/VodafoneGroupServices.VodafoneMobileBroadband_1.1.6.472_neutral__cx08jceyq9bcp-1779414588.appx</package>
+    <package>https://files.catbox.moe/rtsg2y.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779414592.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779414594.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779414596.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
   </app>
   <app id="news-presso">
     <name>newsXpresso</name>
