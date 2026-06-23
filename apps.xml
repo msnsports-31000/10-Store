@@ -45,12 +45,12 @@
   <app id="msn-weather">
     <name>MSN Weather</name>
     <version>4.4.193.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773702852_msnweather.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773702852_msnweather.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>MSN Weather: The best way to plan your day.
     Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773702852_Microsoft.BingWeather_4.3.193.0_x86__8wekyb3d8bbwe.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773702852_Microsoft.BingWeather_4.3.193.0_x86__8wekyb3d8bbwe.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -58,14 +58,14 @@
   <app id="draymusic">
     <name>DrayMusic</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704616_wave-sound.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_wave-sound.png</icon>
     <publisher>DraydenYT Classics</publisher>
     <featured>false</featured>
     <description>DrayMusic For 8.1, get the best music streaming experience, Was originally made for 8Store, but screw them. rework was always better anyways. app may work on rt</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704616_DrayMusic_1.0.0.0_AnyCPU.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704616_image.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704616_image2.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704616_image3.png</screenshot3>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_DrayMusic_1.0.0.0_AnyCPU.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_image.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_image2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_image3.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -74,18 +74,18 @@
   <app id="lumia-camera">
     <name>Lumia Camera</name>
     <version>5.0.2.54</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704804_StoreLogo.scale-240.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704804_StoreLogo.scale-240.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>true</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704804_Lumia-Camera-5.0.2.54.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704804_Lumia-Camera-5.0.2.54.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
   <app id="msn-news">
     <name>MSN News</name>
     <version>4.3.193.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773744391_msnnews.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773744391_msnnews.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>MSN News delivers breaking news and trusted, in-depth reporting from the world's best journalists.
@@ -94,7 +94,7 @@
     - MSN News updates you with notifications of breaking news, quickly and accurately, 24/7
     - Sync your preferences across the app and the Web.
     MSN News works in partnership with hundreds of publishers in dozens of countries globally. Select from editions</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773744391_Microsoft.BingNews_4.3.193.0_x86__8wekyb3d8bbwe.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773744391_Microsoft.BingNews_4.3.193.0_x86__8wekyb3d8bbwe.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -102,11 +102,11 @@
   <app id="msn-money">
     <name>MSN Money</name>
     <version>4.3.193.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773747295_msnmoney.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773747295_msnmoney.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773747295_Microsoft.BingFinance_4.3.193.0_x86__8wekyb3d8bbwe.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773747295_Microsoft.BingFinance_4.3.193.0_x86__8wekyb3d8bbwe.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -114,11 +114,11 @@
   <app id="smiling-bag-clicker-for-windows-8-1">
     <name>Smiling Bag Clicker for Windows 8.1</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1000217269-1774951769.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1000217269-1774951769.png</icon>
     <publisher>Smiling Bag &amp; DraydenYT Classics</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmileBagClick_1.0.0.0_AnyCPU-1774951768.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmileBagClick_1.0.0.0_AnyCPU-1774951768.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -127,11 +127,11 @@
   <app id="enon-tore">
     <name>XenonStore</name>
     <version>0.0.1.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/xs_store-1775002300.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/xs_store-1775002300.png</icon>
     <publisher>MSN Money Apps Corporation</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/XenonStore_0.0.1.0_AnyCPU_Debug-1775002299.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/XenonStore_0.0.1.0_AnyCPU_Debug-1775002299.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -139,7 +139,7 @@
   <app id="etro-ommander">
     <name>Metro Commander</name>
     <version>1.1.1.5.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/descarga-5-1775490623.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-5-1775490623.png</icon>
     <publisher>Finebits OÜ</publisher>
     <featured>true</featured>
     <description>Metro Commander is an orthodox file manager which allows you to manage your files and folders from within the Modern Windows UI interface.
@@ -147,18 +147,18 @@
     Browse your documents faster with navigation buttons (back, forward, up), thumbnail previews, shortcuts to your Images, Music and Videos folders and the ability to add shortcuts to your favorite folders.
     Manage your online files by logging into your OneDrive account.</description>
     <package>https://github.com/bloomthebloom/Appboxers/raw/refs/heads/main/BooStudioLLC.MetroCommander_1.1.15.0_x86__b6e429xa66pga.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.37262.9007199266579522.4aefc0f4-1edb-491f-9be2-272074d59810-1775490624.jpg</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.36181.9007199266579522.3e99ba97-5b23-404b-a7e3-e22d9a561eeb-1775490624.jpg</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.36093.9007199266579522.eab2ebad-0b80-470d-bd4f-3bf73e2fa655-1775490625.jpg</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.27408.9007199266579522.9667b69c-a672-4fe1-b4a7-f084b4236f39-1775490626.jpg</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.8642.9007199266579522.a682fbb6-fb70-40de-81c4-a311622792c7-1775490627.jpg</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.37262.9007199266579522.4aefc0f4-1edb-491f-9be2-272074d59810-1775490624.jpg</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.36181.9007199266579522.3e99ba97-5b23-404b-a7e3-e22d9a561eeb-1775490624.jpg</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.36093.9007199266579522.eab2ebad-0b80-470d-bd4f-3bf73e2fa655-1775490625.jpg</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.27408.9007199266579522.9667b69c-a672-4fe1-b4a7-f084b4236f39-1775490626.jpg</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.8642.9007199266579522.a682fbb6-fb70-40de-81c4-a311622792c7-1775490627.jpg</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="8-ip">
     <name>8Zip</name>
     <version>1.2.103.1000</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/descarga-1-1775491174.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-1-1775491174.png</icon>
     <publisher>Finebits OÜ</publisher>
     <featured>true</featured>
     <description>Out with the old, in with the new. The powerful archiver 8 Zip has expanded its set of capabilities with the new Continuum, Cortana and Windows Hello technologies.
@@ -176,19 +176,19 @@
     8 Zip knows over 38 languages.
     The app has been downloaded more than 8,000,000 times
     Thank you for helping to make 8 Zip better! Simply send your suggestions for improvement to 8zip@finebits.com and show your support by giving us a ★★★★★ review.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/BooStudioLLC.8ZipLite_1.2.103.1000_x86__b6e429xa66pga-1775491170.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BooStudioLLC.8ZipLite_1.2.103.1000_x86__b6e429xa66pga-1775491170.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="ray-i-or-indows-10">
     <name>DrayAi</name>
     <version>3.3.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square150x150Logo.scale-400-1775753552.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square150x150Logo.scale-400-1775753552.png</icon>
     <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description>(This app is currently broken) DrayAi is an Ai Client for Windows 10 &amp; Windows 10 Mobile, Powered by both Gemini &amp; ChatGPT Apis, Bringing AI to the UWP Platform</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/DrayAi_3.3.0.0_AnyCPU-1775753551.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Untitled-1775753553.png</screenshot1>
+    <package>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/DrayAi_3.3.0.0_AnyCPU-1775753551.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/Untitled-1775753553.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <drayYTproject>true</drayYTproject>
@@ -196,11 +196,11 @@
   <app id="iano-ime-ro">
     <name>Piano Time Pro</name>
     <version>1.0.0.16</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-180-1775673264.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-180-1775673264.png</icon>
     <publisher>Revel Software</publisher>
     <featured>false</featured>
     <description>A simple piano app.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/RevelSoftware.PianoTimePro_1.0.0.16_neutral__rm1v733ay04k0-1775673263.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/RevelSoftware.PianoTimePro_1.0.0.16_neutral__rm1v733ay04k0-1775673263.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -208,40 +208,40 @@
   <app id="icrosoft-ibs">
     <name>VCLibs.140.00_14.0.33519.0_x64</name>
     <version>14.0.33519.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>64 bits version</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe-1775754459.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe-1775754459.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="icrosoft-ibs-for-32-bits">
     <name>VCLibs.140.00_14.0.33519.0_x86</name>
     <version>14.0.33519.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe-1775757986.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe-1775757986.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="icrosoft-ative-ramework">
     <name>Microsoft .NET Native Framework</name>
     <version>1.2.23231.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775760189.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775760189.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.NET.Native.Framework.1.2_1.2.23231.0_x86__8wekyb3d8bbwe-1775760188.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.NET.Native.Framework.1.2_1.2.23231.0_x86__8wekyb3d8bbwe-1775760188.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="rowser-uest">
     <name>BrowserQuest</name>
     <version>2.6.2.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/descarga-6-1775771183.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-6-1775771183.png</icon>
     <publisher>Mads &amp; Peter Sandberg Brun</publisher>
     <featured>true</featured>
     <description>BrowserQuest is a small multiplayer game inviting you to explore a world of adventure from your Windows device.
@@ -257,11 +257,11 @@
   <app id="ports-uwp">
     <name>MSN Sports</name>
     <version>4.3.193.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Captura-de-pantalla-110-1775771827.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Captura-de-pantalla-110-1775771827.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BingSports_4.3.193.0_x86__8wekyb3d8bbwe-1775771825.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingSports_4.3.193.0_x86__8wekyb3d8bbwe-1775771825.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -269,66 +269,66 @@
   <app id="etronome">
     <name>Metronome+</name>
     <version>3.0.4.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/descarga-8-1775842758.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-8-1775842758.png</icon>
     <publisher>Asparion</publisher>
     <featured>false</featured>
     <description>This is what every musician needs. A metronome. You can change the BPM (beats per minute) and you can select one of the pre-defined bars. The bars can be customized exactly as you like and it is possible to choose different sounds.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/12199Asparion.Metronom_3.0.4.0_x86__f89vgcf3qm37t-1775842756.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.59573.9007199266251517.697227b2-b11e-4fe1-9e9e-2b524fe0f231-1775842759.jpg</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.27925.9007199266251517.c0f91afe-192c-42c2-9832-6f6568515f56-1775842761.jpg</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.20512.9007199266251517.77f19011-4714-4ba7-8e0d-74595c9644ad-1775842762.jpg</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.16534.9007199266251517.9ef4f4cc-b6b6-4962-a5d7-5faeecc0413d-1775842763.jpg</screenshot4>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.Metronom_3.0.4.0_x86__f89vgcf3qm37t-1775842756.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.59573.9007199266251517.697227b2-b11e-4fe1-9e9e-2b524fe0f231-1775842759.jpg</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.27925.9007199266251517.c0f91afe-192c-42c2-9832-6f6568515f56-1775842761.jpg</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.20512.9007199266251517.77f19011-4714-4ba7-8e0d-74595c9644ad-1775842762.jpg</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.16534.9007199266251517.9ef4f4cc-b6b6-4962-a5d7-5faeecc0413d-1775842763.jpg</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="peak">
     <name>Speak+</name>
     <version>2.0.6.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/descarga-7-1775843334.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-7-1775843334.png</icon>
     <publisher>Asparion</publisher>
     <featured>true</featured>
     <description>Let your device talk. Just for fun or be productive and learn the pronunciation of words in foreign languages.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/12199Asparion.Sag_2.0.6.0_x86__f89vgcf3qm37t-1775843332.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.Sag_2.0.6.0_x86__f89vgcf3qm37t-1775843332.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="icrosoft-dvertising">
     <name>Microsoft Advertising XAML</name>
     <version>10.1811.1.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.Advertising.Xaml_10.1811.1.0_x64__8wekyb3d8bbwe-1775846560.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.Advertising.Xaml_10.1811.1.0_x64__8wekyb3d8bbwe-1775846560.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
   <app id="icrosoft">
     <name>Microsoft UI XAML</name>
     <version>7.2409.9001.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.UI.Xaml.2.7_7.2409.9001.0_x64__8wekyb3d8bbwe-1775848012.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.UI.Xaml.2.7_7.2409.9001.0_x64__8wekyb3d8bbwe-1775848012.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="lashlight">
     <name>Flashlight+</name>
     <version>1.2.5.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/descarga-9-1775848504.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-9-1775848504.png</icon>
     <publisher>Asparion</publisher>
     <featured>false</featured>
     <description>Turn your Windows device into a flashlight. Use the camera flash or your screen to light your way anytime anywhere. Adjust the brightness to get the most out of your device.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/12199Asparion.Taschenlampe_1.2.5.0_x64__f89vgcf3qm37t-1775848502.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.Taschenlampe_1.2.5.0_x64__f89vgcf3qm37t-1775848502.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="inecraft">
     <name>Minecraft for Windows 10 Mobile</name>
     <version>1.16.4002.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minecraft-1775849251.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft-1775849251.png</icon>
     <publisher>Microsoft Studios</publisher>
     <featured>true</featured>
     <description>Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or with friends on mobile devices, Switch, Xbox One and Windows 10.
@@ -342,23 +342,23 @@
     Discover gigantic community-run worlds, compete in unique mini-games and socialize in lobbies full of new friends.
     SUPPORT: https:///www.minecraft.net/help LEARN MORE: https:///www.minecraft.net/</description>
     <package>https://archive.org/download/MinecraftWindows10Mobile/Microsoft.Minecraft_8wekyb3d8bbwe.zip/Microsoft.Minecraft_1.16.4002.0_arm__8wekyb3d8bbwe.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minecraft0-1775849252.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minecraft1-1775849253.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minecraft2-1775849254.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minecraft3-1775849256.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minecraft6-1775849258.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft0-1775849252.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft1-1775849253.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft2-1775849254.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft3-1775849256.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft6-1775849258.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
   <app id="10-tore-1-0-atched">
     <name>10Store 1.0 Patched</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/storelogo.scale-200-1775903021.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/storelogo.scale-200-1775903021.png</icon>
     <publisher>DraydenYT Classics</publisher>
     <featured>false</featured>
     <description>If you install this, you will have to remove the 10Store you are reading this from, have a good one.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/10Store_1.0.0.0_AnyCPU-1775903020.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/image-1775903023.png</screenshot1>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/10Store_1.0.0.0_AnyCPU-1775903020.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-1775903023.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <drayYTproject>true</drayYTproject>
@@ -366,14 +366,14 @@
   <app id="onnect4">
     <name>Connect4</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2026-04-11-225218-1775937245.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-04-11-225218-1775937245.png</icon>
     <publisher>Microsoft</publisher>
     <featured>false</featured>
     <description>simple game app (Lost media)</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/connect4-1775937243.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2026-04-11-225239-1775937246.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2026-04-11-225319-1775937248.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2026-04-11-225319-1775937250.png</screenshot3>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/connect4-1775937243.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-04-11-225239-1775937246.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-04-11-225319-1775937248.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-04-11-225319-1775937250.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -381,11 +381,11 @@
   <app id="z-lay-eady-upiter-pp">
     <name>zPlayReady Jupiter App</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo-1776015095.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo-1776015095.png</icon>
     <publisher>Microsoft</publisher>
     <featured>false</featured>
     <description>A simple zApp Player (LOST MEDIA)</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/PRWP81HubApp_1.0.14203.306_neutral__8wekyb3d8bbwe-1776015094.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/PRWP81HubApp_1.0.14203.306_neutral__8wekyb3d8bbwe-1776015094.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
@@ -404,24 +404,24 @@
     - Preview quick videos of our series and movies and get notifications for new episodes and releases.
     Netflix membership is a month-to-month paid subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. We just want you to love what you watch.
     By clicking INSTALL, you consent to the installation of the Netflix application and any updates or upgrades thereto.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4DF9E0F8.Netflix_6.99.5.0_neutral_-_mcm4njqhnhss8-1776508466.appxbundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/netflix_scr1-1776508470.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/netflix_scr2-1776508472.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/netflix_scr3-1776508474.png</screenshot3>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4DF9E0F8.Netflix_6.99.5.0_neutral_-_mcm4njqhnhss8-1776508466.appxbundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr1-1776508470.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr2-1776508472.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr3-1776508474.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
   <app id="hrome-etro-lient">
     <name>Chrome Metro (Client)</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Google_Chrome_icon_-March_2011-.svg-1776508598.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Google_Chrome_icon_-March_2011-.svg-1776508598.png</icon>
     <publisher>ReOpenGlebsur</publisher>
     <featured>true</featured>
     <description>Google Metro Client For Windows 8.1 (Win8Mode at the Chrome 24)</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ChromeUWP_1.0.0.0_AnyCPU-1776508597.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/image-1776508600.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/image-1-1776508600.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/image-2-1776508602.png</screenshot3>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ChromeUWP_1.0.0.0_AnyCPU-1776508597.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-1776508600.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-1-1776508600.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-2-1776508602.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -429,7 +429,7 @@
   <app id="resh-aint-uwp">
     <name>Fresh Paint</name>
     <version>3.1.10383.1000</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.44755.9007199266251806.c139e5fd-5846-4901-9106-acd4938a4006-1776509234.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.44755.9007199266251806.c139e5fd-5846-4901-9106-acd4938a4006-1776509234.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>true</featured>
     <description>Unleash your inner creative with Fresh Paint – the ultimate canvas for your big ideas.
@@ -441,11 +441,11 @@
     “The most realistic painting app I have ever used” – Joe Fedewa, WinSource
     “There's no better demonstration of the cool types of things you can do with multitouch than Fresh Paint.” – Michael Muchmore, PC Magazine</description>
     <package>https://archive.org/download/msfreshpaint_202503/Microsoft.FreshPaint_8wekyb3d8bbwe.zip/Microsoft.FreshPaint_3.1.10383.1000_x86__8wekyb3d8bbwe.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/appfreshpaint-1776509235.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/freshpaint1-1776509236.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/freshpaint2-1776509238.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/freshpaint4-1776509240.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/freshpaint8-1776509240.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/appfreshpaint-1776509235.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint1-1776509236.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint2-1776509238.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint4-1776509240.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint8-1776509240.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -453,7 +453,7 @@
   <app id="inecraft-for-indows-10">
     <name>Minecraft Windows 10 Edition</name>
     <version>0.16.1.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-400-1776522639.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-400-1776522639.png</icon>
     <publisher>Microsoft Studios</publisher>
     <featured>true</featured>
     <description>Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or with friends on mobile devices, Switch, Xbox One and Windows 10.
@@ -467,20 +467,20 @@
     Discover gigantic community-run worlds, compete in unique mini-games and socialize in lobbies full of new friends.
     SUPPORT: https:///www.minecraft.net/help LEARN MORE: https:///www.minecraft.net/&lt;/description&gt;</description>
     <package>https://ia601800.us.archive.org/view_archive.php?archive=/29/items/mcbe-versions/0.16.1.~/0.16.1.~.7z&amp;file=Minecraft-0.16.1.0%20%28Release%29.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Minecraft-first-screen-1776522640.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/maxresdefault-1-1776522641.jpg</screenshot2>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Minecraft-first-screen-1776522640.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/maxresdefault-1-1776522641.jpg</screenshot2>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
   <app id="app-1777048102">
     <name>OREO</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/storelogo.scale-180-1777048105.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/storelogo.scale-180-1777048105.png</icon>
     <publisher>DraydenYT Classics</publisher>
     <featured>true</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/OREO_1.0.0.0_AnyCPU-1777048102.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/download-1777048107.png</screenshot1>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/OREO_1.0.0.0_AnyCPU-1777048102.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/download-1777048107.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -489,13 +489,13 @@
   <app id="ank">
     <name>DankFM</name>
     <version>0.0.0.1</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/dankfm-square-1777236950.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dankfm-square-1777236950.png</icon>
     <publisher>Epic's Projects</publisher>
     <featured>false</featured>
     <description>This application is in EARLY ALPHA and is MOSTLY INCOMPLETE.
     Stream DankFM straight from your Windows 8.1 device and experience... a CD collection LOL</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/DankFM-1777236949.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/image-1777236952.png</screenshot1>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/DankFM-1777236949.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-1777236952.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -503,11 +503,11 @@
   <app id="a-uide-to-8-tore">
     <name>a Guide to 8Store</name>
     <version>1.0.0.2</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-100-1777478398.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/StoreLogo.scale-100-1777478398.png</icon>
     <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/a-Guide-to-8Store_1.0.0.2_AnyCPU-1777478393.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/a-Guide-to-8Store_1.0.0.2_AnyCPU-1777478393.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -515,11 +515,11 @@
   <app id="8-ip-old">
     <name>8Zip</name>
     <version>2.1.0.75</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-48-1777635788.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-48-1777635788.png</icon>
     <publisher>Finebits OÜ</publisher>
     <featured>false</featured>
     <description>8 Zip is a powerful file archiver for Windows 8. Now one app, one license, a uniform design and functionality can be had on all types of devices. Decrypt files through an iris scan or at a touch. Listen to music, read documents, and watch videos right in the app.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/24169BooStudio.8Zip_2.1.0.75_x86__4whpyhnstjyn8-1777635785.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/24169BooStudio.8Zip_2.1.0.75_x86__4whpyhnstjyn8-1777635785.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -527,11 +527,11 @@
   <app id="10-tore-etro">
     <name>10Store Metro</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallTile.scale-100-1777720370.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallTile.scale-100-1777720370.png</icon>
     <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/10Store-Metro_1.0.0.0_AnyCPU-1777720369.appxbundle</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/10Store-Metro_1.0.0.0_AnyCPU-1777720369.appxbundle</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -540,12 +540,12 @@
   <app id="eather">
     <name>MSN Weather 8.1</name>
     <version>2016.1014.23.3280</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Weather-1777815807.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Weather-1777815807.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>MSN Weather: The best way to plan your day.
     Get the latest weather conditions, whether you're hitting the slopes or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BingWeather_2016.1014.23.3280_neutral___8wekyb3d8bbwe-1777815803.appxbundle</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingWeather_2016.1014.23.3280_neutral___8wekyb3d8bbwe-1777815803.appxbundle</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -553,7 +553,7 @@
   <app id="ews">
     <name>MSN News 8.1</name>
     <version>2016.408.1840.2841</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/News-1777816155.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/News-1777816155.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>MSN News delivers breaking news and trusted, in-depth reporting from the world's best journalists.
@@ -563,7 +563,7 @@
     - Sync your preferences across the app and the web.
     MSN News works in partnership with hundreds of publishers in dozens of countries globally. Select from editions in more 20 countries, carrying content from 3,000 top brands.
     MSN News makes it easy to for you to keep informed, to intuitively move from story to story, and from section to section. Our clean design lets you read articles without clutter, with useful features like a dark mode for night-time reading. The app is free to download and use with no limits on how many articles or videos you can view.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BingNews_2016.408.1840.2841_neutral___8wekyb3d8bbwe-1777816151.appxbundle</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingNews_2016.408.1840.2841_neutral___8wekyb3d8bbwe-1777816151.appxbundle</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -571,7 +571,7 @@
   <app id="oney">
     <name>MSN Money 8.1</name>
     <version>2016.408.1841.3666</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Finance-1777821902.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Finance-1777821902.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
@@ -583,13 +583,13 @@
   <app id="erobit-usic">
     <name>Aerobit Music</name>
     <version>0.5.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/AeroMusic-1777819103.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/AeroMusic-1777819103.png</icon>
     <publisher>Aerobit</publisher>
     <featured>false</featured>
     <description>Aerobit Music is a little simple app made by me! It is a WebView app that supports on Windows 8.1 and higher. You can listen to uncopyrighted music fore free! (This app also requires WIFI to listen)</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Aerobit-Music_0.5.0.0_AnyCPU_Debug-1777819102.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Capture-1777819105.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/splashscreen.scale-100-1777819106.png</screenshot2>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Aerobit-Music_0.5.0.0_AnyCPU_Debug-1777819102.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Capture-1777819105.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/splashscreen.scale-100-1777819106.png</screenshot2>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -597,7 +597,7 @@
   <app id="ports">
     <name>MSN Sports 8.1</name>
     <version>2016.427.112.4030</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Sports-1777823416.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Sports-1777823416.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>Packed with live scores and in-depth game experiences for over 150 leagues worldwide. Follow schedules, results, standings, leading players and teams, and get the latest news, galleries and videos from over 200 of the best sporting news sources.</description>
@@ -609,7 +609,7 @@
   <app id="resh-aint">
     <name>Fresh Paint 8.1</name>
     <version>2.0.15133.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.44755.9007199266251806.c139e5fd-5846-4901-9106-acd4938a4006-1777843948.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.44755.9007199266251806.c139e5fd-5846-4901-9106-acd4938a4006-1777843948.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>Unleash your inner creative with Fresh Paint – the ultimate canvas for your big ideas.
@@ -621,8 +621,8 @@
     “The most realistic painting app I have ever used” – Joe Fedewa, WinSource
     “There's no better demonstration of the cool types of things you can do with multitouch than Fresh Paint.” – Michael Muchmore, PC Magazine</description>
     <package>https://archive.org/download/msfreshpaint_202503/Microsoft.FreshPaint_8wekyb3d8bbwe.zip/Microsoft.FreshPaint_2.0.15133.0_x86__8wekyb3d8bbwe.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/freshpaint-1777843949.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/freshpaint0-1777843950.png</screenshot2>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint-1777843949.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint0-1777843950.png</screenshot2>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -630,7 +630,7 @@
   <app id="e-indows-usic">
     <name>ReWindowsMusic</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/storelogo.scale-100-1777920740.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/storelogo.scale-100-1777920740.png</icon>
     <publisher>ReOpenGlebsur</publisher>
     <featured>false</featured>
     <description>🖥️ ReWindowsMusic – Desktop Edition (Windows 8.1)
@@ -664,7 +664,7 @@
     Adapts to any window size – from compact (500px) to full‑HD widescreen.
     🌙 Dark Theme by Default
     Easy on the eyes for late‑night listening.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ReWinMusIc_1.0.0.1_AnyCPU_Debug-1777920738.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ReWinMusIc_1.0.0.1_AnyCPU_Debug-1777920738.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -672,7 +672,7 @@
   <app id="e-indows-tore-obile">
     <name>ReWindowsStore Mobile</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/893c0f697e3fdf4785cc89683a370473-1777920393.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/893c0f697e3fdf4785cc89683a370473-1777920393.png</icon>
     <publisher>ReOpenGlebsur</publisher>
     <featured>false</featured>
     <description>📱 ReWinStore Mobile
@@ -685,7 +685,7 @@
     My Apps list – keep track of apps you’ve downloaded, stored locally.
     Lightweight and fast – works flawlessly on older Windows Phone hardware.
     💡 Note: ReWinStore Mobile is available via the "Mobile Mode" button in the left menu of the main ReWinStore application.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/c7435b179c313f705a41006ae81ae175-2-1777920391.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/c7435b179c313f705a41006ae81ae175-2-1777920391.appx</package>
     <pcCapable>false</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -693,7 +693,7 @@
   <app id="e-indows-usic-obile">
     <name>ReWindowsMusic Mobile</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square71x71Logo.scale-240-1777917081.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square71x71Logo.scale-240-1777917081.png</icon>
     <publisher>ReOpenGlebsur</publisher>
     <featured>false</featured>
     <description>🎵 ReWindowsMusic – Ultimate Music Player for Windows Phone 8.1
@@ -704,7 +704,7 @@
     🎙️ Podcast Player (PodCats) – Stream podcast episodes from an XML feed.
     📂 ReOpenTracks – Load and play a huge JSON‑based music collection (150+ tracks).
     🔍 Real‑time Search – Filter songs, podcasts, or tracks by title or artist.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ReWinMusIc.WindowsPhone_1.0.0.1_AnyCPU_Debug-1777917080.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ReWinMusIc.WindowsPhone_1.0.0.1_AnyCPU_Debug-1777917080.appx</package>
     <pcCapable>false</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -712,7 +712,7 @@
   <app id="here-s-s-my-ater">
     <name>Where's My Water?</name>
     <version>1.13.1.3</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo-1777981225.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo-1777981225.png</icon>
     <publisher>Disney</publisher>
     <featured>false</featured>
     <description/>
@@ -724,7 +724,7 @@
   <app id="alking-inger">
     <name>Talking Ginger</name>
     <version>2.2.5.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-100-1777981576.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-100-1777981576.png</icon>
     <publisher>Outfit7</publisher>
     <featured>false</featured>
     <description/>
@@ -736,7 +736,7 @@
   <app id="ransport-mpire">
     <name>Transport Empire</name>
     <version>3.0.38.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2026-05-05-145200-1777981960.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-05-05-145200-1777981960.png</icon>
     <publisher>Game  Insight</publisher>
     <featured>false</featured>
     <description/>
@@ -748,7 +748,7 @@
   <app id="aint3">
     <name>Paint3D</name>
     <version>2.1703.21017.1000</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/hqdefault-1777987721.jpg</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/hqdefault-1777987721.jpg</icon>
     <publisher>Microsoft</publisher>
     <featured>false</featured>
     <description/>
@@ -760,11 +760,11 @@
   <app id="ray-for-windows-8-1">
     <name>DrayAI Classic</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallTile.scale-200-1777988163.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallTile.scale-200-1777988163.png</icon>
     <publisher>DraydenYT Classics</publisher>
     <featured>true</featured>
     <description>(This app is currently broken) DrayAI Metro is an Ai Client for Windows 8.1, Powered by both Gemini &amp; ChatGPT Apis</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Drayai8.1EN-1777988161.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Drayai8.1EN-1777988161.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -773,11 +773,11 @@
   <app id="ytube-for-indows-hone">
     <name>myTube</name>
     <version>35.39.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-400-1777989327.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/StoreLogo.scale-400-1777989327.png</icon>
     <publisher>Ryken Studio</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/myTube-_3.5.39.0_arm-1777989321.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/myTube-_3.5.39.0_arm-1777989321.appx</package>
     <pcCapable>false</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -785,11 +785,11 @@
   <app id="os">
     <name>PosXP</name>
     <version>1.14.29.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo-1777989783.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo-1777989783.png</icon>
     <publisher>Alberto Rivelli</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/620AlbertoRivelli.PosXP_1.14.29.0_x86__hnskygdk5bh62-1777989781.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/620AlbertoRivelli.PosXP_1.14.29.0_x86__hnskygdk5bh62-1777989781.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -797,11 +797,11 @@
   <app id="app-1777993222">
     <name>VK</name>
     <version>2.3.2.1</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo30.scale-140-1777993226.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/logo30.scale-140-1777993226.png</icon>
     <publisher>VK corp.</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/C6965DD5.VK_2.3.2.1_x64__v422avzh127ra-1777993222.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/C6965DD5.VK_2.3.2.1_x64__v422avzh127ra-1777993222.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1712,11 +1712,11 @@
     <featured>false</featured>
     <description>Shuffle Party is back for Windows 8! Compete in various shuffleboard games using your Xbox Avatar! Featuring Bowling, the standard bowling game played on a shuffleboard table; League Bowling, where players bowl in weekly tournaments against other Xbox Live users; Challenge Mode, get the best score possible while faced with obstacles such as bumpers, ramps, gates, and portals; Shuffleboard, the classic table game - try to get as close to the score zones without falling off the table; and Pass &amp; Play, a two-player version of shuffleboard where you and a friend take turns by passing the device. Earn cash in all game modes to buy new Pro Shop items, such as pucks, pins, tables, and table frames! Earn Xbox achievements, and get bragging rights when you earn the top spot on leaderboards.</description>
     <package>https://files.catbox.moe/j2lf8n.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle1-1779704431.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle2-1779704433.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle3-1779704436.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle4-1779704437.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle5-1779704438.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle1-1779704431.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle2-1779704433.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle3-1779704436.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle4-1779704437.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle5-1779704438.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1724,16 +1724,16 @@
   <app id="uzzley">
     <name>Muzzley</name>
     <version>2.7.4.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/aaaaaa-1779736246.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/aaaaaa-1779736246.png</icon>
     <publisher>MUZZLEY S.A.</publisher>
     <featured>false</featured>
     <description>Create and Enjoy your Smart Home with Muzzley! Now available on Windows 10 Desktop and Windows 10 Mobile! Muzzley allows you to connect with and manage all your smart devices in the same app! Through a wifi or 4G connection, you can control them anytime, from anywhere! Create your own set of automation rules &amp; connect your devices according to your needs, without even having to open the app! When you go to bed at night, do you want to turn on the alarm? DONE! When you arrive home, do you want your living room lights to turn on? DONE! Want to make sure your home doors are locked when you are not at home? DONE! With so many devices &amp; automation options, the possibilities are endless! You don’t need to adjust to your home…now your home adjusts to you! FEATURES * Wide range of compatible devices, including: Wink Hub (Lights added through the Wink Hub: Hampton, Connected Cree, Commercial Electric, TCP LED, OSRAM, GE Link, Philips Hue ; Locks added through the Wink Hub: Kwikset, Schlage), Nest Thermostat, Nest Smoke Detector, Withings Scale, Koubachi Plant Sensor, Milight and Easybulb, TCP lighting, Rachio Iro Sprinkler, Insteon Hub V2 (model 2245-222), iHealth, Beurer, Misfit, FitBit, Jawbone, Lockitron, GreenIQ, Automatic, Egardia, LIFX * Shortcuts in-app * Home Automation * Security &amp; Surveillance * Health tracking * Manual/Remote Control * Location and Time based Agents, and much more! We are here to help! If you have any questions and/or suggestions, please email us at support@muzzley.com</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzzley.muzzley_2.7.4.0_x64__sfq2wxfwv48s4-1779736243.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz1-1779736248.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz2-1779736249.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz3-1779736251.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzz4-1779736253.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muz5-1779736255.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz1-1779736248.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz2-1779736249.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz3-1779736251.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz4-1779736253.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muz5-1779736255.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1741,14 +1741,14 @@
   <app id="otebook-ro">
     <name>Notebook Pro</name>
     <version>2.0.311.11</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779743852.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779743852.png</icon>
     <publisher>StokedOnIt</publisher>
     <featured>false</featured>
     <description>Replace your paper notebook! Unleash your creativity with the ultimate app for drawing, writing, whiteboarding, remote teaching, note-taking, designing, and more using vector-based graphics. Annotate PDFs, and add text, images, and photos to a virtual canvas with this amazing smart paper app. Notebook Pro replaces paper, whiteboards, dry-erase boards, and projectors with one powerful and versatile tool. Discover why over 1.5 million users love Notebook Pro and unleash your creativity today! Notebook Pro is limitless for anything you use paper or whiteboards for, and more. It’s great for everything from designing your next great product to quickly doodling on an image.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/22StokedOnIt.NotebookPro_2.0.311.11_x64__ffs55s3hze5sr-1779743848.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779743852.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779743854.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779743855.png</screenshot3>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/22StokedOnIt.NotebookPro_2.0.311.11_x64__ffs55s3hze5sr-1779743848.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779743852.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779743854.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779743855.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1756,11 +1756,11 @@
   <app id="ibs-120-00-niversal-12-0-30501-0-x64">
     <name>VCLibs.120.00.Universal_12.0.30501.0_x64</name>
     <version>12.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988-1779799142.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988-1779799142.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.VCLibs.120.00.Universal_12.0.30501.0_x64__8wekyb3d8bbwe-1779799140.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.VCLibs.120.00.Universal_12.0.30501.0_x64__8wekyb3d8bbwe-1779799140.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1768,15 +1768,15 @@
   <app id="in-ote">
     <name>Win Note</name>
     <version>1.2.7.1000</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square310x310Logo.scale-200-1779814443.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square310x310Logo.scale-200-1779814443.png</icon>
     <publisher>Pix3d</publisher>
     <featured>false</featured>
     <description>Win note is a simple application for managing notes. With Win note you can write and edit anything you want in a practical and quick way. Some features: - search functionality - pin every single note to the start screen - protect data with a Pin code - share note via email, sms, facebook and many others - backup notes on onedrive and restores them when you want</description>
-    <package>https://files.catbox.moe/bhuvj2.AppxBundlex</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/note1-1779814446.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/note2-1779814449.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/note3-1779814452.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/note4-1779814454.png</screenshot4>
+    <package>https://files.catbox.moe/bhuvj2.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/note1-1779814446.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/note2-1779814449.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/note3-1779814452.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/note4-1779814454.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1784,15 +1784,15 @@
   <app id="etwork-peed-est">
     <name>Network Speed Test</name>
     <version>1.0.0.23</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/speedtest-1780815443.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/speedtest-1780815443.png</icon>
     <publisher>Microsoft Research</publisher>
     <featured>false</featured>
     <description>How fast is your Internet connection? Network Speed Test measures your network delay, download speed and upload speed. Using servers all over the world, Network Speed Test measures your network connection’s latency and throughput. Based on your connection’s speed, Network Speed Test will tell you what activities you might be able to do, such as stream music or video calls. Slide to the right to see a history of your previous tests for easy comparisons. When you test your network using the Network Speed Test, certain characteristics of your device and the network connection will be sent to Microsoft to help improve our understanding of network quality and availability. If you consent, we may also collect information about your location at the time of the test. The data we collect is not associated with you, and will not be used to identify or contact you or for other purposes like targeted marketing. For additional information, see our privacy statement.</description>
     <package>https://files.catbox.moe/jvg8e9.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/speedtest1-1780815444.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/speedtest2-1780815445.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/speedtest3-1780815447.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/speedtest4-1780815449.png</screenshot4>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/speedtest1-1780815444.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/speedtest2-1780815445.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/speedtest3-1780815447.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/speedtest4-1780815449.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
