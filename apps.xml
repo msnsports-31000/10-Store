@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <quotes>
-    <quote>goodbye 10store..</quote>
-    <quote>goodbye 10store..</quote>
-    <quote>goodbye 10store..</quote>
-    <quote>goodbye 10store..<quote>
-    <quote>goodbye 10store..</quote>
-    <quote>goodbye 10store..</quote>
+    <quote></quote>
+    <quote></quote>
+    <quote></quote>
+    <quote><quote>
+    <quote></quote>
+    <quote></quote>
   </quotes>
   <categories>
     <category title="Featured" type="featured"/>
@@ -1226,7 +1226,7 @@
   <app id="ut-he-ope-2">
     <name>Cut The Rope 2</name>
     <version>1.0.0.46</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779412233.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779412233.png</icon>
     <publisher>ZeptoLab UK Limited</publisher>
     <featured>true</featured>
     <description>SWEET! Cut the Rope 2 has arrived and you can enjoy the full adventure for FREE! Cut the Rope 2 brings fresh challenges and unanticipated obstacles to the candy crunching, physics-based phenomenon that has delighted millions of players around the world! If you like Cut the Rope, you’ll love Cut the Rope 2! With new characters, fresh gameplay elements, and, of course, Om Nom, candy collecting has never been so fun! Complete tricky missions to earn medals, advance in the game and access special levels. Play with your friends to see who can get the highest score, or tackle the puzzles on your own! In his unexpected adventure, Om Nom breaks out of his box and travels through lush forests, busy cities, junkyards and underground tunnels, all in pursuit of one goal – CANDY! Along the way, he encounters the Nommies, the cutest candy collecting helpers a little green monster could wish for! MEET OM NOM’S NEW FRIENDS, THE NOMMIES! • Roto can carry Om Nom to the best candy catching locations • Lick can make small bridges with his tongue to help Om Nom reach his goal • Blue can lift Om Nom to new levels of candy hunting fun • Toss can throw objects, including candy • Boo can scare Om Nom to jump to new heights • Snailbrow bravely rolls on walls and ceilings and pushes candies around, like a boss • Ginger can burn away obstacles between Om Nom and the candy Don’t waste any time - exciting surprises await! Help Om Nom find his way home...out of the forest, through a pond and a junkyard, into the city and beyond! Already a fan? LIKE US: http://facebook.com/cuttherope FOLLOW US: http://twitter.com/cut_the_rope WATCH US: http://youtube.com/zeptolab VISIT US: http://cuttherope.net/cuttherope2</description>
@@ -1277,11 +1277,11 @@
   <app id="amsung-rinter-xperience">
     <name>Samsung Printer Experience</name>
     <version>1.3.15.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo-1779413711.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo-1779413711.png</icon>
     <publisher>SAMSUNG ELECTRONICS CO.LTD</publisher>
     <featured>false</featured>
     <description>Samsung Printer Experience is an application that lets users manage and control Samsung printers and MFPs. With this free application's simple user interface, users can easily scan and print with Samsung multifunctional printers. Samsung Printer Experience brings further flexibility and convenience to users by supporting several advanced settings and status notifications, as well as ordering supplies and viewing troubleshooting guides. [Supported model list] http://www.samsungsetup.com/ts/manual/SupportedModelList.html</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SAMSUNGELECTRONICSCO.LTD.SamsungPrinterExperience_1.3.15.0_x86__3c1yjt4zspk6g-1779413707.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SAMSUNGELECTRONICSCO.LTD.SamsungPrinterExperience_1.3.15.0_x86__3c1yjt4zspk6g-1779413707.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779413713.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779413715.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779413717.png</screenshot3>
