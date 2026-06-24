@@ -1078,7 +1078,7 @@
     <publisher>Adobe Systems Incorporated</publisher>
     <featured>false</featured>
     <description>Adobe Reader is the free, trusted leader for reliably viewing and interacting with PDF documents across platforms and devices. Adobe Reader Touch has been specially designed for the new Windows 8 Touch user interface to give you a great experience working with PDF documents on your Windows 8 Tablet. Adobe Reader Touch works with a keyboard and mouse, but desktop users with keyboard and mouse may prefer to install and use Adobe Reader XI</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobeReader_1.3.8.4476_arm__ynb6jyjzte8ga_v1.3.8.4476_arm-1778832739.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobeReader_1.3.8.4476_arm__ynb6jyjzte8ga_v1.3.8.4476_arm-1778832739.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1778832744.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1778832746.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1778832748.png</screenshot3>
@@ -1112,12 +1112,12 @@
     <publisher>Adobe Systems Incorporated</publisher>
     <featured>true</featured>
     <description>Photo magic at your fingertips. On-the-go photo editing was never so fun, fast, and cool. Touch your way to better-looking pictures with automatic fixes and filters. Get your pictures to pop! And after sharing, you’ll be the talk of your friends.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga-1778833542.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1778833547.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1778833548.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1778833550.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-4-1778833552.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-5-1778833554.png</screenshot5>
+    <package>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga-1778833542.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-1-1778833547.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-2-1778833548.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-3-1778833550.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-4-1778833552.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-5-1778833554.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1150,12 +1150,12 @@
   <app id="pload-your-apps-to-10-tore">
     <name>Upload your apps to 10Store!</name>
     <version>10.2.8.2026.1705.14</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-100-1779045727.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/StoreLogo.scale-100-1779045727.png</icon>
     <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/UploadApps10STR_1.5.0.0_AnyCPU-1779045726.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SplashScreen.scale-100-1779045728.png</screenshot1>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/UploadApps10STR_1.5.0.0_AnyCPU-1779045726.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SplashScreen.scale-100-1779045728.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1163,48 +1163,32 @@
   <app id="ode-riter">
     <name>Code Writer</name>
     <version>2.0.11.12</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779122944.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779122944.png</icon>
     <publisher>Actipro Software LLC</publisher>
     <featured>false</featured>
     <description>Code Writer is a free text and code editor app with over 20 supported file types, and active syntax highlighting that updates as you edit documents. Use it as a replacement for Notepad and other quick edit apps. The app has been built from the ground up for Windows 10. It's fast and fluid, and gives you the power to edit documents with features you'd normally only find in desktop apps. Code Writer is perfect for editing any text-based file, doing code reviews, or giving presentations with code samples. The text editor allows you to edit documents in near full-screen mode with the chrome fading to the background. The collapsible side bar houses features like a document explorer, search functionality, advanced editing commands, print/share, settings, and help. A popup command palette provides quick keyboard access to almost every command in the app. Easily create new or open existing documents from any accessible source. Color is used pervasively throughout the app to create a bond between you and the various file types you work with. Configure the editor theme and other options such as font size to mold your ideal editing environment. Learn about every product feature with the included detailed documentation. The app requires Windows 10 Fall Creators Update (version 1709) or later, and is fully supported on ARM, x86, and x64 devices. IF YOU LIKE THIS FREE APP, PLEASE SUPPORT ITS CONTINUED DEVELOPMENT WITH GOOD RATINGS. We have many plans for further improvements but want to hear your suggestions too. It is most helpful if you post your own ideas for app features in our support forum or in the Windows Feedback app (instead of or in addition to reviews in the Store) so that we can communicate directly with you. Sometimes we may need more information about the feature request and by posting in our forums or the Feedback app, we can get that from you. Thank you for your support, it is much appreciated. Happy coding! Follow us on Twitter with @CodeWriterApp. You can even chat directly with our dev team via Slack (http://www.actiprosoftware.com/community/chat) to help guide future Code Writer features!</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ActiproSoftwareLLC.562882FEEB491_2.0.11.12_neutral__24pqs290vpjk0-1779122942.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1779122945.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1779122946.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1779122947.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-4-1779122949.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-5-1779122951.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779122945.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779122946.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779122947.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-4-1779122949.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-5-1779122951.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="hazam-arm-rt">
+  <app id="hazam">
     <name>Shazam</name>
-    <version>1.5.0.408 x64</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779152031.png</icon>
+    <version>4.7.9.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square44x44Logo.targetsize-256.png</icon>
     <publisher>Shazam Entertainment Ltd</publisher>
     <featured>false</featured>
     <description>(SERVER DOES NOT WORK)
     Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can: • Recognise songs and tracks wherever you are. Even offline! • Buy tracks from Windows Store • Instantly discover more about the song: get lyrics and see music videos and performances on YouTube • Share your discoveries to Facebook, Messenger, SMS, Email and more • Ask Cortana to “Shazam this” and instantly start identifying music around you With Shazam Live Tiles you can: • View your most recent Shazam • Shazam straight from the Start Screen Use Shazam as much as you like – it’s unlimited. ===</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_1.5.0.408_x64__pqbynwjfrbcg4-1779152029.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1779152033.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1779152035.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1779152037.png</screenshot3>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
-  <app id="hazam-x86">
-    <name>Shazam x86</name>
-    <version>1.5.0.40 x86</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779152812.png</icon>
-    <publisher>Shazam Entertainment Ltd</publisher>
-    <featured>false</featured>
-    <description>(SERVER DOES NOT WORK)
-    Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can: • Recognise songs and tracks wherever you are. Even offline! • Buy tracks from Windows Store • Instantly discover more about the song: get lyrics and see music videos and performances on YouTube • Share your discoveries to Facebook, Messenger, SMS, Email and more • Ask Cortana to “Shazam this” and instantly start identifying music around you With Shazam Live Tiles you can: • View your most recent Shazam • Shazam straight from the Start Screen Use Shazam as much as you like – it’s unlimited. ===</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_1.5.0.408_x86__pqbynwjfrbcg4-1779152810.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1779152813.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1779152815.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1779152816.png</screenshot3>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_4.7.9.0_neutral_~_pqbynwjfrbcg4.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779152033.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779152035.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779152037.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1212,28 +1196,12 @@
   <app id="2048-for-indows">
     <name>2048 for Windows</name>
     <version>2014.507.1153.3876</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-180-1779154668.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-180-1779154668.png</icon>
     <publisher>OneAssist</publisher>
     <featured>false</featured>
     <description>Play the most flexible version of 2048 yet! 2048 is a simple but addictive game where you move tiles of numbers. If matching numbers hit they merge into larger numbers. You win the game if you create a 2048 tile. 2048 for Windows allows you to set the size of the field between 4x4 and 7x7 and set your own goal. Practice and try to reach 128 or go wild and set it to 8192! To move the tiles you can use the arrow key, swipe with your fingers on a touch device or click and drag your mouse in the appropriate direction. Endless play is supported! Just continue playing after you have reached your goal!</description>
     <package>https://files.catbox.moe/p61y3w.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps-2-1779154668.png</screenshot1>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
-  <app id="hazam">
-    <name>Shazam(ARM/RT)</name>
-    <version>1.5.0.408</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779155561.png</icon>
-    <publisher>Shazam Entertainment Ltd</publisher>
-    <featured>false</featured>
-    <description>(SERVER DOESN'T WORK)
-    Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can: • Recognise songs and tracks wherever you are. Even offline! • Buy tracks from Windows Store • Instantly discover more about the song: get lyrics and see music videos and performances on YouTube • Share your discoveries to Facebook, Messenger, SMS, Email and more • Ask Cortana to “Shazam this” and instantly start identifying music around you With Shazam Live Tiles you can: • View your most recent Shazam • Shazam straight from the Start Screen Use Shazam as much as you like – it’s unlimited. ===</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_1.5.0.408_arm__pqbynwjfrbcg4-1779155559.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1779155563.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1779155564.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1779155566.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1246,11 +1214,11 @@
     <featured>false</featured>
     <description>Reddit2Go! is your go-to reddit app for Windows 8! It's designed to fully take advantage of Windows 8 features to make your redditing experience the best it can be. Browse the front page or any subreddit, log in with your reddit account, vote, comment, submit links, search, and more! Check out the App Features section below for a larger list of what this app can do, and be sure to check out all the screenshots. Optionally, you can go Pro! to show your support for the app. There are no additional features unlocked right now, but I have some ideas for future releases that may be added. The free version, though, is a fully capable client, and there are no advertisements. This app is only the beginning; I have lots of ideas for future updates. I'm also open to feedback - either email me at reddit-to-go@outlook.com, or make a post in www.reddit.com/r/reddit_to_go. Happy redditing!</description>
     <package>https://files.catbox.moe/zqmggi.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1779156263.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1779156264.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1779156267.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-4-1779156269.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-5-1779156270.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779156263.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779156264.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779156267.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-4-1779156269.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-5-1779156270.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1263,11 +1231,11 @@
     <featured>true</featured>
     <description>SWEET! Cut the Rope 2 has arrived and you can enjoy the full adventure for FREE! Cut the Rope 2 brings fresh challenges and unanticipated obstacles to the candy crunching, physics-based phenomenon that has delighted millions of players around the world! If you like Cut the Rope, you’ll love Cut the Rope 2! With new characters, fresh gameplay elements, and, of course, Om Nom, candy collecting has never been so fun! Complete tricky missions to earn medals, advance in the game and access special levels. Play with your friends to see who can get the highest score, or tackle the puzzles on your own! In his unexpected adventure, Om Nom breaks out of his box and travels through lush forests, busy cities, junkyards and underground tunnels, all in pursuit of one goal – CANDY! Along the way, he encounters the Nommies, the cutest candy collecting helpers a little green monster could wish for! MEET OM NOM’S NEW FRIENDS, THE NOMMIES! • Roto can carry Om Nom to the best candy catching locations • Lick can make small bridges with his tongue to help Om Nom reach his goal • Blue can lift Om Nom to new levels of candy hunting fun • Toss can throw objects, including candy • Boo can scare Om Nom to jump to new heights • Snailbrow bravely rolls on walls and ceilings and pushes candies around, like a boss • Ginger can burn away obstacles between Om Nom and the candy Don’t waste any time - exciting surprises await! Help Om Nom find his way home...out of the forest, through a pond and a junkyard, into the city and beyond! Already a fan? LIKE US: http://facebook.com/cuttherope FOLLOW US: http://twitter.com/cut_the_rope WATCH US: http://youtube.com/zeptolab VISIT US: http://cuttherope.net/cuttherope2</description>
     <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Cut%20The%20Rope%202/1.0.0.46/Neutral/ZeptoLabUKLimited.CuttheRope2_1.0.0.46_neutral_~_sq9zxnwrk84pj.appxbundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/cutrope1-1779412234.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/cutrope2-1779412237.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/cutrope3-1779412239.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/cutrope4-1779412240.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/cutrope5-1779412243.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cutrope1-1779412234.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cutrope2-1779412237.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cutrope3-1779412239.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cutrope4-1779412240.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cutrope5-1779412243.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1280,11 +1248,11 @@
     <featured>false</featured>
     <description>★ Todo is a powerful and intuitive tasks manager. ★ See your tasks on the app's live tile, and set tasks notifications. ★ Repeating tasks (daily, weekly...), e.g. "Pay credit card" every month. Once completed, the task's date is updated to the next month. ★ Multi-level sub-tasking. ★ Very clean, responsive (fast) and intuitive user interface. ★ Customizable tasks view &amp; full search support.</description>
     <package>https://files.catbox.moe/311mmq.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo1-1779413040.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo2-1779413042.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo3-1779413044.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo4-1779413045.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo5-1779413047.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo1-1779413040.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo2-1779413042.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo3-1779413044.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo4-1779413045.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo5-1779413047.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1297,11 +1265,11 @@
     <featured>false</featured>
     <description>★ Todo is a powerful and intuitive tasks manager. ★ See your tasks on the app's live tile, and set tasks notifications. ★ Repeating tasks (daily, weekly...), e.g. "Pay credit card" every month. Once completed, the task's date is updated to the next month. ★ Multi-level sub-tasking. ★ Very clean, responsive (fast) and intuitive user interface. ★ Customizable tasks view &amp; full search support.</description>
     <package>https://files.catbox.moe/4wntov.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo1-1779412971.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo2-1779412972.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo3-1779412975.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo4-1779412976.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo5-1779412977.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000r/10-Store/refs/heads/main/files/todo1-1779412971.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo2-1779412972.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo3-1779412975.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo4-1779412976.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo5-1779412977.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1314,11 +1282,11 @@
     <featured>false</featured>
     <description>Samsung Printer Experience is an application that lets users manage and control Samsung printers and MFPs. With this free application's simple user interface, users can easily scan and print with Samsung multifunctional printers. Samsung Printer Experience brings further flexibility and convenience to users by supporting several advanced settings and status notifications, as well as ordering supplies and viewing troubleshooting guides. [Supported model list] http://www.samsungsetup.com/ts/manual/SupportedModelList.html</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SAMSUNGELECTRONICSCO.LTD.SamsungPrinterExperience_1.3.15.0_x86__3c1yjt4zspk6g-1779413707.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779413713.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779413715.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779413717.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1779413718.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1779413723.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779413713.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779413715.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779413717.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4-1779413718.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5-1779413723.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1331,11 +1299,11 @@
     <featured>false</featured>
     <description>★ Todo is a powerful and intuitive tasks manager. ★ See your tasks on the app's live tile, and set tasks notifications. ★ Repeating tasks (daily, weekly...), e.g. "Pay credit card" every month. Once completed, the task's date is updated to the next month. ★ Multi-level sub-tasking. ★ Very clean, responsive (fast) and intuitive user interface. ★ Customizable tasks view &amp; full search support.</description>
     <package>https://files.catbox.moe/jqd1tl.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo1-1779414097.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo2-1779414098.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo3-1779414099.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo4-1779414100.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/todo5-1779414102.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo1-1779414097.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo2-1779414098.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo3-1779414099.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo4-1779414100.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo5-1779414102.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1348,9 +1316,9 @@
     <featured>true</featured>
     <description>This application helps you manage your mobile world. Access your online account, get messages, special offers, and find help and support. You can use this app with a Vodafone or partner SIM card and a mobile broadband device like a USB dongle or modem. To find out which mobile broadband devices are compatible, go to the ‘Details’ screen or search the FAQs.</description>
     <package>https://files.catbox.moe/rtsg2y.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779414592.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779414594.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779414596.png</screenshot3>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779414592.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779414594.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779414596.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1363,11 +1331,11 @@
     <featured>false</featured>
     <description>newsXpresso is a smart and friendly news reader that allows you to follow real-time news, videos, magazines, and blogs in multiple languages and global regions. Browse through extensive content catalog to create a fully personalized news reading experience. Read beautifully presented articles arranged in a magazine layout, and view interesting YouTube videos in full-screen. Also, with the 3D page flipping effect, the smooth transition gives you the feel of actually flipping a book.</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/esobiIncorporated.newsXpressoMetro_2.0.2.208_neutral__sngswjb5h6fyg-1-1779415084.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779415087.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779415090.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779415093.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1779415095.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1779415097.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779415087.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779415090.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779415093.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4-1779415095.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5-1779415097.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
