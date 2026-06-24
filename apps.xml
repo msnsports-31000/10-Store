@@ -809,11 +809,11 @@
   <app id="7digital-usic-tore">
     <name>7digital Music Store</name>
     <version>2.1.10.3</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-180-1777994945.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-180-1777994945.png</icon>
     <publisher>7digitalLtd</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/7digitalLtd.7digitalMusicStore_2.1.10.3_x86__qv1vc61z2t2b4-1777994944.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/7digitalLtd.7digitalMusicStore_2.1.10.3_x86__qv1vc61z2t2b4-1777994944.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -821,7 +821,7 @@
   <app id="inectimals-nleashed">
     <name>Kinectimals Unleashed</name>
     <version>1.14.12.16</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SquareTile-1778004032.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SquareTile-1778004032.png</icon>
     <publisher>Microsoft Studios</publisher>
     <featured>false</featured>
     <description>(appx too big snd archive org not work for me sorry -The ReOpen)</description>
@@ -833,11 +833,11 @@
   <app id="lassi-ube">
     <name>ClassiCube</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo.scale-100-1778004235.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/logo.scale-100-1778004235.png</icon>
     <publisher>Bargmy</publisher>
     <featured>false</featured>
     <description>an minecraft classic UWP port</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ClassiCube-1778004233.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ClassiCube-1778004233.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -845,11 +845,11 @@
   <app id="witter-luetweety">
     <name>Twitter (Bluetweety)</name>
     <version>1.1.13.8</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-180-1778005018.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-180-1778005018.png</icon>
     <publisher>Twitter Inc</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/9E2F88E3.Twitter_1.1.13.8_x86__wgeqdkkx372wm-1778005015.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/9E2F88E3.Twitter_1.1.13.8_x86__wgeqdkkx372wm-1778005015.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -857,11 +857,11 @@
   <app id="lappy-ird">
     <name>Flappy Bird</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Flappy_Bird-1778006167.webp</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square150x150Logo.scale-200.png</icon>
     <publisher>Saraf</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_-_k1kv61aetwx78-1778006160.appxbundle</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_-_k1kv61aetwx78-1778006160.appxbundle</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -869,7 +869,7 @@
   <app id="niversal-egedit">
     <name>Universal Regedit</name>
     <version>1.0.34.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2026-05-05-225419-1778011253.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-05-05-225419-1778011253.png</icon>
     <publisher>IT Dev Team</publisher>
     <featured>false</featured>
     <description/>
@@ -881,7 +881,7 @@
   <app id="espicable-e-inion-ush">
     <name>Despicable Me: Minion Rush</name>
     <version>4.1.4.1</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/59857_Despicable_me_Minion_Rush-1778068188.jpg</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/59857_Despicable_me_Minion_Rush-1778068188.jpg</icon>
     <publisher>GAMELOFT SA</publisher>
     <featured>true</featured>
     <description>This game allows multiplayer play and is not subject to Xbox Live Family Settings. Microsoft shares User IDs and gamertags.
@@ -915,11 +915,11 @@
     • Communicate via in-game voice chat.
     Please see the publisher’s site http://www.gameloft.com/privacy-notice/windows/ for information on settings it may enable.</description>
     <package>https://archive.org/download/minionrushwin8_202503/GAMELOFTSA.DespicableMeMinionRush_0pp20fcewvvtj.zip/GAMELOFTSA.DespicableMeMinionRush_0pp20fcewvvtj%2FGAMELOFTSA.DespicableMeMinionRush_4.1.4.1_x86__0pp20fcewvvtj.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minionrush_screenshot1-1778068189.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minionrush_screenshot2-1778068191.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minionrush_screenshot3-1778068192.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minionrush_screenshot4-1778068194.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minionrush_screenshot5-1778068195.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minionrush_screenshot1-1778068189.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minionrush_screenshot2-1778068191.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minionrush_screenshot3-1778068192.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minionrush_screenshot4-1778068194.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minionrush_screenshot5-1778068195.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -927,7 +927,7 @@
   <app id="ytube-ro-eta">
     <name>Mytube Pro ( Beta )</name>
     <version>4.0.21.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-400-1778069873.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/StoreLogo.scale-400-1778069873.png</icon>
     <publisher>Ryken Studio</publisher>
     <featured>true</featured>
     <description>the youtube uwp client (need API keys)</description>
@@ -939,7 +939,7 @@
   <app id="ytube-ro-eta-for-indows-hone">
     <name>Mytube Pro ( Beta ) for Windows Phone</name>
     <version>4.0.21.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-400-1778069873.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/StoreLogo.scale-400-1778069873.png</icon>
     <publisher>Ryken Studio</publisher>
     <featured>false</featured>
     <description>an youtube client for wp (Api keys)</description>
@@ -970,11 +970,11 @@
     Crossy Road is completely free to play but some in-game items such as characters, can be purchased with hard currency. Characters are priced between $0.99 and $3.99.
     Have any problems or suggestions? You can reach us at gpsupport@yodo1.com.</description>
     <package>https://archive.org/download/CrossyRoadWinStore/Yodo1Ltd.CrossyRoad_s3s3f300emkze.zip/Yodo1Ltd.CrossyRoad_1.1.3.0_x86__s3s3f300emkze.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/crossyroad1-1778075085.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/crossyroad2-1778075087.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/crossyroad3-1778075088.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/crossyroad4-1778075089.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/crossyroad5-1778075092.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/crossyroad1-1778075085.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/crossyroad2-1778075087.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/crossyroad3-1778075088.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/crossyroad4-1778075089.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/crossyroad5-1778075092.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -986,29 +986,29 @@
     <publisher>Microsoft Research</publisher>
     <featured>false</featured>
     <description>BLINK Cliplets lets you exercise your creative talents by layering static and dynamic visual elements. Create fun and surprising results that you can share with friends or the world. Import or record short videos, and choose which parts to animate and which parts to freeze. You can then share your cliplet on Facebook, Twitter, or BLINK.so.cl, or simply save it as an animated GIF or video file.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BLINKCliplets_1.0.1.0_x64__8wekyb3d8bbwe-1778084595.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1778084602.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1778084604.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1778084607.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1778084609.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1778084612.png</screenshot5>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BLINKCliplets_1.0.1.0_x64__8wekyb3d8bbwe-1778084595.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1778084602.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1778084604.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000r/10-Store/refs/heads/main/files/3-1778084607.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4-1778084609.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5-1778084612.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
   <app id="link-liplets">
-    <name>Microsoft BLINK Cliplets (ARM/RT)</name>
+    <name>Microsoft BLINK Cliplets for Windows RT</name>
     <version>1.0.1.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778090046.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778090046.png</icon>
     <publisher>Microsoft Research</publisher>
     <featured>false</featured>
     <description>BLINK Cliplets lets you exercise your creative talents by layering static and dynamic visual elements. Create fun and surprising results that you can share with friends or the world. Import or record short videos, and choose which parts to animate and which parts to freeze. You can then share your cliplet on Facebook, Twitter, or BLINK.so.cl, or simply save it as an animated GIF or video file.</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BLINKCliplets_1.0.1.0_arm__8wekyb3d8bbwe_v1.0.1.0_arm-1778090041.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1778090047.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1778090050.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1778090051.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1778090054.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1778090056.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1778090047.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1778090050.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1778090051.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4-1778090054.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5-1778090056.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1016,11 +1016,11 @@
   <app id="pload-your-songs-to-ray-usic">
     <name>Upload your songs to DrayMusic!</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-100-1778540187.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/StoreLogo.scale-100-1778540187.png</icon>
     <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/UploadSongsDM_1.0.0.0_AnyCPU-1778540187.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/UploadSongsDM_1.0.0.0_AnyCPU-1778540187.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1028,15 +1028,15 @@
   <app id="pp-for-indows">
     <name>CNN App for Windows</name>
     <version>1.2.3.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.33373.9007199266245764.0ba407dd-2796-4551-9fb7-e1e39a3b36eb-1778670653.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.33373.9007199266245764.0ba407dd-2796-4551-9fb7-e1e39a3b36eb-1778670653.png</icon>
     <publisher>CNN INTERACTIVE GROUP, Inc.</publisher>
     <featured>true</featured>
     <description>CNN connects you to the world, wherever you are. Stay informed with the latest headlines and original stories from around the globe. Follow up-to-the-minute reporting with breaking news and video. Lead the conversation by sharing today’s news and dig deeper into the stories that matter most to you. • Get breaking news and follow stories as they develop. • Go beyond the surface with international, politics, opinion, tech and entertainment stories and more. • Contribute your story or opinion to CNN iReport by uploading photos and video directly from your app. Follow other iReporters and see stories from their point of view. • Read the top headlines on the go with the CNN Live Tile. • Choose the font size that most appeals to you. Have questions or feedback on the CNN App? E-mail us at WindowsTablet@cnn.com. We are always looking for suggestions on how to provide the best experience possible for you.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/588E6FFA.CNNAppforWindows_1.2.3.0_neutral__cs8eyncph15zy-1778670650.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Screenshot-1-1778670654.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Screenshot-2-1778670655.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Screenshot-3-1778670656.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Screenshot-4-1778670658.png</screenshot4>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/588E6FFA.CNNAppforWindows_1.2.3.0_neutral__cs8eyncph15zy-1778670650.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Screenshot-1-1778670654.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Screenshot-2-1778670655.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Screenshot-3-1778670656.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Screenshot-4-1778670658.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1044,12 +1044,12 @@
   <app id="emote-ontrol">
     <name>VAIO Remote Control</name>
     <version>1.1.2.12170 x64</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps-1778668785.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps-1778668785.png</icon>
     <publisher>Sony Corporation</publisher>
     <featured>false</featured>
     <description>For customers using VAIO® with built-in infrared remote control function or optional IR Adapter, you will be able to use this application to control compatible home devices such as TV, set-top box, etc. For customers using optional IR Adapter, please update the device driver from VAIO Update. This infrared remote control app allows you to control various devices; particularly audiovisual devices. Registering a device is simple because the remote control codes for the audiovisual devices of major manufacturers are preset. A registered device can be controlled from your VAIO. Furthermore, gesture controls are supported so you can perform basic operations such as adjusting the volume and changing the channel without even looking at the screen.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/BD9B8345.VAIORemotecontrol_1.1.2.12170_x64__05bme2bjq6sag-1778668779.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/-1778668787.png</screenshot1>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BD9B8345.VAIORemotecontrol_1.1.2.12170_x64__05bme2bjq6sag-1778668779.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/-1778668787.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1057,33 +1057,33 @@
   <app id="ut-he-ope">
     <name>Cut The Rope</name>
     <version>1.2.0.43</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.58628.9007199266251913.700ed9b5-7086-4d2c-a0cc-f134d2b77c24-1778682544.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.58628.9007199266251913.700ed9b5-7086-4d2c-a0cc-f134d2b77c24-1778682544.png</icon>
     <publisher>ZeptoLab UK Limited</publisher>
     <featured>true</featured>
     <description>Cut the rope to feed candy to little monster Om Nom®! 250 million downloads around the world of this phenomenal puzzle game. Try this TRIAL version for FREE. All 275 game levels are available for playing in the Full Game (purchase is required). A mysterious package has arrived, and the little monster inside has only one request… CANDY! Collect gold stars, discover hidden prizes and unlock exciting new levels in this addictively fun, award-winning, physics-based game!</description>
     <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Cut%20The%20Rope/x86/8.1/ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Screenshot-1-1778682545.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1778682546.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1778682548.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-4-1778682549.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-5-1778682550.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Screenshot-1-1778682545.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1778682546.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1778682548.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-4-1778682549.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-5-1778682550.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
   <app id="dobe-eader-ouch-arm-rt">
-    <name>Adobe Reader Touch (ARM/RT)</name>
+    <name>Adobe Reader Touch for Windows RT</name>
     <version>1.3.8.4476</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/metro_reader_small_logo.targetsize-256-1778832743.png</icon>
     <publisher>Adobe Systems Incorporated</publisher>
     <featured>false</featured>
     <description>Adobe Reader is the free, trusted leader for reliably viewing and interacting with PDF documents across platforms and devices. Adobe Reader Touch has been specially designed for the new Windows 8 Touch user interface to give you a great experience working with PDF documents on your Windows 8 Tablet. Adobe Reader Touch works with a keyboard and mouse, but desktop users with keyboard and mouse may prefer to install and use Adobe Reader XI</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobeReader_1.3.8.4476_arm__ynb6jyjzte8ga_v1.3.8.4476_arm-1778832739.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1778832744.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1778832746.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1778832748.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-4-1778832750.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screrenshot-5-1778832753.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1778832744.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1778832746.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1778832748.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-4-1778832750.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screrenshot-5-1778832753.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1091,16 +1091,16 @@
   <app id="dobe-eader-ouch">
     <name>Adobe Reader Touch</name>
     <version>1.3.8.4476</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/metro_reader_small_logo.targetsize-256-1778832994.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/metro_reader_small_logo.targetsize-256-1778832994.png</icon>
     <publisher>Adobe Systems Incorporated</publisher>
     <featured>true</featured>
     <description>Adobe Reader is the free, trusted leader for reliably viewing and interacting with PDF documents across platforms and devices. Adobe Reader Touch has been specially designed for the new Windows 8 Touch user interface to give you a great experience working with PDF documents on your Windows 8 Tablet. Adobe Reader Touch works with a keyboard and mouse, but desktop users with keyboard and mouse may prefer to install and use Adobe Reader XI</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobeReader_3.1.8.7675_x86__ynb6jyjzte8ga-1778832991.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1778832996.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1778832997.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-3-1778832999.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-4-1778833002.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screrenshot-5-1778833003.png</screenshot5>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobeReader_3.1.8.7675_x86__ynb6jyjzte8ga-1778832991.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1778832996.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1778832997.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1778832999.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-4-1778833002.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screrenshot-5-1778833003.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1108,7 +1108,7 @@
   <app id="dobe-hotoshop-xpress">
     <name>Adobe Photoshop Express</name>
     <version>1.2.1.17</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps-1778833546.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps-1778833546.png</icon>
     <publisher>Adobe Systems Incorporated</publisher>
     <featured>true</featured>
     <description>Photo magic at your fingertips. On-the-go photo editing was never so fun, fast, and cool. Touch your way to better-looking pictures with automatic fixes and filters. Get your pictures to pop! And after sharing, you’ll be the talk of your friends.</description>
@@ -1125,11 +1125,11 @@
   <app id="rayden-rojects-etro-pp">
     <name>DraydenYT Projects Metro App</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo.scale-100-1778958759.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/logo.scale-100-1778958759.png</icon>
     <publisher>DraydenYT &amp; The ReOpen</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/DraydenYT-Projects_1.0.0.0_AnyCPU-1778958758.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/DraydenYT-Projects_1.0.0.0_AnyCPU-1778958758.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1137,7 +1137,7 @@
   <app id="he-ewark-rantham-ailway">
     <name>🚄 The Newark &amp; Grantham Railway</name>
     <version>0.4.8.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/noFilter-1779025858.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/noFilter-1779025858.png</icon>
     <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description>Drive trains – have fun! Drive the iconic InterCity 225 trains on the ECML. Get into the trains by jumping in from the top :) Contains real sounds recorded in Grantham, UK.</description>
@@ -1375,16 +1375,16 @@
   <app id="arth-onders">
     <name>BBC Earth Wonders</name>
     <version>1.1.0.2</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earth.logo.310x310.scale-80-1779415795.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earth.logo.310x310.scale-80-1779415795.png</icon>
     <publisher>BBC Worldwide Ltd</publisher>
     <featured>true</featured>
     <description>This BBC Earth Wonders app showcases some of the most beautiful BBC natural history content, taken from landmark series such as Planet Earth, Frozen Planet and Life, along with stunning images from world-renowned natural history photographers. We won’t give it all away now, of course, but with this app you’ll learn an astonishing fact (or two) about the diminutive spectral tarsier, one of the world’s most unusual and secretive primates. The killer whale is a whale by name only - can you imagine what species it actually is? * Explore points of interest * Explore all the content by using a simple map interface - toggle easily between themes. For example ‘Bone smashers’ in Bird wonders, or ‘Awesome aurora’ and ‘Crystal caves’ from the theme of Beautiful wonders. * HD video * Each of the 50 points of interest has a 30 second clip of pin-sharp HD video, up to three hi-res full-screen images and facts written by the BBC’s natural history team. *Picture of the day* There’s a new picture to enjoy each day of the year. Each picture of the day is accompanied by a little-known fact - so remember to check each day. Did you know, for example, that some studies show that chimpanzees may suffer from mid-life crises? Or that the mantid has just one ear...located on its belly? --------------------------------------- **PLEASE NOTE** This app features 700MB of downloadable video content and we recommend that you have a steady wifi connection when using it on a tablet. Map locations are approximate. --------------------------------------- Want more natural history? Visit bbcearth.com to learn more about nature’s most incredible stories, or join us on Facebook at facebook.com/PlanetEarth. --------------------------------------- This app is produced by BBC Worldwide, the commercial arm of the BBC. BBC Worldwide is self-funded and returns profits to the BBC to be reinvested in programmes and services to help keep the UK licence fee as low as possible. For those who wonder why our apps aren't free, BBC Worldwide has the responsibility of channelling funds back to the BBC, so the BBC can continue to create amazing content.</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/BBCWorldwideLtd.BBCEarthWonders_1.1.0.2_neutral__g2s5c4trewyqj-1779415791.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders1-1779415796.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders2-1779415797.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders3-1779415799.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders4-1779415801.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/earthwonders5-1779415803.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earthwonders1-1779415796.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earthwonders2-1779415797.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earthwonders3-1779415799.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earthwonders4-1779415801.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earthwonders5-1779415803.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1392,16 +1392,16 @@
   <app id="ood-ood-ealthy-recipes-cookbook">
     <name>BBC Good Food – Healthy recipes cookbook</name>
     <version>1.2.0.3</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/healthy.logo.270x270-1779416589.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/healthy.logo.270x270-1779416589.png</icon>
     <publisher>BBC Worldwide Ltd</publisher>
     <featured>true</featured>
     <description>Healthy food needn't be boring! This app has over 195 recipes for you to incorporate into your day-to-day cooking. More than 195 recipes to help tempt you to cook and eat healthily year-round, including Salmon &amp; ginger fish cakes, Thai beef stir-fry and Indian butternut squash curry. Once you've downloaded the app, you can use and search the recipes at any time, even offline. There's something for everyone, and every meal (including breakfast). The app contains over 35 recipes that have less than 200 calories per portion, as well as healthy twists on classic dishes, like Chicken korma and Chocolate brownies - so you’re sure to keep your friends and family happy too. Each recipe has full nutritional information, such as protein, fat carbs, sugar and kcals. You can switch between metric and imperial measurements. The app also has five helpful videos and details on eight healthy ingredients to add into your diet. --------------------------------------- Want more? Visit us at bbcgoodfood.com, for over 7,000 recipes all triple-tested by the in-house cookery team. --------------------------------------- This app is produced by BBC Worldwide, the commercial arm of the BBC. BBC Worldwide is self-funded and returns profits to the BBC to be reinvested in programmes and services to help keep the UK licence fee as low as possible. For those who wonder why our apps aren't free, BBC Worldwide has the responsibility of channelling funds back to the BBC, so the BBC can continue to create amazing content.</description>
     <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/BBC%20Cookbook/BBCWorldwideLtd.BBCGoodFoodHealthyrecipescookbook_2025.0.0.0_neutral_~_g2s5c4trewyqj.appxbundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bbcgoodfood1-1779416590.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bbcgoodfood2-1779416592.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bbcgoodfood3-1779416593.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bbcgoodfood4-1779416596.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bbcgoodfood5-1779416598.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bbcgoodfood1-1779416590.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bbcgoodfood2-1779416592.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bbcgoodfood3-1779416593.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bbcgoodfood4-1779416596.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bbcgoodfood5-1779416598.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1409,16 +1409,16 @@
   <app id="ill-limb-acing">
     <name>Hill Climb Racing</name>
     <version>1.29.10.71</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779455334.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779455334.png</icon>
     <publisher>Fingersoft</publisher>
     <featured>false</featured>
     <description>One of the most addictive and entertaining physics based driving game ever made! And it's free! Meet Newton Bill, the young aspiring uphill racer. He is about to embark on a journey that takes him to where no ride has ever been before. With little respect to the laws of physics, Newton Bill will not rest until he has conquered the highest hills up on the moon! Face the challenges of unique hill climbing environments with many different cars. Gain bonuses from daring tricks and collect coins to upgrade your car and reach even higher distances. Watch out though - Bill's stout neck is not what it used to be when he was a kid! And his good ol' gasoline crematorium will easily run out of fuel. Like us at Facebook and stay tuned with all new games and updates: http://www.facebook.com/Fingersoft We'd appreciate if you'd report any issues you're having with the game to support@fingersoft.net, please include your device make and model.</description>
     <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Hill%20Climb%20Racing/Fingersoft.HillClimbRacing_1.29.10.71_x86__r6rtpscs7gwyg.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1-1779455336.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/2-1779455337.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/3-1779455338.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/4-1779455341.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/5-1779455344.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779455336.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779455337.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779455338.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4-1779455341.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5-1779455344.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1426,7 +1426,7 @@
   <app id="aily-ic">
     <name>Daily Pic</name>
     <version>1.3.0.1</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.scale-180-1779480857.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-180-1779480857.png</icon>
     <publisher>T. Partl</publisher>
     <featured>false</featured>
     <description>You like the Bing Picture of the Day? With this app, you can download them in Full-HD resolution, set them as your desktop wallpaper or lock screen and much more!
@@ -1439,9 +1439,9 @@
     • Set a Bing wallpaper as your lockscreen or desktop background
     • Optional title of the picture on the lock screen or desktop background</description>
     <package>https://files.catbox.moe/05u18y.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot1-1779480859.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot2-1779480860.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot3-1779480865.png</screenshot3>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot1-1779480859.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot2-1779480860.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot3-1779480865.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1449,15 +1449,15 @@
   <app id="eat-he-oss-2">
     <name>Beat The Boss 2</name>
     <version>2.3.0.3</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SquareTile-1779481281.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SquareTile-1779481281.png</icon>
     <publisher>Game Hive</publisher>
     <featured>false</featured>
     <description>The Boss is back and ready to make your life a living hell. But you're not the same good guy taking order anymore. You've been granted the power to take sweet vengeance on this tyrannical boss. Backed by an arsenal of dangerous weapons, Beat the Boss with magical forces, lethal guns and deadly blades. Let him PAY THE PRICE of messing with the wrong guy. Beat the Boss 2 is the highly anticipated sequel to the original title. With 50 million downloads to date; it strives to better what made the first one a hit in every possible way. The simple controls remain the same but it offers new art, weapons, stages, sound effects, and enhanced gameplay. This is not a good game; it’s a freaking awesome one! Why?</description>
     <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Beat%20The%20Boss%202/2.3.0.3/x86/GameHive.BeatTheBoss2_2.3.0.3_x86__2snrr3jr3f292.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ss1-1779481282.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ss2-1779481284.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ss3-1779481286.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ss4-1779481288.png</screenshot4>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ss1-1779481282.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ss2-1779481284.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ss3-1779481286.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ss4-1779481288.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1465,16 +1465,16 @@
   <app id="ank-f-merica">
     <name>Bank Of America</name>
     <version>1.7.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/IMG_2175-1779482920.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/IMG_2175-1779482920.png</icon>
     <publisher>Bank Of America</publisher>
     <featured>true</featured>
     <description>IMPORTANT: In early March 2015, we’ll no longer support this app for this device. We’re sorry for the inconvenience. You can access mobile banking with us through your browser. Just go to www.bankofamerica.com. Bank conveniently and securely with Bank of America® Mobile Banking. Our Windows® 10 app makes it easier than ever. Manage Your Accounts* • Check activity and balances in checking, savings and credit card accounts • View mortgage and loan balances • View Merrill Edge and Merrill Lynch investment accounts • Set app Alerts to be notified of important account and security info Send Money to Virtually Anyone* • Securely send and receive money using a mobile number or email address (including to and from U.S. accounts outside of Bank of America)1 • Add recipients for email/mobile number transfers • Manage transfers between your Bank of America accounts • Visit www.bankofamerica.com/easymoneytransfer to learn more Pay Bills* • Schedule, edit or cancel payments • Pay eBills Deposit Checks • Use our app to snap photos of checks and deposit them from your mobile device2 • View processing deposits in account details in the app Enjoy BankAmeriDeals® • Choose Deals, shop as you normally do with your credit/debit cards and receive cash back • Get cash back into your eligible Bank of America account3 Stay Secure* • Sign in safely, using your same Online Banking credentials • Use SafePass® for additional security during sensitive transactions (you’ll receive a code to verify your identity) Contact Us Easily • Call us with any questions • Find ATMs and banking centers *Please visit Online Banking for these banking needs: Enrolling in Online Banking; wire transfers; transfers to external banks; transfers from credit cards; ordering new checks; ordering check copies; updating account nickname/transaction descriptions; canceling recurring transfers and payments; enrolling in Bill Pay/managing eBill information; changing or retrieving Online IDs; resetting Passcodes; unlocking/resetting SiteKey; stopping checks; ordering replacement debit or credit cards; activating new debit cards; setting travel flags; using ShopSafe®; going paperless; viewing mortgage and loan account details; enrolling in SafePass. 1Enrollment and Bank of America checking/savings account required. No fee for this service; dollar/frequency limits apply. Transfer permitted only to U.S.-based consumer accounts. See Online Banking Service Agreement for details. 2Deposits subject to verification and not available for immediate withdrawal. See Terms for other restrictions. 3Earned cash back credited the month following redemption. See Terms for other restrictions. Having general app issues? • Try clearing the browser and BofA app cache, then power off the device • If you’re on your home WiFi network and have a problem connecting, try resetting your modem/router • Make sure you’re running the latest OS • Visit our in-app Help to learn more Terms/Service Agreement: www.bankofamerica.com/serviceagreement Windows® is a trademark of the Microsoft group of companies. Bank of America and related trademarks are trademarks of Bank of America Corporation Bank of America, N.A. Member FDIC © 2015 Bank of America Corporation</description>
     <package>https://files.catbox.moe/t7h945.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bank1-1779482921.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bank2-1779482923.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bank3-1779482924.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bank4-1779482926.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/bank5-1779482928.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000r/10-Store/refs/heads/main/files/bank1-1779482921.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bank2-1779482923.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bank3-1779482924.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bank4-1779482926.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bank5-1779482928.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1482,16 +1482,16 @@
   <app id="ate-renchy-s-ife-oach">
     <name>Nate &amp; Frenchy's Life Coach</name>
     <version>1.2.0.8</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LifeCoach_150x150-1779485377.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/LifeCoach_150x150-1779485377.png</icon>
     <publisher>Liquid Daffodil</publisher>
     <featured>false</featured>
     <description>Life got you down? Just plain bored with your life and need a change? Let Nate &amp; Frenchy guide you through life by staying in tune with your Mystical Biorhythmic Epidermal Frequencies! Using Nate &amp; Frenchy’s Life Coach is simple. Just tap on them (together) with both of your thumbs, and they’ll quickly evaluate the density of your endoplasmic reticulum and give you advice on what you should do to increase your immediate life satisfaction and overall well-being! What are you waiting for? Become that person everyone on the street can’t stop staring at, because your “glowing aura” is frickin’ far out! …the person your mother always warned you about!</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysLifeCoach_1.2.0.8_neutral__3sywn08pm3zd6-1779485375.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach1-1779485379.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach2-1779485380.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach3-1779485381.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach4-1779485384.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/coach5-1779485385.png</screenshot5>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysLifeCoach_1.2.0.8_neutral__3sywn08pm3zd6-1779485375.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/coach1-1779485379.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/coach2-1779485380.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/coach3-1779485381.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/coach4-1779485384.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/coach5-1779485385.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1499,16 +1499,16 @@
   <app id="ate-renchy-s-andom-xe">
     <name>Nate &amp; Frenchy's Random Axe</name>
     <version>1.2.0.8</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/RandomAxe_150x150-1779486571.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/RandomAxe_150x150-1779486571.png</icon>
     <publisher>Liquid Daffodil</publisher>
     <featured>false</featured>
     <description>Get the coolest "random" app available for Windows! Using Nate &amp; Frenchy’s Random Axe is simple. Just tap or click on Nate, and they’ll quickly evaluate the viability of your hairstyle and give you randomized facts, numbers, and, even locations, weather and insults! Randomly generate: - Facts! - Insults! - Numbers (even configure the range)! - Passwords! - Locations! - Weather! - Twitter statuses! What are you waiting for? Become that person everyone on the street can’t stop staring at, because your “glowing aura” is so frickin’ random! …the person your mother always randomly warned you about!</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysRandomAxe_1.2.0.8_neutral__3sywn08pm3zd6-1779486569.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe1-1779486571.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe2-1779486572.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe3-1779486574.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe4-1779486575.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/randomaxe5-1779486576.png</screenshot5>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysRandomAxe_1.2.0.8_neutral__3sywn08pm3zd6-1779486569.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/randomaxe1-1779486571.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/randomaxe2-1779486572.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/randomaxe3-1779486574.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/randomaxe4-1779486575.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/randomaxe5-1779486576.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1516,16 +1516,16 @@
   <app id="ate-renchy-s-ranslator">
     <name>Nate &amp; Frenchy's Translator</name>
     <version>1.2.0.8</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Translator_150x150-1779486662.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Translator_150x150-1779486662.png</icon>
     <publisher>Liquid Daffodil</publisher>
     <featured>false</featured>
     <description>Time to add another cool Nate &amp; Frenchy app to your Toolbox! The coolest, easiest Translator available for Windows, guided by them! Translate any content to any of the 39 languages supported, as well as have both your source and translated content identified and spoken if the selected language is supported for speech!</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysTranslator_1.2.0.8_neutral__3sywn08pm3zd6-1779486661.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate1-1779486663.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate2-1779486664.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate3-1779486666.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate4-1779486667.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/translate5-1779486668.png</screenshot5>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/LiquidDaffodil.NateFrenchysTranslator_1.2.0.8_neutral__3sywn08pm3zd6-1779486661.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/translate1-1779486663.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/translate2-1779486664.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/translate3-1779486666.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/translate4-1779486667.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/translate5-1779486668.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1533,16 +1533,16 @@
   <app id="onic-ash">
     <name>Sonic Dash</name>
     <version>3.6.4.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779535830.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779535830.png</icon>
     <publisher>SEGA Networks Inc.</publisher>
     <featured>false</featured>
     <description>How far can the world’s fastest hedgehog run? Play as Sonic the Hedgehog as you dash, jump and spin your way across stunning 3D environments. Swipe your way over and under challenging obstacles in this fast and frenzied endless running game. SONIC… The world famous Sonic the Hedgehog stars in his first endless running game – how far can you go? …DASH! Unleash Sonic’s incredible dash move that allows you to run at insane speed and destroy everything in your path! AMAZING ABILITIES Utilise Sonic’s powers to dodge hazards, jump over barriers and speed around loop de loops. Plus defeat enemies using Sonic’s devastating homing attack! STUNNING GRAPHICS Sonic’s beautifully detailed world comes to life on mobile and tablet – never has an endless runner looked so good! MULTIPLE CHARACTERS Choose to play as one of Sonic’s friends, including Tails, Shadow and Knuckles. EPIC BOSS BATTLES Face off against two of Sonic's biggest rivals, the always scheming and cunning Dr. Eggman and the devastatingly deadly Zazz from Sonic Lost World! Use all of Sonic's agility and speed to take down these villains before it's too late! POWERUPS Unlock, win or buy ingenious power-ups to help you run further. Including head starts, shields, ring magnets and unique score boosters! KEEP ON RUNNING Get more rewards the more you play! Level up your score multiplier by completing unique missions, or win amazing prizes including Red Star Rings &amp; additional characters by completing Daily Challenges and playing the Daily Spin. COMING SOON We’re working hard to bring you future FREE updates!</description>
     <package>https://files.catbox.moe/zetjpy.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic1-1779535832.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic2-1779535834.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic3-1779535837.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic4-1779535838.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/sonic5-1779535840.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/sonic1-1779535832.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/sonic2-1779535834.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/sonic3-1779535837.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/sonic4-1779535838.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/sonic5-1779535840.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1550,16 +1550,16 @@
   <app id="ay-al-ere">
     <name>PayPal Here</name>
     <version>2016.1222.2003.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square30x30Logo_old.targetsize-256-1779537265.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square30x30Logo_old.targetsize-256-1779537265.png</icon>
     <publisher>PayPal Inc.</publisher>
     <featured>false</featured>
     <description>PayPal Here is the secure and easy-to-use mobile business app for all your payment needs. Get back-office management, POS, and start accepting credit and debit card payments—in person and on the go with our mobile card reader and free app. Pay a low transaction fee of only 2.7% per US card swipe. With PayPal Here, you’ll enjoy 24/7 live customer support and there are no commitments or monthly fees</description>
     <package>https://files.catbox.moe/g5cg55.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay1-1779537267.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay2-1779537268.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay3-1779537270.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay4-1779537275.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/pay5-1779537277.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pay1-1779537267.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pay2-1779537268.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pay3-1779537270.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pay4-1779537275.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pay5-1779537277.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1567,7 +1567,7 @@
   <app id="adon-rowser">
     <name>Radon Browser</name>
     <version>1.14.16</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/278850855-feaa49da-9efd-40a7-9aec-9754c210ae09-1779540050.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/278850855-feaa49da-9efd-40a7-9aec-9754c210ae09-1779540050.png</icon>
     <publisher>itzbluebxrry</publisher>
     <featured>false</featured>
     <description>a browzer for 10Store</description>
@@ -1584,9 +1584,9 @@
     <featured>false</featured>
     <description>SharePoint Newsfeed lets you stay connected to your organization’s social pulse while on the go. You can easily navigate your feeds and interact with the conversations from SharePoint sites you are following. Note: The SharePoint Newsfeed app works with SharePoint 2013 and the new SharePoint Online. Previous versions of SharePoint are not supported. When you are signing in, you will need your username, password. If you are having issues signing in, please contact your company’s SharePoint administrator to inquire about the proper credentials.</description>
     <package>https://files.catbox.moe/awm45f.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/newsfeed-1779563893.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/thread-view-1779563894.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/posting-1779563896.png</screenshot3>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/newsfeed-1779563893.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thread-view-1779563894.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/posting-1779563896.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1594,29 +1594,29 @@
   <app id="ing-v">
     <name>Bing TV</name>
     <version>2014.1003.12.4961</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779565321.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779565321.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>a japan TV app (lost media)</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Bing_TV-1779565318.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot1>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Bing_TV-1779565318.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
   <app id="ruit-inja-arm">
-    <name>Fruit Ninja (ARM/RT)</name>
+    <name>Fruit Ninja for Windows RT</name>
     <version>1.8.1.66</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/TileSquareImage-1779617255.png</icon>
     <publisher>Halfbrick Studios Pty Ltd</publisher>
     <featured>false</featured>
     <description>Slice across the screen to deliciously slash and splatter fruit like a true ninja warrior. Be careful of bombs – they are explosive to touch and will put a swift end to your juicy adventure! Fruit Ninja features Classic, Zen and the amazing Arcade mode! Your success will also please the wise ninja Sensei, who will accompany your journey with wise words and fun fruit facts. Fruit Ninja is the messiest and most satisfying fruit game ever! **** IMPORTANT NOTICE TO PARENTS This game may contain: - The ability to make optional in-app purchases using real money. - Links to external social networking sites intended for users over the age of 13. - Direct links to the internet which may open the default web browser on your device. Privacy Policy: http://www.halfbrick.com/pp Terms of Service: http://www.halfbrick.com/tos</description>
     <package>https://files.catbox.moe/j0h6qu.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit1-1779617256.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit2-1779617261.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit3-1779617263.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit4-1779617265.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit5-1779617267.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit1-1779617256.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit2-1779617261.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit3-1779617263.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit4-1779617265.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit5-1779617267.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1624,16 +1624,16 @@
   <app id="ruit-inja">
     <name>Fruit Ninja</name>
     <version>1.8.1.66</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/TileSquareImage-1779617652.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/TileSquareImage-1779617652.png</icon>
     <publisher>Halfbrick Studios Pty Ltd</publisher>
     <featured>false</featured>
     <description>Slice across the screen to deliciously slash and splatter fruit like a true ninja warrior. Be careful of bombs – they are explosive to touch and will put a swift end to your juicy adventure! Fruit Ninja features Classic, Zen and the amazing Arcade mode! Your success will also please the wise ninja Sensei, who will accompany your journey with wise words and fun fruit facts. Fruit Ninja is the messiest and most satisfying fruit game ever! **** IMPORTANT NOTICE TO PARENTS This game may contain: - The ability to make optional in-app purchases using real money. - Links to external social networking sites intended for users over the age of 13. - Direct links to the internet which may open the default web browser on your device. Privacy Policy: http://www.halfbrick.com/pp Terms of Service: http://www.halfbrick.com/tos</description>
     <package>https://files.catbox.moe/7rzfzj.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit1-1779617654.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit2-1779617656.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit3-1779617658.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit4-1779617661.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/fruit5-1779617663.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit1-1779617654.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit2-1779617656.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit3-1779617658.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000r/10-Store/refs/heads/main/files/fruit4-1779617661.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit5-1779617663.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1641,31 +1641,31 @@
   <app id="etpack-oyride">
     <name>Jetpack Joyride</name>
     <version>1.0.3.68</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jetpack_joyride_win8_title_tile_xbl_150x150-1779618875.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jetpack_joyride_win8_title_tile_xbl_150x150-1779618875.png</icon>
     <publisher>Halfbrick Studios Pty Ltd</publisher>
     <featured>false</featured>
     <description>Suit up with a selection of the coolest jetpacks ever made and take to the skies as Barry Steakfries, the lovable hero on a one-way trip to adventure! Join Barry as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers. Rain bullets, bubbles, rainbows and lasers downwards as you fly towards higher and higher scores! Along the way you’ll collect coins, vehicles, powerups and more, all of which can be upgraded and customized in the Stash. Want to dress up like a ninja? Paint your Profit Bird gold? Grab your robot pal Flash to come along for the ride? The choice is yours! Stay alive, get funky and lose yourself in Jetpack Joyride. There's so much to see and do, all the time in the world and more than enough jetpacks! As always, Barry Steakfries will provide! **** IMPORTANT NOTICE TO PARENTS This game may contain: - The ability to make optional in-app purchases using real money. - Links to external social networking sites intended for users over the age of 13. - Direct links to the internet which may open the default web browser on your device. Privacy Policy: http://www.halfbrick.com/pp Terms of Service: http://www.halfbrick.com/tos</description>
     <package>https://files.catbox.moe/ug7pp7.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jet1-1779618875.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jet2-1779618878.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jet3-1779618880.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jet4-1779618881.png</screenshot4>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jet1-1779618875.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jet2-1779618878.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jet3-1779618880.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jet4-1779618881.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
   <app id="etpack-oyride-arm">
-    <name>Jetpack Joyride(ARM/RT)</name>
+    <name>Jetpack Joyride for Windows RT</name>
     <version>1.0.3.68</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jetpack_joyride_win8_title_tile_xbl_150x150-1779619477.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jetpack_joyride_win8_title_tile_xbl_150x150-1779619477.png</icon>
     <publisher>Halfbrick Studios Pty Ltd</publisher>
     <featured>false</featured>
     <description>Suit up with a selection of the coolest jetpacks ever made and take to the skies as Barry Steakfries, the lovable hero on a one-way trip to adventure! Join Barry as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers. Rain bullets, bubbles, rainbows and lasers downwards as you fly towards higher and higher scores! Along the way you’ll collect coins, vehicles, powerups and more, all of which can be upgraded and customized in the Stash. Want to dress up like a ninja? Paint your Profit Bird gold? Grab your robot pal Flash to come along for the ride? The choice is yours! Stay alive, get funky and lose yourself in Jetpack Joyride. There's so much to see and do, all the time in the world and more than enough jetpacks! As always, Barry Steakfries will provide! **** IMPORTANT NOTICE TO PARENTS This game may contain: - The ability to make optional in-app purchases using real money. - Links to external social networking sites intended for users over the age of 13. - Direct links to the internet which may open the default web browser on your device. Privacy Policy: http://www.halfbrick.com/pp Terms of Service: http://www.halfbrick.com/tos</description>
     <package>https://files.catbox.moe/6m0bco.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jet1-1779619478.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jet2-1779619479.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jet3-1779619481.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/jet4-1779619482.png</screenshot4>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jet1-1779619478.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jet2-1779619479.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jet3-1779619481.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jet4-1779619482.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1673,16 +1673,16 @@
   <app id="ortar-elon-lassic">
     <name>Mortar Melon Classic</name>
     <version>2.2.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/app-logo-1779620430.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/app-logo-1779620430.png</icon>
     <publisher>Mudvark</publisher>
     <featured>false</featured>
     <description>★ Over 750,000 downloads! ★ ★ New levels available to unlock in-game! ★ Drag the mortar, aim, and fling the melon to collect the fruit! Whizzing through the air you’ll fly across the world, tapping and dragging your environment to release the juicy goods! Look out for pointy objects or you’ll explode on impact, sending melony chunks and pips flying! It’s a crazy, fruity, physics machine - launching its way onto Windows!</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Mudvark.MortarMelonClassic_2.2.0.0_neutral__npfypg1jfyjzw-1779620428.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/melon1-1779620432.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/melon2-1779620433.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/melon3-1779620435.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/melon4-1779620436.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/melon5-1779620438.png</screenshot5>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Mudvark.MortarMelonClassic_2.2.0.0_neutral__npfypg1jfyjzw-1779620428.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/melon1-1779620432.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/melon2-1779620433.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/melon3-1779620435.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/melon4-1779620436.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/melon5-1779620438.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1690,24 +1690,24 @@
   <app id="huffle-arty">
     <name>Shuffle Party</name>
     <version>1.3.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.40222.9007199266247474.d9433003-9ced-46b3-8ac4-8310c15c6aa2-1779703701.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.40222.9007199266247474.d9433003-9ced-46b3-8ac4-8310c15c6aa2-1779703701.png</icon>
     <publisher>Microsoft Studios</publisher>
     <featured>false</featured>
     <description>Shuffle Party is back for Windows! Compete in various shuffleboard games using your Xbox Avatar! Featuring Bowling, the standard bowling game played on a shuffleboard table; League Bowling, where players bowl in weekly tournaments against other Xbox Live users; Challenge Mode, get the best score possible while faced with obstacles such as bumpers, ramps, gates, and portals; Shuffleboard, the classic table game - try to get as close to the score zones without falling off the table; and Pass &amp; Play, a two-player version of shuffleboard where you and a friend take turns by passing the device. Earn cash in all game modes to buy new Pro Shop items, such as pucks, pins, tables, and table frames! Earn Xbox achievements, and get bragging rights when you earn the top spot on leaderboards.</description>
     <package>https://files.catbox.moe/q7rj8f.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle1-1779703703.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle2-1779703704.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle3-1779703706.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle4-1779703708.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/shuffle5-1779703710.png</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle1-1779703703.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle2-1779703704.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle3-1779703706.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle4-1779703708.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/shuffle5-1779703710.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
   <app id="huffle-arty-arm-rt">
-    <name>Shuffle Party(ARM/RT)</name>
+    <name>Shuffle Party for Windows RT</name>
     <version>2.2.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.40222.9007199266247474.d9433003-9ced-46b3-8ac4-8310c15c6aa2-1779704430.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.40222.9007199266247474.d9433003-9ced-46b3-8ac4-8310c15c6aa2-1779704430.png</icon>
     <publisher>Microsoft Studios</publisher>
     <featured>false</featured>
     <description>Shuffle Party is back for Windows 8! Compete in various shuffleboard games using your Xbox Avatar! Featuring Bowling, the standard bowling game played on a shuffleboard table; League Bowling, where players bowl in weekly tournaments against other Xbox Live users; Challenge Mode, get the best score possible while faced with obstacles such as bumpers, ramps, gates, and portals; Shuffleboard, the classic table game - try to get as close to the score zones without falling off the table; and Pass &amp; Play, a two-player version of shuffleboard where you and a friend take turns by passing the device. Earn cash in all game modes to buy new Pro Shop items, such as pucks, pins, tables, and table frames! Earn Xbox achievements, and get bragging rights when you earn the top spot on leaderboards.</description>
