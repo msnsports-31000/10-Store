@@ -137,8 +137,8 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="etro-ommander">
-    <name>Metro Commander</name>
-    <version>1.1.1.5.0</version>
+    <name>Metro Commander Pro</name>
+    <version>1.1.81</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-5-1775490623.png</icon>
     <publisher>Finebits OÜ</publisher>
     <featured>true</featured>
@@ -146,7 +146,7 @@
     Easily create, open, preview, rename, copy, move, delete, search and share files and folders.
     Browse your documents faster with navigation buttons (back, forward, up), thumbnail previews, shortcuts to your Images, Music and Videos folders and the ability to add shortcuts to your favorite folders.
     Manage your online files by logging into your OneDrive account.</description>
-    <package>https://github.com/bloomthebloom/Appboxers/raw/refs/heads/main/BooStudioLLC.MetroCommander_1.1.15.0_x86__b6e429xa66pga.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BooStudioLLC.MetroCommanderPro_1.1.81.2000_x86__b6e429xa66pga.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.37262.9007199266579522.4aefc0f4-1edb-491f-9be2-272074d59810-1775490624.jpg</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.36181.9007199266579522.3e99ba97-5b23-404b-a7e3-e22d9a561eeb-1775490624.jpg</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.36093.9007199266579522.eab2ebad-0b80-470d-bd4f-3bf73e2fa655-1775490625.jpg</screenshot3>
