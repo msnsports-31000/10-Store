@@ -1815,7 +1815,7 @@
     <win81compatible>false</win81compatible>
   </app>
   <app id="test">   
-  <name>test</name>
+  <name>Files&amp;Folders Lite</name>
     <version>2.0.6.0</version>
     <icon>https://i.ibb.co/d4xqgsFX/File-Association-Logo.png</icon>
     <publisher>dishantshah</publisher>
