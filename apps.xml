@@ -2,7 +2,7 @@
 <data>
   <quotes>
     <quote>10Store Accounts When??? probably never</quote>
-    <quote>imagine abandoning your own project over failing a 3.0 version</quote>
+    <quote>imagine abandoning your own project over failing a 3.0 version anyways longest quote ever aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</quote>
     <quote>flytech is cool!</quote>
     <quote>so who even reads this?</quote>
     <quote>apps.xml works!</quote>
@@ -1191,7 +1191,7 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779152037.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
   </app>
   <app id="hazam-x86">
     <name>Shazam x86</name>
