@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <quotes>
-    <quote><placeholder</quote>
-    <quote><placeholder</quote>
-    <quote><placeholder</quote>
-    <quote><placeholder</quote>
-    <quote><placeholder</quote>
-    <quote><placeholder</quote>
+    <quote>10Store Accounts When???</quote>
+    <quote>Downloading more RAM...</quote>
+    <quote>Time to start your Windows App adventure!!!</quote>
+    <quote>Welcome to 10Store!</quote>
+    <quote>Welcome to DraydenYT Projects!</quote>
+    <quote>Something big is coming #10Store3</quote>
   </quotes>
   <categories>
     <category title="Featured" type="featured"/>
@@ -147,11 +147,11 @@
     Browse your documents faster with navigation buttons (back, forward, up), thumbnail previews, shortcuts to your Images, Music and Videos folders and the ability to add shortcuts to your favorite folders.
     Manage your online files by logging into your OneDrive account.</description>
     <package>https://github.com/bloomthebloom/Appboxers/raw/refs/heads/main/BooStudioLLC.MetroCommander_1.1.15.0_x86__b6e429xa66pga.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.37262.9007199266579522.4aefc0f4-1edb-491f-9be2-272074d59810-1775490624.jpg</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.36181.9007199266579522.3e99ba97-5b23-404b-a7e3-e22d9a561eeb-1775490624.jpg</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.36093.9007199266579522.eab2ebad-0b80-470d-bd4f-3bf73e2fa655-1775490625.jpg</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.27408.9007199266579522.9667b69c-a672-4fe1-b4a7-f084b4236f39-1775490626.jpg</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/apps.8642.9007199266579522.a682fbb6-fb70-40de-81c4-a311622792c7-1775490627.jpg</screenshot5>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.37262.9007199266579522.4aefc0f4-1edb-491f-9be2-272074d59810-1775490624.jpg</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.36181.9007199266579522.3e99ba97-5b23-404b-a7e3-e22d9a561eeb-1775490624.jpg</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.36093.9007199266579522.eab2ebad-0b80-470d-bd4f-3bf73e2fa655-1775490625.jpg</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.27408.9007199266579522.9667b69c-a672-4fe1-b4a7-f084b4236f39-1775490626.jpg</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.8642.9007199266579522.a682fbb6-fb70-40de-81c4-a311622792c7-1775490627.jpg</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
@@ -187,8 +187,8 @@
     <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description>(This app is currently broken) DrayAi is an Ai Client for Windows 10 &amp; Windows 10 Mobile, Powered by both Gemini &amp; ChatGPT Apis, Bringing AI to the UWP Platform</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/DrayAi_3.3.0.0_AnyCPU-1775753551.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/Untitled-1775753553.png</screenshot1>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/DrayAi_3.3.0.0_AnyCPU-1775753551.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Untitled-1775753553.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <drayYTproject>true</drayYTproject>
@@ -856,12 +856,12 @@
   </app>
   <app id="lappy-ird">
     <name>Flappy Bird</name>
-    <version>1.0.0.0</version>
+    <version>2.2.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square150x150Logo.scale-200.png</icon>
     <publisher>Saraf</publisher>
     <featured>false</featured>
     <description/>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_-_k1kv61aetwx78-1778006160.appxbundle</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_~_k1kv61aetwx78.AppxBundle</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -951,7 +951,7 @@
   <app id="rossy-oad">
     <name>Crossy Road</name>
     <version>1.1.3.0</version>
-    <icon>https://i.ibb.co/FLy8q2TH/Small-Logo-targetsize-256.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/CrossyRoadSmall-Logo-targetsize-256.png</icon>
     <publisher>Yodo1 Ltd</publisher>
     <featured>false</featured>
     <description>Join over 100 MILLION players worldwide and experience Hipster Whale's massive viral #1 hit!
@@ -982,14 +982,14 @@
   <app id="icrosoft-liplets">
     <name>Microsoft BLINK Cliplets</name>
     <version>1.0.1.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778084602.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778084602.png</icon>
     <publisher>Microsoft Research</publisher>
     <featured>false</featured>
     <description>BLINK Cliplets lets you exercise your creative talents by layering static and dynamic visual elements. Create fun and surprising results that you can share with friends or the world. Import or record short videos, and choose which parts to animate and which parts to freeze. You can then share your cliplet on Facebook, Twitter, or BLINK.so.cl, or simply save it as an animated GIF or video file.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BLINKCliplets_1.0.1.0_x64__8wekyb3d8bbwe-1778084595.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1778084602.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1778084604.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000r/10-Store/refs/heads/main/files/3-1778084607.png</screenshot3>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1778084607.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4-1778084609.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5-1778084612.png</screenshot5>
     <pcCapable>true</pcCapable>
@@ -997,13 +997,13 @@
     <win81compatible>false</win81compatible>
   </app>
   <app id="link-liplets">
-    <name>Microsoft BLINK Cliplets for Windows RT</name>
+    <name>Microsoft BLINK Cliplets (ARM/RT)</name>
     <version>1.0.1.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778090046.png</icon>
     <publisher>Microsoft Research</publisher>
     <featured>false</featured>
     <description>BLINK Cliplets lets you exercise your creative talents by layering static and dynamic visual elements. Create fun and surprising results that you can share with friends or the world. Import or record short videos, and choose which parts to animate and which parts to freeze. You can then share your cliplet on Facebook, Twitter, or BLINK.so.cl, or simply save it as an animated GIF or video file.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Microsoft.BLINKCliplets_1.0.1.0_arm__8wekyb3d8bbwe_v1.0.1.0_arm-1778090041.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BLINKCliplets_1.0.1.0_arm__8wekyb3d8bbwe_v1.0.1.0_arm-1778090041.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1778090047.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1778090050.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1778090051.png</screenshot3>
@@ -1072,9 +1072,9 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="dobe-eader-ouch-arm-rt">
-    <name>Adobe Reader Touch for Windows RT</name>
+    <name>Adobe Reader Touch (ARM/RT)</name>
     <version>1.3.8.4476</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/metro_reader_small_logo.targetsize-256-1778832743.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/metro_reader_small_logo.targetsize-256-1778832743.png</icon>
     <publisher>Adobe Systems Incorporated</publisher>
     <featured>false</featured>
     <description>Adobe Reader is the free, trusted leader for reliably viewing and interacting with PDF documents across platforms and devices. Adobe Reader Touch has been specially designed for the new Windows 8 Touch user interface to give you a great experience working with PDF documents on your Windows 8 Tablet. Adobe Reader Touch works with a keyboard and mouse, but desktop users with keyboard and mouse may prefer to install and use Adobe Reader XI</description>
@@ -1112,12 +1112,12 @@
     <publisher>Adobe Systems Incorporated</publisher>
     <featured>true</featured>
     <description>Photo magic at your fingertips. On-the-go photo editing was never so fun, fast, and cool. Touch your way to better-looking pictures with automatic fixes and filters. Get your pictures to pop! And after sharing, you’ll be the talk of your friends.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga-1778833542.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-1-1778833547.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-2-1778833548.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-3-1778833550.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-4-1778833552.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/msnsports-31000-maker/10-Store/refs/heads/main/files/screenshot-5-1778833554.png</screenshot5>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga-1778833542.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1778833547.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1778833548.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1778833550.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-4-1778833552.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-5-1778833554.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1167,7 +1167,7 @@
     <publisher>Actipro Software LLC</publisher>
     <featured>false</featured>
     <description>Code Writer is a free text and code editor app with over 20 supported file types, and active syntax highlighting that updates as you edit documents. Use it as a replacement for Notepad and other quick edit apps. The app has been built from the ground up for Windows 10. It's fast and fluid, and gives you the power to edit documents with features you'd normally only find in desktop apps. Code Writer is perfect for editing any text-based file, doing code reviews, or giving presentations with code samples. The text editor allows you to edit documents in near full-screen mode with the chrome fading to the background. The collapsible side bar houses features like a document explorer, search functionality, advanced editing commands, print/share, settings, and help. A popup command palette provides quick keyboard access to almost every command in the app. Easily create new or open existing documents from any accessible source. Color is used pervasively throughout the app to create a bond between you and the various file types you work with. Configure the editor theme and other options such as font size to mold your ideal editing environment. Learn about every product feature with the included detailed documentation. The app requires Windows 10 Fall Creators Update (version 1709) or later, and is fully supported on ARM, x86, and x64 devices. IF YOU LIKE THIS FREE APP, PLEASE SUPPORT ITS CONTINUED DEVELOPMENT WITH GOOD RATINGS. We have many plans for further improvements but want to hear your suggestions too. It is most helpful if you post your own ideas for app features in our support forum or in the Windows Feedback app (instead of or in addition to reviews in the Store) so that we can communicate directly with you. Sometimes we may need more information about the feature request and by posting in our forums or the Feedback app, we can get that from you. Thank you for your support, it is much appreciated. Happy coding! Follow us on Twitter with @CodeWriterApp. You can even chat directly with our dev team via Slack (http://www.actiprosoftware.com/community/chat) to help guide future Code Writer features!</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ActiproSoftwareLLC.562882FEEB491_2.0.11.12_neutral__24pqs290vpjk0-1779122942.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ActiproSoftwareLLC.562882FEEB491_2.0.11.12_neutral__24pqs290vpjk0-1779122942.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779122945.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779122946.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779122947.png</screenshot3>
@@ -1177,7 +1177,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="hazam">
+  <app id="hazam-arm-rt">
     <name>Shazam</name>
     <version>4.7.9.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square44x44Logo.targetsize-256.png</icon>
@@ -1191,7 +1191,23 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779152037.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
+    <win81compatible>true</win81compatible>
+  </app>
+  <app id="hazam-x86">
+    <name>Shazam x86</name>
+    <version>1.5.0.40 x86</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779152812.png</icon>
+    <publisher>Shazam Entertainment Ltd</publisher>
+    <featured>false</featured>
+    <description>(SERVER DOES NOT WORK)
+    Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can: • Recognise songs and tracks wherever you are. Even offline! • Buy tracks from Windows Store • Instantly discover more about the song: get lyrics and see music videos and performances on YouTube • Share your discoveries to Facebook, Messenger, SMS, Email and more • Ask Cortana to “Shazam this” and instantly start identifying music around you With Shazam Live Tiles you can: • View your most recent Shazam • Shazam straight from the Start Screen Use Shazam as much as you like – it’s unlimited. ===</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_1.5.0.408_x86__pqbynwjfrbcg4-1779152810.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779152813.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779152815.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779152816.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
   </app>
   <app id="2048-for-indows">
     <name>2048 for Windows</name>
@@ -1201,7 +1217,23 @@
     <featured>false</featured>
     <description>Play the most flexible version of 2048 yet! 2048 is a simple but addictive game where you move tiles of numbers. If matching numbers hit they merge into larger numbers. You win the game if you create a 2048 tile. 2048 for Windows allows you to set the size of the field between 4x4 and 7x7 and set your own goal. Practice and try to reach 128 or go wild and set it to 8192! To move the tiles you can use the arrow key, swipe with your fingers on a touch device or click and drag your mouse in the appropriate direction. Endless play is supported! Just continue playing after you have reached your goal!</description>
     <package>https://files.catbox.moe/p61y3w.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps-2-1779154668.png</screenshot1>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps-2-1779154668.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
+  <app id="hazam">
+    <name>Shazam(ARM/RT)</name>
+    <version>1.5.0.408</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779155561.png</icon>
+    <publisher>Shazam Entertainment Ltd</publisher>
+    <featured>false</featured>
+    <description>(SERVER DOESN'T WORK)
+    Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can: • Recognise songs and tracks wherever you are. Even offline! • Buy tracks from Windows Store • Instantly discover more about the song: get lyrics and see music videos and performances on YouTube • Share your discoveries to Facebook, Messenger, SMS, Email and more • Ask Cortana to “Shazam this” and instantly start identifying music around you With Shazam Live Tiles you can: • View your most recent Shazam • Shazam straight from the Start Screen Use Shazam as much as you like – it’s unlimited. ===</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_1.5.0.408_arm__pqbynwjfrbcg4-1779155559.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779155563.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779155564.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779155566.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -1265,7 +1297,7 @@
     <featured>false</featured>
     <description>★ Todo is a powerful and intuitive tasks manager. ★ See your tasks on the app's live tile, and set tasks notifications. ★ Repeating tasks (daily, weekly...), e.g. "Pay credit card" every month. Once completed, the task's date is updated to the next month. ★ Multi-level sub-tasking. ★ Very clean, responsive (fast) and intuitive user interface. ★ Customizable tasks view &amp; full search support.</description>
     <package>https://files.catbox.moe/4wntov.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000r/10-Store/refs/heads/main/files/todo1-1779412971.png</screenshot1>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo1-1779412971.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo2-1779412972.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo3-1779412975.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo4-1779412976.png</screenshot4>
@@ -1311,7 +1343,7 @@
   <app id="odafone-obile-roadband">
     <name>Vodafone Mobile Broadband</name>
     <version>2.10.46.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/logo-1779414590.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/logo-1779414590.png</icon>
     <publisher>Vodafone Group Services</publisher>
     <featured>true</featured>
     <description>This application helps you manage your mobile world. Access your online account, get messages, special offers, and find help and support. You can use this app with a Vodafone or partner SIM card and a mobile broadband device like a USB dongle or modem. To find out which mobile broadband devices are compatible, go to the ‘Details’ screen or search the FAQs.</description>
@@ -1326,11 +1358,11 @@
   <app id="news-presso">
     <name>newsXpresso</name>
     <version>2.0.2.208</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Logo.contrast-standard_scale-180-1779415086.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.contrast-standard_scale-180-1779415086.png</icon>
     <publisher>Esobil Incorporated</publisher>
     <featured>false</featured>
     <description>newsXpresso is a smart and friendly news reader that allows you to follow real-time news, videos, magazines, and blogs in multiple languages and global regions. Browse through extensive content catalog to create a fully personalized news reading experience. Read beautifully presented articles arranged in a magazine layout, and view interesting YouTube videos in full-screen. Also, with the 3D page flipping effect, the smooth transition gives you the feel of actually flipping a book.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/esobiIncorporated.newsXpressoMetro_2.0.2.208_neutral__sngswjb5h6fyg-1-1779415084.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/esobiIncorporated.newsXpressoMetro_2.0.2.208_neutral__sngswjb5h6fyg-1-1779415084.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779415087.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779415090.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779415093.png</screenshot3>
@@ -1347,7 +1379,7 @@
     <publisher>BBC Worldwide Ltd</publisher>
     <featured>true</featured>
     <description>This BBC Earth Wonders app showcases some of the most beautiful BBC natural history content, taken from landmark series such as Planet Earth, Frozen Planet and Life, along with stunning images from world-renowned natural history photographers. We won’t give it all away now, of course, but with this app you’ll learn an astonishing fact (or two) about the diminutive spectral tarsier, one of the world’s most unusual and secretive primates. The killer whale is a whale by name only - can you imagine what species it actually is? * Explore points of interest * Explore all the content by using a simple map interface - toggle easily between themes. For example ‘Bone smashers’ in Bird wonders, or ‘Awesome aurora’ and ‘Crystal caves’ from the theme of Beautiful wonders. * HD video * Each of the 50 points of interest has a 30 second clip of pin-sharp HD video, up to three hi-res full-screen images and facts written by the BBC’s natural history team. *Picture of the day* There’s a new picture to enjoy each day of the year. Each picture of the day is accompanied by a little-known fact - so remember to check each day. Did you know, for example, that some studies show that chimpanzees may suffer from mid-life crises? Or that the mantid has just one ear...located on its belly? --------------------------------------- **PLEASE NOTE** This app features 700MB of downloadable video content and we recommend that you have a steady wifi connection when using it on a tablet. Map locations are approximate. --------------------------------------- Want more natural history? Visit bbcearth.com to learn more about nature’s most incredible stories, or join us on Facebook at facebook.com/PlanetEarth. --------------------------------------- This app is produced by BBC Worldwide, the commercial arm of the BBC. BBC Worldwide is self-funded and returns profits to the BBC to be reinvested in programmes and services to help keep the UK licence fee as low as possible. For those who wonder why our apps aren't free, BBC Worldwide has the responsibility of channelling funds back to the BBC, so the BBC can continue to create amazing content.</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/BBCWorldwideLtd.BBCEarthWonders_1.1.0.2_neutral__g2s5c4trewyqj-1779415791.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BBCWorldwideLtd.BBCEarthWonders_1.1.0.2_neutral__g2s5c4trewyqj-1779415791.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earthwonders1-1779415796.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earthwonders2-1779415797.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/earthwonders3-1779415799.png</screenshot3>
@@ -1389,7 +1421,7 @@
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5-1779455344.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
+    <win81compatible>true</win81compatible>
   </app>
   <app id="aily-ic">
     <name>Daily Pic</name>
@@ -1438,7 +1470,7 @@
     <featured>true</featured>
     <description>IMPORTANT: In early March 2015, we’ll no longer support this app for this device. We’re sorry for the inconvenience. You can access mobile banking with us through your browser. Just go to www.bankofamerica.com. Bank conveniently and securely with Bank of America® Mobile Banking. Our Windows® 10 app makes it easier than ever. Manage Your Accounts* • Check activity and balances in checking, savings and credit card accounts • View mortgage and loan balances • View Merrill Edge and Merrill Lynch investment accounts • Set app Alerts to be notified of important account and security info Send Money to Virtually Anyone* • Securely send and receive money using a mobile number or email address (including to and from U.S. accounts outside of Bank of America)1 • Add recipients for email/mobile number transfers • Manage transfers between your Bank of America accounts • Visit www.bankofamerica.com/easymoneytransfer to learn more Pay Bills* • Schedule, edit or cancel payments • Pay eBills Deposit Checks • Use our app to snap photos of checks and deposit them from your mobile device2 • View processing deposits in account details in the app Enjoy BankAmeriDeals® • Choose Deals, shop as you normally do with your credit/debit cards and receive cash back • Get cash back into your eligible Bank of America account3 Stay Secure* • Sign in safely, using your same Online Banking credentials • Use SafePass® for additional security during sensitive transactions (you’ll receive a code to verify your identity) Contact Us Easily • Call us with any questions • Find ATMs and banking centers *Please visit Online Banking for these banking needs: Enrolling in Online Banking; wire transfers; transfers to external banks; transfers from credit cards; ordering new checks; ordering check copies; updating account nickname/transaction descriptions; canceling recurring transfers and payments; enrolling in Bill Pay/managing eBill information; changing or retrieving Online IDs; resetting Passcodes; unlocking/resetting SiteKey; stopping checks; ordering replacement debit or credit cards; activating new debit cards; setting travel flags; using ShopSafe®; going paperless; viewing mortgage and loan account details; enrolling in SafePass. 1Enrollment and Bank of America checking/savings account required. No fee for this service; dollar/frequency limits apply. Transfer permitted only to U.S.-based consumer accounts. See Online Banking Service Agreement for details. 2Deposits subject to verification and not available for immediate withdrawal. See Terms for other restrictions. 3Earned cash back credited the month following redemption. See Terms for other restrictions. Having general app issues? • Try clearing the browser and BofA app cache, then power off the device • If you’re on your home WiFi network and have a problem connecting, try resetting your modem/router • Make sure you’re running the latest OS • Visit our in-app Help to learn more Terms/Service Agreement: www.bankofamerica.com/serviceagreement Windows® is a trademark of the Microsoft group of companies. Bank of America and related trademarks are trademarks of Bank of America Corporation Bank of America, N.A. Member FDIC © 2015 Bank of America Corporation</description>
     <package>https://files.catbox.moe/t7h945.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000r/10-Store/refs/heads/main/files/bank1-1779482921.png</screenshot1>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bank1-1779482921.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bank2-1779482923.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bank3-1779482924.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bank4-1779482926.png</screenshot4>
@@ -1573,9 +1605,9 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="ruit-inja-arm">
-    <name>Fruit Ninja for Windows RT</name>
+    <name>Fruit Ninja (ARM/RT)</name>
     <version>1.8.1.66</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/TileSquareImage-1779617255.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/TileSquareImage-1779617255.png</icon>
     <publisher>Halfbrick Studios Pty Ltd</publisher>
     <featured>false</featured>
     <description>Slice across the screen to deliciously slash and splatter fruit like a true ninja warrior. Be careful of bombs – they are explosive to touch and will put a swift end to your juicy adventure! Fruit Ninja features Classic, Zen and the amazing Arcade mode! Your success will also please the wise ninja Sensei, who will accompany your journey with wise words and fun fruit facts. Fruit Ninja is the messiest and most satisfying fruit game ever! **** IMPORTANT NOTICE TO PARENTS This game may contain: - The ability to make optional in-app purchases using real money. - Links to external social networking sites intended for users over the age of 13. - Direct links to the internet which may open the default web browser on your device. Privacy Policy: http://www.halfbrick.com/pp Terms of Service: http://www.halfbrick.com/tos</description>
@@ -1600,7 +1632,7 @@
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit1-1779617654.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit2-1779617656.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit3-1779617658.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/msnsports-31000r/10-Store/refs/heads/main/files/fruit4-1779617661.png</screenshot4>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit4-1779617661.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fruit5-1779617663.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
@@ -1623,7 +1655,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="etpack-oyride-arm">
-    <name>Jetpack Joyride for Windows RT</name>
+    <name>Jetpack Joyride(ARM/RT)</name>
     <version>1.0.3.68</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/jetpack_joyride_win8_title_tile_xbl_150x150-1779619477.png</icon>
     <publisher>Halfbrick Studios Pty Ltd</publisher>
@@ -1673,7 +1705,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="huffle-arty-arm-rt">
-    <name>Shuffle Party for Windows RT</name>
+    <name>Shuffle Party(ARM/RT)</name>
     <version>2.2.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.40222.9007199266247474.d9433003-9ced-46b3-8ac4-8310c15c6aa2-1779704430.png</icon>
     <publisher>Microsoft Studios</publisher>
@@ -1696,7 +1728,7 @@
     <publisher>MUZZLEY S.A.</publisher>
     <featured>false</featured>
     <description>Create and Enjoy your Smart Home with Muzzley! Now available on Windows 10 Desktop and Windows 10 Mobile! Muzzley allows you to connect with and manage all your smart devices in the same app! Through a wifi or 4G connection, you can control them anytime, from anywhere! Create your own set of automation rules &amp; connect your devices according to your needs, without even having to open the app! When you go to bed at night, do you want to turn on the alarm? DONE! When you arrive home, do you want your living room lights to turn on? DONE! Want to make sure your home doors are locked when you are not at home? DONE! With so many devices &amp; automation options, the possibilities are endless! You don’t need to adjust to your home…now your home adjusts to you! FEATURES * Wide range of compatible devices, including: Wink Hub (Lights added through the Wink Hub: Hampton, Connected Cree, Commercial Electric, TCP LED, OSRAM, GE Link, Philips Hue ; Locks added through the Wink Hub: Kwikset, Schlage), Nest Thermostat, Nest Smoke Detector, Withings Scale, Koubachi Plant Sensor, Milight and Easybulb, TCP lighting, Rachio Iro Sprinkler, Insteon Hub V2 (model 2245-222), iHealth, Beurer, Misfit, FitBit, Jawbone, Lockitron, GreenIQ, Automatic, Egardia, LIFX * Shortcuts in-app * Home Automation * Security &amp; Surveillance * Health tracking * Manual/Remote Control * Location and Time based Agents, and much more! We are here to help! If you have any questions and/or suggestions, please email us at support@muzzley.com</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/muzzley.muzzley_2.7.4.0_x64__sfq2wxfwv48s4-1779736243.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzzley.muzzley_2.7.4.0_x64__sfq2wxfwv48s4-1779736243.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz1-1779736248.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz2-1779736249.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz3-1779736251.png</screenshot3>
@@ -1708,18 +1740,18 @@
   </app>
   <app id="otebook-ro">
     <name>Notebook Pro</name>
-    <version>2.0.311.11</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779743852.png</icon>
+    <version>2.3.1012.0</version>
+    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779743852.png</icon>
     <publisher>StokedOnIt</publisher>
     <featured>false</featured>
     <description>Replace your paper notebook! Unleash your creativity with the ultimate app for drawing, writing, whiteboarding, remote teaching, note-taking, designing, and more using vector-based graphics. Annotate PDFs, and add text, images, and photos to a virtual canvas with this amazing smart paper app. Notebook Pro replaces paper, whiteboards, dry-erase boards, and projectors with one powerful and versatile tool. Discover why over 1.5 million users love Notebook Pro and unleash your creativity today! Notebook Pro is limitless for anything you use paper or whiteboards for, and more. It’s great for everything from designing your next great product to quickly doodling on an image.</description>
-    <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/22StokedOnIt.NotebookPro_2.3.1012.0_neutral___ffs55s3hze5sr.AppxBundle_1782327271054.appxbundle</package>
+    <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/22StokedOnIt.NotebookPro_2.3.1012.0_neutral___ffs55s3hze5sr.AppxBundle_1782421763109.appxbundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779743852.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779743854.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779743855.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
+    <win81compatible>true</win81compatible>
   </app>
   <app id="ibs-120-00-niversal-12-0-30501-0-x64">
     <name>VCLibs.120.00.Universal_12.0.30501.0_x64</name>
