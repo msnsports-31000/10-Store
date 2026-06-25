@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <quotes>
-    <quote>placeholder</quote>
-    <quote><placeholder/quote>
-    <quote><placeholder/quote>
-    <quote>placeholder<quote>
-    <quote>placeholder</quote>
-    <quote>placeholder</quote>
+    <quote><placeholder</quote>
+    <quote><placeholder</quote>
+    <quote><placeholder</quote>
+    <quote><placeholder</quote>
+    <quote><placeholder</quote>
+    <quote><placeholder</quote>
   </quotes>
   <categories>
     <category title="Featured" type="featured"/>
