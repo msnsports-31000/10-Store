@@ -1177,7 +1177,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="hazam-arm-rt">
+  <app id="hazam">
     <name>Shazam</name>
     <version>4.7.9.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square44x44Logo.targetsize-256.png</icon>
@@ -1205,9 +1205,9 @@
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779152813.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779152815.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779152816.png</screenshot3>
-    <pcCapable>true</pcCapable>
+    <pcCapable>false</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
   </app>
   <app id="2048-for-indows">
     <name>2048 for Windows</name>
@@ -1234,9 +1234,9 @@
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779155563.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779155564.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779155566.png</screenshot3>
-    <pcCapable>true</pcCapable>
+    <pcCapable>false</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
   </app>
   <app id="eddit2-o">
     <name>Reddit2Go!</name>
