@@ -309,10 +309,10 @@
     <publisher>Asparion</publisher>
     <featured>false</featured>
     <description>Turn your Windows device into a flashlight. Use the camera flash or your screen to light your way anytime anywhere. Adjust the brightness to get the most out of your device.</description>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft0-1775849252.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft1-1775849253.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft2-1775849254.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft3-1775849256.png</screenshot4>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight4.png</screenshot4>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.Taschenlampe_1.2.5.0_x64__f89vgcf3qm37t-1775848502.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
