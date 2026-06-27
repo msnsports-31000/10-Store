@@ -1597,7 +1597,7 @@
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779565321.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
-    <description>a japan TV app (lost media)</description>
+    <description>テレBing 番組表 は、最強のテレビ番組表を皆様に提供することを目指します。そしてテレビ番組に対して様々なインタラクションを可能にします。例えば友人や仲間と共有したり、アラームをセットしたり、番組のより詳しい情報を見たりできます。</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Bing_TV-1779565318.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot1>
     <pcCapable>true</pcCapable>
