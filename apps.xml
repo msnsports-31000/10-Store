@@ -1726,9 +1726,9 @@
     <version>2.7.4.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/aaaaaa-1779736246.png</icon>
     <publisher>MUZZLEY S.A.</publisher>
-    <featured>false</featured>
+    <featured>true</featured>
     <description>Create and Enjoy your Smart Home with Muzzley! Now available on Windows 10 Desktop and Windows 10 Mobile! Muzzley allows you to connect with and manage all your smart devices in the same app! Through a wifi or 4G connection, you can control them anytime, from anywhere! Create your own set of automation rules &amp; connect your devices according to your needs, without even having to open the app! When you go to bed at night, do you want to turn on the alarm? DONE! When you arrive home, do you want your living room lights to turn on? DONE! Want to make sure your home doors are locked when you are not at home? DONE! With so many devices &amp; automation options, the possibilities are endless! You don’t need to adjust to your home…now your home adjusts to you! FEATURES * Wide range of compatible devices, including: Wink Hub (Lights added through the Wink Hub: Hampton, Connected Cree, Commercial Electric, TCP LED, OSRAM, GE Link, Philips Hue ; Locks added through the Wink Hub: Kwikset, Schlage), Nest Thermostat, Nest Smoke Detector, Withings Scale, Koubachi Plant Sensor, Milight and Easybulb, TCP lighting, Rachio Iro Sprinkler, Insteon Hub V2 (model 2245-222), iHealth, Beurer, Misfit, FitBit, Jawbone, Lockitron, GreenIQ, Automatic, Egardia, LIFX * Shortcuts in-app * Home Automation * Security &amp; Surveillance * Health tracking * Manual/Remote Control * Location and Time based Agents, and much more! We are here to help! If you have any questions and/or suggestions, please email us at support@muzzley.com</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzzley.muzzley_2.7.4.0_x64__sfq2wxfwv48s4-1779736243.appx</package>
+    <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/muzzley.muzzley_2.7.4.0_neutral___sfq2wxfwv48s4.AppxBundle_1782541702900.appxbundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz1-1779736248.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz2-1779736249.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz3-1779736251.png</screenshot3>
@@ -1770,7 +1770,7 @@
     <version>1.2.7.1000</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square310x310Logo.scale-200-1779814443.png</icon>
     <publisher>Pix3d</publisher>
-    <featured>false</featured>
+    <featured>true</featured>
     <description>Win note is a simple application for managing notes. With Win note you can write and edit anything you want in a practical and quick way. Some features: - search functionality - pin every single note to the start screen - protect data with a Pin code - share note via email, sms, facebook and many others - backup notes on onedrive and restores them when you want</description>
     <package>https://files.catbox.moe/bhuvj2.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/note1-1779814446.png</screenshot1>
@@ -1802,7 +1802,7 @@
     <version>2.0.6.0</version>
     <icon>https://i.ibb.co/d4xqgsFX/File-Association-Logo.png</icon>
     <publisher>dishantshah</publisher>
-    <featured>false</featured>
+    <featured>true</featured>
     <description>Get best text editing experience on your PC and ARM devices, It is carefully designed for touch ,mouse and keyboard. It has best UI that you will love to use.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/58229dishantshah.ModernNotepad_2.0.6.0_neutral_-_10r96kznk2q98-1780824585.appxbundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ModernNotepad1-1780824588.png</screenshot1>
