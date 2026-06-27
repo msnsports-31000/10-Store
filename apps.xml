@@ -1794,4 +1794,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+    <app id="indows-entral">
+    <name>Windows Central</name>
+    <version>1.2.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square44x44Logo.targetsize-256_altform-unplated.png</icon>
+    <publisher>Mobile Nations</publisher>
+    <featured>false</featured>
+    <description>THE APP DOESNT CONNECT TO SERVERS Welcome to Windows Central for Windows 10! The app is available for phone and PC or wherever you have Windows 10. Through our app you can get all the access to the number #1 Microsoft and Windows site in the world at www.windowscentral.com. The Windows Central app is free and ad-free and includes the following features: - Ad-free viewing experience to all our articles, reviews, and editorials - Windows 10 Ready - Optimized for Windows 10 and Continuum! - Forums - Access to our vast user forums for help, tips, and info - YouTube Channel – See all our videos directly - Comments – Leave your thoughts or respond to another user including up and down votes - Actionable notifications for comments and forums - Video – Embedded YouTube videos within the article - App Downloads – Custom links to download apps and games we cover - Live Tile with latest articles - User selectable color accents for the app - Dark or Light theme - Push notifications for new articles - More coming soon!</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/MobileNations.WindowsCentral_1.2.3.0_neutral_~_21fqgzz6f91bm.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral1-1789894.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral2-1789896.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral3-1789898.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral4-1789990.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral5-178992.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
