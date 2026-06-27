@@ -124,18 +124,6 @@
     <win81compatible>true</win81compatible>
     <drayYTproject>true</drayYTproject>
   </app>
-  <app id="enon-tore">
-    <name>XenonStore</name>
-    <version>0.0.1.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/xs_store-1775002300.png</icon>
-    <publisher>MSN Money Apps Corporation</publisher>
-    <featured>false</featured>
-    <description/>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/XenonStore_0.0.1.0_AnyCPU_Debug-1775002299.appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="etro-ommander">
     <name>Metro Commander Pro</name>
     <version>1.1.81</version>
