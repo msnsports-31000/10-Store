@@ -1600,10 +1600,10 @@
     <description>テレBing 番組表 は、最強のテレビ番組表を皆様に提供することを目指します。そしてテレビ番組に対して様々なインタラクションを可能にします。例えば友人や仲間と共有したり、アラームをセットしたり、番組のより詳しい情報を見たりできます。</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Bing_TV-1779565318.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot1>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot2>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot3>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot4>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot5>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screen1-1779565322.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
