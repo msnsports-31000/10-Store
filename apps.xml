@@ -1193,22 +1193,6 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-  <app id="hazam-x86">
-    <name>Shazam x86</name>
-    <version>1.5.0.40 x86</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779152812.png</icon>
-    <publisher>Shazam Entertainment Ltd</publisher>
-    <featured>false</featured>
-    <description>(SERVER DOES NOT WORK)
-    Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can: • Recognise songs and tracks wherever you are. Even offline! • Buy tracks from Windows Store • Instantly discover more about the song: get lyrics and see music videos and performances on YouTube • Share your discoveries to Facebook, Messenger, SMS, Email and more • Ask Cortana to “Shazam this” and instantly start identifying music around you With Shazam Live Tiles you can: • View your most recent Shazam • Shazam straight from the Start Screen Use Shazam as much as you like – it’s unlimited. ===</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_1.5.0.408_x86__pqbynwjfrbcg4-1779152810.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779152813.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779152815.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779152816.png</screenshot3>
-    <pcCapable>false</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
-  </app>
   <app id="2048-for-indows">
     <name>2048 for Windows</name>
     <version>2014.507.1153.3876</version>
@@ -1221,22 +1205,6 @@
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
-  </app>
-  <app id="hazam">
-    <name>Shazam for Windows RT</name>
-    <version>1.5.0.408</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779155561.png</icon>
-    <publisher>Shazam Entertainment Ltd</publisher>
-    <featured>false</featured>
-    <description>(SERVER DOESN'T WORK)
-    Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can: • Recognise songs and tracks wherever you are. Even offline! • Buy tracks from Windows Store • Instantly discover more about the song: get lyrics and see music videos and performances on YouTube • Share your discoveries to Facebook, Messenger, SMS, Email and more • Ask Cortana to “Shazam this” and instantly start identifying music around you With Shazam Live Tiles you can: • View your most recent Shazam • Shazam straight from the Start Screen Use Shazam as much as you like – it’s unlimited. ===</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_1.5.0.408_arm__pqbynwjfrbcg4-1779155559.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1779155563.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1779155564.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1779155566.png</screenshot3>
-    <pcCapable>false</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
   </app>
   <app id="eddit2-o">
     <name>Reddit2Go!</name>
