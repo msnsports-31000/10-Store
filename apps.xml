@@ -1845,4 +1845,19 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="team-iles-or-indows-10">
+    <name>Steam Tiles for Windows 10</name>
+    <version>1.0.4.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SteamTilesforWindows10-178.png</icon>
+    <publisher>pepeizq</publisher>
+    <featured>false</featured>
+    <description>Add Tiles of your games installed in Steam.</description>
+    <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/5078pepeizq.SteamTilesforWindows10_1.0.4.0_x86__jw834bm4t66e0.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SteamTilesforWindows10_1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SteamTilesforWindows10_2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SteamTilesforWindows10_3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
