@@ -1816,7 +1816,7 @@
     <version>2014.411.2144.1035</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/icon.targetsize-256.png</icon>
     <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
+    <featured>true</featured>
     <description>Turn any video into a memorable moment you’ll love to share. With this app, you can trim your video to your favorite parts, highlight key moments with captions and effects, and set the mood with music.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.MovieMoments_2014.411.2144.1035_neutral_~_8wekyb3d8bbwe.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/moviemoments1.png</screenshot1>
