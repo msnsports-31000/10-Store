@@ -1249,23 +1249,6 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="odo-x64">
-    <name>Todo(x64)</name>
-    <version>1.3.1.64</version>
-    <icon>https://i.ibb.co//QvL1Lvq1//todo.png</icon>
-    <publisher>Katans</publisher>
-    <featured>false</featured>
-    <description>★ Todo is a powerful and intuitive tasks manager. ★ See your tasks on the app's live tile, and set tasks notifications. ★ Repeating tasks (daily, weekly...), e.g. "Pay credit card" every month. Once completed, the task's date is updated to the next month. ★ Multi-level sub-tasking. ★ Very clean, responsive (fast) and intuitive user interface. ★ Customizable tasks view &amp; full search support.</description>
-    <package>https://files.catbox.moe/4wntov.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo1-1779412971.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo2-1779412972.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo3-1779412975.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo4-1779412976.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/todo5-1779412977.png</screenshot5>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="amsung-rinter-xperience">
     <name>Samsung Printer Experience</name>
     <version>1.3.15.0</version>
@@ -1284,7 +1267,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="odo">
-    <name>Todo(ARM)</name>
+    <name>Todo for ARM</name>
     <version>1.3.1.64</version>
     <icon>https://i.ibb.co//QvL1Lvq1//todo.png</icon>
     <publisher>Katans</publisher>
@@ -1828,4 +1811,22 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+    <app id="ccuweather-eather-or-ife-or-rm">
+    <name>AccuWeather - Weather for Life for ARM</name>
+    <version>10.0.179.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/AccuWeatherSquare44x44.targetsize-256_altform-unplated.png</icon>
+    <publisher>AccuWeather</publisher>
+    <featured>false</featured>
+    <description>Stay connected to the latest in weather forecasting with AccuWeather – Weather for Life. This free weather app was designed for Windows 10 users and has the very latest in weather news and information, including MinuteCast®, the leading minute-by-minute precipitation forecast that is hyper-localized to your exact street address. Key features include: AccuWeather MinuteCast® – minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address or GPS location. Includes precipitation type and intensity, and start and end times for precipitation. Available for the contiguous United States, Canada, United Kingdom, Ireland, Japan, France, Germany, Belgium, Switzerland, Netherlands, Luxembourg, Sweden, Denmark, parts of the Czech Republic, Gibraltar, Liechtenstein and a growing list of global locations. Severe weather notices for all locations – visible from anywhere within the app. Pushed severe weather alerts straight to your Windows Phone for locations in the United States, Canada, United Kingdom, and Germany. Accurate and local forecasts for every latitude/longitude on Earth. Forecasts update every 15 minutes with information for the next 15 days – all in 33 languages and dialects. Current weather conditions displayed with location name and time, temperature, wind speed, wind gust speed and wind direction, precipitation and amounts, humidity, visibility, UV Index, cloud cover, pressure, and AM and PM times for sunrise and sunset. Option to set current conditions to update as your GPS location changes. The Local Forecast Summary, a brief summary of what you can expect from the weather over the next 3-5 days for your location. Fully interactive, full-screen Bing Maps overlaid with AccuWeather’s precise weather data, including U.S., Canadian, European, and Japanese radar. Unlimited location storage for your GPS location and all your favorites. Pin Live Tiles in four sizes for multiple locations that peek and automatically update the forecasts on the Start screen. Download AccuWeather – Weather for Life today for free and experience the Superior Accuracy™ that comes from high-quality weather forecasting. Patched with NewRetiled, credit to migbrunluz.</description>
+    <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/AccuWeather.Windows_10.0.179.1000_ARM_1782662346360.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+
   </data>
