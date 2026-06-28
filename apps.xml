@@ -1790,7 +1790,7 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral3-1789898.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral4-1789990.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral5-178992.png</screenshot5>
-    <pcCapable>true</pcCapable>
+    <pcCapable>false</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
