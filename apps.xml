@@ -746,8 +746,8 @@
     <featured>false</featured>
     <description/>
     <package>https://github.com/thedoggybrad/Paint3DArchive/releases/download/b1/2.1703.21017.1000.AppxBundle</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
+    <pcCapable>false</pcCapable>
+    <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
   <app id="ray-for-windows-8-1">
