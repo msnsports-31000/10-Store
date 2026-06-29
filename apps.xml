@@ -277,6 +277,7 @@
     <featured>true</featured>
     <description>Let your device talk. Just for fun or be productive and learn the pronunciation of words in foreign languages.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.Sag_2.0.6.0_x86__f89vgcf3qm37t-1775843332.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/speak+1.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
