@@ -1863,7 +1863,7 @@
   </app>
     <app id="erizon-onnection-anager">
     <name>Verizon Connection Manager</name>
-    <version>2018.1025.609.0/version>
+    <version>2018.1025.609.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/verizonconnectionmanagerlogo.png</icon>
     <publisher>Placeholder</publisher>
     <featured>false</featured>
