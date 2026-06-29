@@ -1865,9 +1865,9 @@
     <name>Verizon Connection Manager</name>
     <version>2018.1025.609.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/verizonconnectionmanagerlogo.png</icon>
-    <publisher>Placeholder</publisher>
+    <publisher>Verizon Wireless</publisher>
     <featured>false</featured>
-    <description>Placeholde</description>
+    <description>The Verizon Connection Manager app gives you a centralized place to manage your Verizon Wireless mobile broadband connection. For use with Verizon mobile broadband tablets. A Verizon SIM is required. You can: - Check the status of your Verizon Wireless network connection - Open Windows network settings to connect to or disconnect from a network - Change network mode and Access Point Name (APN) settings - Get information about your Verizon Mobile Broadband modem and SIM - Lock your SIM - Open the My Verizon Mobile app - Go to the Verizon Wireless account activation web page if you don’t have a Verizon Wireless data plan or you’ve reached a data usage limit Also: - You’ll be reminded when you’re outside the Verizon Wireless network and being charged roaming rates, if applicable.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/VerizonWireless.VerizonConnectionManager_2018.1025.609.0_neutral_~_40sg4y5zd4vfj.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/verizonconnectionmanagerscreenshot1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/verizonconnectionmanagerscreenshot2.png</screenshot2>
