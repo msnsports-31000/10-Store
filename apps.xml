@@ -925,7 +925,7 @@
     <featured>true</featured>
     <description>the youtube uwp client (need API keys)</description>
     <package>https://github.com/OpenGlebsur/win8storerevivalserver/raw/refs/heads/main/59750RykenApps.myTubeBeta_4.0.21.0_x86__zd92nzxdcatqw.Appx</package>
-    <pcCapable>true</pcCapable>
+    <pcCapable>false</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
