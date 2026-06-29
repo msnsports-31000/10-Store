@@ -1893,4 +1893,20 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+    <app id="y-erizon-obile">
+    <name>My Verizon Mobile</name>
+    <version>2015.826.1608.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/MyVerizonMobile_Logo.png</icon>
+    <publisher>Verizon Wireless</publisher>
+    <featured>false</featured>
+    <description>Take control of your wireless account. Use the My Verizon Mobile App to get account information on-the-go! Check Usage, Make Payments, Change Features and more! Requires a Verizon Wireless My Verizon account and Verizon Wireless device. To register for My Verizon, visit www.verizonwireless.com/myverizon and select "Register".</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/VerizonWireless.MyVerizonMobile_2015.826.1608.0_neutral_~_40sg4y5zd4vfj.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/MyVerizonMobile_Screenshot1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/MyVerizonMobile_Screenshot2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/MyVerizonMobile_Screenshot3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/MyVerizonMobile_Screenshot4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
   </data>
