@@ -1956,4 +1956,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="oco-usic-layer">
+    <name>Loco music player</name>
+    <version>2.1.20.1000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Locomusicplayer_img.png</icon>
+    <publisher>sunbeam</publisher>
+    <featured>false</featured>
+    <description>Playlist oriented music player that plays music stored on your phone. Enjoy your music with this powerful and easy-to-use music player. Features: - full playlist control (remove track, change track order, sort, shuffle) - two main views: - playlist view - now playing view with gesture support - add tracks from specific folder (including subfolders) - search for tracks - browse tracks by title, artist, album and genre - add tracks from SD card - download and play music from OneDrive - display album art - display lyrics from mp3 tag - in app volume control - auto saving playlists - multiple themes support - save unlimited playlists - it remembers last playback position - share single song from playlist - share multiple songs from library browser - FLAC support - supported playlist formats (m3u, m3u8, wpl, zpl)</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/17371sunbeam.Locomusicplayer_2.1.20.1000_x86__zdfp72fgz1csm.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Locomusicplayer_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Locomusicplayer_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Locomusicplayer_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Locomusicplayer_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Locomusicplayer_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
