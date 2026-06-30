@@ -1986,4 +1986,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="over-omic-reader">
+    <name>Cover - Comic reader</</name>
+    <version>3.5.919.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Cover_logo.png</icon>
+    <publisher>French Fry</publisher>
+    <featured>false</featured>
+    <description>Cover is the best app to read and manage your comic books. More than 1.7M downloads and 4+ stars, Cover has been featured several times by Microsoft in the US, France, Canada, etc. Import all your folders in a single step, view them all in a beautiful UI, enjoy the powerful and fast reader. Cover is compatible with a broad range of formats, can load your files from OneDrive, Google Drive and Dropbox, and synchronizes automatically when you add or edit comic books using Windows Explorer. Download Cover and use it for free to manage up to 25 comic books, without any ads or feature restriction. If you want to have all your comic books at the same time in Cover, or you want to support us, lifetime in-app purchases are available to let you unlock 250 or unlimited comic books. This will unlock all your devices (computers and tablets) in one purchase. The main features that make the awesomeness of Cover: - All of your file formats are supported: CBZ/ZIP, CBR/RAR, 7Z/CB7, CBT, PDF, EPUB (images only) - Crystal-clear library management: Shelves, read/unread status, page count, current page,... - Store your comic books wherever you want: Local folder, local network, OneDrive, Google Drive, Dropbox. - Customize your reading experience: single/dual page, vertical scrolling, fit width/height/page, background color, cropping, night mode,... - Check the feature list below for much more! From US comic books to Japanese mangas through European comics, enjoy your whole library wherever you are: Spiderman, Batman, X-Men, One Piece, Berserk, Dragon Ball, Tintin, Asterix, ... are all within reach at anytime, in the smoothest reading experience of the Windows Store. If you like the app, please leave a review, it helps! Contact us: https://frenchfrysoftware.com/support Twitter: @frenchfry Note: The app does not contain any comic book. You can download comic books separately on websites such as imagecomics.com or comicbookplus.com. Cover is compatible with any DRM-free comic book.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/FrenchFry.Cover_3.5.919.0_neutral_~_a3mvwcjazefp4.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cover_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cover_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cover_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cover_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/cover_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
