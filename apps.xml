@@ -973,7 +973,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="icrosoft-liplets">
-    <name>Microsoft BLINK Cliplets</name>
+    <name>BLINK Cliplets</name>
     <version>1.0.1.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778084602.png</icon>
     <publisher>Microsoft Research</publisher>
@@ -990,7 +990,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="link-liplets">
-    <name>Microsoft BLINK Cliplets for ARM</name>
+    <name>BLINK Cliplets for ARM</name>
     <version>1.0.1.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Small-Logo-targetsize-256-1778090046.png</icon>
     <publisher>Microsoft Research</publisher>
