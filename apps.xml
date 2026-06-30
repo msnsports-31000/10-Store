@@ -2004,7 +2004,7 @@
     <win81compatible>false</win81compatible>
   </app>
     <app id="ysms-ext-rom-omputer-essaging">
-    <name>mysms - Text from Computer, Messaging</</name>
+    <name>mysms - Text from Computer, Messaging</name>
     <version>3.2.2.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_img</icon>
     <publisher>Up to Eleven Digital Solutions GmbH</publisher>
