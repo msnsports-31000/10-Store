@@ -1939,4 +1939,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="ookviser-review">
+    <name>Bookviser Preview</name>
+    <version>7.1.113.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BookviserPreview_img.png</icon>
+    <publisher></publisher>
+    <featured>false</featured>
+    <description>This app is an early preview version of the current "Bookviser Reader". We will regularly update it until it's ready to be released. We will then publish it as an update of the current version. Many features are disabled, but we will be adding them one by one. - Bookviser Preview is supposed to handle CSS formatting in EPUB books. - Books are now stored in one or several folders of your choice. You can add or remove files from these folders, and the library will get updated respectively. - You can zoom Images in the book. Your feedback is welcome.</description>
+    <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/BookviserInc.BookviserPreview_7.1.113.0_x86__kfyhp4yj0hvpw.Appx_1782855163778.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bookviserpreview_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bookviserpreview_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bookviserpreview_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bookviserpreview_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/bookviserpreview_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
