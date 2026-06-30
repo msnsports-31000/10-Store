@@ -1973,4 +1973,17 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="vg-ownload-enter">
+    <name>AVG Download Center</name>
+    <version>1.7.5.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/AVG_img.png</icon>
+    <publisher>AVG Technologies</publisher>
+    <featured>false</featured>
+    <description>AVG Download Center makes it easy to download AVG AntiVirus Free or any of the other AVG security &amp; performance products for your Windows devices. It also brings you the latest news about malware, viruses, security trends and performance tips and tricks. AVG AntiVirus Free protects all of your family's Windows 10 or 8.1 desktops, laptops and tablets. All of our security products install in moments but protect forever. </description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/47772AVGTechnologies.AVGDownloadCenter_1.7.5.0_neutral_~_s3czyhv009dac.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/avg_scr.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
