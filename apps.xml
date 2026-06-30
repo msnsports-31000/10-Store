@@ -1909,4 +1909,17 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+    <app id="rc-ouch-luetooth-ouse">
+    <name>Arc Touch Bluetooth Mouse</name>
+    <version>3.0.12.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ArcTouchBluetoothMouseLogo.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>This app provides configuration settings for Arc Touch Bluetooth Mouse and Arc Touch Mouse Surface Edition. Note: This app is designed for Windows 10</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.ArcTouchMouseSurfaceEditionSettings_3.0.12.0_neutral_~_8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ArcTouchBluetoothMousescreenshot1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
