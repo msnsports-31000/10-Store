@@ -1943,7 +1943,7 @@
     <name>Bookviser Preview</name>
     <version>7.1.113.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BookviserPreview_img.png</icon>
-    <publisher></publisher>
+    <publisher>Bookviser Inc</publisher>
     <featured>false</featured>
     <description>This app is an early preview version of the current "Bookviser Reader". We will regularly update it until it's ready to be released. We will then publish it as an update of the current version. Many features are disabled, but we will be adding them one by one. - Bookviser Preview is supposed to handle CSS formatting in EPUB books. - Books are now stored in one or several folders of your choice. You can add or remove files from these folders, and the library will get updated respectively. - You can zoom Images in the book. Your feedback is welcome.</description>
     <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/BookviserInc.BookviserPreview_7.1.113.0_x86__kfyhp4yj0hvpw.Appx_1782855163778.appx</package>
