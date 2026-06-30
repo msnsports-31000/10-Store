@@ -2003,4 +2003,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="ysms-ext-rom-omputer-essaging">
+    <name>mysms - Text from Computer, Messaging</</name>
+    <version>3.2.2.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_img</icon>
+    <publisher>Up to Eleven Digital Solutions GmbH</publisher>
+    <featured>false</featured>
+    <description>Text from your tablet and computer – a completely new messaging experience via the cloud. With mysms you can send/receive text messages on your Windows 8 / 10 PC or tablet using your current phone number. Your SMS inbox is synced with your phone and always up to date, no matter from which device you send your messages. Your benefits with mysms: ** Send and receive text messages on your tablet and PC ** Automatic sync between your smartphone, tablet and computer ** Call notifications on your PC- when you receive a call on your phone ** MMS Group chat and multimedia support *** This app is not self-contained. To start texting from your computer, you need to download mysms on your phone and register for an account. This step is required for mysms to work. This app works for phone users. *** Just follow these steps and you’ll be on your way: Step 1) Install mysms on your phone and register Step 2) Start the mysms Windows 8 app on your PC or tablet and log in using your number and password. ****************** We’re always happy to hear from you! Do you have a suggestion? A question? A problem using the application? Just send an email to help@mysms.com and we’ll get back to you as quickly as possible. You can reach us on Facebook at facebook.com/mysms, Twitter @mysms and Google+ gplus.to/mysms.</description>
+    <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/UptoElevenDigitalSolution.mysms-Textanywhere_3.2.2.0_neutral___c9d6r4qvva5x8.AppxBundle_1782859949409.appxbundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
