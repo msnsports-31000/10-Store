@@ -1922,4 +1922,21 @@
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="underlist-o-Do-ist-n-tasks">
+    <name>Wunderlist: To-Do List &amp; Tasks</name>
+    <version>3.6.27.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/WunderlistLogo.png</icon>
+    <publisher>6 Wunderkinder GmbH</publisher>
+    <featured>true</featured>
+    <description>Wunderlist helps millions of people around the world capture their ideas, things to do and places to see. Wunderlist has joined Microsoft! Get the to-do lists, tasks and features you love from Wunderlist on our new app: Microsoft To Do. Plus: a smart daily planner, Microsoft apps and services integration, customization and more! Make to-do lists and tasks assignments for any purpose. Grocery lists for the family, project to-do lists, a checklist for vacation plans and more - Wunderlist makes it easy to share your lists and collaborate with everyone in your life. Wunderlist instantly syncs between your phone, tablet and computer, so you can access your lists from anywhere. Lists need to move from Wunderlist to To Do? Import tasks automatically to keep using all your favorite Wunderlist features and more on Microsoft To Do. ----- Critics Love Wunderlist “The best to-do list app.” - The Verge Wunderlist has also been featured in The New York Times, Lifehacker, TechCrunch, CNET, The Guardian, Wired, and Vanity Fair, just to name a few. ----- Wunderlist Features: To-Do Lists • Create all the lists you need and access them from your phone, tablet and computer • Attach photos, PDFs, presentations and more • Setting a Reminder ensures you never forget important deadlines (or birthday gifts) ever again • Organize your projects for home, work and everywhere in between with Folders Collaborate • Easily share lists and collaborate with family, friends and colleagues • Start conversations about your to-dos • Share the work and delegate to-dos To-Do On-The-Go • Productivity from anywhere, thanks to Wunderlist’s apps for your phone, smart watch, tablet and computer Upgrade your Wunderlist experience with Microsoft To Do for all your task and to-do lists today. Our Terms of Use: http://www.wunderlist.com/terms-of-use Our Privacy Policy: http://www.wunderlist.com/privacy-policy Learn more about Wunderlist at www.wunderlist.com</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/6Wunderkinder.Wunderlist_3.6.27.0_x86__b4cwydgxqx59r.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/WunderlistScreenshot1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/WunderlistScreenshot2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/WunderlistScreenshot3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/WunderlistScreenshot4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/WunderlistScreenshot5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
