@@ -2074,7 +2074,7 @@
     <win81compatible>false</win81compatible>
   </app>
     <app id="tore-ngagement">
-    <name>Store Engagement (x86)</name>
+    <name>Store Engagement</name>
     <version>10.0.23012.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.31504.14066169654408422.36c4fe2f-9afd-4a7a-ab2b-245d0cfb8762-1775757988.png</icon>
     <publisher>Microsoft Corporation</publisher>
