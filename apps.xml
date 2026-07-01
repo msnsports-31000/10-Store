@@ -2119,4 +2119,20 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="ed">
+    <name>TED</name>
+    <version>2.2.12.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/TED_IMG.png</icon>
+    <publisher>TED Conferences LLC</publisher>
+    <featured>false</featured>
+    <description>TED's official app presents talks from some of the world's most fascinating people: education radicals, tech geniuses, medical mavericks, business gurus, and music legends. Find more than 1700 TEDTalk videos and audios (with more added each week) on the official TED app -- now for Windows.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/TEDConferencesLLC.TED_2.2.12.0_neutral_~_tdf10p8az89a6.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ted_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ted_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ted_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ted_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
