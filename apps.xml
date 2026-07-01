@@ -2020,4 +2020,16 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+      <app id="music-ip">
+    <name>GMusic VIP</name>
+    <version>1.1.15.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/GMusic_IMG.png</icon>
+    <publisher>Up to Eleven Digital Solutions GmbH</publisher>
+    <featured>false</featured>
+    <description>The popular web service Google Play Music is now available for your Windows 10 device! GMusic is the unique app by which you will live in the world of music! 1. Open new possibilities! 2. Listen to the coolest music! 3. Always be aware of all news of the music world! With new GMusic you can: - Search and listen to music tracks on the service Google Play Music; - Sort music by track, album or artist; - View album covers and artist's photos;- Follow the popular trends in music using sections: "Top Albums", "New", "Recommended", "Similar" and "Top Tracks". GMusic - this is your ticket to the magical world of music! Click on "Install"! And ENJOY! This is very IMPORTANT: to use the Application you need to have account at Google Play Music with an active All Access subscription. If you don't have account Application will give you ability to sign up. https://accounts.google.com/SignUp?service=sj&amp;continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%23</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/62632UNETA.GMusic_1.1.15.0_x86__rmspfwnbz040j.Appx</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
