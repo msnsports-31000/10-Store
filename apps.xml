@@ -2032,4 +2032,16 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="cflix">
+    <name>icflix</name>
+    <version>2.0.15.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/icflix_IMG.png</icon>
+    <publisher>ICFLIX MEDIA FZ LLC</publisher>
+    <featured>false</featured>
+    <description>ICFLIX® brings the excitement of Hollywood, Bollywood and Jazwood (Arabic content) to your smart devices. Watch movies, TV shows, documentaries and cartoon with the press of a button. 1. Hollywood is available in the MENA region (Middle East and North Africa) 2. Jazwood is available worldwide. Bollywood is available worldwide, excluding India. Not a member? Download and sign up for ICFLIX® and enjoy the show wherever you go!</description>
+    <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/icflix.icflix_2.0.15.0_neutral___pdw7czhzfr058.AppxBundle_1782869671203.appxbundle</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
