@@ -1286,7 +1286,7 @@
   </app>
   <app id="odafone-obile-roadband">
     <name>Vodafone Mobile Broadband</name>
-    <version>2.10.46.0</version>
+    <version>2.10.46.0(1607+)</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/logo-1779414590.png</icon>
     <publisher>Vodafone Group Services</publisher>
     <featured>true</featured>
