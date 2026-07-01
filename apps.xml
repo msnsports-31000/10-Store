@@ -2085,4 +2085,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="icroslop-emote-esktop">
+    <name>Microsoft Remote Desktop</name>
+    <version>10.0.1014.1000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msrd_IMG</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>We're no longer updating the Microsoft Remote Desktop app for Windows with new features. For the best Azure Virtual Desktop and Windows 365 experience that includes the latest features and updates, we recommend you download Windows App instead at https://aka.ms/WindowsApp. For Remote Desktop connections, please use Remote Desktop Connection https://aka.ms/RDSetup (How to use Remote Desktop - Microsoft Support) For Remote Desktop Services, please use RemoteApps and Desktop Connection https://aka.ms/RADC (Introducing RemoteApp and Desktop Connections | Microsoft Community Hub)</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.RemoteDesktop_10.0.1014.1000_neutral_~_8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msrd_screenshot1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msrd_screenshot2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msrd_screenshot3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msrd_screenshot4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msrd_screenshot5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
