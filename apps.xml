@@ -2102,4 +2102,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="ood-lan">
+    <name>Good Plan</name>
+    <version>2.0.12.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_IMG.png</icon>
+    <publisher>Raximus</publisher>
+    <featured>false</featured>
+    <description>Lesson plan/timetable app combined with calendar and reminder. Manage lesson schedules, homeworks, exams, grades and much more. Ideal for pupils and students, but also for parents. First and most popular app of this type in the world on Windows Store. Completely rewritten from scratch specifically for Windows 10.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/51248Raximus.Dobryplan_2.0.12.0_neutral_~_j74bw2d00ynqy.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
