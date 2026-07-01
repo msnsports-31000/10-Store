@@ -2088,7 +2088,7 @@
     <app id="icroslop-emote-esktop">
     <name>Microsoft Remote Desktop</name>
     <version>10.0.1014.1000</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msrd_IMG</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msrd_IMG.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>We're no longer updating the Microsoft Remote Desktop app for Windows with new features. For the best Azure Virtual Desktop and Windows 365 experience that includes the latest features and updates, we recommend you download Windows App instead at https://aka.ms/WindowsApp. For Remote Desktop connections, please use Remote Desktop Connection https://aka.ms/RDSetup (How to use Remote Desktop - Microsoft Support) For Remote Desktop Services, please use RemoteApps and Desktop Connection https://aka.ms/RADC (Introducing RemoteApp and Desktop Connections | Microsoft Community Hub)</description>
