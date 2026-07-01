@@ -359,7 +359,7 @@
   <app id="onnect4">
     <name>Connect4</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-04-11-225218-1775937245.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/connect4-1775937245.png</icon>
     <publisher>Microsoft</publisher>
     <featured>false</featured>
     <description>simple game app (Lost media)</description>
