@@ -2135,4 +2135,21 @@
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="icrosoft-hone-ompanion">
+    <name>Microsoft Phone Companion</name>
+    <version>2018.131.1041.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/phonecompanion_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>Automatically get all the stuff you love on your Windows 10 PC to your phone or tablet – even Android, iPhone, and iPad! The Phone Companion app will help you set things up so you never need to plug your phone or tablet into your PC again. Your music, photos, Word documents and Cortana reminders will be with you, whether you’re at your desk or out and about. It’s all of your stuff, on all of your devices.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.WindowsPhone_2018.131.1041.0_neutral_~_8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/phonecompanion_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/phonecompanion_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/phonecompanion_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/phonecompanion_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/phonecompanion_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
