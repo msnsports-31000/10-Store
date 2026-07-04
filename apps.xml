@@ -787,14 +787,18 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-  <app id="app-1777993222">
-    <name>VK</name>
+  <app id="K-pp">
+    <name>VK App</name>
     <version>2.3.2.1</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/logo30.scale-140-1777993226.png</icon>
-    <publisher>VK corp.</publisher>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/VK_IMG-1777993220.png</icon>
+    <publisher>"V Kontakte" Ltd.</publisher>
     <featured>false</featured>
-    <description/>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/C6965DD5.VK_2.3.2.1_x64__v422avzh127ra-1777993222.appx</package>
+    <description>VK is a social network that unites people all over the world and helps them communicate comfortably and promptly. You can message your friends and see what's new in their lives, share photos, watch films, and listen to music. Our users join communities, meet new people, and adore playing games. The new VK App lets you enjoy all this and much more.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/C6965DD5.VK_2.3.2.1_x86__v422avzh127ra-1777993222.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/VK_scr1-1777993228.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/VK_scr2-1777993226.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/VK_scr3-1777993224.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/VK_scr4-1777993222.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -810,18 +814,6 @@
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
-  </app>
-  <app id="inectimals-nleashed">
-    <name>Kinectimals Unleashed</name>
-    <version>1.14.12.16</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SquareTile-1778004032.png</icon>
-    <publisher>Microsoft Studios</publisher>
-    <featured>false</featured>
-    <description>(appx too big snd archive org not work for me sorry -The ReOpen)</description>
-    <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Kinectimals/Microsoft.KinectimalsUnleashed_1.14.12.16_x86__8wekyb3d8bbwe.Appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
   </app>
   <app id="lassi-ube">
     <name>ClassiCube</name>
