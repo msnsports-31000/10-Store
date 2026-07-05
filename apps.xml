@@ -2210,4 +2210,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="he-all-treet-ournal">
+    <name>The Wall Street Journal</name>
+    <version>5.2.11.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thewallstreetjournal_img.png</icon>
+    <publisher>Dow Jones and Company Inc.</publisher>
+    <featured>false</featured>
+    <description>The Windows 10 app will be discontinued on June 30th. You can access the same content and more on WSJ.com and our iOS and Android mobile apps. The new WSJ app is an immersive digital news experience modeled after the iconic Wall Street Journal newspaper. It brings you the latest news, as well as expert commentary and analysis from around the world, with enhanced features and visual storytelling that bring the Journal to life. And it’s all delivered through a cleaner, simpler interface so you can find the news you need, anywhere you need it. Key Features: - A stunning visual experience with rich photo slideshows, full-screen video and interactive graphics - Optimized performance that delivers faster load times and improved stability - Streamlined navigation consistent with the structure of the paper, while offering quick access to breaking news and analysis. - Multiple ways to read including the digital versions of our U.S., Europe and Asia print editions as well as the latest news from WSJ</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/DBA50444.53881C1868EDA_5.2.11.0_neutral_~_rtym8b3vx72c8.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thewallstreetjournal_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thewallstreetjournal_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thewallstreetjournal_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thewallstreetjournal_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thewallstreetjournal_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
