@@ -2227,4 +2227,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="reakingnews">
+    <name>Breaking News</name>
+    <version>2.1.2.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/breakingnews_img.png</icon>
+    <publisher>Dow Jones and Company Inc.</publisher>
+    <featured>false</featured>
+    <description>(THE APP DOESNT CONNECT TO SERVERS) Breaking News is the fastest source of trusted news, monitored by many of the world's largest newsrooms, companies and governments. Our editors give you an edge when minutes matter by sifting through social media and thousands of news sources. Our push notifications are 14 minutes ahead of any other news app. "Indispensable" - The Verge "Gold standard for news aggregation" - Fast Company "Best apps to catch breaking news" - Wall Street Journal </description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnbc.comDigitalNetwork.BreakingNews_2.1.2.0_neutral_~_amdjbdaxqsje6.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/breakingnews_screenshot1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/breakingnews_screenshot2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/breakingnews_screenshot3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/breakingnews_screenshot4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/breakingnews_screenshot5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+   </app>
   </data>
