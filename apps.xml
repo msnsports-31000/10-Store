@@ -2176,4 +2176,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="rawboard-df-or-urface">
+    <name>Drawboard PDF for Surface</name>
+    <version>5.0.90.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drawboardpdf_img.png</icon>
+    <publisher>Drawboard</publisher>
+    <featured>false</featured>
+    <description>The top AEC PDF app to markup and manage drawings and documents. Ideal for replacing pen and paper, avoid printing documents again by using our intuitive feature set that makes marking up a PDF easy. Open or create a new PDF, markup using our extensive array of tools, then save it back as a compatible PDF. Drawboard PDF is set apart due to a highly intuitive user interface/experience, stylus and touch input separation, smooth and natural pen inking, and an impressive array of annotation tools. This is an essential tool for Architecture, Engineering and Construction industries. This application is provided with a 3 day free trial, at the end of which you can purchase it from the Windows Store or contact us (sales@drawboard.com) to inquire about Volume/Enterprise Licensing for Drawboard PDF. If you wish to explore volume licensing, do not uninstall your Drawboard PDF trial, even if the trial period has ended. If you like this app, please support its continued development with good ratings. Also, we have many plans for further improvements but want to hear your suggestions too! It is most helpful if you submit your ideas at our User Hub (www.drawboard.uservoice.com), instead of as reviews in the Store, so that we can communicate directly with you. Sometimes we may need more information about feature requests and by posting in the User Hub, we can obtain this from you. Thank you for your support in making Drawboard PDF the best app in the Windows Store!</description>
+    <package>https://files.catbox.moe/7bl3t3.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drawboardpdfforsurface_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drawboardpdfforsurface_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drawboardpdfforsurface_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drawboardpdfforsurface_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drawboardpdfforsurface_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
