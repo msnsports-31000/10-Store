@@ -2310,4 +2310,36 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
    </app>
+    <app id="pirit-evel-plus">
+    <name>Spirit Level+</name>
+    <version>3.0.23.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_img.png</icon>
+    <publisher>Asparion</publisher>
+    <featured>false</featured>
+    <description>Use your device as a spirit level. The perfect companion for every handyman.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.SpiritLevel_2.0.17.0_x86__f89vgcf3qm37t.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+   </app>
+    <app id="pirit-evel-plus-or-arm">
+    <name>Spirit Level+ for ARM</name>
+    <version>3.0.23.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_img.png</icon>
+    <publisher>Asparion</publisher>
+    <featured>false</featured>
+    <description>Use your device as a spirit level. The perfect companion for every handyman.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.SpiritLevel_2.0.17.0_arm__f89vgcf3qm37t.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/spiritlevel_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+   </app>
   </data>
