@@ -2276,4 +2276,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="orza-ub">
+    <name>Forza Hub</name>
+    <version>1.0.4.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fh_img.png</icon>
+    <publisher>Microsoft Studios</publisher>
+    <featured>false</featured>
+    <description>Receive free credits or cars every month by visiting Forza Hub. See your overall progress in the Forza franchise and compare yourself to friends. Get the latest game, car, and racing news.  Some editorial content may be available in English only. </description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.Lucille_1.0.4.0_neutral_~_8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fh_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fh_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fh_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fh_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fh_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+   </app>
   </data>
