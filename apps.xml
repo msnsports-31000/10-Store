@@ -2261,4 +2261,19 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
    </app>
+    <app id="oogle-oogle-earch">
+    <name>Google(Google Search)</name>
+    <version>2.1.19.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/google_img.png</icon>
+    <publisher>Google Inc</publisher>
+    <featured>false</featured>
+    <description></description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/GoogleInc.GoogleSearch_2.1.19.0_neutral_~_yfg5n0ztvskxp.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/google_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/google_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/google_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
