@@ -2357,6 +2357,6 @@
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/flowfree_scr5.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
+    <win81compatible>true</win81compatible>
    </app>
   </data>
