@@ -404,21 +404,6 @@
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
-  <app id="hrome-etro-lient">
-    <name>Chrome Metro (Client)</name>
-    <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Google_Chrome_icon_-March_2011-.svg-1776508598.png</icon>
-    <publisher>ReOpenGlebsur</publisher>
-    <featured>true</featured>
-    <description>Google Metro Client For Windows 8.1 (Win8Mode at the Chrome 24)</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/ChromeUWP_1.0.0.0_AnyCPU-1776508597.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-1776508600.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-1-1776508600.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-2-1776508602.png</screenshot3>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="resh-aint-uwp">
     <name>Fresh Paint</name>
     <version>3.1.10383.1000</version>
@@ -530,49 +515,6 @@
     <win81compatible>true</win81compatible>
     <drayYTproject>true</drayYTproject>
   </app>
-  <app id="eather">
-    <name>MSN Weather 8.1</name>
-    <version>2016.1014.23.3280</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Weather-1777815807.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>MSN Weather: The best way to plan your day.
-    Get the latest weather conditions, whether you're hitting the slopes or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingWeather_2016.1014.23.3280_neutral___8wekyb3d8bbwe-1777815803.appxbundle</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
-  <app id="ews">
-    <name>MSN News 8.1</name>
-    <version>2016.408.1840.2841</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/News-1777816155.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>MSN News delivers breaking news and trusted, in-depth reporting from the world's best journalists.
-    - Our editors curate the most trusted, important, interesting and trending news
-    - You choose which topics matter most to you.
-    - MSN News updates you with notifications of breaking news, quickly and accurately, 24/7
-    - Sync your preferences across the app and the web.
-    MSN News works in partnership with hundreds of publishers in dozens of countries globally. Select from editions in more 20 countries, carrying content from 3,000 top brands.
-    MSN News makes it easy to for you to keep informed, to intuitively move from story to story, and from section to section. Our clean design lets you read articles without clutter, with useful features like a dark mode for night-time reading. The app is free to download and use with no limits on how many articles or videos you can view.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingNews_2016.408.1840.2841_neutral___8wekyb3d8bbwe-1777816151.appxbundle</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
-  <app id="oney">
-    <name>MSN Money 8.1</name>
-    <version>2016.408.1841.3666</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Finance-1777821902.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
-    <package>https://archive.org/download/10-store-is-available-for-windows-81/newRetiled.zip/newRetiled%2FMicrosoft.BingFinance_2016.408.1841.3666_neutral___8wekyb3d8bbwe.appxbundle</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="erobit-usic">
     <name>Aerobit Music</name>
     <version>0.5.0.0</version>
@@ -583,39 +525,6 @@
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Aerobit-Music_0.5.0.0_AnyCPU_Debug-1777819102.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Capture-1777819105.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/splashscreen.scale-100-1777819106.png</screenshot2>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
-  <app id="ports">
-    <name>MSN Sports 8.1</name>
-    <version>2016.427.112.4030</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Sports-1777823416.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>Packed with live scores and in-depth game experiences for over 150 leagues worldwide. Follow schedules, results, standings, leading players and teams, and get the latest news, galleries and videos from over 200 of the best sporting news sources.</description>
-    <package>https://archive.org/download/10-store-is-available-for-windows-81/newRetiled.zip/newRetiled%2FMicrosoft.BingSports_2016.427.112.4030_neutral___8wekyb3d8bbwe.appxbundle</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
-  <app id="resh-aint">
-    <name>Fresh Paint 8.1</name>
-    <version>2.0.15133.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps.44755.9007199266251806.c139e5fd-5846-4901-9106-acd4938a4006-1777843948.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>Unleash your inner creative with Fresh Paint – the ultimate canvas for your big ideas.
-    Fresh Paint is a fun and easy to use painting app with the right tools for artists of all ages.
-    We believe that brilliant, creative ideas can come from anyone, anytime.  It’s time to set your creativity free.
-    Create original artwork, turn photos into beautiful paintings, or choose an activity pack to help you get started quickly. From whimsical pictures of your friends to amazing landscapes, Fresh Paint enables you to create anything.
-    “Utterly superb” – Brad Chacos, PC World
-    “Windows 8’s coolest app: Fresh Paint” – David Goldman, CNNMoney
-    “The most realistic painting app I have ever used” – Joe Fedewa, WinSource
-    “There's no better demonstration of the cool types of things you can do with multitouch than Fresh Paint.” – Michael Muchmore, PC Magazine</description>
-    <package>https://archive.org/download/msfreshpaint_202503/Microsoft.FreshPaint_8wekyb3d8bbwe.zip/Microsoft.FreshPaint_2.0.15133.0_x86__8wekyb3d8bbwe.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint-1777843949.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint0-1777843950.png</screenshot2>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
