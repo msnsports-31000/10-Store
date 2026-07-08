@@ -24,7 +24,7 @@
         }
 
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/apps.xml", true);
+        xhr.open("GET", "https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/apps.xml", true);
         xhr.onreadystatechange = function () {
             if (xhr.readyState === 4 && xhr.status === 200) {
                 processApps(xhr.responseXML);
