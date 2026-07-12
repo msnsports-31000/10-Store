@@ -2271,4 +2271,38 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="utiful-oga-wp">
+    <name>美丽瑜伽 UWP</name>
+    <version>1.2.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_img.png</icon>
+    <publisher>北京奇异鸟科技有限公司上海分公司</publisher>
+    <featured>false</featured>
+    <description>瑜伽，不仅只是一套流行或时髦的健身运动这么简单。瑜伽是一个非常古老的能量知识修炼方法，集哲学、科学和艺术于一身。瑜伽的基础建立在古印度哲学上，数千年来，心理、生理和精神上的戒律已经成为印度文化中的一个重要组成部分。古代的瑜伽信徒发展了瑜伽体系，因为他们深信通过运动身体和调控呼吸，可以控制心智和情感，以及保持健康的身体。美丽瑜伽带你了解美丽的瑜伽</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/7591.5897171891C3B_1.2.0.0_x64__xjmnpwzq146gc.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="utiful-oga-wp-or-arm">
+    <name>美丽瑜伽 UWP for ARM</name>
+    <version>1.2.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_img.png</icon>
+    <publisher>北京奇异鸟科技有限公司上海分公司</publisher>
+    <featured>false</featured>
+    <description>瑜伽，不仅只是一套流行或时髦的健身运动这么简单。瑜伽是一个非常古老的能量知识修炼方法，集哲学、科学和艺术于一身。瑜伽的基础建立在古印度哲学上，数千年来，心理、生理和精神上的戒律已经成为印度文化中的一个重要组成部分。古代的瑜伽信徒发展了瑜伽体系，因为他们深信通过运动身体和调控呼吸，可以控制心智和情感，以及保持健康的身体。美丽瑜伽带你了解美丽的瑜伽</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/7591.5897171891C3B_1.2.0.0_arm__xjmnpwzq146gc.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/yoga_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
