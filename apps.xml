@@ -2305,4 +2305,32 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="idk-bro-i-dont-speak-chinese">
+    <name>那啥追番 UWP</name>
+    <version>1.1.5.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/idontspeakchinese_img.png</icon>
+    <publisher>北京奇异鸟科技有限公司上海分公司</publisher>
+    <featured>false</featured>
+    <description>那啥追番，就是那啥嘛，你问到底是啥?就是那啥啊！还问是啥？用过不就知道是啥啦！</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5421.UWP_1.1.5.0_x86__wp9dg7z2zqgtj.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/idontspeakchinese_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/idontspeakchinese_scr2.png</screenshot2>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="idk-bro-i-dont-speak-chinese-for-arm">
+    <name>那啥追番 UWP for ARM</name>
+    <version>1.1.5.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/idontspeakchinese_img.png</icon>
+    <publisher>北京奇异鸟科技有限公司上海分公司</publisher>
+    <featured>false</featured>
+    <description>那啥追番，就是那啥嘛，你问到底是啥?就是那啥啊！还问是啥？用过不就知道是啥啦！</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/5421.UWP_1.1.5.0_arm__wp9dg7z2zqgtj.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/idontspeakchinese_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/idontspeakchinese_scr2.png</screenshot2>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
