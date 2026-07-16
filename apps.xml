@@ -2088,7 +2088,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-    <app id="nefootball">
+    <app id="onefootball">
     <name>Onefootball</name>
     <version>5.3.8.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/onefootball_img.png</icon>
@@ -2105,7 +2105,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-    <app id="he-all-treet-ournal">
+    <app id="the-wall-street-journal">
     <name>The Wall Street Journal</name>
     <version>5.2.11.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thewallstreetjournal_img.png</icon>
@@ -2122,7 +2122,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-    <app id="reakingnews">
+    <app id="breaking-news">
     <name>Breaking News</name>
     <version>2.1.2.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/breakingnews_img.png</icon>
@@ -2139,7 +2139,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
    </app>
-    <app id="ry-indows-0">
+    <app id="try-windows-10">
     <name>Try Windows 10</name>
     <version>1.0.3.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_img.png</icon>
@@ -2156,7 +2156,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
    </app>
-    <app id="oogle-oogle-earch">
+    <app id="google-google-search">
     <name>Google(Google Search)</name>
     <version>2.1.19.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/google_img.png</icon>
@@ -2171,7 +2171,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-    <app id="orza-ub">
+    <app id="forza-hub">
     <name>Forza Hub</name>
     <version>1.0.4.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/fh_img.png</icon>
@@ -2195,7 +2195,7 @@
     <publisher>Afterlight Collective Inc.</publisher>
     <featured>false</featured>
     <description>Afterlight is the perfect image editing app for quick and straightforward editing. Our simple design, paired with powerful and snappy tools, will give you the look you want in seconds. Take us with us on your next adventure. Download now and look forward to free content and app enhancements from time to time! ADJUSTMENT TOOLS Use any of our 8 uniquely made adjustment tools to enhance your images to perfection with ease. 57 FILTERS Afterlight has 27 fully adjustable Original Filters, 14 Guest Filters by various Instagram users, and the Seasons filter pack including 16 filters. 44+22 TEXTURES Afterlight includes a range of real and natural light leaks we created with 35mm film and instant film, including simplistic scratchy film textures. Note: 44 of these textures are included with the base version of the app 22 new textures are part of an expansion kit available via in-app purchase. CROPPING &amp; TRANSFORMING TOOLS Crop your photos with our quick and easy cropping tool with 15 different presets. Transform your photos with our rotating tool, vertical and horizontal flipping tools. 72+7 FRAMES We provide a list of 79 different simplistic and adjustable frames, paired perfectly with Instagram. Note: 72 of these frames are included with the base version of the app. 7 new frames are part of an expansion kit available via in-app purchase. AVAILABLE IN-APP PURCHASES: 1) Instant Film Pack: This pack includes 22 new textures and 7 new frames, inspired by and created with instant film. This will be a growing pack and receive new content in future updates. 2) The wallpaper pack gives you access to 18 hand-drawn wallpapers you can apply to frames, for a unique look! This is a growing pack that will receive new content in future releases. </description>
-    <package>https://archive.org/download/AfterlightUWP/AfterlightCollectiveInc.Afterlight_7cyy8pbdjgbwj.zip/AfterlightCollectiveInc.Afterlight_3.0.23.0_neutral_~_7cyy8pbdjgbwj.AppxBundle</package>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/AfterlightCollectiveInc.Afterlight_3.0.23.0_neutral_._7cyy8pbdjgbwj.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/afterlight_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/afterlight_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/afterlight_scr3.png</screenshot3>
