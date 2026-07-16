@@ -487,18 +487,6 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="8-ip-old">
-    <name>8Zip</name>
-    <version>2.1.0.75</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-48-1777635788.png</icon>
-    <publisher>Finebits OÜ</publisher>
-    <featured>false</featured>
-    <description>8 Zip is a powerful file archiver for Windows 8. Now one app, one license, a uniform design and functionality can be had on all types of devices. Decrypt files through an iris scan or at a touch. Listen to music, read documents, and watch videos right in the app.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/24169BooStudio.8Zip_2.1.0.75_x86__4whpyhnstjyn8-1777635785.appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="10-tore-etro">
     <name>10Store Metro</name>
     <version>1.0.0.0</version>
