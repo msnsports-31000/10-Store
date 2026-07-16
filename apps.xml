@@ -426,7 +426,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="inecraft-for-indows-10">
-    <name>Minecraft Windows 10 Edition</name>
+    <name>Minecraft Windows 10 Edition Beta</name>
     <version>0.16.1.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-400-1776522639.png</icon>
     <publisher>Microsoft Studios</publisher>
@@ -1243,7 +1243,7 @@
     <publisher>Fingersoft</publisher>
     <featured>false</featured>
     <description>One of the most addictive and entertaining physics based driving game ever made! And it's free! Meet Newton Bill, the young aspiring uphill racer. He is about to embark on a journey that takes him to where no ride has ever been before. With little respect to the laws of physics, Newton Bill will not rest until he has conquered the highest hills up on the moon! Face the challenges of unique hill climbing environments with many different cars. Gain bonuses from daring tricks and collect coins to upgrade your car and reach even higher distances. Watch out though - Bill's stout neck is not what it used to be when he was a kid! And his good ol' gasoline crematorium will easily run out of fuel. Like us at Facebook and stay tuned with all new games and updates: http://www.facebook.com/Fingersoft We'd appreciate if you'd report any issues you're having with the game to support@fingersoft.net, please include your device make and model.</description>
-    <package>https://files.catbox.moe/om1t4h.AppxBundle</package>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/FINGERSOFT.HILLCLIMBRACING_1.41.1.0_neutral_._r6rtpscs7gwyg.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779455336.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779455337.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779455338.png</screenshot3>
