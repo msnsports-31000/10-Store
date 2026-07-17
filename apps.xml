@@ -331,13 +331,13 @@
     Servers - Join free massive multiplayer servers and play with thousands of others!
     Discover gigantic community-run worlds, compete in unique mini-games and socialize in lobbies full of new friends.
     SUPPORT: https:///www.minecraft.net/help LEARN MORE: https:///www.minecraft.net/</description>
-    <package>https://archive.org/download/MinecraftWindows10Mobile/Microsoft.Minecraft_8wekyb3d8bbwe.zip/Microsoft.Minecraft_1.16.4002.0_arm__8wekyb3d8bbwe.Appx</package>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/Microsoft.Minecraft_1.16.4002.0_arm__8wekyb3d8bbwe.Appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft0-1775849252.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft1-1775849253.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft2-1775849254.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft3-1775849256.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/minecraft6-1775849258.png</screenshot5>
-    <pcCapable>true</pcCapable>
+    <pcCapable>false</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
   <app id="10-tore-1-0-atched">
@@ -441,7 +441,7 @@
     Servers - Join free massive multiplayer servers and play with thousands of others!
     Discover gigantic community-run worlds, compete in unique mini-games and socialize in lobbies full of new friends.
     SUPPORT: https:///www.minecraft.net/help LEARN MORE: https:///www.minecraft.net/&lt;/description&gt;</description>
-    <package>https://ia601800.us.archive.org/view_archive.php?archive=/29/items/mcbe-versions/0.16.1.~/0.16.1.~.7z&amp;file=Minecraft-0.16.1.0%20%28Release%29.Appx</package>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/Microsoft.MinecraftUWP_0.1601.0.0_x64_8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Minecraft-first-screen-1776522640.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/maxresdefault-1-1776522641.jpg</screenshot2>
     <pcCapable>true</pcCapable>
