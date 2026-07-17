@@ -2321,4 +2321,18 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="lenovo-settings">
+    <name>Lenovo Settings</name>
+    <version>3.177.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/lenovosettings_img.png</icon>
+    <publisher>LENOVO INCORPORATED.</publisher>
+    <featured>false</featured>
+    <description>Lenovo Settings: Your Smarter Device Control Hub Experience an intuitive device experience while getting centralized access to all major hardware features and controls –– on any Lenovo Windows 10 machine. Lenovo Settings is a free app that leverages sensor data, user behavior and personal preference to automatically shift device functionality in response to change in mode, atmosphere or usage. Special features for energy management, display, camera, audio, wireless networks, keyboard, mouse and pen are also included.</description>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/LenovoCorporation.LenovoSettings_3.177.0.0_neutral_._4642shxvsv8s2.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/lenovosettings_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/lenovosettings_scr2.png</screenshot2>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
