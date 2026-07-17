@@ -985,13 +985,13 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="dobe-hotoshop-xpress">
-    <name>Adobe Photoshop Express</name>
-    <version>1.2.1.17</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/apps-1778833546.png</icon>
+    <name>Adobe Photoshop Express Toshiba version only</name>
+    <version>2015.428.846.668</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/adobephotoshopexpress_img-1778833546.png</icon>
     <publisher>Adobe Systems Incorporated</publisher>
     <featured>true</featured>
     <description>Photo magic at your fingertips. On-the-go photo editing was never so fun, fast, and cool. Touch your way to better-looking pictures with automatic fixes and filters. Get your pictures to pop! And after sharing, you’ll be the talk of your friends.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga-1778833542.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_2015.428.846.668_neutral_~_ynb6jyjzte8ga--1778833542.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-1-1778833547.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-2-1778833548.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot-3-1778833550.png</screenshot3>
