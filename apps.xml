@@ -848,7 +848,7 @@
     - Free to play
     Crossy Road is completely free to play but some in-game items such as characters, can be purchased with hard currency. Characters are priced between $0.99 and $3.99.
     Have any problems or suggestions? You can reach us at gpsupport@yodo1.com.</description>
-    <package>https://archive.org/download/CrossyRoadWinStore/Yodo1Ltd.CrossyRoad_s3s3f300emkze.zip/Yodo1Ltd.CrossyRoad_1.1.3.0_x86__s3s3f300emkze.Appx</package>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/Yodo1Ltd.CrossyRoad_1.1.3.0_x86__s3s3f300emkze.Appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/crossyroad1-1778075085.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/crossyroad2-1778075087.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/crossyroad3-1778075088.png</screenshot3>
@@ -1177,7 +1177,7 @@
     <publisher>Vodafone Group Services</publisher>
     <featured>true</featured>
     <description>This application helps you manage your mobile world. Access your online account, get messages, special offers, and find help and support. You can use this app with a Vodafone or partner SIM card and a mobile broadband device like a USB dongle or modem. To find out which mobile broadband devices are compatible, go to the ‘Details’ screen or search the FAQs.</description>
-    <package>https://files.catbox.moe/rtsg2y.AppxBundle</package>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/VodafoneGroupServices.VodafoneMobileBroadband_2.10.46.0_neutral_._cx08jceyq9bcp.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1-1779414592.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2-1779414594.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/3-1779414596.png</screenshot3>
@@ -1363,12 +1363,12 @@
   </app>
   <app id="onic-ash">
     <name>Sonic Dash</name>
-    <version>3.6.4.0</version>
+    <version>2017.704.1120.946</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779535830.png</icon>
     <publisher>SEGA Networks Inc.</publisher>
     <featured>false</featured>
     <description>How far can the world’s fastest hedgehog run? Play as Sonic the Hedgehog as you dash, jump and spin your way across stunning 3D environments. Swipe your way over and under challenging obstacles in this fast and frenzied endless running game. SONIC… The world famous Sonic the Hedgehog stars in his first endless running game – how far can you go? …DASH! Unleash Sonic’s incredible dash move that allows you to run at insane speed and destroy everything in your path! AMAZING ABILITIES Utilise Sonic’s powers to dodge hazards, jump over barriers and speed around loop de loops. Plus defeat enemies using Sonic’s devastating homing attack! STUNNING GRAPHICS Sonic’s beautifully detailed world comes to life on mobile and tablet – never has an endless runner looked so good! MULTIPLE CHARACTERS Choose to play as one of Sonic’s friends, including Tails, Shadow and Knuckles. EPIC BOSS BATTLES Face off against two of Sonic's biggest rivals, the always scheming and cunning Dr. Eggman and the devastatingly deadly Zazz from Sonic Lost World! Use all of Sonic's agility and speed to take down these villains before it's too late! POWERUPS Unlock, win or buy ingenious power-ups to help you run further. Including head starts, shields, ring magnets and unique score boosters! KEEP ON RUNNING Get more rewards the more you play! Level up your score multiplier by completing unique missions, or win amazing prizes including Red Star Rings &amp; additional characters by completing Daily Challenges and playing the Daily Spin. COMING SOON We’re working hard to bring you future FREE updates!</description>
-    <package>https://files.catbox.moe/zetjpy.appx</package>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/SegaNetworksInc.56538047DFC80_2017.704.1120.946_neutral_._as33fap47kd3c.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/sonic1-1779535832.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/sonic2-1779535834.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/sonic3-1779535837.png</screenshot3>
