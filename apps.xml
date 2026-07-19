@@ -2385,4 +2385,19 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="uber">
+    <name>Uber</name>
+    <version>7.0.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/uber_img.png</icon>
+    <publisher>Uber Technologies Inc.</publisher>
+    <featured>false</featured>
+    <description>Get a reliable ride in minutes with the Uber app — no reservations or waiting in taxi lines. From low-cost to premium, every ride option feels like an upgrade to the everyday. Create your account to explore the app. Add a credit card or debit card. You can also pay with cash in some cities. After your trip, we'll email you a receipt.  See if Uber is available in your city at https://www.uber.com/cities Follow us on Twitter at https://twitter.com/uber Like us on Facebook at https://www.facebook.com/uber You have to be on Windows 10 - Version 1511 (November update) or newer to download the latest Uber app.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/C384BBF6.Uber.Win10_7.0.0.0_neutral__qkjwzh68xexq0.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/uber_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/uber_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/uber_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
