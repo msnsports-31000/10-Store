@@ -2351,4 +2351,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="pinball-fx2-windows-10-edition">
+    <name>Pinball FX2 Windows 10 Edition</name>
+    <version>1.12.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pinballfx2_img.png</icon>
+    <publisher>ZEN Studio Kft</publisher>
+    <featured>false</featured>
+    <description>Pinball FX2 is the premiere pinball platform for Windows 10, offering an exciting library of original pinball tables featuring the hottest brands in entertainment like Star Wars, ALIEN and Marvel! Pinball FX2 on Windows 10 brings the pinball action for which the franchise is known into the next-generation with 1080p/60FPS graphics, worldwide tournaments, new achievements, and a slick menu interface.</description>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/ZenStudios.PinballFX2Windows10Edition_1.12.0.0_neutral_._sqz2yzgfp6bz4.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pinballfx2_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pinballfx2_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pinballfx2_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pinballfx2_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/pinballfx2_scr4.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
