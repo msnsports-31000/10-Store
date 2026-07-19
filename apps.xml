@@ -141,7 +141,7 @@
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="8-ip">
-    <name>8Zip</name>
+    <name>8Zip Lite</name>
     <version>1.2.103.1000</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-1-1775491174.png</icon>
     <publisher>Finebits OÜ</publisher>
@@ -161,7 +161,7 @@
     8 Zip knows over 38 languages.
     The app has been downloaded more than 8,000,000 times
     Thank you for helping to make 8 Zip better! Simply send your suggestions for improvement to 8zip@finebits.com and show your support by giving us a ★★★★★ review.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BooStudioLLC.8ZipLite_1.2.103.1000_x86__b6e429xa66pga-1775491170.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BooStudioLLC.8ZipLite_1.2.103.1000_x86__b6e429xa66pga-1775491170.Appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
