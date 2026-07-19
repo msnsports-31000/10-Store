@@ -2335,4 +2335,20 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="magiclines">
+    <name>MagicLines</name>
+    <version>2.2.1.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/magiclines_img.png</icon>
+    <publisher>Johannes Wallroth</publisher>
+    <featured>true</featured>
+    <description>Magic Lines is a new and exciting version of the well known and famous game "5-in-a-row" or "Color Lines", but with icons instead of colors (full version required), which makes it a lot more fun to play. The game is quick to learn but hard to master and will keep you or your kids engaged for many hours. Game play: move pieces, to get five of the same type into a row (horizontally, vertically or diagonally). In every turn new pieces appear, unless you fill a row. In this version it is really hard to survive for a longer period of time! Forget about everything you know about this game, this one is different. You start with 6 pieces and in every turn 4 more are added, which quickly fill up the board. You would be lost within a few moves, but fortunately you have three helpers to your rescue: - the JOKER piece, which turns up from time to time - replaces any piece - the BOMB, which removes any piece that's in your way - the COLOR BOMB, which removes all pieces of a specific kind or color from the board When you manage to complete a row with more than five pieces, the move counts double (or triple, etc).</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/47069JohannesWallroth.MagicLines_2.2.1.0_neutral_~_1w4vmc4cvrcyt.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/magiclines_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/magiclines_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/magiclines_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/magiclines_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
