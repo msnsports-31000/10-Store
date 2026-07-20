@@ -2415,4 +2415,17 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="microsoft-messaging">
+    <name>Microsoft Messaging</name>
+    <version>1.10.11001.1000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/microsoftmessaging_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>Windows Operator messages (previously Microsoft Messaging) shows SMS texts from your mobile operator about your data plan (for example, billing and data limits). It's for devices that can use cellular data (5G and 4G LTE). You can't send texts.</description>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/Microsoft.Messaging_1.10.11001.1000_neutral_._8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/microsoftmessaging_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
