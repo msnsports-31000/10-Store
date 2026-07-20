@@ -2400,4 +2400,19 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="interference">
+    <name>Interference</name>
+    <version>3.9.14.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/interference_img.png</icon>
+    <publisher>Centrifuge</publisher>
+    <featured>false</featured>
+    <description>Discover Interference - the hit drawing game - and get ready to draw, describe and laugh. You've heard of Chinese Whispers and Broken Telephone, this is our new take on old favourites where you can get creative and laugh your socks off! Join a chain of players and take turns to draw and describe - but each player can only see the previous step in the game. It won't take long for the original message to get lost in translation and turn into something completely different. You'll love the suspense of waiting to find out what the next person thought your drawing was – it's hilarious to see the whole game when it's finished! Don't know what to draw? That's fine – join a game and you'll get a description to illustrate in any way you like. You have 10 minutes to draw it before it is given to the next player to describe! Feeling a bit shy about drawing? You can choose to just describe if you like – and move the game on by being as detailed as you can! It is amazing how the first description and the last differ so much! You don't need to be a great artist to enjoy this fun and free drawing game - we love stick figures and anything that gets the message across! We have a friendly community packed full of players from all ability levels working together to pass the message on. All you need is your sense of humour! Features: * Draw using stylus or touch * Collect in-game achievements * Improve your drawing skills & learn from other players * Compete for 'Picture of the Week' * Receive likes from other players and be featured on the front page! * Watch replays of drawings * Make new friends through art & chat in our welcoming forum ...and most important: Enjoy getting creative and reconnect with your inner artist! Follow us on social media for updates, features, competitions and much more! - Facebook: facebook.com/playinterference - Twitter: twitter.com/playifx - YouTube: youtube.com/playinterference</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/27090Centrifuge.Interference_3.9.14.0_neutral_~_6vjw6wwgfmk3m.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/interference_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/interference_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/interference_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
