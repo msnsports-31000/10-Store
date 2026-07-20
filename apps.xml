@@ -2428,4 +2428,21 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="audible">
+    <name>Audible</name>
+    <version>10.0.24.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/audible_img.png</icon>
+    <publisher>Audible, Inc</publisher>
+    <featured>false</featured>
+    <description>(THE APP DOESNT CONNECT TO SERVERS) Not enough time for all the books you want to enjoy? Download the app by Audible, an Amazon company, to listen to books on the go. Immerse yourself in a great story anytime, anywhere, by downloading from a breathtaking range of 100,000+ titles to your Windows 8 device—from best sellers to classics, and everything in-between. Now you can turn on a good book even when you can’t pick one up— any time your eyes and hands are busy.</description>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/AudibleInc.Audible-Audiobooksandmore_10.0.24.0_neutral_._xns73kv1ymhp2.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/audible_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/audible_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/audible_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/audible_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/audible_scr4.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
