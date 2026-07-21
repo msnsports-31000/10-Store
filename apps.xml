@@ -2445,4 +2445,20 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="simplehow-windows-10-tips>
+    <name>SimpleHow - Windows 10 Tips</name>
+    <version>1.2.7.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/simplehow_windows10tips_img.png</icon>
+    <publisher>Neelam Maske</publisher>
+    <featured>false</featured>
+    <description>(THE APP DOESNT CONNECT TO SERVERS) Windows 10 How-to tips and tutorials with detailed steps and screenshots. Learn new Windows 10 features, and search tips for personalization and configuration in Windows. Get frequent new tips, and search tips by keyword.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/47586NeelamMaske.SimpleHow-Windows10Tips_1.2.7.0_neutral_~_24rqt370aqbny.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/simplehow_windows10tips_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/simplehow_windows10tips_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/simplehow_windows10tips_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/simplehow_windows10tips_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
