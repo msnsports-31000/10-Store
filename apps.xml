@@ -2363,7 +2363,7 @@
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/pinballfx2_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/pinballfx2_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/pinballfx2_scr4.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/pinballfx2_scr4.png</screenshot5>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/pinballfx2_scr5.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -2380,7 +2380,7 @@
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2colors_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2colors_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2colors_scr4.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2colors_scr4.png</screenshot5>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2colors_scr5.png</screenshot5>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -2445,7 +2445,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-    <app id="simplehow-windows-10-tips>
+    <app id="simplehow-windows-10-tips">
     <name>SimpleHow - Windows 10 Tips</name>
     <version>1.2.7.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/simplehow_windows10tips_img.png</icon>
