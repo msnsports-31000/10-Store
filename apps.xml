@@ -2474,4 +2474,19 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="mediafire">
+    <name>Mediafire</name>
+    <version>1.0.0.1</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mediafire_img.png</icon>
+    <publisher>MediaFire</publisher>
+    <featured>false</featured>
+    <description>MediaFire lets you easily upload all your files - like your photos, videos, music, and documents - and access them from anywhere with your Windows Phone, computer, or on the web.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/MediaFire.25769348E9414_1.0.0.1_neutral__86vhmpavx8grw.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mediafire_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mediafire_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mediafire_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
   </data>
