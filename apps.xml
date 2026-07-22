@@ -2461,4 +2461,17 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="amazon">
+    <name>Amazon</name>
+    <version>2016.829.2800.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/amazon_img.png</icon>
+    <publisher>Amazon.com</publisher>
+    <featured>false</featured>
+    <description>The Amazon App for Windows 10 PC/Tablet allows you to shop just as you do on the web. Search for products using the Amazon App, and easily add them to your shopping cart to purchase. You have full access to your existing cart and wish lists. You can access any of Amazon's sites around the world from a single app by simply selecting your desired Amazon country store from the settings icon located on the left side app panel. The Amazon App for Windows 10 is designed for use on Win 10 PC devices.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Amazon.com.Amazon_2016.829.2800.0_neutral_~_343d40qqvtj1t.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/amazon_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
