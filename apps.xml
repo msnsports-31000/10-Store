@@ -1470,7 +1470,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="uzzley">
-    <name>Muzzley</name>
+    <name>muzzley</name>
     <version>2.7.4.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/aaaaaa-1779736246.png</icon>
     <publisher>MUZZLEY S.A.</publisher>
@@ -1481,7 +1481,9 @@
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz2-1779736249.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz3-1779736251.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz4-1779736253.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muz5-1779736255.png</screenshot5>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz5-1779736255.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz6-1779736256.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzz7-1779736257.png</screenshot7>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
