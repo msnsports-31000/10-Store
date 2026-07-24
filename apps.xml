@@ -126,7 +126,7 @@
   </app>
   <app id="etro-ommander">
     <name>Metro Commander Pro</name>
-    <version>1.1.81</version>
+    <version>1.1.81.200</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-5-1775490623.png</icon>
     <publisher>Finebits OÜ</publisher>
     <featured>true</featured>
@@ -1644,7 +1644,7 @@
   </app>
     <app id="iles-amp-olders-lite">
     <name>Files&amp;Folders Lite</name>
-    <version>1.1.20.0</version>
+    <version>1.1.20.1000</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256.png</icon>
     <publisher>Finebits OÜ</publisher>
     <featured>false</featured>
@@ -1666,7 +1666,7 @@
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Square44x44Logo.targetsize-256_altform-unplated.png</icon>
     <publisher>Mobile Nations</publisher>
     <featured>false</featured>
-    <description>THE APP DOESNT CONNECT TO SERVERS Welcome to Windows Central for Windows 10! The app is available for phone and PC or wherever you have Windows 10. Through our app you can get all the access to the number #1 Microsoft and Windows site in the world at www.windowscentral.com. The Windows Central app is free and ad-free and includes the following features: - Ad-free viewing experience to all our articles, reviews, and editorials - Windows 10 Ready - Optimized for Windows 10 and Continuum! - Forums - Access to our vast user forums for help, tips, and info - YouTube Channel – See all our videos directly - Comments – Leave your thoughts or respond to another user including up and down votes - Actionable notifications for comments and forums - Video – Embedded YouTube videos within the article - App Downloads – Custom links to download apps and games we cover - Live Tile with latest articles - User selectable color accents for the app - Dark or Light theme - Push notifications for new articles - More coming soon!</description>
+    <description>THE APP DOESNT CONNECT TO SERVERS Welcome to Windows Central for Windows 10! The app is available for phone and PC or wherever you have Windows 10. Through our app you can get all the access to the number #1 Microsoft and Windows site in the world at www.windowscentral.com. The Windows Central app is free and ad-free and includes the following features: - Ad-free viewing experience to all our articles, reviews, and editorials - Windows 10 Ready - Optimized for Windows 10 and Continuum! - Forums - Access to our vast user forums for help, tips, and info - YouTube Channel – See all our videos directly - Comments – Leave your thoughts or respond to another user including up and down votes - Actionable notifications for comments and forums - Video – Embedded YouTube videos within the article - App Downloads – Custom links to download apps and games we cover - Live Tile with latest articles - User selectable color accents for the app - Dark or Light theme - Push notifications for new articles - More coming soon!. This app was patched with NewRetiled. credit to migbrunluz.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/MobileNations.WindowsCentral_1.2.3.0_neutral_~_21fqgzz6f91bm.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral1-1789894.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/windowscentral2-1789896.png</screenshot2>
@@ -1707,6 +1707,8 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather7.png</screenshot7>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1724,6 +1726,8 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/accuweather7.png</screenshot7>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1872,7 +1876,7 @@
     <name>Cover - Comic reader</name>
     <version>3.5.919.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Cover_logo.png</icon>
-    <publisher>French Fry</publisher>
+    <publisher>French Fry Software</publisher>
     <featured>false</featured>
     <description>Cover is the best app to read and manage your comic books. More than 1.7M downloads and 4+ stars, Cover has been featured several times by Microsoft in the US, France, Canada, etc. Import all your folders in a single step, view them all in a beautiful UI, enjoy the powerful and fast reader. Cover is compatible with a broad range of formats, can load your files from OneDrive, Google Drive and Dropbox, and synchronizes automatically when you add or edit comic books using Windows Explorer. Download Cover and use it for free to manage up to 25 comic books, without any ads or feature restriction. If you want to have all your comic books at the same time in Cover, or you want to support us, lifetime in-app purchases are available to let you unlock 250 or unlimited comic books. This will unlock all your devices (computers and tablets) in one purchase. The main features that make the awesomeness of Cover: - All of your file formats are supported: CBZ/ZIP, CBR/RAR, 7Z/CB7, CBT, PDF, EPUB (images only) - Crystal-clear library management: Shelves, read/unread status, page count, current page,... - Store your comic books wherever you want: Local folder, local network, OneDrive, Google Drive, Dropbox. - Customize your reading experience: single/dual page, vertical scrolling, fit width/height/page, background color, cropping, night mode,... - Check the feature list below for much more! From US comic books to Japanese mangas through European comics, enjoy your whole library wherever you are: Spiderman, Batman, X-Men, One Piece, Berserk, Dragon Ball, Tintin, Asterix, ... are all within reach at anytime, in the smoothest reading experience of the Windows Store. If you like the app, please leave a review, it helps! Contact us: https://frenchfrysoftware.com/support Twitter: @frenchfry Note: The app does not contain any comic book. You can download comic books separately on websites such as imagecomics.com or comicbookplus.com. Cover is compatible with any DRM-free comic book.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/FrenchFry.Cover_3.5.919.0_neutral_~_a3mvwcjazefp4.AppxBundle</package>
@@ -1898,6 +1902,8 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/mysms_scr7.png</screenshot7>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1939,6 +1945,10 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/wish_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/wish_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/wish_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/wish_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/wish_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/wish_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/wish_scr9.png</screenshot9>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -1997,6 +2007,7 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/goodplan_scr6.png</screenshot6>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -2147,8 +2158,8 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr5.png</screenshot5>
-    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr5.png</screenshot6>
-    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr5.png</screenshot7>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr7.png</screenshot7>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -2269,6 +2280,10 @@
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/alarmclockhd_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/alarmclockhd_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/alarmclockhd_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/alarmclockhd_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/alarmclockhd_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/alarmclockhd_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/alarmclockhd_scr9.png</screenshot9>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
