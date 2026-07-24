@@ -2135,7 +2135,7 @@
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>New to Windows? Find out how to chat, search, travel, share, work, play and more across all your devices.</description>
-    <package>https://files.catbox.moe/cobxkz.AppxBundle</package>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/Microsoft.TryWindows10_1.0.3.0_neutral_._8wekyb3d8bbwe.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/trywindows10_scr3.png</screenshot3>
