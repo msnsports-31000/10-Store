@@ -301,7 +301,7 @@
     <mobileCapable>false</mobileCapable>
   </app>
   <app id="lashlight">
-    <name>Flashlight+</name>
+    <name>Flashlight⁺</name>
     <version>1.2.5.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight_img-1775848504.png</icon>
     <publisher>Asparion</publisher>
@@ -311,7 +311,22 @@
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight4.png</screenshot4>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.Taschenlampe_1.2.5.0_x64__f89vgcf3qm37t-1775848502.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.Taschenlampe_1.2.5.0_x86__f89vgcf3qm37t-1775848502.Appx</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+  </app>
+    <app id="lashlight">
+    <name>Flashlight⁺ for ARM</name>
+    <version>1.2.5.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight_img-1775848504.png</icon>
+    <publisher>Asparion</publisher>
+    <featured>false</featured>
+    <description>Turn your Windows device into a flashlight. Use the camera flash or your screen to light your way anytime anywhere. Adjust the brightness to get the most out of your device.</description>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/asparionflashlight4.png</screenshot4>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/12199Asparion.Taschenlampe_1.2.5.0_arm__f89vgcf3qm37t-1775848503.Appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
