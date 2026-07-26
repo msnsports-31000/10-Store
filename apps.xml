@@ -2505,4 +2505,20 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="tuba-fm">
+    <name>Tuba.FM</name>
+    <version>3.2.20.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tuba.fm_img.png</icon>
+    <publisher>GrupaRadiowaAgory</publisher>
+    <featured>true</featured>
+    <description>Tuba.FM is the first application that matches music with the taste of every user. It is simple, user-friendly and gives unlimited options of listening to every kind of music. You can use Tuba.FM on your mobile device or at www.tuba.FM. </description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/GrupaRadiowaAgory.Tuba.FM_3.2.20.0_neutral_~_czf5zwax1046t.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tuba.fm_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tuba.fm_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tuba.fm_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tuba.fm_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
