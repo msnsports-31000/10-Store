@@ -2521,4 +2521,34 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="the-independent">
+    <name>The Independent</name>
+    <version>1.1.8.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_img.png</icon>
+    <publisher>Independent Digital News and Media Limited</publisher>
+    <featured>false</featured>
+    <description>Free from political bias, The Independent newspaper is proud to live up to its name. With our Windows app all stories are available to read and share for free, with issues of the print newspaper available on screen with a subscription.
+The Independent Windows app presents our latest content in a clear and informative layout, making it simple to navigate, read and share the latest stories, whether or not you are connected to the internet.
+
+The following features are all in the FREE area of the app: 
+● Latest news, comment, features and sport: Updated throughout the day to ensure you can easily follow breaking stories
+● Videos: Our new video gallery provides clips of the latest news and viral videos
+● Weather: Up-to-date forecasts for the whole of the UK
+
+In the premium area of the app: 
+● E-editions: For a small subscription fee, read the pages of the latest edition of the newspaper, plus a 30-day archive, including every supplement, exactly as they were printed.</description>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/IndependentDigitalNewsand.TheIndependent_1.1.8.0_neutral_._q51sehj1cjy3e.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theindie_screenshot9.png</screenshot9>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
