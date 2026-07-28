@@ -924,7 +924,7 @@
     <win81compatible>true</win81compatible>
   </app>
   <app id="dobe-hotoshop-xpress">
-    <name>Adobe Photoshop Express Toshiba version only</name>
+    <name>Adobe Photoshop Express</name>
     <version>2015.428.846.668</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/adobephotoshopexpress_img-1778833546.png</icon>
     <publisher>Adobe Systems Incorporated</publisher>
