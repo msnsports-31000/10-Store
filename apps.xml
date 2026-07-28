@@ -1343,7 +1343,22 @@
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>SharePoint Newsfeed lets you stay connected to your organization’s social pulse while on the go. You can easily navigate your feeds and interact with the conversations from SharePoint sites you are following. Note: The SharePoint Newsfeed app works with SharePoint 2013 and the new SharePoint Online. Previous versions of SharePoint are not supported. When you are signing in, you will need your username, password. If you are having issues signing in, please contact your company’s SharePoint administrator to inquire about the proper credentials.</description>
-    <package>https://files.catbox.moe/awm45f.Appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.SharePoint2013Newsfeed_16.0.2130.1050_x86__8wekyb3d8bbwe.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/newsfeed-1779563893.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thread-view-1779563894.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/posting-1779563896.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
+    <app id="hare-oint-ewsfeed-for-arm">
+    <name>SharePoint Newsfeed for ARM</name>
+    <version>16.0.2130.1050</version>
+    <icon>https://i.ibb.co/BVfsPNjq/sharepointnewsfeed.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>SharePoint Newsfeed lets you stay connected to your organization’s social pulse while on the go. You can easily navigate your feeds and interact with the conversations from SharePoint sites you are following. Note: The SharePoint Newsfeed app works with SharePoint 2013 and the new SharePoint Online. Previous versions of SharePoint are not supported. When you are signing in, you will need your username, password. If you are having issues signing in, please contact your company’s SharePoint administrator to inquire about the proper credentials.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/Microsoft.SharePoint2013Newsfeed_16.0.2130.1050_arm__8wekyb3d8bbwe.Appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/newsfeed-1779563893.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/thread-view-1779563894.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/posting-1779563896.png</screenshot3>
