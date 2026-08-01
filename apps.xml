@@ -2630,4 +2630,47 @@ Eurosport is the only application which can propose you all the news and results
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="arcane-quest-3">
+    <name>Arcane Quest 3</name>
+    <version>1.4.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aq_img.png</icon>
+    <publisher>Next Game Studios</publisher>
+    <featured>false</featured>
+    <description>Epic adventures in this classic tabletop RPG based on the original board games.
+
+Once again, the Powers of Darkness have returned to threaten the Realm of Auria.
+
+Join an epic journey to restore the honor of your guild and save your people, in this fantastic mix of adventure, role-playing, and strategy game.
+
+Choose your adventurers from 10 unique classes and vanquish hordes of orcs, undead, evil sorcerers and a lot more.
+
+Customize your heroes with more than 150 equipment options, learn powerful spells, and use all your strategy skills to defeat your enemies.
+
+Play real-time multiplayer quests with your friends and players from all around the world.
+
+Create and share your own quests! Infinite gameplay hours are guaranteed by the free level editor. 
+
+FEATURES
+- Loyal to the classic tabletop games: roll the dice, level up your heroes, acquire new abilities and purchase the best equipment
+- Dive into an epic storyline including dozens of quests, find out the secrets of Auria and restore the honor of your guild
+- Real-time multiplayer missions to play with other players to obtain great rewards
+- Complete quests editor to publish and share your own quests, and play quests created by other players
+- Fully translated into English, French, German and Italian
+
+What Arcane Quest players are saying:
+
+- “Excellent adaptation of the HeroQuest board game. Brings back many childhood happy memories.”
+- “If you are looking to play a simple D&amp;D board game for your phone, this is the game. Easy and fun, love it.”
+- “If you have been looking for a fantasy board game this is the best.“
+- “If you were a fan of Hero Quest, Dragon Strike or D&amp;D, board games, this is the perfect app to bring you back.”</description>
+    <package>https://github.com/msnsports-31000/packages/releases/download/APPX/56556NexGameStudios.ArcaneQuest3_1.4.0.0_neutral_._y6k523nxjng9t.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aq_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aq_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aq_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aq_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aq_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
