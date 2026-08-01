@@ -2610,4 +2610,56 @@ In the premium area of the app:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="eurosport">
+    <name>Eurosport.com</name>
+    <version>4.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/eurosport_img.png</icon>
+    <publisher>Eurosport SAS</publisher>
+    <featured>true</featured>
+    <description>Enjoy the best sports experience with Eurosport’s new app version. Access daily news, features, latest scores and results quickly and easily
+-  All the biggest match and races with live text commentaries
+- Over 150 news articles written daily by our journalists
+- News are analysed in our videos
+- Live scoring and calendars of your favourite sports
+- Exclusive web chats with our journalists, pundits and players.
+
+All the news on the most important competitions in the world : 
+- Football with all the Premier League, Liga, Bundesliga, Ligue 1 and others. But also Champions’ League with your favourite teams and players : PSG, FC Barcelona, Real Madrid, Bayern Munich, Manchester City, Ronaldo, Messi, Ibrahimovic… All the live scoring, all the results, all the news, summer transfer window, transfers… 
+- Tennis with all the tournament of ATP and WTA’s tour, the grand slam (Wimbledon, Roland Garros, US Open, Open d’Australie) and all your favourite stars : Nadal, Djokovic, Federer, Murray, Sharapova, Williams…
+- All the F1’s races with Rosberg, Hamilton, Alonso and the others, the top of the Rugby with top 14, VI Nations’ tournament ; and the most important sports events : Golden League, Olympics’ games, Worlds Cup.
+
+Eurosport's unbeatable content and user-friendly interface make it the ultimate app for any sports fan on the move.
+Eurosport is the only application which can propose you all the news and results : football, rugby, tennis, Formula 1, cyclism, basketball, athleticism, handball, WRC, WTCC, ERC, Dakar’s race, Superbike, GP2, WEC, World Series by Renault, Abarth’s trophy, golf, Biathlon, alpine skiing, ice hockey, judo, fencing, boxing, snooker, US Football, University’s sports, equitation</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/EurosportSAS.Eurosport.com_4.1.0.0_x86__zbz8cfsntg0dj.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/eurosport_screen1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="eurosport">
+    <name>Eurosport.com for ARM</name>
+    <version>4.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/eurosport_img.png</icon>
+    <publisher>Eurosport SAS</publisher>
+    <featured>false</featured>
+    <description>Enjoy the best sports experience with Eurosport’s new app version. Access daily news, features, latest scores and results quickly and easily
+-  All the biggest match and races with live text commentaries
+- Over 150 news articles written daily by our journalists
+- News are analysed in our videos
+- Live scoring and calendars of your favourite sports
+- Exclusive web chats with our journalists, pundits and players.
+
+All the news on the most important competitions in the world : 
+- Football with all the Premier League, Liga, Bundesliga, Ligue 1 and others. But also Champions’ League with your favourite teams and players : PSG, FC Barcelona, Real Madrid, Bayern Munich, Manchester City, Ronaldo, Messi, Ibrahimovic… All the live scoring, all the results, all the news, summer transfer window, transfers… 
+- Tennis with all the tournament of ATP and WTA’s tour, the grand slam (Wimbledon, Roland Garros, US Open, Open d’Australie) and all your favourite stars : Nadal, Djokovic, Federer, Murray, Sharapova, Williams…
+- All the F1’s races with Rosberg, Hamilton, Alonso and the others, the top of the Rugby with top 14, VI Nations’ tournament ; and the most important sports events : Golden League, Olympics’ games, Worlds Cup.
+
+Eurosport's unbeatable content and user-friendly interface make it the ultimate app for any sports fan on the move.
+Eurosport is the only application which can propose you all the news and results : football, rugby, tennis, Formula 1, cyclism, basketball, athleticism, handball, WRC, WTCC, ERC, Dakar’s race, Superbike, GP2, WEC, World Series by Renault, Abarth’s trophy, golf, Biathlon, alpine skiing, ice hockey, judo, fencing, boxing, snooker, US Football, University’s sports, equitation</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/EurosportSAS.Eurosport.com_4.1.0.0_arm__zbz8cfsntg0dj.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/eurosport_screen1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   </data>
