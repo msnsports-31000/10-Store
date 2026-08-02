@@ -2675,4 +2675,20 @@ What Arcane Quest players are saying:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="talk-to-smone">
+    <name>Talk to Someone</name>
+    <version>3.2.709.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/talktosomeone_img.png</icon>
+    <publisher>Studio Nine</publisher>
+    <featured>false</featured>
+    <description>【Best anonymous social app】【World's most private social app】【The phenomenal anonymous social app】 Need talk? Got something private? Have something in mind? Don't want to post to Facebook? Everybody has a dirty little secret. Talk to Someone is right for you, a brand new way to express yourself annoymously, to meet millions of people differently, to quickly find your best match. Whether you want to find your soul mate, or just want to know some new friends, or have something in mind, or just feeling boring, or feeling upset, or want to know the other parts of the world, or want to learn some foreign language. Talk to Someone is app you absolutely need. Simply press start, and there are millions of guys and girls waiting online, willing to listen and talk to you. 7x24 any time any where. Whether you speak English, Spanish, French, Chinese or Japanese, meet people from all over the world with distnct backgrounds and culture. Features: 【Simple】Just press + and start search instantly 【Anonymous】No registration needed, no persional info needed 【Global】Meet people from all over the world 【Safe】No way to leak your identity, be yourself or pretend to be someone else. 【Efficent】Fast way to meet 【Likes】Tell he/she that you like him/her 【Friends】Make new friends, never lose them 【Express】Photos, words, emojis, audios, there is always a way to comminicate 【Do not disturb】Only friends can send images, block contacts you don't like If you enjoy using Talk to Someone, do not hesitate to rate us and give us a good review.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/62776YufeiHuang.TalktoSomeone_3.2.709.0_neutral_~_rmvdg58gr1y24.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/talktosomeone_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/talktosomeone_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/talktosomeone_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/talktosomeone_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
