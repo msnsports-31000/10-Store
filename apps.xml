@@ -2707,4 +2707,22 @@ What Arcane Quest players are saying:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="baconit">
+    <name>Baconit</name>
+    <version>4.9.1.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/baconit_img.png</icon>
+    <publisher>Quinn Damerell</publisher>
+    <featured>true</featured>
+    <description>(THE APP DOESNT WORK) The highest rated reddit client for Windows Phone has been rewritten from the ground up and is now available for all Windows 10 devices. Now with a dynamic new UI, faster speeds, and features you have been asking for. Welcome to the new Baconit. We know you’re going to love it. Features Include: * A dynamic new UI that adapts to every device. * Speed. Everything is fast. Everything. * Beautiful “flip view” post navigation. * Subreddit and comment flair! (finally) * Instant comment access directly in flipview.. * Global navigation menu –jump to a new subreddit from anywhere. * Full subreddit sidebar support. * Reddit formatting helper for new posts. * Trending subreddits! * Inline markdown comment formatting. * Desktop wallpaper and lock screen updating. * User account and settings roaming. * Real-time comment markdown. * In-depth reddit search supporting all search filters * So much more! Do you have a feature you would love to see in Baconit? Do you have a change in the UI you want to make? Baconit is now open source and driven by the community. Stop by r/Baconit to learn more and get your hands dirty! Reddit is the web's best source for news, events, politics, technology, gamming, humor, and much more. With Baconit, you are able to quickly browse the vast information on reddit with a quick, clean, and beautiful interface. Official subreddit: www.reddit.com/r/baconit Baconit is not officially associated or licensed with reddit in any way.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/9020QuinnDamerell.Baconit_4.9.1.0_neutral_~_m9y180tpb7212.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/baconit_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/baconit_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/baconit_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/baconit_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/baconit_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/baconit_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
