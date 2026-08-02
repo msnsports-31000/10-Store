@@ -2632,23 +2632,6 @@ Eurosport is the only application which can propose you all the news and results
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-    <app id="draywaves">
-    <name>DrayWaves Beta</name>
-    <version>0.8.5.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_img.png</icon>
-    <publisher>DraydenYT</publisher>
-    <featured>false</featured>
-    <description>DrayWaves: Your best lightweight UWP editor. Contains alot of features.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DrayWaves_0.8.5.0_AnyCPU_Debug.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr1.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr2.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr3.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr4.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr5.png</screenshot5>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
-  </app>
     <app id="arcane-quest-3">
     <name>Arcane Quest 3</name>
     <version>1.4.0.0</version>
