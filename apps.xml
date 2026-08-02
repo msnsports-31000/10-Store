@@ -1582,7 +1582,7 @@
     <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/filesfolders6.png</screenshot6>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
   </app>
     <app id="indows-entral">
     <name>Windows Central</name>
