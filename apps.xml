@@ -2778,4 +2778,24 @@ The Economist is a weekly international news and business publication, offering 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="new-monopoly-14">
+    <name>New Monopoly 14</name>
+    <version>1.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_img.png</icon>
+    <publisher>Online Microsoft</publisher>
+    <featured>false</featured>
+    <description>This app is based on very popular game Monopoly. Monopoly real-estate board game for three players, in which the player's goal is to remain financially solvent while forcing opponents into bankruptcy by buying and developing pieces of property. This New Monopoly 14 has option to purchase and sell the shares of property. Each side of the square board is divided into 10 small rectangles representing specific properties, railroads, utilities, a jail, and various other places and events. At the start of the game, each player is given a fixed amount of play money; the players then move around the board according to the throw of a pair of dice. Any player who lands on an unowned property may buy it, but, if he or she lands on a property owned by another player, share must be paid to that player. Certain non-property squares require the player landing on them to draw a card that may be favourable or unfavourable. If a player acquires a monopoly-that is, all of a particular group of properties-that player may purchase improvements for those properties; improvements add substantially to a property's share fee. A player continues to travel around the board until he or she is bankrupt. Bankruptcy results in elimination from the game. The last player remaining on the board is the winner. Also Click on Properties to view property's stock exchange rate as a chart. A Player can Purchase shares of a property to which it lands by clicking Purchase Button and Putting respectfull amount and lastly confirming by Clicking on OK Button. Also Player can Sell shares of properties that they have purchased respectively by clicking on Sell Button and Clicking on List Button 'List All Data' and selecting respected nos of transaction. You Can see Amount invested, No. of shares purchased and purchase rate and current stock rate. Player can click on Button 'Sell' to sell stock. If purchase rate is less than current stock rate, a player gains profits for a respected amount and if purchase rate is greater than current stock rate, a player loses some amounts. Player can View Build shares of any properties by clicking on Build Button. Also settings button included to change Amount and Player Names and to Refresh New Game. Note: If Player A has purchased Property X and Player B has purchased Property Y, then Player A can sell only Property X that they have purchased and not Property Y. Also Player B can sell only Property Y that they have purchased and not property X.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/2134OnlineMicrosoft.NewMonopoly14_1.1.0.0_neutral_~_nf2rf99yjshcw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newmonopoly14_scr8.png</screenshot8>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
