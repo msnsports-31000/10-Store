@@ -2760,7 +2760,7 @@ What Arcane Quest players are saying:
     <app id="the-economist">
     <name>The Economist On Windows</name>
     <version>2.0.1.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theeconomist_img_img.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theeconomist_img.png</icon>
     <publisher>The Economist Newspaper</publisher>
     <featured>false</featured>
     <description>(THE APP DOESNT WORK) weekly selection of articles from each week's edition of The Economist.
@@ -2771,9 +2771,9 @@ Non-subscribers can register for an economist.com account to read the free edito
 ABOUT THE ECONOMIST   
 The Economist is a weekly international news and business publication, offering clear reporting, commentary and analysis on world current affairs, business, finance, science and technology, culture, society, media and the arts.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/TheEconomistNewspaper.TheEconomistonWindows_2.0.1.0_neutral_~_wrwt61ah4ndx6.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theeconomist_img_scr1.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theeconomist_img_scr2.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theeconomist_img_scr3.png</screenshot3>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theeconomist_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theeconomist_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theeconomist_scr3.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
