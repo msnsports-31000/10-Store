@@ -58,17 +58,19 @@
   <app id="draymusic">
     <name>DrayMusic</name>
     <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_wave-sound.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/draymusic.png</icon>
     <publisher>DraydenYT Classics</publisher>
     <featured>false</featured>
-    <description>DrayMusic For 8.1, get the best music streaming experience, Was originally made for 8Store, but screw them. rework was always better anyways. app may work on rt</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_DrayMusic_1.0.0.0_AnyCPU.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_image.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_image2.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704616_image3.png</screenshot3>
+    <description>DrayMusic For Windows 10, get the best music streaming experience.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DrayMusic.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic4.png</screenshot3>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic5.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
     <drayYTproject>true</drayYTproject>
   </app>
   <app id="lumia-camera">
