@@ -2798,4 +2798,25 @@ The Economist is a weekly international news and business publication, offering 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="aida64">
+    <name>AIDA64</name>
+    <version>2.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_img.png</icon>
+    <publisher>FinalWire</publisher>
+    <featured>false</featured>
+    <description>Hardware and software information utility for Windows 10 computers and mobile devices. Based on the extensive hardware knowledge of the AIDA64 Extreme software, the AIDA64 app is capable of showing various diagnostic information for computers, phones and tablets, including: - CPU detection - Screen dimensions, pixel density and camera information - Battery level monitoring - WiFi and cellular network information - Windows OS properties - SoC and device model identification - Memory size and storage utilization - Direct3D GPU details - Sensor polling System requirements: - Windows 10 or Windows Phone 8.1 Required permissions: - Internet - Removable Storage. AIDA64 requires this permission to detect external storage (SD-card) total and free space. - Webcam. AIDA64 requires this permission to show camera information like picture resolution. AIDA64 does not take any photos or videos. Known issues: - Sending report in e-mail may not work properly with Windows 10 Mobile Preview builds due to a bug in the Windows 10 UWP e-mail protocol.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/FinalWire.AIDA64_2.1.0.0_neutral_~_a2fqy4btbmbvp.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/aida64_scr9.png</screenshot9>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
