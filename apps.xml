@@ -2886,4 +2886,18 @@ The Economist is a weekly international news and business publication, offering 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="uwptools">
+    <name>UWPTools</name>
+    <version>1.0.1.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/uwptools_img.png</icon>
+    <publisher>Jobria</publisher>
+    <featured>false</featured>
+    <description>UWPTools is an app for UWP developer to find glyph and colors for their app.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/16534Jobria.UWPTools_1.0.1.0_neutral_~_p2k6h6xffj0kj.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/uwptools_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/uwptools_scr2.png</screenshot2>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
