@@ -2815,4 +2815,20 @@ The Economist is a weekly international news and business publication, offering 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="fhotoroom">
+    <name>Fhotoroom</name>
+    <version>15.1.52.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/fhotoroom_img.png</icon>
+    <publisher>Supporting Computers Inc</publisher>
+    <featured>false</featured>
+    <description>Fhotoroom is one of the most advanced non-destructive image editors that utilizes a completely unique way of editing photos. With a common and friendly user interface, fhotoroom's unique method of photo editing allows for larger previews and faster interactive editing making photo editing and experimenting a joy even with large photos. EDITING - Full Exif and GPS Metadata support. - Import or Replace Metadata - Support for File Formats JPG, JXR, WDP, PNG, DNG, CR2, CRW, NEF, 3FR, MEF, RW2, RAW, ORF, PEF, ARW, SR2, KDC, DCR, RAF, MRW, MDC, SRF, SRW, X3F, TIF, TIFF, ERF, and IIQ. (Some formats only supported with purchase of the complete collection). - Editing tools like Curves, Crop, Resize, Rotate, Color Correction, Exposure Correction and more. - Interactive Editing for the highest level of control and accuracy. - HDR Filter - Denoise and Grain Filter - Lens Correction, Panorama Rotate, Tiny Planet, Curves, Drawing - Masking Tool (Invert, Draw, Erase, Brush Softness and more) - Undo, Redo, Before/After during Filter, Pinch to Zoom. - Unlimited Undo with History List tool. - Drag and Drop Support for Windows 10 - 11 File Associations - Share to Fhotoroom from Folder or other App 11 File Formats - Continuum Support PRESETS - Beautiful custom designed presets each with a history and story behind it rather than just random stylish names like in other apps. - 25 Custom Design Adjustable Styles like, Tsar, Tsaritsa, Americano, Mack, Classic Pro, Velvia X, Herc, Rain, Tinge, Cape, Komo, Kapla, Haze, Adele, Hazelnut, LowDef, Ansel, Silver, Dose, Aura 1 and 2. - Adjustable Frames and Light Leaks</description>
+    <package>https://github.com/msnsports-31000/packages/releases/download/APPX/SupportingComputersInc.Fhotoroom_15.1.52.0_neutral_._pxc4cxt3rds1p.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/fhotoroom_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/fhotoroom_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/fhotoroom_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/fhotoroom_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
