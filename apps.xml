@@ -1186,27 +1186,23 @@
     <win81compatible>false</win81compatible>
   </app>
   <app id="aily-ic">
-    <name>Daily Pic</name>
-    <version>2015.305.1045.1352</version>
+    <name>DailyPic</name>
+    <version>2.6.9.2000</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-180-1779480857.png</icon>
     <publisher>T. Partl</publisher>
     <featured>false</featured>
-    <description>You like the Bing Picture of the Day? With this app, you can download them in Full-HD resolution, set them as your desktop wallpaper or lock screen and much more!
-    • View and download todays and past Bing wallpapers
-    • Many download resolutions (landscape &amp;amp; portrait orientation)
-    • Live Tile showing the current Bing picture
-    • Choose from different regions for different pictures
-    • Interesting additional information and links
-    • Optional daily automatic download of the Bing wallpaper
-    • Set a Bing wallpaper as your lockscreen or desktop background
-    • Optional title of the picture on the lock screen or desktop background</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/49297T.Partl.BingPictureoftheDay_2015.305.1045.1352_neutral_~_jr9bq2af9farr.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot1-1779480859.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot2-1779480860.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/screenshot3-1779480865.png</screenshot3>
+    <description>You like the Bing Picture of the Day? With this app, you can download them in Full-HD resolution, set them as your desktop wallpaper or lock screen and much more! • View and download todays and past Bing wallpapers • Many download resolutions (landscape &amp; portrait orientation) • Live Tile showing the current Bing picture • Choose from different regions for different pictures • Interesting additional information and links • Optional daily automatic download of the Bing wallpaper • Set a Bing wallpaper as your lockscreen or desktop background • Optional title of the picture on the lock screen or desktop background</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/49297T.Partl.DailyPic2_2.6.9.2000_neutral_~_jr9bq2af9farr.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/dailypic_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/dailypic_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/dailypic_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/dailypic_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/dailypic_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/dailypic_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/dailypic_scr7.png</screenshot7>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
   </app>
   <app id="eat-he-oss-2">
     <name>Beat The Boss 2</name>
