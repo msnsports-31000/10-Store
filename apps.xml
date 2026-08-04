@@ -2831,4 +2831,41 @@ The Economist is a weekly international news and business publication, offering 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="new-years-countdown">
+    <name>New Years Countdown</name>
+    <version>1.2.18.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newyearscountdown_img.png</icon>
+    <publisher>Mexond</publisher>
+    <featured>false</featured>
+    <description>New year's countdown is a simple and elegant app with only one purpose, showing the time left to new year. Supports both Gregorian and Chinese new year. As the countdown reaches 0, sparkling fireworks with empathetic sound effects fills up the screen. Once the firework has passed, the countdown will reset and keep counting down till next year. Live tiles makes it easy to keep track of the time outside the app, by updating every minute. New year's countdown supports Live tiles in three sizes with different appearance. New year's countdown also has a "simulate new year" button so that you know what to expect when the time comes.</description>
+    <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/Mexond.NewYearsCountdown_1.2.18.0_neutral_._ws8c14wzbrndy.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newyearscountdown_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newyearscountdown_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newyearscountdown_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newyearscountdown_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newyearscountdown_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="pin-more">
+    <name>Pin More</name>
+    <version>3.0.5.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_img.png</icon>
+    <publisher>Snowy Dune</publisher>
+    <featured>false</featured>
+    <description>Pin custom tiles for Steam, Origin, Battle.net and Uplay games, documents, document folders and websites to your Start screen! Create static tiles with any image you want as logo or use up to 5 images to create a live tile that cycles between them. You can also create live tiles for your Steam games that display your achievements or for your favorite websites displaying their latest news. Choose the background color you want to use by either picking one of the default colors, using our color picker, entering the RGB values of the color or even picking a color directly from any of the tile images. Export the tiles you've pinned so you can share them with your friends, import them on other devices or just keep them as backup so you don't have to create them again if you need to reinstall Windows. Not sure if Pin More is what you're looking for? Download the trial version to give it a try! In the trial version you can use all the features of the full version with a maximum of 4 pinned tiles. Do you have any questions? Are you having any issues with Pin More? Do you think some feature should be added or improved? Let us know! You can contact us using the support link in the Store page or the contact button in Pin More's main screen. In order to pin Steam games you need to have a Steam account.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/37508SnowyDune.PinMore_3.0.5.0_neutral_~_ztk87pzmht872.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pinmore_scr8.png</screenshot8>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
