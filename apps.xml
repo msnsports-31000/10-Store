@@ -2955,4 +2955,20 @@ The Economist is a weekly international news and business publication, offering 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="simplified-guide-for-windows-10">
+    <name>Simplified Guide For Windows 10</name>
+    <version>5.6.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplifiedguideforwindows10_img.png</icon>
+    <publisher>Beach APP</publisher>
+    <featured>false</featured>
+    <description>Through this guide, keep pace with the Microsoft Windows 10 operating system. This course includes: Setting up Upgrade to Windows 10 Connect to Wi-Fi Create an account withMicrosoft Create a user account Add a password to protectyour account Improve your security Change the desktop image Personalise the Start menu Customise your PC’s settings to suit your needs Use Control Panel to manage your system settings Set up the Windows firewall Set up Windows Defender Getting started Master the new Start menu Start using multiple desktops Learn to use Task Manager Use the Notifications centre Customise your application notifications Change your default programs Switch between applications Arrange your windows with a snap Look to the future with Universal apps Introducing Cortana, your personal assistant Use voice search with Cortana Set up and add contacts Set up an email account Send an email with attachments Get to grips with the Calendar app Add an event to your Calendar Get to know Microsoft Edge Bookmark a site with Edge Pin a site to the Start menu Clear browsing history Make notes and more on Edge Browser Add a web site/article to your Reading list Browse the Windows Store Download an app Explore the Maps features Find your way with Maps Upload, share and sync with Microsoft’s OneDrive</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/62954BeachAPP.SimplifiedGuideForWindows10_5.6.3.0_x64__4d7fnewny1v5t.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplifiedguideforwindows10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplifiedguideforwindows10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplifiedguideforwindows10_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplifiedguideforwindows10_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
