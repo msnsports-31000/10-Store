@@ -73,6 +73,24 @@
     <win81compatible>false</win81compatible>
     <drayYTproject>true</drayYTproject>
   </app>
+  <app id="draywaves">
+    <name>DrayWaves</name>
+    <version>0.8.6.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_img.png</icon>
+    <publisher>DraydenYT Classics</publisher>
+    <featured>false</featured>
+    <description>DrayWaves is a handy Lightweight UWP Music Editor. packed with features that might help you. This is still BETA, and you might have some bugs or glitches in the app.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DrayWaves_0.8.6.0_AnyCPU_Debug.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+    <drayYTproject>true</drayYTproject>
+  </app>
   <app id="lumia-camera">
     <name>Lumia Camera</name>
     <version>5.0.2.54</version>
