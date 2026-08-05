@@ -2921,4 +2921,20 @@ The Economist is a weekly international news and business publication, offering 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="mahjong-3">
+    <name>Mahjong 3</name>
+    <version>1.22.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mahjong3_img.png</icon>
+    <publisher>1C Wireless LLC</publisher>
+    <featured>false</featured>
+    <description>Presenting new title by 1C Wireless – Mahjong 3! There are three game modes for you to enjoy: • Classic - Original Mahjong Solitaire. Play as long as you want! • Time Attack - Clear all matching tiles as quick as possible! • Challenge - For Advanced players. You have limited time to choose your Tiles. The faster you select the Tiles, the higher will be your score for the move! Win in Challenge mode to unlock more towers. Features: • Large and clear graphics of mahjong tiles! Best for your eyes! • Full undo! • Different backgrounds and themes! • New super SHUFFLE feature when no more moves are available! • Hints: possible moves can be highlighted! This solitaire game is also known as Mahjong Solitaire, Taipei Mahjongg, Shanghai Mah-Jong, Chinese Mahjong, Mahjong Trails, Mahjong Titans, Kyodai.</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/1CWirelessLLC.Mahjong3_1.22.0.0_neutral_._tzjxkvxwjwcjr.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mahjong3_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mahjong3_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mahjong3_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mahjong3_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
