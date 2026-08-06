@@ -2971,4 +2971,62 @@ The Economist is a weekly international news and business publication, offering 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="simple-machines-by-tinybop">
+    <name>Simple Machines by Tinybop</name>
+    <version>1.1.30.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplemachinesbytinybop_img.png</icon>
+    <publisher>Tinybop Inc</publisher>
+    <featured>false</featured>
+    <description>Explore the playful side of physics! Experiment with levers, pulleys, inclined planes, wedges, wheel and axles, and screws. Discover the invisible forces at work. Alter and test machines to destroy a castle, make music, send satellites into orbit, and more!</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/TinybopInc.SimpleMachinesbyTinybop_1.1.30.0_neutral_._r78bc1t1k5bj2.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplemachinesbytinybop_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplemachinesbytinybop_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplemachinesbytinybop_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplemachinesbytinybop_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplemachinesbytinybop_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/simplemachinesbytinybop_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="skyscrapers-by-tinybop">
+    <name>Skyscrapers by Tinybop</name>
+    <version>1.1.17.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/skyscrapersbytinybop_img.png</icon>
+    <publisher>Tinybop Inc</publisher>
+    <featured>false</featured>
+    <description>Explore the tallest buildings in the world! 
+
+Discover how people build, live, and play in skyscrapers. Go up and down, through every floor, and underground. Spark a blackout, fix a pipe, or clog the toilets. Test your building’s engineering when dinosaurs invade, lightning strikes, or the earth quakes. Find out what keeps skyscrapers standing tall and people happy in them all. 
+
+Skyscrapers is No. 7 in Tinybop’s Explorer’s Library series, designed to let kids explore the invisible and awesome wonders of our world. Kids develop foundational science literacy. 
+
+Tinybop apps have been downloaded by more than 8 million kids across the globe and have won Parents’ Choice and Children's Technology Review Editor’s Choice awards. 
+
+Privacy policy 
+We take your and your child’s privacy seriously. We do not collect or share personal information about your child, nor do we allow any third-party advertising. 
+
+When the camera, microphone, and other services are used within an app, your information is neither collected nor distributed outside of the app.
+
+Read our complete privacy policy at tinybop.com/privacy. 
+
+Tinybop, Inc. is a Brooklyn-based studio of designers, engineers, and artists. We make toys for tomorrow. We’re all over the internet.
+
+Visit us: www.tinybop.com
+Follow us: twitter.com/tinybop
+Like us: facebook.com/tinybop
+Peek behind the scenes: instagram.com/tinybop
+
+We love hearing your stories! If you have ideas, or something isn’t working as you expect it to, please contact us: hi@tinybop.com.
+
+Psst! It's not Tiny Bop, or Tiny Bob, or Tiny Pop. It's Tinybop.</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/TinybopInc.SkyscrapersbyTinybop_1.1.17.0_neutral_._r78bc1t1k5bj2.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/skyscrapersbytinybop_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/skyscrapersbytinybop_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/skyscrapersbytinybop_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/skyscrapersbytinybop_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
