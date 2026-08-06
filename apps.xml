@@ -59,7 +59,7 @@
     <name>DrayMusic</name>
     <version>1.0.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic.png</icon>
-    <publisher>DraydenYT Classics</publisher>
+    <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description>DrayMusic For Windows 10, get the best music streaming experience.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DrayMusic.appx</package>
@@ -383,7 +383,7 @@
     <name>10Store 1.0 Patched</name>
     <version>1.0.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/storelogo.scale-200-1775903021.png</icon>
-    <publisher>DraydenYT Classics</publisher>
+    <publisher>DraydenYT</publisher>
     <featured>false</featured>
     <description>If you install this, you will have to remove the 10Store you are reading this from, have a good one.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/10Store_1.0.0.0_AnyCPU-1775903020.appx</package>
@@ -494,7 +494,7 @@
     <name>OREO</name>
     <version>1.0.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/storelogo.scale-180-1777048105.png</icon>
-    <publisher>DraydenYT Classics</publisher>
+    <publisher>DraydenYT</publisher>
     <featured>true</featured>
     <description/>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/OREO_1.0.0.0_AnyCPU-1777048102.appx</package>
@@ -570,7 +570,7 @@
     <name>DrayAI Classic</name>
     <version>1.0.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallTile.scale-200-1777988163.png</icon>
-    <publisher>DraydenYT Classics</publisher>
+    <publisher>DraydenYT</publisher>
     <featured>true</featured>
     <description>(This app is currently broken) DrayAI Metro is an Ai Client for Windows 8.1, Powered by both Gemini &amp; ChatGPT Apis</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Drayai8.1EN-1777988161.appx</package>
@@ -962,19 +962,6 @@
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
-  </app>
-  <app id="he-ewark-rantham-ailway">
-    <name>🚄 The Newark &amp; Grantham Railway</name>
-    <version>0.4.8.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/noFilter-1779025858.png</icon>
-    <publisher>DraydenYT</publisher>
-    <featured>false</featured>
-    <description>Drive trains – have fun! Drive the iconic InterCity 225 trains on the ECML. Get into the trains by jumping in from the top :) Contains real sounds recorded in Grantham, UK.</description>
-    <package>https://www.roblox.com/games/115500117635141</package>
-    <pcCapable>false</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
-    <drayYTproject>true</drayYTproject>
   </app>
   <app id="pload-your-apps-to-10-tore">
     <name>Upload your apps to 10Store!</name>
