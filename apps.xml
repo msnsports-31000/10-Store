@@ -3029,4 +3029,22 @@ Psst! It's not Tiny Bop, or Tiny Bob, or Tiny Pop. It's Tinybop.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="nexgen-reader">
+    <name>Nextgen Reader</name>
+    <version>7.0.34.0(1511+)</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nexgenreader_img.png</icon>
+    <publisher>Next Matters</publisher>
+    <featured>false</featured>
+    <description>A fast, clean and powerful RSS news reader for Windows 10. Login/purchase once and run on multiple devices (Mobile, PC or Tablet). Requires feedly account for login. We're continuously working on new updates and improvements. Please share your feedback through app or visit us at: http://nextmatters.com/</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/6205NextMatters.NextgenReader_7.0.34.0_neutral_~_dhevqfrzdz4vg.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nextgenreader_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nextgenreader_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nextgenreader_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nextgenreader_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nextgenreader_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nextgenreader_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
