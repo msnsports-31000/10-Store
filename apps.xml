@@ -677,7 +677,7 @@
     <featured>false</featured>
     <description>Twitter Internal</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/main/files2/9E2F88E3.TwitterInternal_4.4.8.0_x86__wgeqdkkx372wm.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/twitter_scr1.png</screenshot1>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/twitter_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -690,7 +690,7 @@
     <featured>false</featured>
     <description>Twitter Internal</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/main/files2/9E2F88E3.TwitterInternal_4.4.8.0_arm__wgeqdkkx372wm.Appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/twitter_scr1.png</screenshot1>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/twitter_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
