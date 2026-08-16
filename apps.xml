@@ -669,17 +669,31 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="witter-luetweety">
-    <name>Twitter (Bluetweety)</name>
-    <version>1.1.13.8</version>
+  <app id="twitter-internal">
+    <name>Twitter Internal</name>
+    <version>4.4.8.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-180-1778005018.png</icon>
-    <publisher>Twitter Inc</publisher>
+    <publisher>Twitter Inc.</publisher>
     <featured>false</featured>
-    <description/>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/9E2F88E3.Twitter_1.1.13.8_x86__wgeqdkkx372wm-1778005015.appx</package>
+    <description>Twitter Internal<description/>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/main/files2/9E2F88E3.TwitterInternal_4.4.8.0_x86__wgeqdkkx372wm.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/twitter_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="twitter-internal">
+    <name>Twitter Internal for ARM</name>
+    <version>4.4.8.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-180-1778005018.png</icon>
+    <publisher>Twitter Inc.</publisher>
+    <featured>false</featured>
+    <description>Twitter Internal<description/>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/main/files2/9E2F88E3.TwitterInternal_4.4.8.0_arm__wgeqdkkx372wm.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/twitter_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
   </app>
   <app id="lappy-ird">
     <name>Flappy Bird</name>
@@ -689,18 +703,6 @@
     <featured>false</featured>
     <description/>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/28845PhilinoTechnologies.FlappyBird_2.2.0.0_neutral_~_k1kv61aetwx78.AppxBundle</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
-    <win81compatible>false</win81compatible>
-  </app>
-  <app id="niversal-egedit">
-    <name>Universal Regedit</name>
-    <version>1.0.34.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-05-05-225419-1778011253.png</icon>
-    <publisher>IT Dev Team</publisher>
-    <featured>false</featured>
-    <description/>
-    <package>https://github.com/OpenGlebsur/win8storerevivalserver/raw/refs/heads/main/52346ITDevTeam.UniversalRegistryEditor_1.0.34.0_neutral_~_feeqnmc1868va.AppxBundle</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
