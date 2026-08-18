@@ -3036,4 +3036,22 @@ Psst! It's not Tiny Bop, or Tiny Bob, or Tiny Pop. It's Tinybop.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="qq">
+    <name>QQ</name>
+    <version>5.6.1150.1000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qq_img.png</icon>
+    <publisher>深圳市腾讯计算机系统有限公司</publisher>
+    <featured>false</featured>
+    <description>【提要】 QQ for Windows10 是腾讯公司专门为Windows10平台用户打造的随时随地聊QQ，分享图片、发送文件、语音以及视频的即时通讯软件。全新Windows10 UWP通用架构，致力打造 “轻快，简洁，高效”的QQ体验。 【意见反馈】 1.软件内点击[设置->帮助反馈] 2.官方微博: http://weibo.com/3869180694 【应用功能】 1.Windows10通用架构，轻快、简洁、高效 2.与好友聊天，分享图片和表情 3.视频通话，想念不如相见 4.语音通话，畅聊精彩 5.支持讨论组，拉几个朋友想聊就聊 6.收发文件，办公助力 7.消息推送，随时随地接收好友消息 8.支持与PC同时在线，同一个QQ帐号在PCQQ和Win10端均可收发消息 9.群助手，轻松管理群消息 10.支持触屏及键鼠操作 11.结合版空间，看动态，发说说，轻松又清爽 12.我的电脑，支持与PC，手机互传文件</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/903DB504.QQ_5.6.1150.1000_neutral_._a99ra4d2cbcxa.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qq_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qq_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qq_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qq_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qq_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qq_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
