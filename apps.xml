@@ -3054,4 +3054,25 @@ Psst! It's not Tiny Bop, or Tiny Bob, or Tiny Pop. It's Tinybop.</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="jack-of-time">
+    <name>Jack Of Time</name>
+    <version>2.0.17.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_img.png</icon>
+    <publisher>Digitalmason.net</publisher>
+    <featured>false</featured>
+    <description>Jack of Time provides a tool set of time related functions including a countdown timer with voice, stop watch, a time calculator, event timer, sunrise and sunset times, moon rise and set times, as well as a world time function with search--enter a place or thing (like "Statue of Liberty") and find the corresponding time zone and current time.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/31710Digitalmason.net.2152646A6AF7B_2.0.17.0_neutral_~_qxs9v8xwp3xem.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/jackoftime_scr9.png</screenshot9>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
