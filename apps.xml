@@ -3075,4 +3075,22 @@ Psst! It's not Tiny Bop, or Tiny Bob, or Tiny Pop. It's Tinybop.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="rayman-fiesta-run-windows-10-edition">
+    <name>Rayman Fiesta Run Windows 10 Edition</name>
+    <version>1.0.23.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raymanfiestarun_img.png</icon>
+    <publisher>Ubisoft</publisher>
+    <featured>false</featured>
+    <description>Join legendary platforming hero Rayman for a new adventure on your favorite mobile device! If you enjoyed Rayman Jungle Run, you will love Rayman Fiesta Run and its new wacky Fiesta world! Lunge for cocktail umbrellas, leap on limes and punch those piñatas…the sky’s the limit! PARTY ALL NIGHT LONG * More than 75 levels welcome you for the Fiesta! * Bounce on sausages and make your way through 4 new festive worlds * Beat all 3 new epic bosses to reach the dreaded Land of the Livid Dead Island! * Collect Lums to get awesome rewards and power-ups DISCOVER RAYMAN'S AMAZING NEW POWERS * Rayman could jump, fly, punch and run up the walls… * …he can now slide, swim or shrink on the fly into a tiny hero * Unleash the power of the Super Punch! BEWARE OF THE INVASION! * Play all the levels you thought you knew in a totally different way * Avoid new traps and defeat even fiercer enemies * Get ready for more great challenges! ENJOY GORGEOUS GRAPHICS * Rayman Jungle Run was pretty… Rayman Fiesta Run looks absolutely delicious! * Immerse yourself into the Fiesta thanks to the increased depth of field * And if you like great lightings, Rayman has put a brand new disco ball up for you! CHALLENGE YOUR FRIENDS Share your activities, post your achievements on Facebook, and follow your friends on the world map. This game can be downloaded over the air, no Wi-Fi needed to play! Bring the Fiesta to your Tablet! Rayman Fiesta Run is absolutely gorgeous on big screens. Game available in: English, French, Italian, German, Spanish, Brazilian Portuguese, Chinese, Japanese, Korean, Russian and Arabic. Stay on top of your game! Get the latest news, deals, and more at.... FACEBOOK: http://facebook.com/UbisoftMobileGames TWITTER: http://twitter.com/ubisoftmobile YOUTUBE: http://youtube.com/user/Ubisoft</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/Ubisoft.RaymanFiestaRunWindows10Edition_1.0.23.0_neutral_._ngz4m417e0mpw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raymanfiestarun_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raymanfiestarun_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raymanfiestarun_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raymanfiestarun_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raymanfiestarun_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raymanfiestarun_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
