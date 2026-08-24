@@ -471,7 +471,7 @@
   <app id="inecraft-for-indows-10">
     <name>Minecraft Windows 10 Edition Beta</name>
     <version>0.16.1.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-400-1776522639.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/minecraftwindows10editionbeta_img.png</icon>
     <publisher>Microsoft Studios</publisher>
     <featured>true</featured>
     <description>Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or with friends on mobile devices, Switch, Xbox One and Windows 10.
@@ -488,7 +488,7 @@
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Minecraft-first-screen-1776522640.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/maxresdefault-1-1776522641.jpg</screenshot2>
     <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
+    <mobileCapable>false</mobileCapable>
   </app>
   <app id="app-1777048102">
     <name>OREO</name>
