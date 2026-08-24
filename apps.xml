@@ -3113,4 +3113,53 @@ Psst! It's not Tiny Bop, or Tiny Bob, or Tiny Pop. It's Tinybop.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="roku">
+    <name>Roku</name>
+    <version>3.1.1.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/roku_img.png</icon>
+    <publisher>Roku</publisher>
+    <featured>false</featured>
+    <description>The Roku app for Windows allows Roku users to control their Roku player over their home network. Features include:
+
+- Search for movies, shows, actors, or directors and easily launch the content on your Roku player or TV.  Search is available today with the Roku Streaming Stick (HDMI version), Roku 3, Roku TVs, and will be available on additional Roku players at a later date.
+- Browse, add, and rate Channels from more than 1,800 Roku Channels offered in the Roku Channel Store.
+- Quickly launch your favorite Roku Channels
+- Name and switch between multiple Roku players and TVs
+- Enjoy your laptop or tablet photos and music on your Roku player or TV (Supported on Roku 3, Roku 2, Roku LT, Roku HD (model 2500), Roku TV, and Roku Streaming Stick only)
+
+THIS APP REQUIRES A ROKU PLAYER
+To use this app, you must connect your Windows device to the same network as your Roku player or TV.  Certain features require compatible Roku players/Roku TVs or may require logging in to your Roku account.
+
+HAVING TROUBLE FINDING YOUR ROKU PLAYER OR ROKU TV?
+Note: If the app does not recognize your Roku player or TV (you see a “No Roku Devices Found” message after you sign in), try going to network setup again on your Roku player. This will wake your Roku player on your home network. Then, select “Try Again” in the Roku app. 
+
+Go to support.roku.com for FAQs or to get help.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/1319C185.Roku_3.1.1.0_neutral___gz11xxydh4gg8.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/roku_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/roku_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/roku_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/roku_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/roku_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="the-weather-channel">
+    <name>The Weather Channel</name>
+    <version>2016.614.87.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theweatherchannel_img.png</icon>
+    <publisher>The Weather Channel.</publisher>
+    <featured>false</featured>
+    <description></description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/Weather.TheWeatherChannel_2016.614.87.0_neutral_._t3yemqpq4kp7p.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theweatherchannel_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theweatherchannel_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theweatherchannel_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theweatherchannel_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theweatherchannel_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/theweatherchannel_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
