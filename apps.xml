@@ -79,7 +79,8 @@
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_img.png</icon>
     <publisher>DraydenYT Classics</publisher>
     <featured>false</featured>
-    <description>DrayWaves is a handy Lightweight UWP Music Editor. packed with features that might help you. This is still BETA, and you might have some bugs or glitches in the app.</description>
+    <description>DrayWaves is a Simple UWP Audio Editor for Windows 10. Ever feel like you want to add some reverb to a song but don't want to play around with complicated software for pros? DrayWaves is just for you! Cut/Trim Songs! Add Reverb/Echo Easily!
+Play around with the Eq to get that lovely brassy crisp sound to your liking! Lots more to be added soon, stay tuned!</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DrayWaves_0.8.6.0_AnyCPU_Debug.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr2.png</screenshot2>
