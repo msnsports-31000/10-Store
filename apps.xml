@@ -531,26 +531,18 @@ Play around with the Eq to get that lovely brassy crisp sound to your liking! Lo
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="alking-inger">
-    <name>Talking Ginger</name>
-    <version>2.2.5.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Logo.scale-100-1777981576.png</icon>
-    <publisher>Outfit7</publisher>
-    <featured>false</featured>
-    <description/>
-    <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Talking%20Ginger/app.appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="ransport-mpire">
     <name>Transport Empire</name>
     <version>3.0.38.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/2026-05-05-145200-1777981960.png</icon>
-    <publisher>Game  Insight</publisher>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/transportempire_img.png</icon>
+    <publisher>GAME INSIGHT UAB</publisher>
     <featured>false</featured>
-    <description/>
-    <package>https://appxboxdl.dankassassin368.com/Windows%2010%20APPX%20Files/Games/Transport%20Empire/0EB8BD08.TransportEmpire_3.0.38.0_neutral_~_erk4rrwmt7jyt.appxbundle</package>
+    <description>Transport Empire is a captivating economic strategy game inspired by the Victorian Era and a little bit of steampunk. Dispatch trains, steamboats and airships, build roads and mines and develop cities to enjoy absolute monopoly of the country's transportation sector. Earn the respect and love of the locals while avoiding the sinister machinations of enemies and rivals. Put your economic skills to use and become the powerful business tycoon! The game uses in-app purchases. In-app purchases can speed up gameplay.</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/0EB8BD08.TransportEmpire_3.0.38.0_neutral_._erk4rrwmt7jyt.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/transportempire_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/transportempire_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/transportempire_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/transportempire_scr4.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
