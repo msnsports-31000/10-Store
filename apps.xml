@@ -49,7 +49,7 @@
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>MSN Weather: The best way to plan your day.
-    Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.</description>
+    Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do. Patched with NewRetiled,credit to migbrunluz</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Weather/Microsoft.BingWeather_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
