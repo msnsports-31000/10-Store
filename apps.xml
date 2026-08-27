@@ -55,6 +55,49 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="msn-news">
+    <name>MSN News</name>
+    <version>4.6.169.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnnews_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>MSN News delivers breaking news and trusted, in-depth reporting from the world's best journalists.
+    - Our editors curate the most trusted, important, interesting and trending news
+    - You choose which topics matter most to you.
+    - MSN News updates you with notifications of breaking news, quickly and accurately, 24/7
+    - Sync your preferences across the app and the Web.
+    MSN News works in partnership with hundreds of publishers in dozens of countries globally. Select from editions</description>
+    <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/News/Microsoft.BingNews_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnnews_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="msn-money">
+    <name>MSN Money</name>
+    <version>4.6.169.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnmoney_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
+    <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Money/Microsoft.BingFinance_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="ports-uwp">
+    <name>MSN Sports</name>
+    <version>4.6.169.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnsports_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>The MSN Sports app is packed with live scores &amp; in-depth game experiences for more than 150 leagues. Customize to add favorite leagues and teams. Follow schedules, results, standings and game analysis. Read the latest news, enjoy galleries and watch video highlights from across the best sporting news sources for your favorites.This app isnt patched.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingSports_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnsports_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
   <app id="draymusic">
     <name>DrayMusic</name>
     <version>1.0.0.0</version>
@@ -102,36 +145,6 @@ Play around with the Eq to get that lovely brassy crisp sound to your liking! Lo
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704804_Lumia-Camera-5.0.2.54.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
-  </app>
-  <app id="msn-news">
-    <name>MSN News</name>
-    <version>4.6.169.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnnews_img.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>MSN News delivers breaking news and trusted, in-depth reporting from the world's best journalists.
-    - Our editors curate the most trusted, important, interesting and trending news
-    - You choose which topics matter most to you.
-    - MSN News updates you with notifications of breaking news, quickly and accurately, 24/7
-    - Sync your preferences across the app and the Web.
-    MSN News works in partnership with hundreds of publishers in dozens of countries globally. Select from editions</description>
-    <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/News/Microsoft.BingNews_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnnews_scr1.png</screenshot1>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
-  </app>
-  <app id="msn-money">
-    <name>MSN Money</name>
-    <version>4.6.169.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnmoney_img.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
-    <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Money/Microsoft.BingFinance_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
   </app>
   <app id="smiling-bag-clicker-for-windows-8-1">
     <name>Smiling Bag Clicker for Windows 8.1</name>
@@ -261,19 +274,6 @@ Play around with the Eq to get that lovely brassy crisp sound to your liking! Lo
     Note: This version of BrowserQuest is a modified and extended version of the original, so that it works on Windows and runs with its own dedicated servers. The original version is created by Little Workshop.
     Support: If you experience any errors, then please contact us by e-mail (apps@mpbrun.dk).</description>
     <package>https://github.com/bloomthebloom/Appboxers/raw/refs/heads/main/18476MPBrun.BrowserQuest_2.6.2.0_x86__5j38zygvezh8g.appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
-  <app id="ports-uwp">
-    <name>MSN Sports</name>
-    <version>4.6.169.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnsports_img.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>The MSN Sports app is packed with live scores &amp; in-depth game experiences for more than 150 leagues. Customize to add favorite leagues and teams. Follow schedules, results, standings and game analysis. Read the latest news, enjoy galleries and watch video highlights from across the best sporting news sources for your favorites.This app isnt patched.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingSports_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnsports_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
