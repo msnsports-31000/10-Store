@@ -3157,7 +3157,7 @@ Go to support.roku.com for FAQs or to get help.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-<app id="qclip">
+    <app id="qclip">
     <name>QClip</name>
     <version>1.0.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_img.png</icon>
@@ -3184,7 +3184,7 @@ See your clips statistics on the live tile.
 
 QClip is the simplest clipboard manager, yet it's sleek and fast! Get it now!
 
-Made by ShadowCreek Apps with love from Ukraine <3</description>
+Made by ShadowCreek Apps with love from Ukraine!</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/QClip.UWP_1.0.0.0_x86_x64_arm.appxbundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr2.png</screenshot2>
