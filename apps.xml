@@ -3157,4 +3157,42 @@ Go to support.roku.com for FAQs or to get help.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+<app id="qclip">
+    <name>QClip</name>
+    <version>1.0.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_img.png</icon>
+    <publisher>ShadowCreek Apps</publisher>
+    <featured>false</featured>
+    <description>QClip is a simple clipboard manager for Windows 10. It allows you to save your copied text and images permanently, the history doesn't disappear!
+
+Features:
+
+-- Permanent history --
+QClip saves your "clips" permanently, until you will either delete the app, or delete the clip itself.
+
+-- Search --
+You can search thru your text clips to scramble thru all of your clips easier.
+
+-- Device support --
+QClip supports Windows 10 1507 and later. It's also available on Desktop, Mobile, Xbox, HoloLens and others. This way you will have a clipboard manager on all of your Windows 10 devices!
+
+-- Even more old device support! --
+QClip also has editions for Windows 8.1 and Windows Phone 7.5, which you can download from the Universal Windows Platform Edition.
+
+-- Live tile --
+See your clips statistics on the live tile.
+
+QClip is the simplest clipboard manager, yet it's sleek and fast! Get it now!
+
+Made by ShadowCreek Apps with love from Ukraine <3</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/QClip.UWP_1.0.0.0_x86_x64_arm.appxbundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
