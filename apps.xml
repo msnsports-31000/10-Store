@@ -267,12 +267,12 @@ Play around with the Eq to get that lovely brassy crisp sound to your liking! Lo
   </app>
   <app id="ports-uwp">
     <name>MSN Sports</name>
-    <version>4.3.193.0</version>
+    <version>4.6.169.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnsports_img.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
-    <description>The MSN Sports app is packed with live scores &amp; in-depth game experiences for more than 150 leagues. Customize to add favorite leagues and teams. Follow schedules, results, standings and game analysis. Read the latest news, enjoy galleries and watch video highlights from across the best sporting news sources for your favorites.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingSports_4.3.193.0_x86__8wekyb3d8bbwe-1775771825.appx</package>
+    <description>The MSN Sports app is packed with live scores &amp; in-depth game experiences for more than 150 leagues. Customize to add favorite leagues and teams. Follow schedules, results, standings and game analysis. Read the latest news, enjoy galleries and watch video highlights from across the best sporting news sources for your favorites.This app isnt patched.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingSports_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnsports_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
