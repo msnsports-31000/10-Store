@@ -42,20 +42,19 @@
     </category>
   </categories>
   <apps/>
-  <app id="msn-weather">
-    <name>MSN Weather</name>
-    <version>4.4.193.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnweather_img.png</icon>
+    <app id="msn-money">
+    <name>MSN Money</name>
+    <version>4.6.169.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnmoney_img.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
-    <description>MSN Weather: The best way to plan your day.
-    Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do. Patched with NewRetiled,credit to migbrunluz</description>
-    <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Weather/Microsoft.BingWeather_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
+    <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
+    <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Money/Microsoft.BingFinance_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-  <app id="msn-news">
+    <app id="msn-news">
     <name>MSN News</name>
     <version>4.6.169.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnnews_img.png</icon>
@@ -73,19 +72,7 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-  <app id="msn-money">
-    <name>MSN Money</name>
-    <version>4.6.169.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnmoney_img.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>false</featured>
-    <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
-    <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Money/Microsoft.BingFinance_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
-  </app>
-  <app id="ports-uwp">
+    <app id="msn-sports">
     <name>MSN Sports</name>
     <version>4.6.169.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnsports_img.png</icon>
@@ -98,7 +85,20 @@
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="draymusic">
+    <app id="msn-weather">
+    <name>MSN Weather</name>
+    <version>4.6.169.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnweather_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>MSN Weather: The best way to plan your day.
+    Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do. Patched with NewRetiled,credit to migbrunluz</description>
+    <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Weather/Microsoft.BingWeather_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="draymusic">
     <name>DrayMusic</name>
     <version>1.0.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic.png</icon>
