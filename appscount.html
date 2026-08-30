@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>10store apps count</title>
+  <style>
+    body {
+      background-color: #000000;
+      color: #ffffff;
+      font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .title {
+      font-size: 3.5rem;
+      font-weight: 200;
+      letter-spacing: -0.5px;
+      margin: 0;
+      color: #e0e0e0;
+    }
+
+    .count {
+      font-size: 7.5rem;
+      font-weight: 200;
+      line-height: 1.1;
+      margin: 0;
+    }
+
+    .status {
+      color: #e51400;
+      font-size: 1.25rem;
+      font-weight: 400;
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1 class="title">apps in catalog:</h1>
+    <div id="count" class="count">...</div>
+    <div id="status" class="status">loading...</div>
+  </div>
+
+  <script src="appscount.js"></script>
+</body>
+</html>
