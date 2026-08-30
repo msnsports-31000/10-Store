@@ -3195,4 +3195,18 @@ Made by ShadowCreek Apps with love from Ukraine&lt;3</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="xbox-games">
+    <name>Games</name>
+    <version>2013.1011.10.5965</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/xbgames_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>Discover the hottest new games, classics you love, and exclusives for Windows. Track your progress on the games you play, and see how you stack up against your friends. Plus, see what your friends are up to, and send a message to a friend. To see which features are available in your region, go to the Xbox Games feature list http://support.xbox.com/apps/windows-8/xbox-on-windows-features.<description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/Microsoft.XboxLIVEGames_2013.1011.10.5965_neutral_._8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/xbgames_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/xbgames_scr2.png</screenshot2>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
