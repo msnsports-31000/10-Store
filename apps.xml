@@ -3209,4 +3209,30 @@ Made by ShadowCreek Apps with love from Ukraine&lt;3</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="tunein-radio">
+    <name>TuneIn Radio BETA</name>
+    <version>1.0.1440.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tunein_img.png</icon>
+    <publisher>TuneIn</publisher>
+    <featured>false</featured>
+    <description>TuneIn Radio for Windows 10 Beta</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/TuneIn.TuneInRadioBETA_1.0.1440.0_x86__6bhtb546zcxnj.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tunein_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="tunein-radio-for-arm">
+    <name>TuneIn Radio BETA for ARM</name>
+    <version>1.0.1440.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tunein_img.png</icon>
+    <publisher>TuneIn</publisher>
+    <featured>false</featured>
+    <description>TuneIn Radio for Windows 10 Beta</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/TuneIn.TuneInRadioBETA_1.0.1440.0_arm__6bhtb546zcxnj.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tunein_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
