@@ -3337,4 +3337,68 @@ Now available in all major platforms</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="scanwritr">
+    <name>ScanWritr 10</name>
+    <version>2.2.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/scanwritr10_img.png</icon>
+    <publisher>Vanaia LLC</publisher>
+    <featured>false</featured>
+    <description>Scan documents, annotate, add signature, fax, make PDF, write on image, save docs to cloud, print... Try it &amp; scan now!
+
+ScanWritr is a document scanner and all-in-one mobile paperless office, perfect for business, educational and home use. It turns your Windows device with a camera into a handy scanner, suitable for scanning various documents like contracts, articles, business cards, notes, receipts, warranty papers etc. Image capture is done with the help of Real-Time Edge Detection (auto crop).
+
+This scanner app also excels in import options. It imports variety of document formats, such as odt, ods, odp, csv, svg, hwp and many others. Both scanned and imported documents can be visually enhanced using different filters offered by ScanWritr. 
+
+Edit scans and imports as an image, add signature, annotation, use eraser or pen and fill out the blanks using writing tool. Scan and convert the document to PDF or JPG, save it to your phone’s gallery, send it via e-mail, fax, Facebook, Twitter or other social media. You can also print it (with the help of Cloud Print) or save it to Google Drive, One Drive, Drop Box, Box or your other preferred cloud storage service (requires a working cloud client) - all in the comfort of your own mobile device!
+
+ScanWritr's feature list:
+●	Camera-based Document Scanner (scan documents with your phone)
+●	Real-Time Edge Detection (Auto Crop)
+●	Image Enhancement
+●	Document Import (MS Office, Open Office, Libre Office, Hancom/Hangul etc.)
+●	Adding Text to Pictures &amp; Form Filling (Writing Tool)
+●	Signing (signature tool)
+●	Text Annotation (Marker Tool)
+●	Fax (outbound, requires the purchase of fax tokens)
+●	Print (via Google Cloud Print)
+●	Cloud Sharing (via DropBox, Google Drive, One Drive, Box etc. - a working cloud client with support for JPEG/PDF required)
+●	PDF Converter (convertst documents to PDF, converts pdf to JPG) 
+●	Social Media Connectivity (share via Facebook, Twitter, LinkedIn etc.)
+
+Scan &amp; Import
+ScanWritr allows you to use the camera on your mobile device as a document scanner. The scanning is made easy with the help of advanced features of high-end portable scan apps, such as Automatic Edge Detection (auto crop) and Image Enhancement. If you already have a document, you can simply import it directly from your device, e-mail, cloud etc. Since this scan app is also a PDF converter, the imported documents can be in PDF format, among many others.
+
+Write on images &amp; Fill out forms
+This is a feature that makes our mobile scanner app stand out from the crowd. ScanWritr is not just a document scanner and PDF converter but also a digital form filling app, which lets you write on image. Once you have the scan of the printed form, or opened/imported document from your device, it is time to easily fill it out using ScanWritr's Text Input Feature. Use the Marker Tool to emphasize specific words or sections of your document. Now all you need to do is to sign it using the Signature Tool and you are ready to store and/or share it. 
+
+Store (archive) &amp; Share
+You have the scan or import of that important document – Automatic Edge Detection (auto crop) has worked its magic, the image has been enhanced and the edges are sharp. You might have used the Marker Tool and you’ve added your digital signature – either way our handy document scanner has safely stored your document on the mobile device and it can be easily accessible through app’s handy document finder bar. Now you can send your scan via email as PDF. Does the recipient require the document to be sent by fax? No problem – you can easily fax the document at an affordable price. Maybe you want to share it with all your friends? ScanWritr has it covered with its Social Media and Cloud Connectivity.
+
+This free version allows you to try out all inherent features of the app. It offers unlimited amount of exports of up to 5 pages each. Exports in this version include watermarks. All limitations can be removed via in-app purchases.
+
+Some services (i.e. faxing, converting) require a network connection, for which user's mobile carrier fees may apply.
+  
+Feel free to rate us, give us feedback and visit/follow us! 
+
+Developer's Web page: http://www.vanaia.com/
+Facebook: http://www.facebook.com/vanaiallc
+Twitter: http://www.twitter.com/VanaiaLLC
+
+
+What do users say about ScanWritr?
+•	»Amazingly well executed. I opened a PDF attachment from an email, edited it, signed it, and sent it back, all from my phone. Tried it, and then upgraded after one use. Very impressive. « (Scott, USA)
+•	»Simply the best scanning app. I use this more than I use my real desktop scanner. « (Jim, USA)
+•	»It works! Happy that I can get to add my signature and add notes. « (Dennis, Philippines)
+•	»Very good application, easy to use and extremely convenient to scan, edit a document and then email it or print it! « (Angélique, France)
+•	»Well done! Better than Microsoft Office Lens! « (László, Hungary)</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/VanaiaLLC.ScanWritr_2.2.3.0_neutral_._9qvmz6e8hwys4.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/scanwritr10_scr.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/scanwritr10_scr.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/scanwritr10_scr.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/scanwritr10_scr.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/scanwritr10_scr.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
