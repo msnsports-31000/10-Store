@@ -3283,4 +3283,23 @@ Made by ShadowCreek Apps with love from Ukraine&lt;3</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+    <app id="nika">
+    <name>Nika</name>
+    <version>1.0.11.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nika_img.png</icon>
+    <publisher>Studio Mercato</publisher>
+    <featured>false</featured>
+    <description>Nika is an abstract strategy game modeled after ancient Greek battle tactics. You command a Greek city’s hoplite soldiers who must force their way through enemy lines.
+
+Your troops can push or rout those who would block their way across the narrow battlefield. Coordinate attacks with your ally to secure victory, but make sure to watch your flanks!
+
+The Nika digital game is based on the award-winning board game designed by Josh Raab and published by Eagle Games. It takes minutes to learn but a lifetime to master. Perfect for both casual players and hardcore strategy gamers of all ages, Nika will provide countless hours of gameplay.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/20371StudioMercato.Nika_1.0.11.0_neutral_~_ycmfabrbn6jhp.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nika_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nika_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nika_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
