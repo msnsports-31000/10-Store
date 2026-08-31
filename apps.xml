@@ -3270,4 +3270,17 @@ Made by ShadowCreek Apps with love from Ukraine&lt;3</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="roblox-internal">
+    <name>Roblox Internal</name>
+    <version>1.1.8.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/rbxinternal_img.png</icon>
+    <publisher>ROBLOX Corporation</publisher>
+    <featured>false</featured>
+    <description>ROBLOX Internal is purely for testing new features.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/ROBLOXCorporation.RobloxInternal_1.1.8.0_neutral_~_55nm5eh3cm0pr.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/rbxinternal_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
