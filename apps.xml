@@ -3401,4 +3401,39 @@ What do users say about ScanWritr?
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="fax-out">
+    <name>Fax Out</name>
+    <version>1.2.9.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/faxout_img.png</icon>
+    <publisher>Vanaia LLC</publisher>
+    <featured>false</featured>
+    <description>Send fax straight from your device! Features a built-in document scanner, document reader and a signature tool. Pay as you go – no monthly fees or small print!
+
+Fax Out is a simple and easy to use tool for sending fax from your Windows 10 device. 
+
+Use its smart document scanner with an automatic paper detection to fax physical documents or open any existing docx, odt, pdf, jpg and many more. You can also write a new fax from scratch directly on a blank page within the app. What you see is what you get.
+
+Need to fill out a form prior to faxing? You can do it with this app! Use the text, pen, marker and a signature tool to make all the necessary adjustments.
+
+How to send your fax?
+1.	Download the app
+2.	Create your Vanaia account
+3.	Purchase desired number of Fax Tokens (a single fax token can also be purchased as app's add-on)
+4.	Scan, import or write a fax
+5.	Enter the number and tap send
+
+Fax Out uses a prepaid balance model of Fax Tokens. 1 token = 1 page* 
+
+(*sent to USA, Canada, Australia, most of Europe most of Asia. Some countries have higher tariffs; more details at developer's webpage )</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/VanaiaLLC.FaxOut_1.2.9.0_neutral_._9qvmz6e8hwys4.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/faxout_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/faxout_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/faxout_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/faxout_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/faxout_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/faxout_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
