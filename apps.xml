@@ -3249,4 +3249,25 @@ Made by ShadowCreek Apps with love from Ukraine&lt;3</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
+  <app id="musbox">
+    <name>Musbox Player</name>
+    <version>1.7.2.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_img.png</icon>
+    <publisher>neosonne</publisher>
+    <featured>false</featured>
+    <description>With Musbox Player you can easily access your music collection and play them. All music files are automatically sorted by 5 categories (artists, genres, composers, albums and songs), so you can always quickly find the desired songs. As an added feature you can navigate through your music folders and play them. Of course you can create your own playlist as well. The simple and intuitive user interface can be easily personalized. It is possible to change accent color and background image.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15571neosonne.Musbox_1.7.2.0_neutral_~_qxsn2b5e40q52.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr9.png</screenshot9>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
