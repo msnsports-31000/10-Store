@@ -3302,4 +3302,39 @@ The Nika digital game is based on the award-winning board game designed by Josh 
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="2048">
+    <name>2048+</name>
+    <version>6.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/2048_img.png</icon>
+    <publisher>陈仁松</publisher>
+    <featured>false</featured>
+    <description>2048+ is a Windows version of 2048.
+How to play: 
+use your Touch, Mouse or arrow keys or ←↑↓→ to move the tiles. When two tiles with the same number touch, they merge into one. You can play game continue when you close game. And try get best your score and share it with your friend.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/3718.20482048_6.1.0.0_neutral_~_8aydmnc5fg7fe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/2048_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/2048_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/2048_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="netchat">
+    <name>Netchat</name>
+    <version>3.5.3000.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/netchat_img.png</icon>
+    <publisher>weekysoft</publisher>
+    <featured>false</featured>
+    <description>A simple LAN, wifi, bluetooth group chat app
+
+An instant group chat app that allows you to chat on the network, wifi, or bluetooth without internet connection, across all Windows device families such as desktops, tablets, and phones. No configuration and no user account required. Just download and start chatting!!
+Note: this app requires all devices connect to the same Local/Wifi/Bluetooth network.
+
+Now available in all major platforms</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/31456weekysoft.Netchat_3.5.3000.0_neutral_~_zahk9ffj7cs9j.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/netchat_scr.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
