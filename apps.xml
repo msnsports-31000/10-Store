@@ -2508,7 +2508,64 @@ When you test your network using the Network Speed Test, certain characteristics
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/recipekeeper_img.png</icon>
     <publisher>Tudorspan Limited</publisher>
     <featured>false</featured>
-    <description>(THE APP DOESNT FUNCTION)Recipe Keeper is the easy to use, all-in-one recipe organizer, shopping list and meal planner available across all of your devices. ADD RECIPES QUICKLY AND EASILY Enter your recipes with as much or as little information as you like. Copy and paste recipes from your existing documents or apps. Categorize your recipes by course and category. Add photos, rate your recipes and flag your favorites. IMPORT RECIPES FROM WEBSITES Search for recipes on the web and add them straight to your collection. Hundreds of popular recipe websites supported. Customize imported recipes to suit your needs. SCAN FROM COOKBOOKS, MAGAZINES AND HANDWRITTEN RECIPES Scan recipes using your phone's camera or from your existing photos and PDF files. OCR technology automatically converts images to text. Keep all your favorite family recipes safe forever. FIND ANY RECIPE INSTANTLY Quickly lookup your recipes by name, ingredient or directions or simply browse your recipes by course, category and rating. Got leftovers in the fridge? Search for a recipe to use them up. Cook more of your favorite meals and rediscover those long-forgotten recipes to make mealtimes interesting again. SHARE RECIPES WITH FRIENDS AND FAMILY Share your recipes by email and to your favorite social networks. Create a shared family recipe collection. Add recipes from other Recipe Keeper users with a single tap. CREATE BEAUTIFUL COOKBOOKS Create cookbooks from your recipes for printing or sharing as a PDF with cover page, table of contents, custom layouts and more. UNEXPECTED GUESTS? Adjust a recipe serving size up or down and let Recipe Keeper automatically recalculate your ingredients for you. PLAN AHEAD AND STAY IN CONTROL Integrated weekly and monthly meal planner allows you to plan your meals in advance. Add all your meals to your shopping list in one step. Recipe Keeper can even create a random meal plan for you based on your hints and suggestions. Get rid of that "what should I cook tonight?" feeling. MAKE SHOPPING SIMPLER Fully featured shopping list that automatically groups your items by aisle. Save money by only buying what you need. No more trips back to the store for that one thing you forgot. AVAILABLE ACROSS ALL OF YOUR DEVICES Share your recipes, shopping lists and meal planner across all your Windows, Android, iPhone, iPad and Mac devices (separate purchase required for Android, iPhone/iPad and Mac). "ALEXA, ASK RECIPE KEEPER FOR COOKIE RECIPES." Search your recipes, cook hands-free with step-by-step instructions and add items to your shopping list using the Recipe Keeper skill for Amazon Alexa, (English language only). TRANSFER YOUR EXISTING RECIPES Transfer your recipes from other apps such as Living Cookbook, MasterCook, MacGourmet, BigOven, Cook'n, My Cookbook, My Recipe Book, Paprika Recipe Manager, Pepperplate, OrganizEat, Recipe Box and many more. AND MORE! • Choose from 25 different color schemes, light &amp; dark modes • Format recipes using bold and italics • Customizable recipe collections, courses and categories • Add nutrition information and search for recipes by nutritional amounts • Check off ingredients while cooking, highlight the current direction • Adjustable text size when viewing recipes - great for reading recipes across the kitchen • Convert recipes between US/Imperial and Metric units • Link related recipes together • Add links to online videos • Pin your favorite recipes to the home screen for quick access • Works offline - take your recipes with you wherever you go • Bulk update multiple recipes at once • Screen lock disabled while viewing recipes - no more messy fingers on screen trying to wake your device • Available in 15 languages GREAT SUPPORT We love hearing from you! If you need any help, have a question, or want to suggest a new feature, please email us at support@tudorspan.com Cook more. Eat healthier. Shop smarter. Try Recipe Keeper free today!</description>
+    <description>(THE APP DOESNT FUNCTION)Recipe Keeper is the easy to use, all-in-one recipe organizer, shopping list and meal planner available across all of your devices.
+
+ADD RECIPES QUICKLY AND EASILY
+Enter your recipes with as much or as little information as you like. Copy and paste recipes from your existing documents or apps. Categorize your recipes by course and category. Add photos, rate your recipes and flag your favorites.
+
+IMPORT RECIPES FROM WEBSITES
+Search for recipes on the web and add them straight to your collection. Hundreds of popular recipe websites supported. Customize imported recipes to suit your needs.
+
+SCAN FROM COOKBOOKS, MAGAZINES AND HANDWRITTEN RECIPES
+Scan recipes using your phone's camera or from your existing photos and PDF files. OCR technology automatically converts images to text. Keep all your favorite family recipes safe forever.
+
+FIND ANY RECIPE INSTANTLY
+Quickly lookup your recipes by name, ingredient or directions or simply browse your recipes by course, category and rating. Got leftovers in the fridge? Search for a recipe to use them up. Cook more of your favorite meals and rediscover those long-forgotten recipes to make mealtimes interesting again.
+
+SHARE RECIPES WITH FRIENDS AND FAMILY
+Share your recipes by email and to your favorite social networks. Create a shared family recipe collection. Add recipes from other Recipe Keeper users with a single tap.
+
+CREATE BEAUTIFUL COOKBOOKS
+Create cookbooks from your recipes for printing or sharing as a PDF with cover page, table of contents, custom layouts and more.
+
+UNEXPECTED GUESTS?
+Adjust a recipe serving size up or down and let Recipe Keeper automatically recalculate your ingredients for you.
+
+PLAN AHEAD AND STAY IN CONTROL
+Integrated weekly and monthly meal planner allows you to plan your meals in advance. Add all your meals to your shopping list in one step. Recipe Keeper can even create a random meal plan for you based on your hints and suggestions. Get rid of that "what should I cook tonight?" feeling.
+
+MAKE SHOPPING SIMPLER
+Fully featured shopping list that automatically groups your items by aisle. Save money by only buying what you need. No more trips back to the store for that one thing you forgot.
+
+AVAILABLE ACROSS ALL OF YOUR DEVICES
+Share your recipes, shopping lists and meal planner across all your Windows, Android, iPhone, iPad and Mac devices (separate purchase required for Android, iPhone/iPad and Mac).
+
+"ALEXA, ASK RECIPE KEEPER FOR COOKIE RECIPES."
+Search your recipes, cook hands-free with step-by-step instructions and add items to your shopping list using the Recipe Keeper skill for Amazon Alexa, (English language only).
+
+TRANSFER YOUR EXISTING RECIPES
+Transfer your recipes from other apps such as Living Cookbook, MasterCook, MacGourmet, BigOven, Cook'n, My Cookbook, My Recipe Book, Paprika Recipe Manager, Pepperplate, OrganizEat, Recipe Box and many more.
+
+AND MORE!
+• Choose from 25 different color schemes, light &amp; dark modes
+• Format recipes using bold and italics
+• Customizable recipe collections, courses and categories
+• Add nutrition information and search for recipes by nutritional amounts
+• Check off ingredients while cooking, highlight the current direction
+• Adjustable text size when viewing recipes - great for reading recipes across the kitchen
+• Convert recipes between US/Imperial and Metric units
+• Link related recipes together
+• Add links to online videos
+• Pin your favorite recipes to the home screen for quick access
+• Works offline - take your recipes with you wherever you go
+• Bulk update multiple recipes at once
+• Screen lock disabled while viewing recipes - no more messy fingers on screen trying to wake your device
+• Available in 15 languages
+
+GREAT SUPPORT
+We love hearing from you! If you need any help, have a question, or want to suggest a new feature, please email us at support@tudorspan.com
+
+Cook more. Eat healthier. Shop smarter. Try Recipe Keeper free today!</description>
     <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/TudorspanLimited.RecipeKeeperFree_3.34.1.0_neutral_._mnckez06wj9wa.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/recipekeeper_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/recipekeeper_scr2.png</screenshot2>
@@ -2529,7 +2586,64 @@ When you test your network using the Network Speed Test, certain characteristics
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/recipekeeper_img.png</icon>
     <publisher>Tudorspan Limited</publisher>
     <featured>false</featured>
-    <description>(THE APP DOESNT FUNCTION)Recipe Keeper is the easy to use, all-in-one recipe organizer, shopping list and meal planner available across all of your devices. ADD RECIPES QUICKLY AND EASILY Enter your recipes with as much or as little information as you like. Copy and paste recipes from your existing documents or apps. Categorize your recipes by course and category. Add photos, rate your recipes and flag your favorites. IMPORT RECIPES FROM WEBSITES Search for recipes on the web and add them straight to your collection. Hundreds of popular recipe websites supported. Customize imported recipes to suit your needs. SCAN FROM COOKBOOKS, MAGAZINES AND HANDWRITTEN RECIPES Scan recipes using your phone's camera or from your existing photos and PDF files. OCR technology automatically converts images to text. Keep all your favorite family recipes safe forever. FIND ANY RECIPE INSTANTLY Quickly lookup your recipes by name, ingredient or directions or simply browse your recipes by course, category and rating. Got leftovers in the fridge? Search for a recipe to use them up. Cook more of your favorite meals and rediscover those long-forgotten recipes to make mealtimes interesting again. SHARE RECIPES WITH FRIENDS AND FAMILY Share your recipes by email and to your favorite social networks. Create a shared family recipe collection. Add recipes from other Recipe Keeper users with a single tap. CREATE BEAUTIFUL COOKBOOKS Create cookbooks from your recipes for printing or sharing as a PDF with cover page, table of contents, custom layouts and more. UNEXPECTED GUESTS? Adjust a recipe serving size up or down and let Recipe Keeper automatically recalculate your ingredients for you. PLAN AHEAD AND STAY IN CONTROL Integrated weekly and monthly meal planner allows you to plan your meals in advance. Add all your meals to your shopping list in one step. Recipe Keeper can even create a random meal plan for you based on your hints and suggestions. Get rid of that "what should I cook tonight?" feeling. MAKE SHOPPING SIMPLER Fully featured shopping list that automatically groups your items by aisle. Save money by only buying what you need. No more trips back to the store for that one thing you forgot. AVAILABLE ACROSS ALL OF YOUR DEVICES Share your recipes, shopping lists and meal planner across all your Windows, Android, iPhone, iPad and Mac devices (separate purchase required for Android, iPhone/iPad and Mac). "ALEXA, ASK RECIPE KEEPER FOR COOKIE RECIPES." Search your recipes, cook hands-free with step-by-step instructions and add items to your shopping list using the Recipe Keeper skill for Amazon Alexa, (English language only). TRANSFER YOUR EXISTING RECIPES Transfer your recipes from other apps such as Living Cookbook, MasterCook, MacGourmet, BigOven, Cook'n, My Cookbook, My Recipe Book, Paprika Recipe Manager, Pepperplate, OrganizEat, Recipe Box and many more. AND MORE! • Choose from 25 different color schemes, light &amp; dark modes • Format recipes using bold and italics • Customizable recipe collections, courses and categories • Add nutrition information and search for recipes by nutritional amounts • Check off ingredients while cooking, highlight the current direction • Adjustable text size when viewing recipes - great for reading recipes across the kitchen • Convert recipes between US/Imperial and Metric units • Link related recipes together • Add links to online videos • Pin your favorite recipes to the home screen for quick access • Works offline - take your recipes with you wherever you go • Bulk update multiple recipes at once • Screen lock disabled while viewing recipes - no more messy fingers on screen trying to wake your device • Available in 15 languages GREAT SUPPORT We love hearing from you! If you need any help, have a question, or want to suggest a new feature, please email us at support@tudorspan.com Cook more. Eat healthier. Shop smarter. Try Recipe Keeper free today!</description>
+    <description>(THE APP DOESNT FUNCTION)Recipe Keeper is the easy to use, all-in-one recipe organizer, shopping list and meal planner available across all of your devices.
+
+ADD RECIPES QUICKLY AND EASILY
+Enter your recipes with as much or as little information as you like. Copy and paste recipes from your existing documents or apps. Categorize your recipes by course and category. Add photos, rate your recipes and flag your favorites.
+
+IMPORT RECIPES FROM WEBSITES
+Search for recipes on the web and add them straight to your collection. Hundreds of popular recipe websites supported. Customize imported recipes to suit your needs.
+
+SCAN FROM COOKBOOKS, MAGAZINES AND HANDWRITTEN RECIPES
+Scan recipes using your phone's camera or from your existing photos and PDF files. OCR technology automatically converts images to text. Keep all your favorite family recipes safe forever.
+
+FIND ANY RECIPE INSTANTLY
+Quickly lookup your recipes by name, ingredient or directions or simply browse your recipes by course, category and rating. Got leftovers in the fridge? Search for a recipe to use them up. Cook more of your favorite meals and rediscover those long-forgotten recipes to make mealtimes interesting again.
+
+SHARE RECIPES WITH FRIENDS AND FAMILY
+Share your recipes by email and to your favorite social networks. Create a shared family recipe collection. Add recipes from other Recipe Keeper users with a single tap.
+
+CREATE BEAUTIFUL COOKBOOKS
+Create cookbooks from your recipes for printing or sharing as a PDF with cover page, table of contents, custom layouts and more.
+
+UNEXPECTED GUESTS?
+Adjust a recipe serving size up or down and let Recipe Keeper automatically recalculate your ingredients for you.
+
+PLAN AHEAD AND STAY IN CONTROL
+Integrated weekly and monthly meal planner allows you to plan your meals in advance. Add all your meals to your shopping list in one step. Recipe Keeper can even create a random meal plan for you based on your hints and suggestions. Get rid of that "what should I cook tonight?" feeling.
+
+MAKE SHOPPING SIMPLER
+Fully featured shopping list that automatically groups your items by aisle. Save money by only buying what you need. No more trips back to the store for that one thing you forgot.
+
+AVAILABLE ACROSS ALL OF YOUR DEVICES
+Share your recipes, shopping lists and meal planner across all your Windows, Android, iPhone, iPad and Mac devices (separate purchase required for Android, iPhone/iPad and Mac).
+
+"ALEXA, ASK RECIPE KEEPER FOR COOKIE RECIPES."
+Search your recipes, cook hands-free with step-by-step instructions and add items to your shopping list using the Recipe Keeper skill for Amazon Alexa, (English language only).
+
+TRANSFER YOUR EXISTING RECIPES
+Transfer your recipes from other apps such as Living Cookbook, MasterCook, MacGourmet, BigOven, Cook'n, My Cookbook, My Recipe Book, Paprika Recipe Manager, Pepperplate, OrganizEat, Recipe Box and many more.
+
+AND MORE!
+• Choose from 25 different color schemes, light &amp; dark modes
+• Format recipes using bold and italics
+• Customizable recipe collections, courses and categories
+• Add nutrition information and search for recipes by nutritional amounts
+• Check off ingredients while cooking, highlight the current direction
+• Adjustable text size when viewing recipes - great for reading recipes across the kitchen
+• Convert recipes between US/Imperial and Metric units
+• Link related recipes together
+• Add links to online videos
+• Pin your favorite recipes to the home screen for quick access
+• Works offline - take your recipes with you wherever you go
+• Bulk update multiple recipes at once
+• Screen lock disabled while viewing recipes - no more messy fingers on screen trying to wake your device
+• Available in 15 languages
+
+GREAT SUPPORT
+We love hearing from you! If you need any help, have a question, or want to suggest a new feature, please email us at support@tudorspan.com
+
+Cook more. Eat healthier. Shop smarter. Try Recipe Keeper free today!</description>
     <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/TudorspanLimited.RecipeKeeper_3.34.1.0_neutral_._mnckez06wj9wa.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/recipekeeper_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/recipekeeper_scr2.png</screenshot2>
