@@ -1,38 +1,420 @@
-﻿<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=11" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>10Store</title>
-    <link rel="stylesheet" href="css/default.css" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>10Store - WebStore</title>
+<style>
+:root {
+  --accent: #0078D7;
+  --accent-hover: #005A9E;
+  --bg-color: #111111;
+  --header-bg: #1A1A1A;
+  --tile-bg: #1e1e1e;
+  --tile-hover: #282828;
+  --text-main: #ffffff;
+  --text-muted: #9e9e9e;
+  --search-bg: #2a2a2a;
+  --search-border: #3d3d3d;
+  --modal-bg: #141414;
+  --tile-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  --tile-shadow-hover: 0 12px 30px rgba(0, 0, 0, 0.85);
+}
+
+[data-theme="light"] {
+  --bg-color: #f4f4f4;
+  --header-bg: #e5e5e5;
+  --tile-bg: #ffffff;
+  --tile-hover: #f9f9f9;
+  --text-main: #111111;
+  --text-muted: #666666;
+  --search-bg: #ffffff;
+  --search-border: #cccccc;
+  --modal-bg: #ffffff;
+  --tile-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  --tile-shadow-hover: 0 12px 28px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+  font-family: "Segoe UI Light", "Segoe UI", Tahoma, Arial, sans-serif;
+  font-weight: 300;
+}
+
+body {
+  color: var(--text-main);
+  background: var(--bg-color);
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: background 0.2s, color 0.2s;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-hover); }
+
+/* HEADER */
+#Header {
+  background: var(--header-bg);
+  height: 80px;
+  display: flex;
+  align-items: center;
+  padding: 0 40px;
+  color: var(--text-main);
+  flex-shrink: 0;
+  transition: background 0.2s;
+}
+
+#HeaderLogo {
+  font-size: 26px;
+  color: var(--text-main);
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.nav-tabs {
+  display: flex;
+  gap: 20px;
+  margin-left: 40px;
+}
+
+.nav-tab {
+  font-size: 20px;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding-bottom: 4px;
+  transition: color 0.2s, border-bottom 0.2s;
+}
+
+.nav-tab.active, .nav-tab:hover {
+  color: var(--text-main);
+  border-bottom: 3px solid var(--accent);
+}
+
+.header-right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+#Search {
+  background: var(--search-bg);
+  height: 36px;
+  width: 240px;
+  border: 1px solid var(--search-border);
+  color: var(--text-main);
+  padding: 0 12px;
+  font-size: 14px;
+  outline: none;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+#Search::placeholder { color: var(--text-muted); }
+#Search:focus { border-color: var(--accent); }
+
+.theme-btn {
+  background: transparent;
+  border: 1px solid var(--text-main);
+  color: var(--text-main);
+  padding: 6px 14px;
+  font-size: 13px;
+  cursor: pointer;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+.theme-btn:hover {
+  background: var(--text-main);
+  color: var(--bg-color);
+}
+
+/* HORIZONTAL CONTAINER */
+#HorizontalContainer {
+  width: 100vw;
+  flex: 1;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 30px 40px 40px 40px;
+  white-space: nowrap;
+}
+
+#HorizontalWrapper {
+  display: inline-flex;
+  gap: 45px;
+  height: 100%;
+}
+
+.category-column {
+  display: inline-flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.category-title {
+  font-size: 22px;
+  color: var(--text-main);
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* VERTICAL TILE GRID */
+.app-tiles-grid {
+  display: grid;
+  grid-template-rows: repeat(2, 230px);
+  grid-auto-flow: column;
+  gap: 20px;
+}
+
+@media (max-height: 650px) {
+  .app-tiles-grid {
+    grid-template-rows: repeat(1, 230px);
+  }
+}
+
+/* VERTICAL CARD STYLE */
+.app-tile {
+  width: 160px;
+  height: 230px;
+  background: var(--tile-bg);
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  white-space: normal;
+  box-shadow: var(--tile-shadow);
+  transition: background 0.15s ease, box-shadow 0.2s ease;
+}
+
+.app-tile:hover {
+  background: var(--tile-hover);
+  box-shadow: var(--tile-shadow-hover);
+}
+
+.app-tile:active { 
+  transform: scale(0.97); 
+}
+
+.app-tile .icon-container {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: var(--accent);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 42px;
+  overflow: hidden;
+  border-radius: 2px;
+  margin-bottom: 8px;
+}
+
+.app-tile .icon-container img { 
+  width: 100%; 
+  height: 100%; 
+  object-fit: cover; 
+}
+
+.app-tile .info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.app-tile .name {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--text-main);
+  line-height: 1.25;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 2px;
+}
+
+.app-tile .publisher { 
+  font-size: 12px; 
+  color: var(--text-muted); 
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: auto;
+}
+
+.app-tile .price { 
+  font-size: 12px; 
+  color: var(--text-muted); 
+  font-weight: 400; 
+  margin-top: 4px;
+}
+
+#Status { font-size: 18px; color: var(--text-muted); padding: 40px; }
+
+/* MODAL */
+#AppDetailModal {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: var(--modal-bg);
+  z-index: 1000;
+  display: none;
+  overflow-y: auto;
+  padding: 40px 60px;
+  color: var(--text-main);
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.text-back-btn {
+  padding: 8px 22px;
+  background: transparent;
+  border: 1px solid var(--text-main);
+  color: var(--text-main);
+  font-size: 15px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, transform 0.1s;
+}
+
+.text-back-btn:hover { background: var(--text-main); color: var(--bg-color); }
+
+.detail-layout { display: flex; flex-direction: column; gap: 30px; max-width: 1100px; }
+
+.detail-header-info { display: flex; gap: 30px; align-items: flex-start; }
+
+.detail-icon {
+  width: 110px; height: 110px;
+  background: var(--accent);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 48px; color: #fff;
+  flex-shrink: 0; overflow: hidden;
+  border-radius: 2px;
+}
+.detail-icon img { width: 100%; height: 100%; object-fit: cover; }
+
+.detail-info h1 { font-size: 34px; margin-bottom: 4px; }
+.detail-publisher { font-size: 14px; color: var(--text-muted); margin-bottom: 12px; }
+.detail-meta { font-size: 13px; color: var(--text-muted); margin-bottom: 18px; display: flex; gap: 15px; }
+
+.download-btn {
+  display: inline-block;
+  padding: 10px 30px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.download-btn:hover { background: var(--accent-hover); }
+
+.screenshots-section { margin-top: 10px; }
+.section-heading {
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 14px;
+  color: var(--text-main);
+}
+
+.screenshots-container {
+  display: flex;
+  gap: 15px;
+  overflow-x: auto;
+  padding-bottom: 15px;
+}
+
+.screenshot-thumb {
+  height: 220px;
+  border-radius: 2px;
+  border: 1px solid var(--search-border);
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.screenshot-thumb:hover {
+  transform: scale(1.02);
+  border-color: var(--accent);
+}
+
+.no-screenshots { font-size: 14px; color: var(--text-muted); font-style: italic; }
+
+.detail-desc {
+  line-height: 1.6;
+  color: var(--text-main);
+  font-size: 15px;
+  max-width: 850px;
+  white-space: pre-line;
+}
+</style>
 </head>
-<body>
-    <header id="app-header" role="banner">
-        <div class="header-left">
-            <a href="pages/home.html" target="app-frame" style="text-decoration:none;">
-                <div id="logo" class="logo-click">10Store Web Portal (BETA)</div>
-            </a>
-            <nav class="nav">
-                <a href="pages/apps.html" id="btn-all" class="nav-btn" target="app-frame">All apps</a>
-                <a href="https://drayai81isbacknotfor8storescripts.42web.io" id="btn-upload" class="nav-btn" target="app-frame">Upload</a>
-            </nav>
+<body data-theme="dark">
+
+<div id="Header">
+  <div id="HeaderLogo" onclick="resetToHome()">10Store</div>
+  
+  <div class="nav-tabs">
+    <div class="nav-tab active">All</div>
+  </div>
+
+  <div class="header-right">
+    <input id="Search" type="text" placeholder="Search" oninput="filterApps(this.value)">
+    <button class="theme-btn" id="ThemeToggle" onclick="toggleTheme()">Light Mode</button>
+  </div>
+</div>
+
+<div id="HorizontalContainer">
+  <div id="Status">Loading apps...</div>
+  <div id="HorizontalWrapper"></div>
+</div>
+
+<div id="AppDetailModal">
+  <div class="modal-header">
+    <button class="text-back-btn" onclick="closeDetails(true)">BACK</button>
+    <h2 id="DetailModalTitle" style="font-size: 28px;">App Details</h2>
+  </div>
+
+  <div class="detail-layout">
+    <div class="detail-header-info">
+      <div id="DetailIcon" class="detail-icon"></div>
+      <div class="detail-info">
+        <h1 id="DetailName">App Name</h1>
+        <div id="DetailPublisher" class="detail-publisher">Publisher</div>
+        <div class="detail-meta">
+          <span>Version: <strong id="DetailVersion">1.0.0</strong></span>
+          <span>PC: <strong id="DetailPC">-</strong></span>
+          <span>Mobile: <strong id="DetailMobile">-</strong></span>
         </div>
+        <a id="DetailDownloadBtn" class="download-btn" href="#" target="_blank" download>Download Package</a>
+      </div>
+    </div>
 
-        <div class="header-right">
-            <div class="search-wrap">
-                <input id="search" type="search" placeholder="Search" />
-            </div>
-        </div>
-    </header>
+    <div class="screenshots-section">
+      <div class="section-heading">Screenshots</div>
+      <div id="ScreenshotsContainer" class="screenshots-container"></div>
+    </div>
 
-    <main id="app-main">
-        <iframe id="app-webview"
-                name="app-frame"
-                src="pages/home.html"
-                frameborder="0"></iframe>
-    </main>
+    <div>
+      <div class="section-heading">Description</div>
+      <div id="DetailDesc" class="detail-desc">No description available.</div>
+    </div>
+  </div>
+</div>
 
-    <script src="js/main.js"></script>
+<script src="index.js"></script>
 </body>
 </html>
