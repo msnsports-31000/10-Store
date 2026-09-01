@@ -119,8 +119,6 @@ function openDetailsById(appId, updateHistory) {
   document.getElementById("DetailName").textContent = app.name || "Unknown";
   document.getElementById("DetailPublisher").textContent = app.publisher || "Unknown Publisher";
   document.getElementById("DetailVersion").textContent = app.version || "1.0.0";
-  document.getElementById("DetailPC").textContent = app.pcCapable ? "Yes" : "No";
-  document.getElementById("DetailMobile").textContent = app.mobileCapable ? "Yes" : "No";
   document.getElementById("DetailDesc").textContent = app.description || "No description provided for this application.";
   
   const initialLetter = escapeHtml((app.name || "?").charAt(0).toUpperCase());
