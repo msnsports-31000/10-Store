@@ -3163,29 +3163,42 @@ Go to support.roku.com for FAQs or to get help.</description>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_img.png</icon>
     <publisher>ShadowCreek Apps</publisher>
     <featured>false</featured>
-    <description>QClip is a simple clipboard manager for Windows 10. It allows you to save your copied text and images permanently, the history doesn't disappear!
+    <description>QClip is a simple, fast, and lightweight clipboard manager for Windows 10. Keep your copied text and images organized with a clipboard history that doesn't disappear after restarting your device.
 
 Features:
 
 -- Permanent history --
-QClip saves your "clips" permanently, until you will either delete the app, or delete the clip itself.
+QClip saves your clips permanently. Your clipboard history stays on your device until you delete a clip or uninstall QClip.
 
 -- Search --
-You can search thru your text clips to scramble thru all of your clips easier.
+Quickly search through your text clips to find exactly what you need.
 
 -- Device support --
-QClip supports Windows 10 1507 and later. It's also available on Desktop, Mobile, Xbox, HoloLens and others. This way you will have a clipboard manager on all of your Windows 10 devices!
+QClip supports Windows 10, version 1507 and later. It's also available on PC, Mobile, and other Windows 10 devices. This way, you can have a clipboard manager on all of your Windows 10 devices!
 
 -- Even more old device support! --
-QClip also has editions for Windows 8.1 and Windows Phone 7.5, which you can download from the Universal Windows Platform Edition.
+QClip also has editions for Windows 8.1 and Windows Phone 7.5, which you can download from the About section or at:
+https://msnmoney.dankassassin368.com/other-projects/qclip/app/all
 
--- Live tile --
-See your clips statistics on the live tile.
+-- Live Tile --
+See statistics about your clips directly on the Live Tile.
+
+-- Privacy --
+Your clipboard history is stored locally on your device. QClip does not upload your clips or send your clipboard data to the internet.
+
+You can read our Privacy Policy at:
+https://msnmoney.dankassassin368.com/other-projects/qclip/pp
+
+You can read our Terms of Service at:
+https://msnmoney.dankassassin368.com/other-projects/qclip/tos
 
 QClip is the simplest clipboard manager, yet it's sleek and fast! Get it now!
 
-Made by ShadowCreek Apps with love from Ukraine&lt;3</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/QClip.UWP_1.0.0.0_x86_x64_arm.appxbundle</package>
+Made by ShadowCreek Apps with love from Ukraine. &lt;3
+
+If you wish to contact me, email me at:
+[shadowcreekapps@gmail.com](mailto:shadowcreekapps@gmail.com)</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/ShadowCreekApps.QClip_1.0.0.0_neutral_~_2bmxtrnxynm9w.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/qclip_scr3.png</screenshot3>
