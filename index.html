@@ -57,7 +57,6 @@ body {
 a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-hover); }
 
-/* HEADER */
 #Header {
   background: var(--header-bg);
   height: 80px;
@@ -132,7 +131,6 @@ a:hover { color: var(--accent-hover); }
   color: var(--bg-color);
 }
 
-/* HORIZONTAL CONTAINER */
 #HorizontalContainer {
   width: 100vw;
   flex: 1;
@@ -162,7 +160,6 @@ a:hover { color: var(--accent-hover); }
   letter-spacing: 1px;
 }
 
-/* VERTICAL TILE GRID */
 .app-tiles-grid {
   display: grid;
   grid-template-rows: repeat(2, 230px);
@@ -176,7 +173,6 @@ a:hover { color: var(--accent-hover); }
   }
 }
 
-/* VERTICAL CARD STYLE */
 .app-tile {
   width: 160px;
   height: 230px;
@@ -257,17 +253,33 @@ a:hover { color: var(--accent-hover); }
 
 #Status { font-size: 18px; color: var(--text-muted); padding: 40px; }
 
-/* MODAL */
 #AppDetailModal {
   position: fixed;
   top: 0; left: 0;
   width: 100vw; height: 100vh;
-  background: var(--modal-bg);
   z-index: 1000;
   display: none;
   overflow-y: auto;
+  background: var(--bg-color);
+}
+
+.modal-blur-bg {
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-size: cover;
+  background-position: center;
+  filter: blur(90px) opacity(0.35);
+  transform: scale(1.2);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.modal-content {
+  position: relative;
+  z-index: 1;
   padding: 40px 60px;
-  color: var(--text-main);
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .modal-header {
@@ -291,7 +303,7 @@ a:hover { color: var(--accent-hover); }
 
 .text-back-btn:hover { background: var(--text-main); color: var(--bg-color); }
 
-.detail-layout { display: flex; flex-direction: column; gap: 30px; max-width: 1100px; }
+.detail-layout { display: flex; flex-direction: column; gap: 30px; }
 
 .detail-header-info { display: flex; gap: 30px; align-items: flex-start; }
 
@@ -307,7 +319,8 @@ a:hover { color: var(--accent-hover); }
 
 .detail-info h1 { font-size: 34px; margin-bottom: 4px; }
 .detail-publisher { font-size: 14px; color: var(--text-muted); margin-bottom: 12px; }
-.detail-meta { font-size: 13px; color: var(--text-muted); margin-bottom: 18px; display: flex; gap: 15px; }
+.detail-price { font-size: 18px; font-weight: 400; margin-bottom: 15px; }
+.detail-subtext { font-size: 11px; color: var(--text-muted); margin-top: 8px; }
 
 .download-btn {
   display: inline-block;
@@ -321,7 +334,13 @@ a:hover { color: var(--accent-hover); }
 }
 .download-btn:hover { background: var(--accent-hover); }
 
-.screenshots-section { margin-top: 10px; }
+.detail-body-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  margin-top: 20px;
+}
+
 .section-heading {
   font-size: 18px;
   text-transform: uppercase;
@@ -330,15 +349,15 @@ a:hover { color: var(--accent-hover); }
   color: var(--text-main);
 }
 
-.screenshots-container {
-  display: flex;
+.screenshots-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 15px;
-  overflow-x: auto;
-  padding-bottom: 15px;
 }
 
 .screenshot-thumb {
-  height: 220px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
   border-radius: 2px;
   border: 1px solid var(--search-border);
   object-fit: cover;
@@ -357,8 +376,99 @@ a:hover { color: var(--accent-hover); }
   line-height: 1.6;
   color: var(--text-main);
   font-size: 15px;
-  max-width: 850px;
   white-space: pre-line;
+}
+
+.desc-toggle-btn {
+  background: transparent;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 14px;
+  font-family: inherit;
+  padding: 0;
+  margin-top: 8px;
+  display: inline-block;
+}
+
+.desc-toggle-btn:hover {
+  text-decoration: underline;
+  color: var(--accent-hover);
+}
+
+.lightbox-modal {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  z-index: 2000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(5px);
+}
+
+.lightbox-content {
+  position: relative;
+  z-index: 2001;
+  max-width: 80vw;
+  max-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lightbox-content img {
+  max-width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #fff;
+  font-size: 32px;
+  width: 44px;
+  height: 60px;
+  cursor: pointer;
+  z-index: 2002;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+.lightbox-nav:hover { background: rgba(0, 0, 0, 0.8); }
+.lightbox-nav.prev { left: 20px; }
+.lightbox-nav.next { right: 20px; }
+
+.lightbox-dots {
+  position: absolute;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  z-index: 2002;
+}
+
+.lightbox-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  cursor: pointer;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.lightbox-dot.active {
+  background: #ffffff;
+  transform: scale(1.25);
 }
 </style>
 </head>
@@ -383,34 +493,51 @@ a:hover { color: var(--accent-hover); }
 </div>
 
 <div id="AppDetailModal">
-  <div class="modal-header">
-    <button class="text-back-btn" onclick="closeDetails(true)">BACK</button>
-    <h2 id="DetailModalTitle" style="font-size: 28px;">App Details</h2>
-  </div>
+  <div id="ModalBlurBg" class="modal-blur-bg"></div>
 
-  <div class="detail-layout">
-    <div class="detail-header-info">
-      <div id="DetailIcon" class="detail-icon"></div>
-      <div class="detail-info">
-        <h1 id="DetailName">App Name</h1>
-        <div id="DetailPublisher" class="detail-publisher">Publisher</div>
-        <div class="detail-meta">
-          <span>Version: <strong id="DetailVersion">1.0.0</strong></span>
+  <div class="modal-content">
+    <div class="modal-header">
+      <button class="text-back-btn" onclick="closeDetails(true)">BACK</button>
+      <h2 id="DetailModalTitle" style="font-size: 28px;">App Details</h2>
+    </div>
+
+    <div class="detail-layout">
+      <div class="detail-header-info">
+        <div id="DetailIcon" class="detail-icon"></div>
+        <div class="detail-info">
+          <h1 id="DetailName">App Name</h1>
+          <div id="DetailPublisher" class="detail-publisher">Publisher</div>
+          <div class="detail-price">Free</div>
+          <a id="DetailDownloadBtn" class="download-btn" href="#" target="_blank" download>Get the app</a>
+          <div class="detail-subtext">May require certain hardware. See System Requirements for details.</div>
         </div>
-        <a id="DetailDownloadBtn" class="download-btn" href="#" target="_blank" download>Get the app</a>
+      </div>
+
+      <div class="detail-body-grid">
+        <div class="screenshots-section">
+          <div class="section-heading">Screenshots</div>
+          <div id="ScreenshotsContainer" class="screenshots-grid"></div>
+        </div>
+
+        <div class="description-section">
+          <div class="section-heading">Description</div>
+          <div id="DetailDesc" class="detail-desc">No description available.</div>
+          <button id="DetailDescToggleBtn" class="desc-toggle-btn" style="display: none;">More</button>
+        </div>
       </div>
     </div>
-
-    <div class="screenshots-section">
-      <div class="section-heading">Screenshots</div>
-      <div id="ScreenshotsContainer" class="screenshots-container"></div>
-    </div>
-
-    <div>
-      <div class="section-heading">Description</div>
-      <div id="DetailDesc" class="detail-desc">No description available.</div>
-    </div>
   </div>
+</div>
+
+<div id="ScreenshotLightbox" class="lightbox-modal" onclick="handleLightboxClick(event)">
+  <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">‹</button>
+  <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">›</button>
+
+  <div class="lightbox-content">
+    <img id="LightboxImage" src="" alt="Screenshot view">
+  </div>
+
+  <div id="LightboxDots" class="lightbox-dots"></div>
 </div>
 
 <script src="index.js"></script>

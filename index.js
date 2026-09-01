@@ -1,6 +1,9 @@
 let allApps = [];
-let currentTypeFilter = "all";
 let currentSearchQuery = "";
+let fullDescriptionText = "";
+let isDescExpanded = false;
+let currentScreenshots = [];
+let currentScreenshotIndex = 0;
 
 function toggleTheme() {
   const body = document.body;
@@ -22,13 +25,6 @@ function escapeHtml(str) {
   return d.innerHTML;
 }
 
-function switchFilter(type, tabElem) {
-  currentTypeFilter = type;
-  document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-  tabElem.classList.add('active');
-  applyFilters();
-}
-
 function filterApps(query) {
   currentSearchQuery = query.toLowerCase();
   applyFilters();
@@ -36,12 +32,6 @@ function filterApps(query) {
 
 function applyFilters() {
   let filtered = allApps;
-
-  if (currentTypeFilter === "pc") {
-    filtered = filtered.filter(a => a.pcCapable);
-  } else if (currentTypeFilter === "mobile") {
-    filtered = filtered.filter(a => a.mobileCapable);
-  }
 
   if (currentSearchQuery) {
     filtered = filtered.filter(a =>
@@ -68,7 +58,7 @@ function renderHorizontalGrid(apps) {
 
   const title = document.createElement("div");
   title.className = "category-title";
-  title.textContent = "Apps";
+  title.textContent = "APPS";
   column.appendChild(title);
 
   const grid = document.createElement("div");
@@ -103,6 +93,25 @@ function renderHorizontalGrid(apps) {
   wrapper.appendChild(column);
 }
 
+function renderDescriptionText() {
+  const descContainer = document.getElementById("DetailDesc");
+  const toggleBtn = document.getElementById("DetailDescToggleBtn");
+
+  if (fullDescriptionText.length > 321) {
+    toggleBtn.style.display = "inline-block";
+    if (isDescExpanded) {
+      descContainer.textContent = fullDescriptionText;
+      toggleBtn.textContent = "Less";
+    } else {
+      descContainer.textContent = fullDescriptionText.slice(0, 321) + "...";
+      toggleBtn.textContent = "More";
+    }
+  } else {
+    descContainer.textContent = fullDescriptionText;
+    toggleBtn.style.display = "none";
+  }
+}
+
 function openDetailsById(appId, updateHistory) {
   if (appId === undefined || appId === null || appId === "") return;
 
@@ -118,9 +127,24 @@ function openDetailsById(appId, updateHistory) {
 
   document.getElementById("DetailName").textContent = app.name || "Unknown";
   document.getElementById("DetailPublisher").textContent = app.publisher || "Unknown Publisher";
-  document.getElementById("DetailVersion").textContent = app.version || "1.0.0";
-  document.getElementById("DetailDesc").textContent = app.description || "No description provided for this application.";
-  
+
+  fullDescriptionText = app.description || "No description provided for this application.";
+  isDescExpanded = false;
+  renderDescriptionText();
+
+  const toggleBtn = document.getElementById("DetailDescToggleBtn");
+  toggleBtn.onclick = () => {
+    isDescExpanded = !isDescExpanded;
+    renderDescriptionText();
+  };
+
+  const blurBg = document.getElementById("ModalBlurBg");
+  if (app.icon) {
+    blurBg.style.backgroundImage = `url('${app.icon}')`;
+  } else {
+    blurBg.style.backgroundImage = "none";
+  }
+
   const initialLetter = escapeHtml((app.name || "?").charAt(0).toUpperCase());
   const iconBox = document.getElementById("DetailIcon");
 
@@ -131,13 +155,15 @@ function openDetailsById(appId, updateHistory) {
   const shotsContainer = document.getElementById("ScreenshotsContainer");
   shotsContainer.innerHTML = "";
 
-  if (app.screenshots && app.screenshots.length > 0) {
-    app.screenshots.forEach(shotUrl => {
+  currentScreenshots = app.screenshots || [];
+
+  if (currentScreenshots.length > 0) {
+    currentScreenshots.forEach((shotUrl, index) => {
       const img = document.createElement("img");
       img.className = "screenshot-thumb";
       img.src = shotUrl;
       img.alt = "App Screenshot";
-      img.onclick = () => window.open(shotUrl, '_blank');
+      img.onclick = () => openLightbox(index);
       shotsContainer.appendChild(img);
     });
   } else {
@@ -150,6 +176,63 @@ function openDetailsById(appId, updateHistory) {
   document.getElementById("AppDetailModal").style.display = "block";
 }
 
+function openLightbox(index) {
+  if (!currentScreenshots.length) return;
+  currentScreenshotIndex = index;
+  updateLightbox();
+  document.getElementById("ScreenshotLightbox").style.display = "flex";
+}
+
+function closeLightbox() {
+  document.getElementById("ScreenshotLightbox").style.display = "none";
+}
+
+function handleLightboxClick(event) {
+  const isImage = event.target.closest('#LightboxImage');
+  if (!isImage) {
+    closeLightbox();
+  }
+}
+
+function navigateLightbox(direction, event) {
+  if (event) event.stopPropagation();
+  currentScreenshotIndex += direction;
+  if (currentScreenshotIndex < 0) {
+    currentScreenshotIndex = currentScreenshots.length - 1;
+  } else if (currentScreenshotIndex >= currentScreenshots.length) {
+    currentScreenshotIndex = 0;
+  }
+  updateLightbox();
+}
+
+function updateLightbox() {
+  const imgEl = document.getElementById("LightboxImage");
+  const dotsContainer = document.getElementById("LightboxDots");
+
+  imgEl.src = currentScreenshots[currentScreenshotIndex];
+  dotsContainer.innerHTML = "";
+
+  currentScreenshots.forEach((_, idx) => {
+    const dot = document.createElement("div");
+    dot.className = `lightbox-dot ${idx === currentScreenshotIndex ? 'active' : ''}`;
+    dot.onclick = (e) => {
+      e.stopPropagation();
+      currentScreenshotIndex = idx;
+      updateLightbox();
+    };
+    dotsContainer.appendChild(dot);
+  });
+}
+
+document.addEventListener("keydown", (e) => {
+  const lightbox = document.getElementById("ScreenshotLightbox");
+  if (lightbox && lightbox.style.display === "flex") {
+    if (e.key === "Escape") closeLightbox();
+    if (e.key === "ArrowLeft") navigateLightbox(-1);
+    if (e.key === "ArrowRight") navigateLightbox(1);
+  }
+});
+
 function closeDetails(updateHistory) {
   document.getElementById("AppDetailModal").style.display = "none";
   if (updateHistory && window.location.protocol !== 'file:' && window.location.search.includes('id=')) {
@@ -161,7 +244,7 @@ function closeDetails(updateHistory) {
 
 function resetToHome() {
   closeDetails(true);
-  switchFilter('all', document.querySelectorAll('.nav-tab')[0]);
+  applyFilters();
 }
 
 function checkUrlParams() {
@@ -226,9 +309,7 @@ function parseXmlData(xmlText) {
       publisher: getXmlTag(app, "publisher"),
       description: getXmlTag(app, "description"),
       package: getXmlTag(app, "package"),
-      screenshots: getXmlScreenshots(app),
-      pcCapable: getXmlTag(app, "pcCapable") === "true",
-      mobileCapable: getXmlTag(app, "mobileCapable") === "true"
+      screenshots: getXmlScreenshots(app)
     };
   });
 
