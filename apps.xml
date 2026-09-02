@@ -48,7 +48,7 @@
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnmoney_img.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
-    <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
+    <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere. Patched with NewRetiled, credit to migbrunluz</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Money/Microsoft.BingFinance_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnmoney_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
@@ -61,12 +61,7 @@
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnnews_img.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
-    <description>MSN News delivers breaking news and trusted, in-depth reporting from the world's best journalists.
-    - Our editors curate the most trusted, important, interesting and trending news
-    - You choose which topics matter most to you.
-    - MSN News updates you with notifications of breaking news, quickly and accurately, 24/7
-    - Sync your preferences across the app and the Web.
-    MSN News works in partnership with hundreds of publishers in dozens of countries globally. Select from editions</description>
+    <description>MSN News -- See the top stories of the day and breaking news from the world’s best sources, curated by our editors. Or, just choose the interest you want. Patched with NewRetiled, credit to migbrunluz</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/News/Microsoft.BingNews_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnnews_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
@@ -79,7 +74,9 @@
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/msnsports_img.png</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
-    <description>The MSN Sports app is packed with live scores &amp; in-depth game experiences for more than 150 leagues. Customize to add favorite leagues and teams. Follow schedules, results, standings and game analysis. Read the latest news, enjoy galleries and watch video highlights from across the best sporting news sources for your favorites.This app isnt patched.</description>
+    <description>The MSN Sports app is packed with live scores &amp; in-depth game experiences for more than 150 leagues.
+
+Customize to add favorite leagues and teams. Follow schedules, results, standings and game analysis. Read the latest news, enjoy galleries and watch video highlights from across the best sporting news sources for your favorites. Patched with NewRetiled, credit to migbrunluz</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingSports_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnsports_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
@@ -93,7 +90,8 @@
     <publisher>Microsoft Corporation</publisher>
     <featured>false</featured>
     <description>MSN Weather: The best way to plan your day.
-    Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do. Patched with NewRetiled,credit to migbrunluz</description>
+
+Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.Patched with NewRetiled,credit to migbrunluz</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Weather/Microsoft.BingWeather_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnweather_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
