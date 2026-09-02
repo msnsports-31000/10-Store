@@ -3517,7 +3517,7 @@ Psst! It's not Tiny Bop, or Tiny Bob, or Tiny Pop. It's Tinybop.</description>
     <win81compatible>false</win81compatible>
   </app>
     <app id="xbox-original-avatars">
-    <name>Xbox Original Avatars</name>
+    <name>Xbox Avatars</name>
     <version>100.1804.3001.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/xboxoriginalavatars_img.png</icon>
     <publisher>Microsoft Corporation</publisher>
