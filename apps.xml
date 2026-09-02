@@ -435,7 +435,7 @@ If you are not a Netflix member sign up for Netflix and start enjoying immediate
 
 How does Netflix work?
 - Netflix membership gives you access to unlimited TV shows and movies for one low monthly price.
-- With the Netflix app you can instantly watch as many TV episodes & movies as you want, as often as you want, anytime you want.
+- With the Netflix app you can instantly watch as many TV episodes &amp; movies as you want, as often as you want, anytime you want.
 - You can Browse a growing selection of thousands of titles, and new episodes that are added regularly.
 - Search for titles and watch immediately on your phone or on an ever expanding list of supported devices.
 - Rate your favorite shows and movies and tell us what you like so Netflix can help suggest the best titles for you.
@@ -445,7 +445,7 @@ By clicking INSTALL, you consent to the installation of the Netflix application 
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4DF9E0F8.Netflix_6.99.5.0_neutral_-_mcm4njqhnhss8-1776508466.appxbundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr2.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr3</screenshot3>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr3.png</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
@@ -455,14 +455,7 @@ By clicking INSTALL, you consent to the installation of the Netflix application 
     <icon>https://store-images.microsoft.com/image/apps.37291.9007199266251806.241e6a77-946b-48f7-8269-e8d414751b65.edfec239-dd87-4ebd-9335-41cf617cebea</icon>
     <publisher>Microsoft Corporation</publisher>
     <featured>true</featured>
-    <description>Unleash your inner creative with Fresh Paint – the ultimate canvas for your big ideas.
-    Fresh Paint is a fun and easy to use painting app with the right tools for artists of all ages.
-    We believe that brilliant, creative ideas can come from anyone, anytime.  It’s time to set your creativity free.
-    Create original artwork, turn photos into beautiful paintings, or choose an activity pack to help you get started quickly. From whimsical pictures of your friends to amazing landscapes, Fresh Paint enables you to create anything.
-    “Utterly superb” – Brad Chacos, PC World
-    “Windows 8’s coolest app: Fresh Paint” – David Goldman, CNNMoney
-    “The most realistic painting app I have ever used” – Joe Fedewa, WinSource
-    “There's no better demonstration of the cool types of things you can do with multitouch than Fresh Paint.” – Michael Muchmore, PC Magazine</description>
+    <description></description>
     <package>https://github.com/msnsports-31000/10-Store/releases/download/APPX/Microsoft.FreshPaint_3.1.10383.1000_x86__8wekyb3d8bbwe.Appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint_scr2.png</screenshot2>
