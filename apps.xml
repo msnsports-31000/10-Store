@@ -427,15 +427,21 @@ Play around with the Eq to get that lovely brassy crisp sound to your liking! Lo
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/b49d6d3e357ff36cc97502df58511eb170976faf/files/Square.150x150.scale-200.png</icon>
     <publisher>Netflix, Inc.</publisher>
     <featured>true</featured>
-    <description>Looking for the most talked about TV shows and movies from around the world? They’re all on Netflix.
-    We’ve got award-winning series, movies, documentaries, and stand-up specials. And with the mobile app, you get Netflix while you travel, commute, or just take a break.
-    What you’ll love about Netflix:
-    - We add TV shows and movies all the time. Browse new titles or search for your favorites, and stream videos right on your device.
-    - The more you watch, the better Netflix gets at recommending TV shows and movies you’ll love.
-    - Enjoy a safe watching experience just for kids with family-friendly entertainment.
-    - Preview quick videos of our series and movies and get notifications for new episodes and releases.
-    Netflix membership is a month-to-month paid subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. We just want you to love what you watch.
-    By clicking INSTALL, you consent to the installation of the Netflix application and any updates or upgrades thereto.</description>
+    <description>Netflix is the world’s leading subscription service for watching TV episodes and movies.
+
+Get the free app as a part of your Netflix membership and you can instantly watch thousands of TV episodes &amp; movies.
+
+If you are not a Netflix member sign up for Netflix and start enjoying immediately with our one-month free trial.
+
+How does Netflix work?
+- Netflix membership gives you access to unlimited TV shows and movies for one low monthly price.
+- With the Netflix app you can instantly watch as many TV episodes & movies as you want, as often as you want, anytime you want.
+- You can Browse a growing selection of thousands of titles, and new episodes that are added regularly.
+- Search for titles and watch immediately on your phone or on an ever expanding list of supported devices.
+- Rate your favorite shows and movies and tell us what you like so Netflix can help suggest the best titles for you.
+- Start watching on one device, and resume watching on another. Check out netflix.com for all the TVs, game consoles, tablets, phones, Blu-ray players and set top boxes on which you can watch Netflix.
+
+By clicking INSTALL, you consent to the installation of the Netflix application and any updates or upgrades thereto.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4DF9E0F8.Netflix_6.99.5.0_neutral_-_mcm4njqhnhss8-1776508466.appxbundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr2.png</screenshot2>
