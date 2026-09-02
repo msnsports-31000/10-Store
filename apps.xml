@@ -165,7 +165,102 @@ Play around with the Eq to get that lovely brassy crisp sound to your liking! Lo
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/descarga-5-1775490623.png</icon>
     <publisher>Finebits OÜ</publisher>
     <featured>true</featured>
-    <description>Metro Commander is an orthodox file manager which allows you to manage your files and folders from within the Modern Windows UI interface. Easily create, open, preview, rename, copy, move, delete, search and share files and folders. Browse your documents faster with navigation buttons (back, forward, up), thumbnail previews, shortcuts to your Images, Music and Videos folders and the ability to add shortcuts to your favorite folders. Manage your online files by logging into your OneDrive account. App features: • Dual-pane interface to easily copy, move, create, rename or delete files and folders. • Ability to launch executable files on Desktop family devices (desktops, laptops, tablets). In Windows 10 S, you can only launch executable files that are allowed by system. • Opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...). • Ability to Extract Here with the application from the Windows Explorer's context menu. • Built-in viewer and media player (jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov). • Support .nef files (only on Desktop devices) • Support .ac3 files for all devices excluding Windows 10 Mobile • Built-in document editor (doc, docx, rtf, txt ) for all devices excluding Windows 10 Mobile • Adding folders to Favorites and pinning them to the Start Screen. • Quick and convenient browsing of files and folders. • Audio playback in the background. • Share file support to other apps. • Search for files and folders. • Snapped mode support. • Thumbnail previews. • Video and image preview. • Bulk operations. • Support for multiple selections. • Themes and backgrounds, Bing wallpaper. • OneDrive access. • Dropbox access. • Google Drive access. • Yandex Disk access. • FTP access. • Operating with the system Clipboard (copying to the Windows Explorer). • Autorun when inserting portable devices and flash drives. • Hotkey commands. Release notes: 05/03/2018 • Built for Windows 10 April 2018 Update. • Ability to run multiple instances of the application. • Access to the file system. • Ability to Extract Here with the application from the Windows Explorer's context menu. 03/30/2018 • This version is targeted for Creators Update. • Added app window transparency (aka Fluent). • Added compact overlay mode for image/audio/video viewer (aka Picture in picture). • Added equalizer to audio player. • Added support for Google Drive and Yandex Disk. • Added support for FTP connections. 04/12/2017 • Added ability to launch executable files on Desktop family devices (desktops, laptops, tablets). In Windows 10 S, you can only launch executable files that are allowed by system. 11/15/2016 • Xbox One support. • Comic Book Archive support (.cbz, .cbr) • Support for background images in the GIF format. • UI improvements. 12/31/2015 Metro Commander is available for Windows 10 now. 03/11/2015 Metro Commander is Universal app from now. Creating ZIP and 7z archives. Unpacking RAR5 archives. View animated images in the GIF. Rotate images. Added languages: Polish, Turkish, Chinese. 14/03/2014 SkyDrive has been renamed to OneDrive 02/14/2014 Has been improved support of archives: - creating - editing - viewing files inside archive Added Spanish language support Added support of .srt subtitle Bug fixes 01/21/2014 The problem with duplication of favorites has been fixed 12/24/2013 MKV support Italian translation 12/10/2013 Stuck on start was fixed 10/10/2013 Added Classic View designed for mouse and keyboard use 07/15/2013 Dropbox support 06/20/2013 Archives unpacking RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB, etc. Multivolume archives support Password protected archives support 03/05/2013 Dutch and Portuguese translation 01/31/2013 Keyboard shortcuts page 01/14/2013 French language</description>
+    <description>Metro Commander is an orthodox file manager which allows you to manage your files and folders from within the Modern Windows UI interface.
+Easily create, open, preview, rename, copy, move, delete, search and share files and folders.
+Browse your documents faster with navigation buttons (back, forward, up), thumbnail previews, shortcuts to your Images, Music and Videos folders and the ability to add shortcuts to your favorite folders.
+Manage your online files by logging into your OneDrive account.
+
+App features:
+• Dual-pane interface to easily copy, move, create, rename or delete files and folders.
+• Opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...).
+• Built-in viewer and media player (doc, docx, rtf, jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov).
+• Adding folders to Favorites and pinning them to the Start Screen.
+• Quick and convenient browsing of files and folders.
+• Audio playback in the background.
+• Share file support to other apps.
+• Search for files and folders.
+• Snapped mode support.
+• Thumbnail previews.
+• Video and image preview.
+• Bulk operations.
+• Support for multiple selections.
+• Themes and backgrounds, Bing wallpaper.
+• OneDrive, Dropbox, Google Drive, Yandex Disk access.
+• FTP connections support.
+• Operating with the system Clipboard (copying to the Windows Explorer).
+• Autorun when inserting portable devices and flash drives.
+• Hotkey commands.
+
+
+Release notes:
+04/10/2018
+• This version is targeted for Creators Update.
+• Added app window transparency (aka Fluent).
+• Added compact overlay mode for image/audio/video viewer (aka Picture in picture).
+• Added equalizer to audio player.
+• Added support for Google Drive and Yandex Disk.
+• Added support for FTP connections.
+
+11/15/2016
+• Xbox One support.
+• Comic Book Archive support (.cbz, .cbr)
+• Support for background images in the GIF format.
+• UI improvements.
+
+12/31/2015
+Metro Commander is available for Windows 10 now.
+
+03/11/2015
+Metro Commander is Universal app from now.
+Creating ZIP and 7z archives.
+Unpacking RAR5 archives.
+View animated images in the GIF.
+Rotate images.
+Added languages: Polish, Turkish, Chinese.
+
+14/03/2014
+SkyDrive has been renamed to OneDrive
+
+02/14/2014
+Has been improved support of archives:
+ - creating
+ - editing 
+ - viewing files inside archive 
+Added Spanish language support
+Added support of .srt subtitle
+Bug fixes
+
+01/21/2014
+The problem with duplication of favorites has been fixed
+
+12/24/2013
+MKV support
+Italian translation
+
+12/10/2013
+Stuck on start was fixed
+
+10/10/2013
+Added Classic View designed for mouse and keyboard use
+
+07/15/2013
+Document editor (.docx, .doc, .rtf)
+Dropbox support
+
+06/20/2013
+Docs viewer (.docx, .doc, .rtf)
+Archives unpacking RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB, etc.
+Multivolume archives support
+Password protected archives support
+
+03/05/2013
+Dutch and Portuguese translation
+
+01/31/2013
+Keyboard shortcuts page
+
+01/14/2013
+French language</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BooStudioLLC.MetroCommanderPro_1.1.81.2000_x86__b6e429xa66pga.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/metrocommander_scr1-1775490624.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/metrocommander_scr2-1775490624.png</screenshot2>
@@ -182,20 +277,46 @@ Play around with the Eq to get that lovely brassy crisp sound to your liking! Lo
     <publisher>Finebits OÜ</publisher>
     <featured>true</featured>
     <description>Out with the old, in with the new. The powerful archiver 8 Zip has expanded its set of capabilities with the new Continuum, Cortana and Windows Hello technologies.
-    Now one app, one license, a uniform design and functionality can be had on all types of devices. Decrypt files through an iris scan or at a touch. Listen to music, read documents, and watch videos right in the app. Share files with friends – it’s simple.
-    8 Zip is a cutting-edge archiver.
-    Distinctive features:
-    • High-speed archiving and unpacking.
-    • Incorporation of Continuum technology.
-    • Ability to decrypt archives using Windows Hello.
-    • Play music and video, display images and text files directly in the app.
-    • Send files by e-mail, post them on social networks, or share them on OneDrive and DropBox.
-    • Select the compression level and password protection.
-    • Print documents and images.
-    • One purchase gives you a license that is valid for all of your Windows 8 device.
-    8 Zip knows over 38 languages.
-    The app has been downloaded more than 8,000,000 times
-    Thank you for helping to make 8 Zip better! Simply send your suggestions for improvement to 8zip@finebits.com and show your support by giving us a ★★★★★ review.</description>
+
+Now one app, one license, a uniform design and functionality can be had on all types of devices. Decrypt files through an iris scan or at a touch. Listen to music, read documents, and watch videos right in the app. Share files with friends – it’s simple.
+
+8 Zip is a cutting-edge archiver.
+
+
+Distinctive features:
+• High-speed archiving and unpacking.
+• Incorporation of Continuum technology.
+• Ability to decrypt archives using Windows Hello.
+• Play music and video, display images and text files directly in the app.
+• Send files by e-mail, post them on social networks, or share them on OneDrive and DropBox.
+• Select the compression level and password protection.
+• Print documents and images.
+• One purchase gives you a license that is valid for all of your Windows 10 device.
+
+8 Zip knows over 25 languages.
+
+The app has been downloaded more than 3,000,000 times
+
+Thank you for helping to make 8 Zip better! Simply send your suggestions for improvement to 8zip@finebits.com and show your support by giving us a ★★★★★ review.
+
+To purchase a corporate version of the program, please contact us by e-mail: sales@finebits.com
+
+
+Technical specifications:
+• Create archives: zip, 7z, tar, gzip, bzip2, xz.
+• Open archives: rar, zip, 7z, zipx, iso, bzip2, gzip, tar, arj, cab.
+• Built-in viewer and player.
+• View images: jpeg, png, bmp, gif, tiff.
+• Play music: mp3, wma, flac, m4a, aac, wav, ac3.
+• Watch video: avi, 3gp, wmv, mp4, m4v, mov, mkv.
+• Open and view text documents: docx, doc, rtf, txt.
+• Support for the latest archive formats: RAR5 and 7z.
+• Various compression methods: Deflate, Deflate64, BZip, LZMA, PPMd.
+• Create password-protected archives: 256-bit AES encryption.
+• Ability to open encrypted files through Windows Hello and Microsoft Passport technology.
+• Support for decompressing multivolume archives: zip, rar, 7z.
+• Support for Drag&amp;Drop technology.
+• Support for SD cards.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BooStudioLLC.8ZipLite_1.2.103.1000_x86__b6e429xa66pga-1775491170.Appx</package>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
@@ -1659,7 +1780,67 @@ When you test your network using the Network Speed Test, certain characteristics
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/SmallLogo.targetsize-256.png</icon>
     <publisher>Finebits OÜ</publisher>
     <featured>false</featured>
-    <description>Files&amp;Folders is a fully functional file manager. Manage your files and folders, extract archives, watch videos, view pictures and listen to music. App features: • file and folder options (copying, moving, renaming, deleting) • opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...) • built-in viewer and media player (doc, docx, rtf, jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov, mkv) • audio playback in the background • OneDrive support • Dropbox support • Google Drive support • Yandex Disk support • FTP support • snapped mode support • adding folders to Favorites and pinning them to the Start Screen • charms support: Search and Share • operating with the system Clipboard (copying to Windows Explorer) • themes and backgrounds, Bing wallpaper • video and image preview • autorun when inserting portable devices and flash drives • hotkey commands Release notes: version 1.2.39.0 • This version is targeted for Creators Update. • Added app window transparency (aka Fluent). • Added compact overlay mode for image/audio/video viewer (aka Picture in picture). • Added equalizer to audio player. • Added support for Google Drive and Yandex Disk. • Added support for FTP connections. version 1.1.84.0 • Xbox One support. • Comic Book Archive support (.cbz, .cbr) • Support for background images in the GIF format. • UI improvements. version 1.1.77.0 Files&amp;Folders is available for Windows 10 now. version 1.1.0.27 • Built-in viewer and media player • Audio playback in the background • Streaming from OneDrive and Dropbox version 1.1.0.12 • Creating ZIP and 7z archives • RAR5 support • Polish language added • Turkish language added version 1.1.0.7 • Chinese language added • Fixed a problem with duplication of the SD card on the main page • Fixed a problem with disappearance of the "New Folder" command • Fixed a problem with list items after changing of the system font size • Fixed a problem with crash of the program in large folders • Speed rendering of items in large folders optimized version 1.1.0.4 • support for multivolume archives</description>
+    <description>Files&amp;Folders is a fully functional file manager. 
+Manage your files and folders, extract archives, watch videos, view pictures and listen to music.
+
+App features:
+• file and folder options (copying, moving, renaming, deleting)
+• opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...)
+• built-in viewer and media player (doc, docx, rtf, jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov, mkv)
+• audio playback in the background
+• OneDrive support
+• Dropbox support
+• Google Drive support
+• Yandex Disk support
+• FTP support
+• snapped mode support
+• adding folders to Favorites and pinning them to the Start Screen
+• charms support: Search and Share
+• operating with the system Clipboard (copying to Windows Explorer)
+• themes and backgrounds, Bing wallpaper
+• video and image preview
+• autorun when inserting portable devices and flash drives
+• hotkey commands
+
+Release notes:
+version 1.2.39.0
+• This version is targeted for Creators Update.
+• Added app window transparency (aka Fluent).
+• Added compact overlay mode for image/audio/video viewer (aka Picture in picture).
+• Added equalizer to audio player.
+• Added support for Google Drive and Yandex Disk.
+• Added support for FTP connections.
+
+version 1.1.84.0
+• Xbox One support.
+• Comic Book Archive support (.cbz, .cbr)
+• Support for background images in the GIF format.
+• UI improvements.
+
+version 1.1.77.0
+Files&amp;Folders is available for Windows 10 now.
+
+version 1.1.0.27
+• Built-in viewer and media player 
+• Audio playback in the background
+• Streaming from OneDrive and Dropbox
+
+version 1.1.0.12
+• Creating ZIP and 7z archives
+• RAR5 support
+• Polish language added
+• Turkish language added
+
+version 1.1.0.7 
+• Chinese language added
+• Fixed a problem with duplication of the SD card on the main page 
+• Fixed a problem with disappearance of the "New Folder" command
+• Fixed a problem with list items after changing of the system font size
+• Fixed a problem with crash of the program in large folders 
+• Speed rendering of items in large folders optimized
+
+version 1.1.0.4
+• support for multivolume archives</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/BooStudioLLC.FilesFoldersLite_1.1.20.1000_x86__b6e429xa66pga.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/filesfolders1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/filesfolders2.png</screenshot2>
