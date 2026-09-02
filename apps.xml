@@ -437,9 +437,9 @@ Play around with the Eq to get that lovely brassy crisp sound to your liking! Lo
     Netflix membership is a month-to-month paid subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. We just want you to love what you watch.
     By clicking INSTALL, you consent to the installation of the Netflix application and any updates or upgrades thereto.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/4DF9E0F8.Netflix_6.99.5.0_neutral_-_mcm4njqhnhss8-1776508466.appxbundle</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr1-1776508470.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr2-1776508472.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr3-1776508474.png</screenshot3>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/netflix_scr3</screenshot3>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
   </app>
