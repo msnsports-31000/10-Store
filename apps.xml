@@ -50,6 +50,7 @@
     <featured>false</featured>
     <description>MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Money/Microsoft.BingFinance_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnmoney_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -94,6 +95,7 @@
     <description>MSN Weather: The best way to plan your day.
     Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do. Patched with NewRetiled,credit to migbrunluz</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Weather/Microsoft.BingWeather_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnweather_scr1.png</screenshot1>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
