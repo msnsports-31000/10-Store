@@ -4050,4 +4050,48 @@ Unfortunately we had to remove the Appx/Xap download feature as it violates Micr
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="windows-camera">
+    <name>Windows Camera</name>
+    <version>2017.619.10.2000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/windowscamera_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>The redesigned Camera app is faster and simpler than ever. Just point and shoot to take great pictures automatically. The same great camera experience is available across Windows 10 PCs, tablets, and phones.
+
+On any PC, tablet or phone:
+• Automatically back up your pictures so you can get to them on all your devices via OneDrive.
+• Pause and resume while you record video to help stitch together separate moments.
+• Jump into the picture by using the photo timer.
+• Compose the perfect shot using the framing grid.
+• Set the camera to capture either a rapid burst of shots or a video when you press and hold the on-screen shutter button.
+• For pro controls, drag the shutter button toward the center and adjust the dials for brightness and more.
+
+On select phones and tablets:
+• Capture more of the scene with panorama on phones and tablets. *(7)
+• Transform your static photos into living images that move, then play them back in the Photos app on any Windows 10 device. *(4,5,6)
+• Shoot smoother videos, even if your hands shake, using digital video stabilization. *(2, 3, 4)
+• Instantly launch the camera, even when the phone is locked, by holding down your phone’s hardware camera button. *1
+• Rich HDR (High Dynamic Range)*(2,3) lets you shoot now, adjust lighting later.*(4,5,6)
+• Motion blur is automatically reduced, for sharper, more detailed photos. *6
+• Record stunningly smooth slow-motion videos at 120fps at 720p resolution. *(5,6)
+• With 4K video recording, save high-quality photos from your videos. *(5,6)
+• Preserve every detail with Digital negative files (DNG or raw files), if you want to fine tune images with advanced editing software later.
+
+*1 Requires hardware camera button
+*2 Available on HTC One M8
+*3 Available on Lumia 63X Series
+*4 Available on Lumia 640, 640XL, 830
+*5 Available on Lumia Icon, 930, 1520
+*6 Available on Lumia 950 and 950XL
+*7 Available on Surface Pro 4, Surface Book, Surface 3, Lumia 950, 950XL, 650, and 550</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/Microsoft.WindowsCamera_2017.619.10.2000_neutral_~_8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/windowscamera_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/windowscamera_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/windowscamera_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/windowscamera_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/windowscamera_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
