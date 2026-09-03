@@ -435,9 +435,9 @@ a:hover { color: var(--accent-hover); }
   background: rgba(0, 0, 0, 0.5);
   border: 1px solid rgba(255, 255, 255, 0.2);
   color: #fff;
-  font-size: 48px;
+  font-size: 16px;
   width: 24px;
-  height: 64px;
+  height: 80px;
   cursor: pointer;
   z-index: 2002;
   display: flex;
@@ -535,8 +535,8 @@ a:hover { color: var(--accent-hover); }
 </div>
 
 <div id="ScreenshotLightbox" class="lightbox-modal" onclick="handleLightboxClick(event)">
-  <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">‹</button>
-  <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">›</button>
+<button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">&#10094;</button>
+<button class="lightbox-nav next" onclick="navigateLightbox(1, event)">&#10095;</button>
 
   <div class="lightbox-content">
     <img id="LightboxImage" src="" alt="Screenshot view">
