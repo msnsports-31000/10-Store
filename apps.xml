@@ -3812,12 +3812,16 @@ If you wish to contact me, email me at:
     <win81compatible>true</win81compatible>
   </app>
   <app id="musbox">
-    <name>Mus'box</name>
+    <name>Musbox</name>
     <version>1.7.2.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_img.png</icon>
     <publisher>neosonne</publisher>
     <featured>false</featured>
-    <description>With Musbox Player you can easily access your music collection and play them. All music files are automatically sorted by 5 categories (artists, genres, composers, albums and songs), so you can always quickly find the desired songs. As an added feature you can navigate through your music folders and play them. Of course you can create your own playlist as well. The simple and intuitive user interface can be easily personalized. It is possible to change accent color and background image.</description>
+    <description>With Mus'box player you can easily access your music collection and play them. All music files are automatically sorted by 5 categories (artists, genres, composers, albums and songs), so you can always quickly find the desired songs. As an added feature you can navigate through your music folders and play them. Of course you can create your own playlist as well.
+
+The simple and intuitive user interface can be easily personalized. It is possible to change accent color and background image.
+
+The following audio formats are supported: MP3, FLAC, WMA, WAV, AAC, M4A and MP2.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15571neosonne.Musbox_1.7.2.0_neutral_~_qxsn2b5e40q52.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/musbox_scr2.png</screenshot2>
