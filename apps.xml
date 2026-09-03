@@ -3976,4 +3976,37 @@ Fax Out uses a prepaid balance model of Fax Tokens. 1 token = 1 page*
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="9zenstore">
+    <name>9Zen Store</name>
+    <version>6.9.1.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/9zenstore_img.png</icon>
+    <publisher>Inspizen Inc</publisher>
+    <featured>false</featured>
+    <description>Cannot find any new or awesome apps on the windows store?  
+
+9Zen Store helps you find awesome, free, discounted apps for you windows 10 device. The app which eliminates the major drawbacks of the windows store.  
+
+With features like:  
+
+★ Browse apps and see their reviews/ratings from over 60 countries.
+★ Search apps with an advanced search features for apps not shown by windows store search.
+★ Get app details like update date, release date of windows phone 8.1 apps (Pro feature).
+★ Like an app but want to download later. Add it to the download later list which you can easily check out later.
+★ Discover apps which are recommended by us.
+★ See free/discounted apps for the day.
+★ Copy the store link easily to share with anyone.  
+
+Disclaimer : The app is not created/promoted or anyway associated with Microsoft and their team.
+
+Unfortunately we had to remove the Appx/Xap download feature as it violates Microsofts privacy policy.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/28852InspizenInc.9ZenStore_6.9.1.0_neutral_~_g9gz2pvpgk7nj.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/9zenstore_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/9zenstore_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/9zenstore_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/9zenstore_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/9zenstore_scr5.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
