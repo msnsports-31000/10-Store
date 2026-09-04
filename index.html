@@ -478,7 +478,8 @@ a:hover { color: var(--accent-hover); }
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: background 0.2s;
+  transition: background 0.2s, border-color 0.2s;
+  font-family: "Segoe MDL2 Assets", "Segoe Fluent Icons", "Segoe UI Symbol", sans-serif;
 }
 .lightbox-nav.prev {
   left: 0;
@@ -576,8 +577,8 @@ a:hover { color: var(--accent-hover); }
 </div>
 
 <div id="ScreenshotLightbox" class="lightbox-modal" onclick="handleLightboxClick(event)">
-  <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">&#10094;</button>
-  <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">&#10095;</button>
+  <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">&#xE00E;</button>
+  <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">&#xE00F;</button>
 
   <div class="lightbox-content">
     <img id="LightboxImage" src="" alt="Screenshot view">
