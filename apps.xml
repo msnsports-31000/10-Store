@@ -4124,7 +4124,7 @@ On select phones and tablets:
   </app>
     <app id="tv-for-windows">
     <name>TV for Windows</name>
-    <version></version>
+    <version>1.4.7.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tvforwindows_img.png</icon>
     <publisher>Mohammed Adenwala</publisher>
     <featured>false</featured>
@@ -4136,6 +4136,72 @@ This app will let you watch the above cable TV channels plus LIVE SPORTS like th
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tvforwindows_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tvforwindows_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tvforwindows_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="radioremote">
+    <name>RadioRemote</name>
+    <version>0.3.37.2000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/radioremote_img.png</icon>
+    <publisher>TheCHMFilm</publisher>
+    <featured>false</featured>
+    <description>NOTE: This is not a Radio / Internet radio app! The app is for remote control of different hybrid radio devices!
+With this app you can remote control your DAB/Internet radio.
+Navigate the menu and select your music easily from a PC or mobile phone.
+Many manufacturers such as Hama, Technisat, Dual, NOXON, Soundmaster or Sangean are supported.
+If your device "works with UNDOK", this app should work, too.
+
+Note:
+Multiroom function is not available at the moment.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/31577TheCHMFilm.RadioRemote_0.3.37.2000_neutral_~_pm90pee8wx100.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/radioremote_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/radioremote_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/radioremote_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/radioremote_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/radioremote_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/radioremote_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/radioremote_scr7.png</screenshot7>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="global-tv-10">
+    <name>Global TV 10</name>
+    <version>1.1.19.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_img.png</icon>
+    <publisher>anhxu</publisher>
+    <featured>false</featured>
+    <description>Global TV has over 2000 channels worldwide including Vietnam, USA, UK, China, Korea, Thailand , Italy, Brazil, India, German, Greece, Spain, Arabic, Russia, Portugal, Turkey, Pakistan and so on plus movie channels and sports channels which are free.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/53956anhxu.GlobalTV10_1.1.19.0_neutral_~_nh4j74rcsy922.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/globaltv10_scr8.png</screenshot8>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="client-for-youtube">
+    <name>Client for YouTube</name>
+    <version>4.1.40.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_img.png</icon>
+    <publisher>AVESoftware</publisher>
+    <featured>false</featured>
+    <description>"Client for YouTube" is fully featured YouTube application and downloader.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/64400AVESoftware.ClientforYouTube_4.1.41.0_neutral_~_s9t6wkyqkak7y.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/clientforyoutube_scr8.png</screenshot8>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
