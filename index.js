@@ -344,7 +344,7 @@ async function loadApps() {
       parseXmlData(text);
     } catch(e) {
       const status = document.getElementById("Status");
-      if (status) status.textContent = "Unable to load apps XML.";
+      if (status) status.textContent = "Check your connection, All fixed?";
     }
   }
 }
