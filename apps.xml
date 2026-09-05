@@ -4416,4 +4416,26 @@ You can browse through this app whenever you need a shortcut or take the time to
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="vplayer-10">
+    <name>VPlayer 10</name>
+    <version>1.1.16.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/vplayer10_img.png</icon>
+    <publisher>wdev10u</publisher>
+    <featured>false</featured>
+    <description>Play movies and videos on Mobile/PC.
+FEATURES:
+- Get all videos from folders you choose"
+- Add subtitle for play movies, search subtitles
+- Play videos and save last position
+- View recent videos
+- Support formats: AVI MP4 MKV 3GP WMV MOV</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/58349wdev10.VPlayer10_1.1.16.0_neutral_~_7s4mfbd82gqxc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/vplayer10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/vplayer10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/vplayer10_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/vplayer10_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
