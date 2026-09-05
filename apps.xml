@@ -620,7 +620,7 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/freshpaint_scr9.png</screenshot9>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
   </app>
   <app id="inecraft-for-indows-10">
     <name>Minecraft Windows 10 Edition Beta</name>
@@ -4414,6 +4414,32 @@ Send Feedback: feedback@saavn.com
     <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr8.png</screenshot8>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="rar-opener">
+    <name>RAR Opener</name>
+    <version></version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raropener_img.png</icon>
+    <publisher>Tiny Opener</publisher>
+    <featured>false</featured>
+    <description>The Missing RAR Opener: Open any RAR file in seconds.
+
+New update: Now in addition to RAR, it handles dozens of popular Internet file types, like 7Z, Zip, TAR, LZH, etc.
+
+Don't clutter and overwhelm your computer with file openers that handle hundreds of file types you'll never need. RAR Opener is a tiny and super-fast utility that focuses on RAR files and doesn't clog up your PC.
+
+RAR Opener has a small size and memory footprint to keep its operation quick without slowing down your computer. It's beautifully simple: just double click once on the file you want to open and that's it. Your opened file is waiting for you in Downloads. You can, of course, launch RAR Opener to manually select files you want but when it comes to RAR files, RAR Opener is all you need.
+
+What are RAR files?
+
+RAR files are often used to save space, but can be annoying when your computer can't open them. This is where RAR Opener comes into play: UNRAR anything in seconds with this nifty utility. Nothing to learn, just point, tap and UNRAR.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DeviceDoctor.RAROpener_1.3.48.0_neutral_~_mkdtfchztkfbm.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raropener_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raropener_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raropener_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raropener_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
   </app>
 </data>
