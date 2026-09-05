@@ -4382,4 +4382,20 @@ You can browse through this app whenever you need a shortcut or take the time to
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="battery-usage">
+    <name>Battery Usage</name>
+    <version>1.1.4.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryusage_img.png</icon>
+    <publisher>Marko Haaja</publisher>
+    <featured>false</featured>
+    <description>View battery status. It will show charge level of battery. In main screen it is also possible to see graph of battery level. Settings have background update interval and how many days battery information is stored. On Chart screen you can look battery data two different form (battery charge graph and daily usage/charge).</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/16494MarkoHaaja.BatteryUsage_1.1.4.0_neutral_~_1d6jwbgybpbp6.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryusage_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryusage_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryusage_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryusage_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
