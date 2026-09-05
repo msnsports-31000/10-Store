@@ -4418,7 +4418,7 @@ Send Feedback: feedback@saavn.com
   </app>
   <app id="rar-opener">
     <name>RAR Opener</name>
-    <version></version>
+    <version>1.3.48.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/raropener_img.png</icon>
     <publisher>Tiny Opener</publisher>
     <featured>false</featured>
@@ -4468,6 +4468,36 @@ Zip Opener is all you need for your Internet adventures - no matter what the dow
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/zipopener_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/zipopener_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/zipopener_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="7z-opener">
+    <name>7Z Opener</name>
+    <version>1.3.20.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/7zopener_img.png</icon>
+    <publisher>Tiny Opener</publisher>
+    <featured>false</featured>
+    <description>Open, create and handle 7Z, RAR and ZIP files with this simple app.
+
+This app opens many of the commonly used Internet archives, including 7Z, Rar, Tar and Zip amongst others. It features a streamlined user interface, making sure the most commonly used operations (opening archives) is just a single tap away.
+
+7Z Opener is made to be lean and not take up a lot of space on your hard drive or memory on your computer. Its minimal interface makes using it a cinch - no manuals needed here.
+
+So no matter what file you've downloaded, or what archive your friends sent you in the email, this app will quickly get you to the contents without clogging your computer with unnecessary functionality.
+
+★ Lean, mean, opening machine - takes up almost no memory when used
+★ Keep it light - the small size saves you hard drive space
+★ Can it be any easier? A single tap opens any file
+★ Made for speed: handles even huge archives in seconds
+★ All joy, no aggravation - no junkware, toolbars or ads
+
+Download 7Z Opener for free now and handle anything Internet can throw at you.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DeviceDoctor.7ZipOpener_1.3.20.0_neutral_~_mkdtfchztkfbm.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/7zopener_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/7zopener_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/7zopener_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/7zopener_scr4.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
