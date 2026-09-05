@@ -492,11 +492,11 @@ a:hover { color: var(--accent-hover); }
 }
 
 .lightbox-nav.prev {
-  left: 15px;
+  left: 20px;
 }
 
 .lightbox-nav.next {
-  right: 15px;
+  right: 20px;
 }
 
 .lightbox-nav:hover {
@@ -587,12 +587,13 @@ a:hover { color: var(--accent-hover); }
 </div>
 
 <div id="ScreenshotLightbox" class="lightbox-modal" onclick="handleLightboxClick(event)">
+  <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">&#xE00E;</button>
+
   <div class="lightbox-content">
-    <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">&#xE00E;</button>
     <img id="LightboxImage" src="" alt="Screenshot view">
-    <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">&#xE00F;</button>
   </div>
 
+  <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">&#xE00F;</button>
   <div id="LightboxDots" class="lightbox-dots"></div>
 </div>
 
