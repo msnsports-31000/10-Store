@@ -4329,4 +4329,40 @@ Much more than a simple 'unzip' app, WinZip Universal delivers the same zip tech
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="hulu">
+    <name>Hulu</name>
+    <version>2.3.20.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/hulu_img.png</icon>
+    <publisher>Hulu.</publisher>
+    <featured>false</featured>
+    <description>Experience unlimited instant streaming of current hit TV shows, exclusive original series, all-time favorites, hit movies, and more. Plus, you can choose between our Limited Commercials and No Commercials plans.
+
+With your subscription, you’ll have access to Hulu’s full library of content – wherever, whenever – on your favorite devices including TVs, game consoles, tablets, phones, and PCs.
+
+Subscription required. New to Hulu? Try it FREE.
+
+• Search and play your favorite shows using Cortana voice search both before entering the app and in it.
+
+• Receive Live Tile updates on the hottest shows.
+
+• Resume watching from where you left off on your supported devices.
+
+• Add your favorite videos to your queue for instant access.
+
+• Search for content across episodes, clips, and movies.
+
+• Watch over WiFi, 3G, and 4G.
+
+• Plans starting at $7.99/month. SHOWTIME® available for an additional $8.99/month.</description>
+    <package>https://github.com/msnsports-31000backup/packages/releases/download/APPX/HuluLLC.HuluPlus_2.3.20.0_neutral_._fphbd361v8tya.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/hulu_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/hulu_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/hulu_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/hulu_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/hulu_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/hulu_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
