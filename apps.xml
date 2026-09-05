@@ -658,20 +658,6 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <win81compatible>true</win81compatible>
     <drayYTproject>true</drayYTproject>
   </app>
-  <app id="ank">
-    <name>DankFM</name>
-    <version>0.0.0.1</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dankfm-square-1777236950.png</icon>
-    <publisher>Epic's Projects</publisher>
-    <featured>false</featured>
-    <description>This application is in EARLY ALPHA and is MOSTLY INCOMPLETE.
-    Stream DankFM straight from your Windows 8.1 device and experience... a CD collection LOL</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/DankFM-1777236949.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/image-1777236952.png</screenshot1>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-  </app>
   <app id="a-uide-to-8-tore">
     <name>a Guide to 8Store</name>
     <version>1.0.0.2</version>
