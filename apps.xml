@@ -4370,4 +4370,50 @@ FEATURES:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="saavn-music-radio">
+    <name>Saavn Music &amp; Radio</name>
+    <version>3.2.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_img.png</icon>
+    <publisher>Saavn</publisher>
+    <featured>false</featured>
+    <description>Saavn Pro users, you can now listen like a Pro on Windows too! Just log in with your Pro account, to enjoy your Pro benefits which include:
+
++ Download your Music, Listen Offline, and Save on Data Charges
++ No Ads or Interruptions
++ Premium 320kbps Sound Quality Downloads
++ No Contracts or Obligations
+
+Listen Free - Unlimited, Anywhere, Anytime
+
+Saavn is unlimited, free access to all your Bollywood, English*, Hindi and Indian regional songs, music and radio stations - wherever you go.
+
+Find your favorite Bollywood songs and artists, enjoy playlists by our expert editors, start a custom Radio station, or pick a mood or genre to browse. Saavn delivers the perfect music, every time!
+
+From the newest songs to hard-to-find classics, Saavn's catalog includes millions of tracks across Hindi, English, Tamil, Telugu, Punjabi, Marathi, Bengali, Kannada, Gujarati, Malayalam, Bhojpuri, Urdu, Rajasthani, and Odia. Listen to all the best film, music, bhangra, bhajans, ghazals, pop, remixes, and more.
+
++ Play any song, on demand
++ Enjoy expertly curated playlists in Hindi, English, and Indian regional languages, for every occasion
++ Customize your own Saavn Radio stations, for endless music based on any mood, song, or artist
++ Don't know what you want? Browse our Top Charts, or your favorite Mood or Genre, and let us do the rest!
+
+Love us? Need Help?
+Like us on Facebook: facebook.com/saavn
+Follow us on Twitter: twitter.com/saavn
+General Help &amp; FAQ: help.saavn.com
+Send Feedback: feedback@saavn.com
+
+*English content is currently available in India, Pakistan, Bangladesh, Sri Lanka, and Nepal.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/Saavn.SaavnMusicRadio_3.2.0.0_neutral_~_ax02tpqam95xr.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/saavnmusicradio_scr8.png</screenshot8>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>true</win81compatible>
+  </app>
 </data>
