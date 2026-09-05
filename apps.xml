@@ -4206,4 +4206,28 @@ Multiroom function is not available at the moment.</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="winzip-universal">
+    <name>WinZip Universal</name>
+    <version>1.5.13516.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_img.png</icon>
+    <publisher>1.5.13516.0</publisher>
+    <featured>false</featured>
+    <description>With a free 20-day trial and an annual subscription for just $7.99 USD, get the full power of WinZip on any Windows 10 PC, tablet or phone with WinZip Universal. Along with more power, more sharing options and more ease of use than ever, WinZip Universal has the muscle you need to safely handle large files on the go. Open 26 compressed file formats, including .zip, 7z, RAR, .zipx and many more, and save to .zip or .zipx file formats. Zip files and folders for fast, easy sharing. Connect to your clouds-zip, unzip and share with seamless support for world-leading Dropbox, Google Drive, Box, OneDrive and European CloudMe cloud storage services-without installing other apps. Protect before you share with passwords and military-grade encryption. Squeeze files even more, including JPGs, with the exclusive .zipx compression format. With the strength of the world's #1 Zip utility at your fingertips, and deep integration with your social accounts and cloud drives, WinZip Universal makes it easy to securely share files from anywhere.
+WinZip Universal makes it simple to get oversized files or entire folders to friends, contacts and followers through email, as well as Facebook, LinkedIn and Twitter, thanks to its direct connection to ZipShare file sharing services. Whether you are emailing, sharing online or storing files on your system, WinZip helps keep them safe and makes them easier to share.
+Out to lunch, but your boss wants that report ASAP? With a modern touch-friendly design, WinZip Universal makes sending large files on Windows 10 PCs, tablets, or phones effortless.
+Much more than a simple 'unzip' app, WinZip Universal delivers the same zip technology as the desktop version of WinZip, but as a Windows Universal app that you can use on any Windows 10 device. With over a billion downloads to date, WinZip Universal is the solution you can count on to protect, store and share your important files.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/WinZipComputing.WinZipUniversal_1.5.13516.0_neutral_~_3ykzqggjzj4z0.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/winzipuniversal_scr9.png</screenshot9>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
