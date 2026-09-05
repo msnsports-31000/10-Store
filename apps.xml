@@ -4442,4 +4442,34 @@ RAR files are often used to save space, but can be annoying when your computer c
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="zip-opener">
+    <name>Zip Opener</name>
+    <version>1.3.18.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/zipopener_img.png</icon>
+    <publisher>Tiny Opener</publisher>
+    <featured>false</featured>
+    <description>Opens Zip &amp; Rar Files In Seconds - No Fuss, No Muss Zip Opener (and RAR, TAR, 7Z, etc)
+
+Zip Opener is your simple answer to annoying file problems. How often do you get a file you need that is hidden behind a cryptic label? It's usually ZIP compressed, but there is a myriad of other file compression methods - only nerds can keep track of them all!
+
+Well, that's why we made Zip Opener. It's small and fast, so it doesn't clog up your computer, yet knows how to open all sorts of file archives. And if you need to save space, it will even automatically compress files for you.
+
+So next time you encounter crazy file extensions like ZIP, RAR, TAR, 7Z, GZIP2 and BZ (amongst others) we have you covered with a single app: Zip Opener.
+
+★ It does one thing and does it well, won't take up a lot of system resources.
+★ Small app size saves you drive space so you can keep downloading.
+★ Made for normal people, not nerds: one-tap operation.
+★ Who likes to wait? No one, that's who. Zip Opener is SPEEDY.
+★ No junk, toolbars or spam - made in Canada.
+
+Zip Opener is all you need for your Internet adventures - no matter what the download is, open it quickly and safely with this slick app.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DeviceDoctor.ZipOpener_1.3.18.0_neutral_~_mkdtfchztkfbm.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/zipopener_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/zipopener_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/zipopener_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/zipopener_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
