@@ -4365,4 +4365,21 @@ Subscription required. New to Hulu? Try it FREE.
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="keyboard-shortcuts-for-windows-10">
+    <name>Keyboard Shortcuts for Windows 10</name>
+    <version>1.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/keyboardshortcutsforwindows10_img.png</icon>
+    <publisher>Tim Sievers</publisher>
+    <featured>false</featured>
+    <description>This app is a collection of the most common Windows 10 Keyboard Shortcuts. Designed as a quick reference guide, the shortcuts have been split into the following categories: Classic, Accessibility, Desktop, Mail &amp; File Explorer, Microsoft Edge and Power User shortcuts.
+
+You can browse through this app whenever you need a shortcut or take the time to write down any you think you might use to speed things up.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/32449TimSievers.KeyboardShortcutsforWindows10_1.1.0.0_neutral_~_p6x2q7rtnm6z6.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/keyboardshortcutsforwindows10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/keyboardshortcutsforwindows10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/keyboardshortcutsforwindows10_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
