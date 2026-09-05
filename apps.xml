@@ -4399,4 +4399,21 @@ You can browse through this app whenever you need a shortcut or take the time to
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="10-zip-rar-archiver">
+    <name>10 ZIP RAR Archiver</name>
+    <version>1.1.29.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10ziprararchiver_img.png</icon>
+    <publisher>wdev10u</publisher>
+    <featured>false</featured>
+    <description>Extract or archive file / folder never easier with 10 ZIP RAR Archiver
+- Support extract formats: .ZIP .RAR (with password) .GZIP .TAR
+- Compress file or folder with .ZIP format</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/58349wdev10.10ZIPRARArchiver_1.1.29.0_neutral_~_7s4mfbd82gqxc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10ziprararchiver_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10ziprararchiver_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10ziprararchiver_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
