@@ -4502,4 +4502,37 @@ Download 7Z Opener for free now and handle anything Internet can throw at you.</
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="opener">
+    <name>Opener</name>
+    <version>1.2.28.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/opener_img.png</icon>
+    <publisher>Tiny Opener</publisher>
+    <featured>false</featured>
+    <description>Open Packed Files Without Messing Up Your PC
+
+Use Opener to quickly open all those files ending with ZIP, RAR, TAR and dozens of others. It does the job without getting in your way:
+
+★ Compact: Takes up almost no space on your drive
+★ Efficient: Saves your memory for more important things
+★ FAST: Built for speed, does everything in seconds
+★ Easy, Easy, Easy: One tap gets you there, even for packing
+★ Safe: No crapware included, built by Canadians
+
+Why Opener?
+
+We wanted to build an opener that we would use. Unpack and pack files without bloating our computers. We couldn't find a tool that didn't disappoint so we decided to make our own.
+
+Opener is all about Internet archive files: open them, make them, share them. We support all the popular formats so that you don't need a dozen utilities to do one simple thing.
+
+So unleash your Downloads folder onto Opener - you'll love it.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DeviceDoctor.Opener_1.2.28.0_neutral_~_mkdtfchztkfbm.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/opener_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/opener_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/opener_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/opener_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/opener_scr4.png</screenshot5>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
