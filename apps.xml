@@ -4617,4 +4617,40 @@ Have questions, problems, or feedback? Check out help.vine.co or Tweet to us @vi
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="pandora">
+    <name>Pandora</name>
+    <version>10.0.7.1000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pandora_img.png</icon>
+    <publisher>Pandora Media Inc</publisher>
+    <featured>false</featured>
+    <description>Pandora will change the way you discover and listen to music.
+
+Powered by the Music Genome Project®, the most comprehensive music analysis ever undertaken, Pandora gives you personalized radio that plays what you love and continually evolves with your tastes.
+
+• Create stations from songs, artists, genres, or comedians
+• Browse hundreds of curated genre stations to find the perfect match for your mood or activity
+• Personalize your stations by thumbing tracks up or down.
+• See what’s playing by glancing at your Pandora Live Tile.
+• Use voice commands with Cortana, your personal assistant
+• When you create a Pandora account, your stations are accessible to you on desktop, mobile, TVs and home devices, or in your car.
+
+
+Exclusive features for Xbox One:
+
+• Set your own soundtrack with uninterrupted personalized background music on the Xbox while you game
+• Easily pause and resume your music or skip to the next song via the guide
+• Adjust the volume between your game and Pandora music for the perfect balance
+
+Pandora is currently available in US, Australia and New Zealand only.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/PandoraMediaInc.29680B314EFC2_10.0.7.1000_neutral_~_n619g4d5j0fnw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pandora_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pandora_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pandora_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pandora_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pandora_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pandora_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
