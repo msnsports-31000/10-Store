@@ -97,13 +97,13 @@ function renderDescriptionText() {
   const descContainer = document.getElementById("DetailDesc");
   const toggleBtn = document.getElementById("DetailDescToggleBtn");
 
-  if (fullDescriptionText.length > 321) {
+  if (fullDescriptionText.length > 333) {
     toggleBtn.style.display = "inline-block";
     if (isDescExpanded) {
       descContainer.textContent = fullDescriptionText;
       toggleBtn.textContent = "Less";
     } else {
-      descContainer.textContent = fullDescriptionText.slice(0, 321) + "...";
+      descContainer.textContent = fullDescriptionText.slice(0, 333) + "...";
       toggleBtn.textContent = "More";
     }
   } else {
