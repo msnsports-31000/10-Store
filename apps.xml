@@ -4536,4 +4536,33 @@ So unleash your Downloads folder onto Opener - you'll love it.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="wifi-analyzer">
+    <name>WiFi Analyzer</name>
+    <version>2.8.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/wifianaylzer_img.png</icon>
+    <publisher>Matt Hafner</publisher>
+    <featured>false</featured>
+    <description>WiFi Analyzer can help you to identify Wi-Fi problems, find the best channel or the best place for your router/access-point by turning your PC/laptop, tablet or mobile device into an analyzer for your wireless network.
+
+The basic version is completely ad-free and additional features can be bought via an in-app purchase.
+
+PRO-Features
+• Beeper for signal strength
+• Connect to networks
+• Use filters
+• Prevent screen timeout
+• Lock screen rotation
+• Change signal strength borders</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/19965MATTHAFNER.WIFIANALYZER_2.8.3.0_neutral_~_gs5k5vmxr2ste.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/wifianaylzer_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/wifianaylzer_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/wifianaylzer_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/wifianaylzer_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/wifianaylzer_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/wifianaylzer_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/wifianaylzer_scr6.png</screenshot7>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
