@@ -5026,4 +5026,40 @@ English , Arabic , العربية , Chinese (Simplified, China) , 中文(中华�
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="mail-and-calendar">
+    <name>Mail and Calendar</name>
+    <version>2015.6568.46361</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>The Mail and Calendar apps help you stay up to date on your email, manage your schedule and stay in touch with people you care about the most. Designed for both work and home, these apps help you communicate quickly and focus on what’s important across all your accounts. Supports Office 365, Exchange, Outlook.com, Gmail, Yahoo! and other popular accounts.</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/microsoft.windowscommunicationsapps_2015.6568.46361.1000_neutral_._8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="mail-and-calendar-1511">
+    <name>Mail and Calendar (1511)</name>
+    <version>2015.8008.42001.1000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>The Mail and Calendar apps help you stay up to date on your email, manage your schedule and stay in touch with people you care about the most. Designed for both work and home, these apps help you communicate quickly and focus on what’s important across all your accounts. Supports Office 365, Exchange, Outlook.com, Gmail, Yahoo! and other popular accounts.</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/microsoft.windowscommunicationsapps_2015.8008.42001.1000_neutral_._8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
