@@ -5092,4 +5092,106 @@ Game Features
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="save-battery">
+    <name>Save Battery</name>
+    <version>2.0.22.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_img.png</icon>
+    <publisher>KANJI KERALIYA</publisher>
+    <featured>false</featured>
+    <description>Monitor your battery with Save Battery. Generate accurate analysis, analytics and reports.
+Perfect way to see battery status and remaining charge time on your main screen! 
+Protect your battery from overcharging with Save Battery application.
+This application notifies you when battery is fully charged. You can also select battery level and many customization.
+You will never forget the Phone/Tablet/Surface/Laptop on charge for a long period. This will extend the life of your battery.
+
+★★★★★ Features ★★★★★
+* Customizable battery alerts for low and full battery
+* Option to set battery threshold levels for alerts
+* Battery usage statistics and analysis
+* Dark mode for energy-saving
+*  Full charge alarm, low battery notifications, charge/discharge notifications, live tiles
+* Display battery details
+* Battery percentage
+* Remaining battery balance time
+* Charging history (List and Chart)
+* Export charging history
+* Easy to use user interface
+* Status message about application
+* Full battery notifications with sound
+* Four types of live tiles
+* Display battery status on live tiles
+* Display battery percentage on lock screen (Badge)
+* Different types of notifications (when the battery is fully charged, when the battery is low)
+* Battery Live Tile showing the battery percentage on Start Screen
+* Choose notification tones for and alerts.
+* Multiple language support
+* App extension add-on's for more features.
+
+Save battery and prolong your battery life using the analytics and recommendations.
+
+Why Save Battery when having many in the store?
+★ This application has been specifically designed to work with laptops and tablets in the most optimized way.
+★ No app in the store can provide details like Save Battery does.
+★ See accurate battery data, its analysis and analytics.
+★ Try it, I am sure you'll love it.
+
+
+
+Enjoy all the functionalities of the app with ★★★★★ABSOLUTELY NO ADS★★★★★.
+
+Try Save Battery today and experience the difference. I am sure you will definitely like it.
+
+I thank every user for their feedback and suggestions which helped me in making this app awesome.
+
+★★★★★TOP RATED - MOST DOWNLOADED★★★★★
+- Most downloaded battery app on Microsoft Surface Book Pro and Dell Inspiron series of notebooks/laptops.
+- Recently optimized to work seamlessly with MSI, ASUS, HP and Lenovo laptops and convertibles.
+
+We love to hear your suggestions!!  
+Without your ideas, we can't shape this app into what YOU need.  
+Please email us at: totalyinfo@gmail.com
+
+
+**Before leaving negative feedback, please contact us to see if we can help you with your concerns. Emails are typically responded within 24 hours.
+
+Note: 
+- Tile refreshes every 15 minutes (This is Windows limitation)
+
+------------
+NOTICE: 
+-&gt;If you use any task killer app, please add this app to ignore list or white list. Otherwise, application will not work properly.
+-&gt;Please allow this application to run in Background and Battery Saver Mode (Please follow link for tutorial : http://goo.gl/0gZUPU)
+For Background run : Settings -&gt; Privacy -&gt; Background app -&gt; find "Battery" and set Switch "On"
+For Battery Saver Mode : Settings -&gt; Battery -&gt; Battery usage by app -&gt; find "save Battery" and click on it.Select "Always allowed in background"
+
+
+
+Tags:
+save battery from overcharge
+best battery saver apps for windows
+top battery apps for windows desktop
+battery apps for windows 10
+battery monitor apps for windows
+battery apps for windows
+battery stats for windows 10 desktop
+battery utilities app for windows pc
+battery analysis and analytics for windows pc
+Battery full notification
+Low battery warning
+Battery alert
+Battery level</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files22/56230KANJIKERALIYA.SaveBattery_2.0.22.0_neutral_~_agnmeezn134m0.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr9.png</screenshot9>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>  
 </data>
