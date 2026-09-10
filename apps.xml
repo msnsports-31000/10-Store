@@ -5193,5 +5193,22 @@ Battery level</description>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
-  </app>  
+  </app>
+    <app id="battery-x">
+    <name>Battery X</name>
+    <version>4.1.103.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_img.png</icon>
+    <publisher>Xtreme Dark</publisher>
+    <featured>false</featured>
+    <description>Battery X is a beautifully designed app to know your battery status, remaining charge and statistics.
+It notifies you when battery is low or fully charged,
+you can also set your custom alert.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/35983XtremeDark.BatteryX_4.1.103.0_neutral_~_29tzk6kyna1z4.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr4.png</screenshot4>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
