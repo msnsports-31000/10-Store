@@ -5065,7 +5065,7 @@ English , Arabic , العربية , Chinese (Simplified, China) , 中文(中华�
     <app id="geometry-jump-impossible-dash">
     <name>Geometry Jump - Impossible Dash</name>
     <version>1.1.4.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_img.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/geometryjump_img.png</icon>
     <publisher>Baby Step Studio</publisher>
     <featured>false</featured>
     <description>Completely Free alternative Game to Geometry Dash and The Impossible Game .
@@ -5084,10 +5084,10 @@ Game Features
 • Clean and colorful graphics.
 • Phone and Tablet support.</description>
     <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/9741BabyStepStudio.GeometryJump-ImpossibleDash_1.1.4.0_neutral_._pd4zc2nfw6kwj.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr1.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr2.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr3.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr4.png</screenshot4>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/geometryjump_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/geometryjump_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/geometryjump_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/geometryjump_scr4.png</screenshot4>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
