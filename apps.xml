@@ -5062,4 +5062,34 @@ English , Arabic , العربية , Chinese (Simplified, China) , 中文(中华�
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="geometry-jump-impossible-dash">
+    <name>Geometry Jump - Impossible Dash</name>
+    <version>1.1.4.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_img.png</icon>
+    <publisher>Baby Step Studio</publisher>
+    <featured>false</featured>
+    <description>Completely Free alternative Game to Geometry Dash and The Impossible Game .
+Fly and flip your way in the fun and challenging spike obstacles. Easy to play but hard to master; flex your fingers and try!
+It is given us a mission to venture together with geometry rabbit blocks around the world. 
+Walk through the clutter of geometry, challenge your limits!
+The goal here is to keep Square safe and under control while avoiding all dangerous passages and spiky obstacles including falling spikes, swinging bomb... And of course enjoy the venture of life.
+Surf &amp; Jump your way through story of jumping meltdown! Simply avoid all the spikes and triangles. Square only has one goal: to venture all the world! This dash game is a rhythm based game.
+
+Are you ready to dash through an adventure path with square. 
+The more you go the more saga the game becomes.
+
+Game Features
+• Rhythm-based Levels with amazing soundtracks! 
+• Varied your characters opened, no need unlock!
+• Clean and colorful graphics.
+• Phone and Tablet support.</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/9741BabyStepStudio.GeometryJump-ImpossibleDash_1.1.4.0_neutral_._pd4zc2nfw6kwj.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mailandcalendar_scr4.png</screenshot4>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
