@@ -5211,4 +5211,16 @@ you can also set your custom alert.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="algebra-calc">
+    <name>Algebra Calc</name>
+    <version>1.1.20.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/algebracalc_img.png</icon>
+    <publisher>Avishai Dernis</publisher>
+    <featured>false</featured>
+    <description>A calculator that will simplify expressions and equations down as much as it can. It also has converters that can convert from unit per unit of time to unit per unit of time.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/38062AvishaiDernis.CalculatorOfAlgebra_1.1.20.0_neutral_~_q72k3wbnqqnj6.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/algebracalc_scr1.png</screenshot1>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
