@@ -134,7 +134,7 @@ DrayWaves is just for you! And it Works on Windows 10 Mobile too!
 - Add Reverb/Echo Easily!
 - Play Around with the EQ to get that lovely brassy crisp sound to your liking!
 - Lots more to be added soon, Stay tuned!</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DrayWaves_1.0.0.0_AnyCPU.appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/DrayWaves_1.1.0.0_AnyCPU.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr3.png</screenshot3>
@@ -142,6 +142,7 @@ DrayWaves is just for you! And it Works on Windows 10 Mobile too!
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr5.png</screenshot5>
     <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr6.png</screenshot6>
     <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr8.png</screenshot8>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
