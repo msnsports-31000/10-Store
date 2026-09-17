@@ -5,7 +5,7 @@ let isDescExpanded = false;
 let currentScreenshots = [];
 let currentScreenshotIndex = 0;
 
-// Prevent context menu (right-click) on images globally
+
 document.addEventListener("contextmenu", (e) => {
   if (e.target.tagName === "IMG" || e.target.closest("img")) {
     e.preventDefault();
