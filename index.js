@@ -5,6 +5,13 @@ let isDescExpanded = false;
 let currentScreenshots = [];
 let currentScreenshotIndex = 0;
 
+// Prevent context menu (right-click) on images globally
+document.addEventListener("contextmenu", (e) => {
+  if (e.target.tagName === "IMG" || e.target.closest("img")) {
+    e.preventDefault();
+  }
+});
+
 function toggleTheme() {
   const body = document.body;
   const btn = document.getElementById("ThemeToggle");
@@ -170,20 +177,22 @@ function openDetailsById(appId, updateHistory) {
     visibleScreenshots.forEach((shotUrl, index) => {
       const wrapper = document.createElement("div");
       wrapper.className = "screenshot-item-wrapper";
+      wrapper.onclick = () => openLightbox(index);
 
       const img = document.createElement("img");
       img.className = "screenshot-thumb";
       img.src = shotUrl;
       img.alt = "App Screenshot";
-      // Always opens screenshot index 0 regardless of which thumbnail is clicked
-      img.onclick = () => openLightbox(0);
       wrapper.appendChild(img);
 
       if (index === 3 && currentScreenshots.length > 4) {
         const overlay = document.createElement("div");
         overlay.className = "screenshot-overlay-btn";
         overlay.innerHTML = `Show all <span class="chevron">&#xE00F;</span>`;
-        overlay.onclick = () => openLightbox(0);
+        overlay.onclick = (e) => {
+          e.stopPropagation();
+          openLightbox(3);
+        };
         wrapper.appendChild(overlay);
       }
 
@@ -213,8 +222,8 @@ function closeLightbox() {
 }
 
 function handleLightboxClick(event) {
-  const isImage = event.target.closest('#LightboxImage');
-  if (!isImage) {
+  const isContent = event.target.closest('.lightbox-content');
+  if (!isContent) {
     closeLightbox();
   }
 }
