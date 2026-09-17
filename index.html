@@ -291,6 +291,16 @@ a:hover { color: var(--accent-hover); }
   object-fit: cover; 
 }
 
+/* Prevent image context menus and dragging */
+.app-tile .icon-container img,
+.detail-icon img,
+.screenshot-thumb,
+.lightbox-content img {
+  pointer-events: none;
+  -webkit-user-drag: none;
+  user-select: none;
+}
+
 .app-tile .info {
   display: flex;
   flex-direction: column;
@@ -440,6 +450,7 @@ a:hover { color: var(--accent-hover); }
   aspect-ratio: 16 / 9;
   margin-right: 15px;
   margin-bottom: 15px;
+  cursor: pointer;
 }
 
 .screenshot-item-wrapper:nth-child(2n) {
@@ -452,7 +463,6 @@ a:hover { color: var(--accent-hover); }
   border-radius: 2px;
   border: 1px solid #3d3d3d;
   object-fit: cover;
-  cursor: pointer;
   transition: transform 0.2s, border-color 0.2s;
 }
 
@@ -461,7 +471,7 @@ a:hover { color: var(--accent-hover); }
   margin-right: 0;
 }
 
-.screenshot-thumb:hover {
+.screenshot-item-wrapper:hover .screenshot-thumb {
   transform: scale(1.02);
   border-color: var(--accent);
 }
