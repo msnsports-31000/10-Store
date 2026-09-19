@@ -5307,4 +5307,25 @@ Battery level</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="speedtest-by-ookla">
+    <name>Speedtest by Ookla</name>
+    <version>1.27.200.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/speedtestbyookla_img.png</icon>
+    <publisher>Ookla</publisher>
+    <featured>false</featured>
+    <description>Use Speedtest for easy, one-click connection testing in under 30 seconds—accurate everywhere thanks to our global network.
+
+Millions of people each day use the Speedtest website and mobile apps to test their internet speed. Now, the most accurate and convenient way to test your speed lives on your Windows desktop.
+
+- Get your ping, download, and upload speeds within seconds
+- Real-time graphs show connection consistency
+- Troubleshoot or verify the speed you were promised
+- Track prior tests with detailed reporting
+- Easily share your results</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/https://github.com/msnsports-31000backup/store2/releases/download/sup/Ookla.SpeedtestbyOokla_1.27.200.0_neutral_._43tkc6nmykmb6.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/speedtestbyookla_scr1.png</screenshot1>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
