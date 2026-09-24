@@ -5328,4 +5328,23 @@ Millions of people each day use the Speedtest website and mobile apps to test th
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="all-my-lan">
+    <name>All My LAN</name>
+    <version>1.1.7.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_img.png</icon>
+    <publisher>Thoroughsoft</publisher>
+    <featured>false</featured>
+    <description>View network information including current connection, mDNS (bonjour, zeroconfig) info and PNP info.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/13258Thoroughsoft.AllMyLAN_1.1.7.0_neutral_~_set6qczgvnq5g.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr7.png</screenshot7>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
