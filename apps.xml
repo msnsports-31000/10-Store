@@ -5347,4 +5347,30 @@ Millions of people each day use the Speedtest website and mobile apps to test th
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="nice-guidance-for-windows-10">
+    <name>NICE Guidance for Windows 10</name>
+    <version>1.1.21.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_img.png</icon>
+    <publisher>Cloud2 Ltd</publisher>
+    <featured>false</featured>
+    <description>NICE Guidance for Windows 10 is a free app designed to run across or Windows 10 based devices including desktop computers, tablets and smartphones running the Windows 10 operating system.
+
+It uses the official NICE guidelines, widely considered as the definitive source worldwide. Guidance is arranged topically by conditions and diseases, and public health topics, with sub-categories and detailed content.
+
+The NICE Guidance for Windows 10 app allows you to:
+- Browse over 760 items (7000+ chapters) of NICE Guidance, using mouse or touch screen devices.
+- Rapidly search all NICE Guidance on your smartphone or other Windows 10 device  
+- Access all the Guidance even when you are not connected to the internet  
+- Automatically receive updates and new guidance as soon as it's published on the NICE website.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/Cloud2Ltd.14012A35891F5_1.1.21.0_neutral_~_vccvke631zb72.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr6.png</screenshot6>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
