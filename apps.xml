@@ -40,6 +40,56 @@
     <category title="Windows Phone Apps" type="picks">
       <appIds>inecraft,lumia-camera</appIds>
     </category>
+<category title="Personal finance">
+    </category>
+<category title="Productivity">
+    </category>
+<category title="Kids &amp; family">
+    </category>
+<category title="Health &amp; fitness">
+    </category>
+<category title="Medical">
+    </category>
+<category title="Social">
+    </category>
+<category title="Navigation &amp; maps">
+    </category>
+<category title="Utilities &amp; tools">
+    </category>
+<category title="Personalization">
+    </category>
+<category title="Education">
+    </category>
+<category title="Books &amp; reference">
+    </category>
+<category title="Entertainment">
+    </category>
+<category title="Developer tools">
+    </category>
+<category title="Lifestyle">
+    </category>
+<category title="Business">
+    </category>
+<category title="News &amp; weather">
+    </category>
+<category title="Travel">
+    </category>
+<category title="Security">
+    </category>
+<category title="Shopping">
+    </category>
+<category title="Photo &amp; video">
+    </category>
+<category title="Multimedia design">
+    </category>
+<category title="Government &amp; politics">
+    </category>
+<category title="Food &amp; dining">
+    </category>
+<category title="Sports">
+    </category>
+<category title="Music">
+    </category>
   </categories>
   <apps/>
     <app id="msn-money">
