@@ -204,17 +204,6 @@ DrayWaves is just for you! And it Works on Windows 10 Mobile too!
     <win81compatible>false</win81compatible>
     <drayYTproject>true</drayYTproject>
   </app>
-  <app id="lumia-camera">
-    <name>Lumia Camera</name>
-    <version>5.0.2.54</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704804_StoreLogo.scale-240.png</icon>
-    <publisher>Microsoft Corporation</publisher>
-    <featured>true</featured>
-    <description/>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/1773704804_Lumia-Camera-5.0.2.54.appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
-  </app>
   <app id="smiling-bag-clicker-for-windows-8-1">
     <name>Smiling Bag Clicker for Windows 8.1</name>
     <version>1.0.0.0</version>
@@ -745,18 +734,6 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/transportempire_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/transportempire_scr4.png</screenshot4>
     <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>false</win81compatible>
-  </app>
-  <app id="aint3">
-    <name>Paint3D</name>
-    <version>2.1703.21017.1000</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/hqdefault-1777987721.jpg</icon>
-    <publisher>Microsoft</publisher>
-    <featured>false</featured>
-    <description/>
-    <package>https://github.com/thedoggybrad/Paint3DArchive/releases/download/b1/2.1703.21017.1000.AppxBundle</package>
-    <pcCapable>false</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
