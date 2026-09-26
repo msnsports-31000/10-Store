@@ -103,6 +103,7 @@
 MSN Money: Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Money/Microsoft.BingFinance_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnmoney_scr1.png</screenshot1>
+    <category>Personal finance</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -116,6 +117,7 @@ MSN Money: Finance simplified. Know more about your money with the world’s bes
     <description>MSN News -- See the top stories of the day and breaking news from the world’s best sources, curated by our editors. Or, just choose the interest you want. Patched with NewRetiled, credit to migbrunluz</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/News/Microsoft.BingNews_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnnews_scr1.png</screenshot1>
+    <category>News &amp; weather</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -131,6 +133,7 @@ MSN Money: Finance simplified. Know more about your money with the world’s bes
 Customize to add favorite leagues and teams. Follow schedules, results, standings and game analysis. Read the latest news, enjoy galleries and watch video highlights from across the best sporting news sources for your favorites. Patched with NewRetiled, credit to migbrunluz</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/Microsoft.BingSports_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnsports_scr1.png</screenshot1>
+    <category>Sports</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
@@ -146,6 +149,7 @@ Customize to add favorite leagues and teams. Follow schedules, results, standing
 Get the latest weather conditions, whether you're hitting the slopes, or the beach, or checking the forecast for your commute. See accurate 10-day and hourly forecasts for whatever you do.</description>
     <package>https://dl.retiled.xyz/newRetiled%20-%20UWP/1511/Weather/Microsoft.BingWeather_4.6.169.0_x86__8wekyb3d8bbwe.appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/msnweather_scr1.png</screenshot1>
+    <category>News &amp; weather</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -163,6 +167,7 @@ Get the latest weather conditions, whether you're hitting the slopes, or the bea
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic3.PNG</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic4.PNG</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draymusic5.PNG</screenshot5>
+    <category>Music</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -193,6 +198,7 @@ DrayWaves is just for you! And it Works on Windows 10 Mobile too!
     <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr6.png</screenshot6>
     <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr7.png</screenshot7>
     <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_scr8.png</screenshot8>
+    <category>Utilities &amp; tools</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -330,6 +336,7 @@ French language</description>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/metrocommander_scr3-1775490625.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/metrocommander_scr4-1775490626.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/metrocommander_scr5-1775490627.png</screenshot5>
+    <category>Utilities &amp; tools</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
@@ -388,6 +395,7 @@ Technical specifications:
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/8zip5.png</screenshot5>
     <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/8zip6.png</screenshot6>
     <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/8zip7.png</screenshot7>
+    <category>Utilities &amp; tools</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
   </app>
@@ -416,6 +424,7 @@ Technical specifications:
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pianotimepro_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pianotimepro_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pianotimepro_scr4.png</screenshot4>
+    <category>Music</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
