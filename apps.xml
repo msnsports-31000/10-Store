@@ -5443,6 +5443,41 @@ The NICE Guidance for Windows 10 app allows you to:
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/4shared_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/4shared_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/4shared_scr3.png</screenshot3>
+    <category>Entertainment</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="video-to-mp3-converter-pro">
+    <name>Video To MP3 Converter Pro</name>
+    <version>1.1.14.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_img.png</icon>
+    <publisher>Kinderjoy</publisher>
+    <featured>false</featured>
+    <description>This App allow you convert video to mp3 or merge your video or Trim.
+
+Supported format: mp4 formats.
+
+You can convert music videos or videos to mp3 with two or three clicks.
+
+you can merge multiple video and save that video as mp3 (audio) or mp4(Video) file
+
+Trimming is also available in this app
+
+Advanced settings supported:
+
+Set target directory to save your converted video to mp3.
+Easy to use, click on select button than your file, just last click on convert and your video to mp3 convert started.</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/23140Kinderjoy.VideoToMP3ConverterPro_1.1.14.0_neutral_._4k9s1t26vykqt.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr8.png</screenshot8>
+    <category>Photo &amp; video</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
