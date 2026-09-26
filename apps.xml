@@ -5423,4 +5423,19 @@ The NICE Guidance for Windows 10 app allows you to:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="4shared">
+    <name>4shared</name>
+    <version>2.0.6.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/4shared_img.png</icon>
+    <publisher>New IT Limited</publisher>
+    <featured>false</featured>
+    <description>4shared is like a large virtual folder for your data. You can access your files anytime you need, being sure that they are always kept safe in your 4shared account. In addition, 4shared enables you to share links to your content with others.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/NewITLimited.33318A2C70D0_2.0.6.0_neutral_~_591kfmr03xh7g.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/4shared_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/4shared_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/4shared_scr3.png</screenshot3>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
