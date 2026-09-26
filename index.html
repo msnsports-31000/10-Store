@@ -192,6 +192,10 @@ a:hover { color: var(--accent-hover); }
   white-space: nowrap;
 }
 
+#HorizontalContainer::-webkit-scrollbar {
+  display: none;
+}
+
 #HorizontalWrapper {
   display: inline-flex;
   height: 100%;
@@ -291,7 +295,6 @@ a:hover { color: var(--accent-hover); }
   object-fit: cover; 
 }
 
-/* idk what is this i randomly added it and i have no idea what it does */
 .app-tile .icon-container img,
 .detail-icon img,
 .screenshot-thumb,
@@ -342,16 +345,22 @@ a:hover { color: var(--accent-hover); }
 #AppDetailModal {
   position: fixed;
   top: 0; left: 0;
-  width: 100vw; height: 100vh;
+  width: 100vw; 
+  height: 100%;
+  min-height: 100vh;
   z-index: 1000;
   display: none;
   overflow-y: auto;
+  overflow-x: hidden;
   background: var(--bg-color);
+  /* Removed custom webkit scrollbar overrides so native classic scrollbars with arrows return */
 }
 
 .modal-blur-bg {
-  position: fixed;
-  top: 0; left: 0; width: 100%; height: 100%;
+  position: absolute;
+  top: 0; left: 0; 
+  width: 100%; 
+  height: 600px;
   background-size: cover;
   background-position: center;
   filter: blur(90px) opacity(0.35);
@@ -365,20 +374,6 @@ a:hover { color: var(--accent-hover); }
   z-index: 1;
   padding: 40px;
 }
-
-.text-back-btn {
-  padding: 8px 22px;
-  background: transparent;
-  border: 1px solid var(--text-main);
-  color: var(--text-main);
-  font-size: 15px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  cursor: pointer;
-  transition: background 0.2s, color 0.2s, transform 0.1s;
-}
-
-.text-back-btn:hover { background: var(--text-main); color: var(--bg-color); }
 
 .detail-layout { display: flex; flex-direction: column; }
 
@@ -470,7 +465,6 @@ a:hover { color: var(--accent-hover); }
   margin-right: 0;
 }
 
-
 .screenshot-overlay-btn {
   position: absolute;
   top: 0; left: 0; width: 100%; height: 100%;
@@ -491,10 +485,6 @@ a:hover { color: var(--accent-hover); }
   font-family: "Segoe MDL2 Assets", "Segoe Fluent Icons", "Segoe UI Symbol", sans-serif;
   font-size: 14px;
   margin-left: 6px;
-}
-
-.screenshot-overlay-btn:hover {
-  background: transparent;
 }
 
 .no-screenshots { font-size: 14px; color: var(--text-muted); font-style: italic; }
@@ -521,6 +511,19 @@ a:hover { color: var(--accent-hover); }
 .desc-toggle-btn:hover {
   text-decoration: underline;
   color: var(--accent-hover);
+}
+
+.people-also-like-section {
+  margin-top: 40px;
+  overflow: hidden;
+}
+
+.people-also-like-grid {
+  display: flex;
+  gap: 20px;
+  overflow-x: hidden;
+  padding-bottom: 10px;
+  flex-wrap: wrap;
 }
 
 .lightbox-modal {
@@ -667,6 +670,11 @@ a:hover { color: var(--accent-hover); }
           <div id="DetailDesc" class="detail-desc">No description available.</div>
           <button id="DetailDescToggleBtn" class="desc-toggle-btn" style="display: none;">More</button>
         </div>
+      </div>
+
+      <div class="people-also-like-section">
+        <div class="section-heading">People also like</div>
+        <div id="PeopleAlsoLikeContainer" class="people-also-like-grid"></div>
       </div>
     </div>
   </div>
