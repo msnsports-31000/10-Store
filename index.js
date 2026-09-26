@@ -5,7 +5,6 @@ let isDescExpanded = false;
 let currentScreenshots = [];
 let currentScreenshotIndex = 0;
 
-
 document.addEventListener("contextmenu", (e) => {
   if (e.target.tagName === "IMG" || e.target.closest("img")) {
     e.preventDefault();
@@ -202,12 +201,53 @@ function openDetailsById(appId, updateHistory) {
     shotsContainer.innerHTML = `<span class="no-screenshots">No screenshots available for this app.</span>`;
   }
 
+  renderPeopleAlsoLike(app.id);
+
   const downloadBtn = document.getElementById("DetailDownloadBtn");
   downloadBtn.href = app.package || "#";
   downloadBtn.target = "_self";
   downloadBtn.setAttribute("download", "");
 
   document.getElementById("AppDetailModal").style.display = "block";
+}
+
+function renderPeopleAlsoLike(currentAppId) {
+  const container = document.getElementById("PeopleAlsoLikeContainer");
+  if (!container) return;
+  container.innerHTML = "";
+
+  const availableApps = allApps.filter(a => String(a.id) !== String(currentAppId));
+  const shuffled = [...availableApps].sort(() => 0.5 - Math.random());
+  const randomSelection = shuffled.slice(0, 10);
+
+  if (randomSelection.length === 0) {
+    container.innerHTML = "<div class='no-screenshots'>No recommendations available.</div>";
+    return;
+  }
+
+  randomSelection.forEach(app => {
+    const tile = document.createElement("div");
+    tile.className = "app-tile";
+    tile.onclick = () => openDetailsById(app.id, true);
+
+    const initialLetter = escapeHtml((app.name || "?").charAt(0).toUpperCase());
+
+    tile.innerHTML = `
+      <div class="icon-container">
+        ${app.icon 
+          ? `<img src="${app.icon}" alt="Icon" onerror="this.onerror=null; this.parentNode.innerHTML='${initialLetter}';">` 
+          : initialLetter
+        }
+      </div>
+      <div class="info">
+        <div class="name">${escapeHtml(app.name || "Unknown")}</div>
+        <div class="publisher">${escapeHtml(app.publisher || "Unknown")}</div>
+        <div class="price">Free</div>
+      </div>
+    `;
+
+    container.appendChild(tile);
+  });
 }
 
 function openLightbox(index) {
