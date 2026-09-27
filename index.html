@@ -243,19 +243,21 @@ a:hover { color: var(--accent-hover); }
 }
 
 .app-tile {
-  width: 160px;
-  height: 230px;
-  background: var(--tile-bg);
-  padding: 10px;
+  width: 140px;
+  height: 210px;
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
   cursor: pointer;
   display: flex;
   flex-direction: column;
   white-space: normal;
-  box-shadow: var(--tile-shadow);
 }
 
 .app-tile:active { 
-  transform: scale(0.97); 
+  transform: none; 
 }
 
 .app-tile .icon-container {
@@ -269,7 +271,7 @@ a:hover { color: var(--accent-hover); }
   justify-content: center;
   font-size: 42px;
   overflow: hidden;
-  border-radius: 2px;
+  border-radius: 0;
   margin-bottom: 8px;
 }
 
@@ -293,6 +295,7 @@ a:hover { color: var(--accent-hover); }
   width: 100%; 
   height: 100%; 
   object-fit: cover; 
+  border-radius: 0;
 }
 
 .app-tile .icon-container img,
@@ -321,6 +324,7 @@ a:hover { color: var(--accent-hover); }
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  text-overflow: ellipsis;
   margin-bottom: 2px;
 }
 
@@ -353,7 +357,6 @@ a:hover { color: var(--accent-hover); }
   overflow-y: auto;
   overflow-x: hidden;
   background: var(--bg-color);
-  /* Removed custom webkit scrollbar overrides so native classic scrollbars with arrows return */
 }
 
 .modal-blur-bg {
@@ -505,7 +508,7 @@ a:hover { color: var(--accent-hover); }
   font-family: inherit;
   padding: 0;
   margin-top: 8px;
-  display: inline-block;
+  display: inline-icon;
 }
 
 .desc-toggle-btn:hover {
@@ -520,12 +523,21 @@ a:hover { color: var(--accent-hover); }
 
 .people-also-like-grid {
   display: flex;
-  gap: 20px;
+  flex-wrap: nowrap;
   overflow-x: hidden;
   padding-bottom: 10px;
-  flex-wrap: wrap;
 }
 
+.people-also-like-grid .app-tile {
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+
+.people-also-like-grid .app-tile:last-child {
+  margin-right: 0;
+}
+
+/* --- LIGHTBOX CODE (UNTOUCHED) --- */
 .lightbox-modal {
   position: fixed;
   top: 0; left: 0;
