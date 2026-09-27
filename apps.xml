@@ -5145,6 +5145,7 @@ you can also set your custom alert.</description>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr4.png</screenshot4>
+    <category>Productivity</category>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5157,6 +5158,7 @@ you can also set your custom alert.</description>
     <description>A calculator that will simplify expressions and equations down as much as it can. It also has converters that can convert from unit per unit of time to unit per unit of time.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/38062AvishaiDernis.CalculatorOfAlgebra_1.1.20.0_neutral_~_q72k3wbnqqnj6.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/algebracalc_scr1.png</screenshot1>
+    <category>Productivity</category>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5176,6 +5178,7 @@ PDF Viewer Plus is a simple UWP PDF reader. Easily open and view a PDF file from
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr5.png</screenshot5>
+    <category>Utilities &amp; tools</category>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5208,6 +5211,7 @@ If you like the app then please review and share it with your friends. You can a
     <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/short.y_scr6.png</screenshot6>
     <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/short.y_scr7.png</screenshot7>
     <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/short.y_scr8.png</screenshot8>
+    <category>Productivity</category>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5220,6 +5224,7 @@ If you like the app then please review and share it with your friends. You can a
     <description>Windows 10 Cheat Keys has keys and tips that make getting around in Windows 10 easier. Find shortcuts for the familiar features as well as many, many new and handy ones.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/31710Digitalmason.net.Windows10CheatKeys_1.4.1.0_neutral_~_qxs9v8xwp3xem.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/windows10cheatkeys_scr1.png</screenshot1>
+    <category>Productivity</category>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5321,6 +5326,7 @@ Battery level</description>
     <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr7.png</screenshot7>
     <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr8.png</screenshot8>
     <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/savebattery_scr9.png</screenshot9>
+    <category>Utilities &amp; tools</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -5339,6 +5345,7 @@ Battery level</description>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/microsoftphotos_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/microsoftphotos_scr5.png</screenshot5>
     <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/microsoftphotos_scr6.png</screenshot6>
+    <category>Photo &amp; video</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -5360,6 +5367,7 @@ Millions of people each day use the Speedtest website and mobile apps to test th
 - Easily share your results</description>
     <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/https://github.com/msnsports-31000backup/store2/releases/download/sup/Ookla.SpeedtestbyOokla_1.27.200.0_neutral_._43tkc6nmykmb6.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/speedtestbyookla_scr1.png</screenshot1>
+    <category>Utilities &amp; tools</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -5379,6 +5387,7 @@ Millions of people each day use the Speedtest website and mobile apps to test th
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr5.png</screenshot5>
     <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr6.png</screenshot6>
     <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/allmylan_scr7.png</screenshot7>
+    <category>Utilities &amp; tools</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
@@ -5405,6 +5414,7 @@ The NICE Guidance for Windows 10 app allows you to:
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr5.png</screenshot5>
     <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/niceguidanceforwindows10_scr6.png</screenshot6>
+    <category>Health &amp; fitness</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
