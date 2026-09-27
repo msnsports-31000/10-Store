@@ -5492,4 +5492,31 @@ Personalize your inbox with vibrant themes from Flickr and beautify your email w
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="office-lens">
+    <name>Office Lens</name>
+    <version>16.0.32001.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/officelens_img.png</icon>
+    <publisher>Microsoft Corporation</publisher>
+    <featured>false</featured>
+    <description>Office Lens trims, enhances, and makes pictures of whiteboards and docs readable. You can use Office Lens to convert images to PDF, Word and PowerPoint files, and you can even save images to OneNote or OneDrive.
+
+Office Lens is like having a scanner in your pocket. Like magic, it will digitize notes from whiteboards or blackboards. Always find important documents or business cards. Sketch your ideas and snap a picture for later. Don't lose receipts or stray sticky notes again!
+
+By installing the app, you agree to these terms and conditions: http://aka.ms/olenswindowsterms.
+
+Scenarios:
+- Capture and crop a picture of a whiteboard or blackboard and share your meeting notes with co-workers.
+- Make digital copies of your printed documents, business cards, or posters and trim them precisely.
+- Printed and handwritten text will be automatically recognized (using OCR), so you can search for words in images and then copy and edit them.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/Microsoft.OfficeLens_16.0.32001.0_neutral_~_8wekyb3d8bbwe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/officelens_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/officelens_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/officelens_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/officelens_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/officelens_scr5.png</screenshot5>
+    <category>Productivity</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
