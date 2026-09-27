@@ -40,7 +40,9 @@
     <category title="Windows Phone Apps" type="picks">
       <appIds>inecraft,lumia-camera</appIds>
     </category>
-<category title="Personal finance">
+<category title="Action &amp; adventure">
+    </category>
+    <category title="Personal finance">
     </category>
 <category title="Productivity">
     </category>
@@ -5465,6 +5467,27 @@ Easy to use, click on select button than your file, just last click on convert a
     <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr7.png</screenshot7>
     <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/videotomp3converterpro_scr8.png</screenshot8>
     <category>Photo &amp; video</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="yahoo-mail">
+    <name>Yahoo Mail</name>
+    <version>1.1.14.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/yahoomail_img.png</icon>
+    <publisher>Yahoo Inc</publisher>
+    <featured>false</featured>
+    <description>Yahoo Mail for Windows 10 app brings you the same mail experience you love in the browser, along with Windows features to keep you even more connected. Keep up to date with Windows-enabled desktop notifications. See how many unread messages you have on your lock screen and with a dynamic Live Tile in the Start menu.
+
+Personalize your inbox with vibrant themes from Flickr and beautify your email with Stationery by Paperless Post. Attach files faster than ever with a click: images and documents from your inbox, GIFs, photos and links from the web. Our powerful search lets you find the person you need to reach and sort through the messages, files, and photos they’ve sent you.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/YahooInc.54977BD360724_1.1.14.0_neutral_~_xvnatx83ncrvj.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/yahoomail_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/yahoomail_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/yahoomail_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/yahoomail_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/yahoomail_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/yahoomail_scr6.png</screenshot6>
+    <category>Productivity</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
