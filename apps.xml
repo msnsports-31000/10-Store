@@ -3438,7 +3438,7 @@ What Arcane Quest players are saying:
     <app id="baconit">
     <name>Baconit</name>
     <version>4.9.1.0</version>
-    <icon>https://store-images.s-microsoft.com/image/apps.55735.9007199266249216.88398cc4-3967-4ffe-861e-1aaf88621ae1.e320ef1c-3b22-46d0-95fc-e65114d5f070?background=%230078d7</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/baconit_img</icon>
     <publisher>Quinn Damerell</publisher>
     <featured>true</featured>
     <description>(THE APP DOESNT WORK) The highest rated reddit client for Windows Phone has been rewritten from the ground up and is now available for all Windows 10 devices. Now with a dynamic new UI, faster speeds, and features you have been asking for. Welcome to the new Baconit. We know you’re going to love it. Features Include: * A dynamic new UI that adapts to every device. * Speed. Everything is fast. Everything. * Beautiful “flip view” post navigation. * Subreddit and comment flair! (finally) * Instant comment access directly in flipview.. * Global navigation menu –jump to a new subreddit from anywhere. * Full subreddit sidebar support. * Reddit formatting helper for new posts. * Trending subreddits! * Inline markdown comment formatting. * Desktop wallpaper and lock screen updating. * User account and settings roaming. * Real-time comment markdown. * In-depth reddit search supporting all search filters * So much more! Do you have a feature you would love to see in Baconit? Do you have a change in the UI you want to make? Baconit is now open source and driven by the community. Stop by r/Baconit to learn more and get your hands dirty! Reddit is the web's best source for news, events, politics, technology, gamming, humor, and much more. With Baconit, you are able to quickly browse the vast information on reddit with a quick, clean, and beautiful interface. Official subreddit: www.reddit.com/r/baconit Baconit is not officially associated or licensed with reddit in any way.</description>
@@ -5517,6 +5517,104 @@ Scenarios:
     <category>Productivity</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="tumblast">
+    <name>Tumblast</name>
+    <version>1.0.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_img.png</icon>
+    <publisher>AppBringer</publisher>
+    <featured>false</featured>
+    <description>A 3rd-party full-featured universal native Tumblr client. Stable, powerful, rich customization settings.
+Featured functions: 
+-Support multiple windows.
+-Manage saved photos and videos.
+-Create animated GIFs from your local videos
+-Convert an animated GIF to mp4
+-Capture an animated GIF by camera
+-Can specify the image source of the primary live tile
+-Tag manager to add tags easily
+-Paste local photos, a photo link, a screenshot or a bitmap captured by other tools directly to  the photoset post editor from clipboard
+-App PIN lock
+-Waterfall blog image viewer.
+-Tag based post blacklist
+-Offer a lot of options for customization
+-Share link or photos by post
+-Live videos supported
+-Submission
+-Dashboard, explore,  messaging, account and notification
+-Search all blogs and posts in tumblr
+-Visit any public blog directly by blog name
+-All post types are supported : photo, video, audio, text, link, quote, chat
+-Change the layout of a photoset post by drag-drop
+-Publish a composed post directly, add it to queue, or just save it to drafts
+-Edit any post in your blog, post queue or drafts
+-Save images and videos to local  
+-Hold the reblog button to perform a quick-reblog action 
+-Multiple login accounts supported
+-Browsing history
+-Edit the settings and theme for your blogs</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/40165AppBringer.UniversalforTumblr_4.4.0.0_x86__12w6ayjqc3fst.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr8.png</screenshot8>
+    <category>Social</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="tumblast">
+    <name>Tumblast</name>
+    <version>1.0.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_img.png</icon>
+    <publisher>AppBringer</publisher>
+    <featured>false</featured>
+    <description>A 3rd-party full-featured universal native Tumblr client. Stable, powerful, rich customization settings.
+Featured functions: 
+-Support multiple windows.
+-Manage saved photos and videos.
+-Create animated GIFs from your local videos
+-Convert an animated GIF to mp4
+-Capture an animated GIF by camera
+-Can specify the image source of the primary live tile
+-Tag manager to add tags easily
+-Paste local photos, a photo link, a screenshot or a bitmap captured by other tools directly to  the photoset post editor from clipboard
+-App PIN lock
+-Waterfall blog image viewer.
+-Tag based post blacklist
+-Offer a lot of options for customization
+-Share link or photos by post
+-Live videos supported
+-Submission
+-Dashboard, explore,  messaging, account and notification
+-Search all blogs and posts in tumblr
+-Visit any public blog directly by blog name
+-All post types are supported : photo, video, audio, text, link, quote, chat
+-Change the layout of a photoset post by drag-drop
+-Publish a composed post directly, add it to queue, or just save it to drafts
+-Edit any post in your blog, post queue or drafts
+-Save images and videos to local  
+-Hold the reblog button to perform a quick-reblog action 
+-Multiple login accounts supported
+-Browsing history
+-Edit the settings and theme for your blogs</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/40165AppBringer.UniversalforTumblr_4.4.0.0_arm__12w6ayjqc3fst.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_scr8.png</screenshot8>
+    <category>Social</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
 </data>
