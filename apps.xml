@@ -5521,7 +5521,7 @@ Scenarios:
   </app>
   <app id="tumblast">
     <name>Tumblast</name>
-    <version>1.0.0.0</version>
+    <version>4.4.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_img.png</icon>
     <publisher>AppBringer</publisher>
     <featured>false</featured>
@@ -5568,9 +5568,9 @@ Featured functions:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-  <app id="tumblast">
-    <name>Tumblast</name>
-    <version>1.0.0.0</version>
+  <app id="tumblast-arm">
+    <name>Tumblast for ARM</name>
+    <version>4.4.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tumblast_img.png</icon>
     <publisher>AppBringer</publisher>
     <featured>false</featured>
