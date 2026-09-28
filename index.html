@@ -375,9 +375,10 @@ a:hover { color: var(--accent-hover); }
   position: relative;
   z-index: 1;
   padding: 40px;
+  width: 100%;
 }
 
-.detail-layout { display: flex; flex-direction: column; }
+.detail-layout { display: flex; flex-direction: column; width: 100%; }
 
 .detail-header-info { display: flex; align-items: flex-start; margin-bottom: 30px; }
 
@@ -517,13 +518,19 @@ a:hover { color: var(--accent-hover); }
 
 .people-also-like-section {
   margin-top: 40px;
-  overflow: hidden;
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.people-also-like-section::-webkit-scrollbar {
+  display: none;
 }
 
 .people-also-like-grid {
-  display: flex;
+  display: inline-flex;
   flex-wrap: nowrap;
-  overflow-x: hidden;
   padding-bottom: 10px;
 }
 
