@@ -5695,7 +5695,7 @@ Feature list:
   <app id="perfect-wallpaper">
     <name>Perfect Wallpaper</name>
     <version>1.1.7.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectworkout_img.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectwallpaper_img.png</icon>
     <publisher>Perfect Thumb</publisher>
     <featured>false</featured>
     <description>Revolutionize the appearance of your Stat Screen and Lock Screen with these stunning Wallpapers. 
@@ -5703,9 +5703,43 @@ Included Features: * Powerful search options to find what you like (by Tag or Co
 * Powerful search options to find what you like (by Tag or Color)
 * Filter wallpapers as hottest, top rated, latest in a day, a week, a month or all time.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10301PerfectThumb.PerfectWallpaper_1.1.7.0_neutral_~_n9t97vrmwej7m.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectworkout_scr1.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectworkout_scr2.png</screenshot2>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectwallpaper_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectwallpaper_scr2.png</screenshot2>
     <category>Personalization</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="perfect-tube">
+    <name>Perfect Tube</name>
+    <version>2.0.99.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_img.png</icon>
+    <publisher>Perfect Thumb</publisher>
+    <featured>false</featured>
+    <description>The best third-party YouTube app designed exclusively for Windows Phone 8.1 / Windows 10. Easily browse videos wherever you are through popular, featured and trending videos and play in whatever quality you choose. Some major features:
+✓ Unique video player with easy gestures.
+✓ Watch mini video while browse others.
+✓ Switch video quality 240p, 360p, 480p, 720p, 1080p with full screen mode of landscape and portrait video.
+✓ Browse most popular videos, channels or search for what you want.
+✓ Sign in your YouTube account and manage your favorites, subscriptions, playlists, history, liked videos, watch later and more.
+✓ View and post comments, browse related videos and more.
+✓ Watch your uploaded videos.
+✓ Upload your new videos.
+✓ Subscribe to YouTube channels (with browse channels function)
+✓ Support tiles.
+✓ Open YouTube links (video, channel, playlist) directly in app.
+✓ Superfast and logical interface!</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10301PerfectThumb.PerfectTube_2.0.99.0_neutral_~_n9t97vrmwej7m.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfecttube_scr9.png</screenshot9>
+    <category>Entertainment</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
