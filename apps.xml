@@ -5692,4 +5692,22 @@ Feature list:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="perfect-wallpaper">
+    <name>Perfect Wallpaper</name>
+    <version>1.1.7.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectworkout_img.png</icon>
+    <publisher>Perfect Thumb</publisher>
+    <featured>false</featured>
+    <description>Revolutionize the appearance of your Stat Screen and Lock Screen with these stunning Wallpapers. 
+Included Features: * Powerful search options to find what you like (by Tag or Color) * Filter wallpapers as hottest, top rated, latest in a day, a week, a month or all time.
+* Powerful search options to find what you like (by Tag or Color)
+* Filter wallpapers as hottest, top rated, latest in a day, a week, a month or all time.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10301PerfectThumb.PerfectWallpaper_1.1.7.0_neutral_~_n9t97vrmwej7m.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectworkout_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/perfectworkout_scr2.png</screenshot2>
+    <category>Personalization</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
