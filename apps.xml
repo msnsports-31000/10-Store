@@ -5657,4 +5657,20 @@ Feature list:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="unit-converter-10">
+    <name>Unit Converter 10</name>
+    <version>1.1.4.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unitconverter10_img.png</icon>
+    <publisher>sixthgibbon</publisher>
+    <featured>false</featured>
+    <description>This application is a streamlined unit converter that can convert over 20+ different types of units! Convert units from Temperature, Weight, Volume, and Distance. The application is free of charge, so why not give it a shot?</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/9296sixthgibbon.UnitConverter10_1.1.4.0_neutral_~_dagyf1tf9y4rw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unitconverter10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unitconverter10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unitconverter10_scr3.png</screenshot3>
+    <category>Productivity</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
