@@ -5617,4 +5617,44 @@ Featured functions:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="nhaccuatui-universal">
+    <name>NhacCuaTui Universal</name>
+    <version>1.1.5.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_img.png</icon>
+    <publisher>NCT Corporation</publisher>
+    <featured>false</featured>
+    <description>NHACCUATUI UNIVERSAL
+
+NhacCuaTui is a free online music streaming app. From now on, with NhacCuaTui Universal which is optimized for Windows 10, you will not only enjoy music, you live with music, let it fulfil your soul due to a variety of customized interfaces which are compatible with all devices, all screens.
+
+NhacCuaTui is now more convenient for you to experience music - Wherever you are, whatever you do, let NhacCuaTui be your truly fellow.
+
+Feature list:
+•        Flat design to be visually friendly
+•        First ever Vietnamese app to back up with KARAOKE lyrics on the go.
+•        Super giant high-quality music storage. Over 2 million songs, MVs from all over the world are well-prepared for your discovery.
+•        Diversified genres for you to reach out by only some touch
+•        Play, pause and skip tracks from the lockscreen
+•        Sleep timer, look back on your streaming history, customize quality and many special features 
+•        Power User: experience VIP level (enlarging personal storage, ability to shut down ads, fast private line,...)
+•        High-quality artist and playlist covers bring user the most splendid visual experience.
+•        Switch language from Vietnamese to English and vice versa
+•        Login or register with Facebook
+•        Share favorite music on Facebook, via Email, SMS,...
+
+** Should you have any feedback, please feel free to send it to msupport@nct.vn</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/NCTJointStockCompany.NhacCuaTuiUniversal_1.1.5.0_neutral_._rm1j1n40xphcc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/nhaccuatui_scr8.png</screenshot8>
+    <category>Music</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
