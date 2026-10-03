@@ -5753,4 +5753,20 @@ Included Features: * Powerful search options to find what you like (by Tag or Co
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="facebook">
+    <name>Facebook</name>
+    <version>2019.225.62410.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/facebook_img.png</icon>
+    <publisher>Facebook Inc</publisher>
+    <featured>false</featured>
+    <description>Keeping up with friends is faster than ever.</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/Facebook.Facebook_2019.225.62410.0_neutral_._8xx8rvfyw5nnt.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/facebook_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/facebook_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/facebook_scr3.png</screenshot3>
+    <category>Social</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
