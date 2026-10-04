@@ -5195,7 +5195,7 @@ PDF Viewer Plus is a simple UWP PDF reader. Easily open and view a PDF file from
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr5.png</screenshot5>
-    <category>Utilities &amp; tools</category>"
+    <category>Utilities &amp; tools</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
