@@ -5146,7 +5146,7 @@ Game Features
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-    <app id="battery-x">
+  <app id="battery-x">
     <name>Battery X</name>
     <version>4.1.103.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_img.png</icon>
@@ -5161,6 +5161,7 @@ you can also set your custom alert.</description>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/batteryx_scr4.png</screenshot4>
     <category>Productivity</category>
+    <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5174,6 +5175,7 @@ you can also set your custom alert.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/38062AvishaiDernis.CalculatorOfAlgebra_1.1.20.0_neutral_~_q72k3wbnqqnj6.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/algebracalc_scr1.png</screenshot1>
     <category>Productivity</category>
+    <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5193,7 +5195,8 @@ PDF Viewer Plus is a simple UWP PDF reader. Easily open and view a PDF file from
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/pdfviewerplus_scr5.png</screenshot5>
-    <category>Utilities &amp; tools</category>
+    <category>Utilities &amp; tools</category>"
+    <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5227,6 +5230,7 @@ If you like the app then please review and share it with your friends. You can a
     <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/short.y_scr7.png</screenshot7>
     <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/short.y_scr8.png</screenshot8>
     <category>Productivity</category>
+    <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
@@ -5240,6 +5244,7 @@ If you like the app then please review and share it with your friends. You can a
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/31710Digitalmason.net.Windows10CheatKeys_1.4.1.0_neutral_~_qxs9v8xwp3xem.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/windows10cheatkeys_scr1.png</screenshot1>
     <category>Productivity</category>
+    <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
