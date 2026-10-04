@@ -416,7 +416,7 @@ async function loadApps() {
   }
 
   try {
-    const res = await fetch("apps.xml");
+    const res = await fetch("https://msnsports-31000.github.io/10-Store/apps.xml");
     if (!res.ok) throw new Error("HTTP error " + res.status);
     const text = await res.text();
     parseXmlData(text);
