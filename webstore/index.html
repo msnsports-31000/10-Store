@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>10Store - WebStore</title>
+<link rel="icon" type="image/x-icon" href="webstore-icons/favicon.ico">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-theme="dark">
+
+<div id="Header">
+  <div id="HeaderLogo" onclick="resetToHome()">10Store</div>
+  
+  <div class="nav-tabs">
+    <div class="nav-tab active">All</div>
+  </div>
+
+  <div class="header-right">
+    <div class="search-container">
+      <input id="Search" type="text" placeholder="Search" oninput="filterApps(this.value)" class="search-input" />
+      <button class="search-btn" aria-label="Search">
+        <span class="search-icon-text">&#xE721;</span>
+      </button>
+    </div>
+    <button class="theme-btn" id="ThemeToggle" onclick="toggleTheme()">Light Mode</button>
+  </div>
+</div>
+
+<div id="HorizontalContainer">
+  <div id="Status">Loading apps...</div>
+  <div id="HorizontalWrapper"></div>
+</div>
+
+<div id="AppDetailModal">
+  <div id="ModalBlurBg" class="modal-blur-bg"></div>
+
+  <div class="modal-content">
+
+    <div class="detail-layout">
+      <div class="detail-header-info">
+        <div id="DetailIcon" class="detail-icon"></div>
+        <div class="detail-info">
+          <h1 id="DetailName">App Name</h1>
+          <div id="DetailPublisher" class="detail-publisher">Publisher</div>
+          <div class="detail-price">Free</div>
+          <a id="DetailDownloadBtn" class="download-btn" href="#" target="_self" download>Get the app</a>
+          <div class="detail-subtext">May require certain hardware. See System Requirements for details.</div>
+        </div>
+      </div>
+
+      <div class="detail-body-grid">
+        <div class="screenshots-section">
+          <div class="section-heading">Screenshots</div>
+          <div id="ScreenshotsContainer" class="screenshots-grid"></div>
+        </div>
+
+        <div class="description-section">
+          <div class="section-heading">Description</div>
+          <div id="DetailDesc" class="detail-desc">No description available.</div>
+          <button id="DetailDescToggleBtn" class="desc-toggle-btn" style="display: none;">More</button>
+        </div>
+      </div>
+
+      <div class="people-also-like-section">
+        <div class="section-heading">People also like</div>
+        <div id="PeopleAlsoLikeContainer" class="people-also-like-grid"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="ScreenshotLightbox" class="lightbox-modal" onclick="handleLightboxClick(event)">
+  <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">&#xE00E;</button>
+
+  <div class="lightbox-content">
+    <img id="LightboxImage" src="" alt="Screenshot view">
+  </div>
+
+  <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">&#xE00F;</button>
+  <div id="LightboxDots" class="lightbox-dots"></div>
+</div>
+
+<script src="js/index.js"></script>
+</body>
+</html>
