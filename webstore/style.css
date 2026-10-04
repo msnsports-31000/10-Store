@@ -535,7 +535,6 @@ a:hover { color: var(--accent-hover); }
   margin-right: 0;
 }
 
-/* --- LIGHTBOX CODE (UNTOUCHED) --- */
 .lightbox-modal {
   position: fixed;
   top: 0; left: 0;
