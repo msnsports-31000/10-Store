@@ -344,14 +344,6 @@ window.onpopstate = function() {
   checkUrlParams();
 };
 
-const scrollContainer = document.getElementById("HorizontalContainer");
-if (scrollContainer) {
-  scrollContainer.addEventListener("wheel", (e) => {
-    e.preventDefault();
-    scrollContainer.scrollLeft += e.deltaY;
-  });
-}
-
 function getXmlTag(node, tag) {
   const children = Array.from(node.children || []);
   const match = children.find(child => child.tagName.toLowerCase() === tag.toLowerCase());
