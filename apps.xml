@@ -5777,7 +5777,7 @@ Included Features: * Powerful search options to find what you like (by Tag or Co
     <app id="dvrwebcam-dropbox-edition">
     <name>DVR.Webcam - Dropbox Edition</name>
     <version>3.2.3.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_img.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_img.png</icon>
     <publisher>Perfect Thumb</publisher>
     <featured>false</featured>
     <description>NOTE:　Free trial usage, and limited time low introductory price!! 
@@ -5792,15 +5792,15 @@ To view your DVR, simply visit http://dvr.webcam website from any computer or mo
 
 Visit us at http://dvr.webcam for more info.</description>
     <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/39320Senstic.DropBoxDVR_3.2.3.0_neutral_._d8f7n113hmst6.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr1.png</screenshot1>
-    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr2.png</screenshot2>
-    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr3.png</screenshot3>
-    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr4.png</screenshot4>
-    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr5.png</screenshot5>
-    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr6.png</screenshot6>
-    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr7.png</screenshot7>
-    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr8.png</screenshot8>
-    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/drwebcamdropboxedition_scr9.png</screenshot9>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_scr9.png</screenshot9>
     <category>Security</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>false</mobileCapable>
