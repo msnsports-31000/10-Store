@@ -5774,4 +5774,36 @@ Included Features: * Powerful search options to find what you like (by Tag or Co
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="dvrwebcam-dropbox-edition">
+    <name>DVR.Webcam - Dropbox Edition</name>
+    <version>3.2.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_img.png</icon>
+    <publisher>Perfect Thumb</publisher>
+    <featured>false</featured>
+    <description>NOTE:　Free trial usage, and limited time low introductory price!! 
+
+DVR.Webcam is a plug-and-play solution to personal surveillance for audio/video recording. It is a cloud-based DVR (digital video recorder) app that uses Dropbox as its cloud storage. You install the app on a computer or tablet that serves as the DVR station. It will let you record and view your camera time-lapse recording remotely.
+
+Unlike other cloud-based camera services, this app does NOT charge you monthly. It simply uses your spare Dropbox storage for the camera recording. 
+
+When in use, the app automatically records camera’s video (in the case of webcams, audio as well) and streams it over to your Dropbox cloud account. You can define X number of days to keep the DVR recordings in the cloud, and the app will automatically manage the storage for you.
+
+To view your DVR, simply visit http://dvr.webcam website from any computer or mobile device, and use our online DVR viewer with any web browser. There is no need to configure firewall or router for remote viewing, or using a 3rd party viewing app. 
+
+Visit us at http://dvr.webcam for more info.</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/39320Senstic.DropBoxDVR_3.2.3.0_neutral_._d8f7n113hmst6.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/drwebcamdropboxedition_scr9.png</screenshot9>
+    <category>Security</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
