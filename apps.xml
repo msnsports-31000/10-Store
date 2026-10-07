@@ -5778,7 +5778,7 @@ Included Features: * Powerful search options to find what you like (by Tag or Co
     <name>DVR.Webcam - Dropbox Edition</name>
     <version>3.2.3.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/dvrwebcamdropboxedition_img.png</icon>
-    <publisher>Perfect Thumb</publisher>
+    <publisher>Senstic</publisher>
     <featured>false</featured>
     <description>NOTE:　Free trial usage, and limited time low introductory price!! 
 
@@ -5806,4 +5806,13 @@ Visit us at http://dvr.webcam for more info.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+Portfolio Surveyor will track your investment holdings, showing today's performance for each holding, a summary of your portfolio performance at a glance, and some key market quotes.
+
+Within your portfolio, it will show the recent news for each holding, or the combined news for all of your holdings.
+
+Each holding has its individual realized and unrealized gains tracked.
+
+This application works with stocks listed on the New York Stock Exchange and the NASDAQ.
+
+Each stock and each portfolio can be pinned to your start screen with live tile updates to show real-time quotes.  The quotes are loaded in the background every 15 minutes.
 </data>
