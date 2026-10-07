@@ -434,6 +434,7 @@ a:hover { color: var(--accent-hover); }
   margin-right: 15px;
   margin-bottom: 15px;
   cursor: pointer;
+  box-sizing: border-box;
 }
 
 .screenshot-item-wrapper:nth-child(2n) {
