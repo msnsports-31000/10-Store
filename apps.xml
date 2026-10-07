@@ -5806,7 +5806,13 @@ Visit us at http://dvr.webcam for more info.</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
-Portfolio Surveyor will track your investment holdings, showing today's performance for each holding, a summary of your portfolio performance at a glance, and some key market quotes.
+    <app id="portfolio-surveryor">
+    <name>Portfolio Surveyor</name>
+    <version>4.1.36.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_img.png</icon>
+    <publisher>Rainy Day Investments</publisher>
+    <featured>false</featured>
+    <description>Portfolio Surveyor will track your investment holdings, showing today's performance for each holding, a summary of your portfolio performance at a glance, and some key market quotes.
 
 Within your portfolio, it will show the recent news for each holding, or the combined news for all of your holdings.
 
@@ -5814,5 +5820,93 @@ Each holding has its individual realized and unrealized gains tracked.
 
 This application works with stocks listed on the New York Stock Exchange and the NASDAQ.
 
-Each stock and each portfolio can be pinned to your start screen with live tile updates to show real-time quotes.  The quotes are loaded in the background every 15 minutes.
+Each stock and each portfolio can be pinned to your start screen with live tile updates to show real-time quotes.  The quotes are loaded in the background every 15 minutes.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/50747RainyDayInvestments.PortfolioSurveyor_4.1.36.0_neutral_~_8mkaj310ams40.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/portfoliosurveyor_scr8.png</screenshot8>
+    <category>Personal finance</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="exchange-rate">
+    <name>Exchange Rate</name>
+    <version>2.2.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/exchangerate_img.png</icon>
+    <publisher>MC Koo</publisher>
+    <featured>false</featured>
+    <description>Monitor currency exchange rates for more than 140 countries. Currencies can be shown in live tile for easy viewing.
+- Large live tile (Maximum of 12 currencies)
+- Wide live tile (Maximum of 6 currencies)
+- Medium live tile (Maximum of 3 currencies)
+
+Exchange rates are being updated at the background according to the update frequency that you have set.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/12148MCKoo.ExchangeRate_2.2.0.0_neutral_~_g00dqfhfbq9np.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/exchangerate_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/exchangerate_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/exchangerate_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/exchangerate_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/exchangerate_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/exchangerate_scr6.png</screenshot6>
+    <category>Personal finance</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="currency-exchange-calculator">
+    <name>Currency Exchange Calculator</name>
+    <version>1.1.19.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/currencyexchangecalculator_img.png</icon>
+    <publisher>CSTRSK</publisher>
+    <featured>false</featured>
+    <description>With Currency Exchange Calculator you can calculate fast your exchange rate for your Currencies.
+Following currencies are supported:
+EUR - EURO
+USD - US Dollar
+JPY - Japanese Yen
+BGN - Bulgarian Lev
+CZK - Czech Koruna
+DKK - Danish Krona
+GBP - British Pound
+HUF - Hungarian Forint
+PLN - Polish Zloty
+RON - Romanian Leu
+SEK - Swedish Krona
+CHF - Swiss Franc
+ISK - Icelandic Krona
+NOK - Norwegian Krona
+HRK - Croatian Kuna
+RUB - Russian Ruble
+TRY - Turkish Lira
+AUD - Australian Dollar
+BRL -  Brazilian Real
+CAD - Canadian Dollar
+CNY - Chinese Yuan Renminbi
+HKD - Hong Kong Dollar
+IDR - Indonesian Rupiah
+ILS - Israeli Shekel
+INR - Indian Rupee
+KRW - South Korean won
+MXN - Mexican Peso
+MYR - Malaysian Ringgit
+NZD - New Zealand Dollar
+PHP - Philippines Piso
+SGD - Singapore Dollar
+THB - Thai Baht
+ZAR - South African Rand</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10864CSTRSK.CurrencyExchangeCalculator_1.1.19.0_neutral_~_v860xccpn1xnt.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/currencyexchangecalculator_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/currencyexchangecalculator_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/currencyexchangecalculator_scr3.png</screenshot3>
+    <category>Personal finance</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
