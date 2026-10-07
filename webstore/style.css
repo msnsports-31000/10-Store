@@ -216,7 +216,6 @@ a:hover { color: var(--accent-hover); }
   font-size: 22px;
   color: var(--text-main);
   margin-bottom: 16px;
-  text-transform: uppercase;
   letter-spacing: 1px;
 }
 
@@ -415,7 +414,6 @@ a:hover { color: var(--accent-hover); }
 
 .section-heading {
   font-size: 18px;
-  text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 14px;
   color: var(--text-main);
