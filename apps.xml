@@ -5909,4 +5909,23 @@ ZAR - South African Rand</description>
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="gps-tracker-by-followmee">
+    <name>GPS Tracker by FollowMee</name>
+    <version>2.5.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/followmee_img.png</icon>
+    <publisher>FollowMee</publisher>
+    <featured>false</featured>
+    <description>FollowMee GPS Tracker tracks location of a Windows 10 device (laptop or tablet). Installing this app to a device that you want to track, it quietly records its locations (GPS, WiFi, or cellular triangulation) and uploads to a secured server. To monitor location of your tracked device, you simply open the FollowMee web site (http://www.FollowMee.com) in any web browser. Using this app, you can track the whereabouts of your Windows 10 devices, both personal and business. For business, you can track your employees (sales agents, technicians, delivery personnel etc) through tracking the devices that they carry.
+
+After you download and install the app, you are asked to register your user name and password. Once the app is started, you can monitor its location in the FollowMee web site.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/36166FollowMee.FollowMeeGPSTracker_2.5.0.0_neutral_~_39zh8zd81bedtAppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/followmee_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/followmee_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/followmee_scr3.png</screenshot3>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/followmee_scr3.png</screenshot3>
+    <category>Travel</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
