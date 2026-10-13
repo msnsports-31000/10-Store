@@ -174,7 +174,7 @@ Get the latest weather conditions, whether you're hitting the slopes, or the bea
   </app>
   <app id="draywaves">
     <name>DrayWaves</name>
-    <version>1.0.0.0</version>
+    <version>1.1.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/draywaves_img.png</icon>
     <publisher>DraydenYT</publisher>
     <featured>false</featured>
