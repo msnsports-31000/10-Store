@@ -219,6 +219,48 @@ DrayWaves is just for you! And it Works on Windows 10 Mobile too!
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="messenger">
+    <name>Messenger</name>
+    <version>???</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/messenger_img.png</icon>
+    <publisher>Facebook Inc</publisher>
+    <featured>false</featured>
+    <description>With Messenger you can keep your conversations going wherever you are.</description>
+    <package>placeholder, the appx is lost.</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/messenger_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/messenger_scr2.png</screenshot2>
+    <category>Social</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+    <app id="instagram">
+    <name>Instagram</name>
+    <version>???</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/instagram_img.png</icon>
+    <publisher>Instagram</publisher>
+    <featured>false</featured>
+    <description>Instagram is a simple way to capture and share the world’s moments. Follow your friends and family to see what they’re up to, and discover accounts from all over the world that are sharing things you love. Join the community of over 500 million people and express yourself by sharing all the moments of your day––the highlights and everything in between, too.
+
+Use Instagram to:
+• Post photos and videos you want to keep on your profile grid. Edit them with filters and creative tools, and combine multiple clips into one video.
+• Share multiple photos and videos (as many as you want!) to your story. Bring them to life with text and drawing tools. They disappear after 24 hours and won't appear on your profile grid or in feed.
+• Watch stories from the people you follow in a bar at the top of your feed. View them at your own pace.
+• Discover photos and videos you might like and follow new accounts in the Explore tab.
+• Send private messages, photos, videos and posts from your feed directly to friends with Instagram Direct.
+• Instantly share your posts to Facebook, Twitter, Tumblr and other social networks.
+
+Keep in mind that other devices running Windows 10 may not support certain features, like the ability to capture and upload photos and videos.</description>
+    <package>placeholder, the appx is lost.</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/instagram_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/instagram_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/instagram_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/instagram_scr4.png</screenshot4>
+    <category>Social</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
   <app id="smiling-bag-clicker-for-windows-8-1">
     <name>Smiling Bag Clicker for Windows 8.1</name>
     <version>1.0.0.0</version>
