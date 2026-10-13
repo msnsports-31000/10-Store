@@ -6006,4 +6006,38 @@ Add a hotel, restaurant or attraction not yet listed on TripAdvisor</description
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="shiye-browser">
+    <name>Shiye Browser</name>
+    <version>1.5.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/shiyebrowser_img.png</icon>
+    <publisher>sy@cn</publisher>
+    <featured>false</featured>
+    <description>Shiye Browser powered by Edge is designed for touch screen and supports Gestures, Background Download and Night Mode.
+
+1. Several Gestures
+2. Options to change Useragent: Desktop, Mobile or iPad
+3. Night Mode，customize brightness，change background and text color
+4. Context Menu，Save Picture，Open in New Tab
+5. Background Download，move downloaded files to custom location.
+6. Geolocation switch
+7. Create Folders in Favorites
+8. Beta Features：History, QR Scan
+
+Gestures:
+Back and Forward: Swipe to the left or right on the Address Bar.
+Switch Tabs: Swipe up on the Address Bar.
+Close Tab: Swipe to the left or right on the item of the Tab-switching Panel.
+Open Favorites: Swipe up on the Menu Button.
+Show Start Page:：Swipe up on the “GO” Button.
+
+“GO” Button starts or stops the navigation, or refreshes the page depending on the state of the current page.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/59321IamSSY.2783713658CBC_1.5.0.0_neutral_~_93fneq85y3rxp.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/shiyebrowser_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/shiyebrowser_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/shiyebrowser_scr3.png</screenshot3>
+    <category>Utilities &amp; tools</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
