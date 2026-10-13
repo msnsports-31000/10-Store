@@ -5993,12 +5993,12 @@ Add a hotel, restaurant or attraction not yet listed on TripAdvisor</description
   </app>
     <app id="追影uwp">
     <name>追影UWP</name>
-    <version>1.5.0.0</version>
+    <version>4.4.1.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/追影uwp_img.png</icon>
     <publisher>kylexy</publisher>
     <featured>false</featured>
     <description>最全的电影，电视剧 都在这里！</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/59321IamSSY.2783713658CBC_1.5.0.0_neutral_~_93fneq85y3rxp.AppxBundle</package>
+    <package>30885kylexy.198900FB1EEF6_4.4.1.0_neutral_~_tvtgjmdnerz0p.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/追影uwp_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/追影uwp_scr2.png</screenshot2>
     <category>Entertainment</category>
