@@ -1,86 +1,105 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>10Store - WebStore</title>
-<link rel="icon" type="image/x-icon" href="https://msnsports-31000.github.io/10-Store/webstore-icons/favicon.ico">
-<link rel="stylesheet" href="style.css">
-</head>
-<body data-theme="dark">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>10Store - WebStore</title>
+        <link
+            rel="icon"
+            type="image/x-icon"
+            href="https://msnsports-31000.github.io/10-Store/webstore-icons/favicon.ico"
+        />
 
-<div id="Header">
-  <div id="HeaderLogo" onclick="resetToHome()">10Store</div>
-  
-  <div class="nav-tabs">
-    <div class="nav-tab active">All</div>
-  </div>
+        <link rel="stylesheet" href="winjs/css/ui-light.css" />
+        <script src="winjs/js/base.js"></script>
+        <script src="winjs/js/ui.js"></script>
 
-  <div class="header-right">
-    <div class="search-container">
-      <input id="Search" type="text" placeholder="Search" oninput="filterApps(this.value)" class="search-input" />
-      <button class="search-btn" aria-label="Search">
-        <span class="search-icon-text">&#xE721;</span>
-      </button>
-    </div>
-    <button class="theme-btn" id="ThemeToggle" onclick="toggleTheme()">Light Mode</button>
-  </div>
-</div>
-
-<div id="HorizontalContainer">
-  <div id="Status">Loading apps...</div>
-  <div id="HorizontalWrapper"></div>
-</div>
-
-<div id="AppDetailModal">
-  <div id="ModalBlurBg" class="modal-blur-bg"></div>
-
-  <div class="modal-content">
-
-    <div class="detail-layout">
-      <div class="detail-header-info">
-        <div id="DetailIcon" class="detail-icon"></div>
-        <div class="detail-info">
-          <h1 id="DetailName">App Name</h1>
-          <div id="DetailPublisher" class="detail-publisher">Publisher</div>
-          <div class="detail-price">Free</div>
-          <a id="DetailDownloadBtn" class="download-btn" href="#" target="_self" download>Get the app</a>
-          <div class="detail-subtext">May require certain hardware. See System Requirements for details.</div>
-        </div>
-      </div>
-
-      <div class="detail-body-grid">
-        <div class="screenshots-section">
-          <div class="section-heading">Screenshots</div>
-          <div id="ScreenshotsContainer" class="screenshots-grid"></div>
+        <link rel="stylesheet" href="style.css" />
+        <script src="index.js"></script>
+    </head>
+    <body data-theme="light" class="win-type-body">
+        <div id="appTemplate" data-win-control="WinJS.Binding.Template">
+            <div class="app-tile">
+                <img data-win-bind="src: icon" data-win-bind="alt: icon" />
+                <div class="info">
+                    <div class="name win-type-ellipsis" data-win-bind="textContent: name"></div>
+                    <div class="publisher win-type-ellipsis" data-win-bind="textContent: publisher"></div>
+                </div>
+            </div>
         </div>
 
-        <div class="description-section">
-          <div class="section-heading">Description</div>
-          <div id="DetailDesc" class="detail-desc">No description available.</div>
-          <button id="DetailDescToggleBtn" class="desc-toggle-btn" style="display: none;">More</button>
+        <div class="win-header">
+            <h1 class="win-h1 win-type-ellipsis" onclick="resetToHome()">10Store</h1>
+
+            <div class="win-header-right">
+                <div
+                    id="Search"
+                    data-win-control="WinJS.UI.SearchBox"
+                    data-win-options="{ placeholderText: 'Search' }"
+                ></div>
+                <button class="win-button" id="ThemeToggle" onclick="toggleTheme()" style="min-width: 45px">
+                    &#xE708;
+                </button>
+            </div>
         </div>
-      </div>
 
-      <div class="people-also-like-section">
-        <div class="section-heading">People also like</div>
-        <div id="PeopleAlsoLikeContainer" class="people-also-like-grid"></div>
-      </div>
-    </div>
-  </div>
-</div>
+        <div
+            id="AppListView"
+            data-win-control="WinJS.UI.ListView"
+            data-win-options="{ 
+       layout: { type: WinJS.UI.GridLayout, orientation: 'vertical' }, 
+       selectionMode: 'none', 
+       tapBehavior: 'invoke',
+       itemTemplate: select('#appTemplate')
+     }"
+        ></div>
 
-<div id="ScreenshotLightbox" class="lightbox-modal" onclick="handleLightboxClick(event)">
-  <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">&#xE00E;</button>
+        <div id="AppDetailModal">
+            <div id="ModalBlurBg" class="modal-blur-bg"></div>
 
-  <div class="lightbox-content">
-    <img id="LightboxImage" src="" alt="Screenshot view">
-  </div>
+            <div class="modal-content">
+                <button onclick="resetToHome()" class="win-backbutton"></button>
+                <div class="detail-layout">
+                    <div class="detail-header-info">
+                        <div id="DetailIcon" class="detail-icon"></div>
+                        <div class="detail-info">
+                            <h1 class="win-h1 win-type-ellipsis" id="DetailName">App Name</h1>
+                            <div id="DetailPublisher" class="win-type-ellipsis detail-publisher">Publisher</div>
+                            <button id="DetailDownloadBtn" class="win-button">Get the app</button>
+                            <div class="win-type-ellipsis detail-subtext">May require certain hardware. See System Requirements for details.</div>
+                        </div>
+                    </div>
 
-  <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">&#xE00F;</button>
-  <div id="LightboxDots" class="lightbox-dots"></div>
-</div>
+                    <div class="detail-body-grid">
+                        <div class="screenshots-section">
+                            <div class="win-type-ellipsis section-heading">Screenshots</div>
+                            <div id="ScreenshotsContainer" class="screenshots-grid"></div>
+                        </div>
 
-<script src="index.js"></script>
-</body>
+                        <div class="description-section">
+                            <div class="win-type-ellipsis section-heading">Description</div>
+                            <div id="DetailDesc" class="detail-desc">No description available.</div>
+                            <button id="DetailDescToggleBtn" class="win-type-ellipsis desc-toggle-btn" style="display: none">More</button>
+                        </div>
+                    </div>
+
+                    <div class="people-also-like-section">
+                        <div class="section-heading win-type-ellipsis">People also like</div>
+                        <div id="PeopleAlsoLikeContainer" class="people-also-like-grid"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="ScreenshotLightbox" class="lightbox-modal" onclick="handleLightboxClick(event)">
+            <button class="lightbox-nav prev" onclick="navigateLightbox(-1, event)">&#xE00E;</button>
+
+            <div class="lightbox-content">
+                <img id="LightboxImage" src="" alt="Screenshot view" />
+            </div>
+
+            <button class="lightbox-nav next" onclick="navigateLightbox(1, event)">&#xE00F;</button>
+            <div id="LightboxDots" class="lightbox-dots"></div>
+        </div>
+    </body>
 </html>

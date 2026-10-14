@@ -5,6 +5,9 @@ let isDescExpanded = false;
 let currentScreenshots = [];
 let currentScreenshotIndex = 0;
 
+// WinJS Binding List data source
+let appListDataSource = new WinJS.Binding.List([]);
+
 document.addEventListener("contextmenu", (e) => {
   if (e.target.tagName === "IMG" || e.target.closest("img")) {
     e.preventDefault();
@@ -14,14 +17,15 @@ document.addEventListener("contextmenu", (e) => {
 function toggleTheme() {
   const body = document.body;
   const btn = document.getElementById("ThemeToggle");
-  const isDark = body.getAttribute("data-theme") === "dark";
   
-  if (isDark) {
-    body.setAttribute("data-theme", "light");
-    btn.textContent = "Dark Mode";
-  } else {
-    body.setAttribute("data-theme", "dark");
-    btn.textContent = "Light Mode";
+  body.classList.toggle("win-ui-dark");
+
+  const isDark = body.classList.contains("win-ui-dark");
+  
+  body.setAttribute("data-theme", isDark ? "dark" : "light");
+  
+  if (btn) {
+    btn.textContent = isDark ? "Light Mode" : "\ue708";
   }
 }
 
@@ -46,57 +50,16 @@ function applyFilters() {
     );
   }
 
-  renderHorizontalGrid(filtered);
-}
+  // Update the WinJS data source dynamically
+  appListDataSource.splice(0, appListDataSource.length, ...filtered);
 
-function renderHorizontalGrid(apps) {
-  const wrapper = document.getElementById("HorizontalWrapper");
-  if (!wrapper) return;
-  wrapper.innerHTML = "";
-
-  if (!apps.length) {
-    wrapper.innerHTML = "<div id='Status'>No items found.</div>";
-    return;
+  const status = document.getElementById("Status");
+  if (status) {
+    status.style.display = filtered.length === 0 ? "block" : "none";
+    if (filtered.length === 0) {
+      status.textContent = "No items found.";
+    }
   }
-
-  const column = document.createElement("div");
-  column.className = "category-column";
-
-  const title = document.createElement("div");
-  title.className = "category-title";
-  title.textContent = "APPS";
-  column.appendChild(title);
-
-  const grid = document.createElement("div");
-  grid.className = "app-tiles-grid";
-
-  apps.forEach(app => {
-    const tile = document.createElement("div");
-    tile.className = "app-tile";
-    
-    tile.onclick = () => openDetailsById(app.id, true);
-
-    const initialLetter = escapeHtml((app.name || "?").charAt(0).toUpperCase());
-
-    tile.innerHTML = `
-      <div class="icon-container">
-        ${app.icon 
-          ? `<img src="${app.icon}" alt="Icon" onerror="this.onerror=null; this.parentNode.innerHTML='${initialLetter}';">` 
-          : initialLetter
-        }
-      </div>
-      <div class="info">
-        <div class="name">${escapeHtml(app.name || "Unknown")}</div>
-        <div class="publisher">${escapeHtml(app.publisher || "Unknown")}</div>
-        <div class="price">Free</div>
-      </div>
-    `;
-
-    grid.appendChild(tile);
-  });
-
-  column.appendChild(grid);
-  wrapper.appendChild(column);
 }
 
 function renderDescriptionText() {
@@ -204,9 +167,13 @@ function openDetailsById(appId, updateHistory) {
   renderPeopleAlsoLike(app.id);
 
   const downloadBtn = document.getElementById("DetailDownloadBtn");
-  downloadBtn.href = app.package || "#";
-  downloadBtn.target = "_self";
-  downloadBtn.setAttribute("download", "");
+  
+  // Configure the button click action since it's no longer an anchor tag[cite: 4]
+  downloadBtn.onclick = () => {
+    if (app.package) {
+      window.location.href = app.package;
+    }
+  };
 
   document.getElementById("AppDetailModal").style.display = "block";
 }
@@ -240,9 +207,8 @@ function renderPeopleAlsoLike(currentAppId) {
         }
       </div>
       <div class="info">
-        <div class="name">${escapeHtml(app.name || "Unknown")}</div>
-        <div class="publisher">${escapeHtml(app.publisher || "Unknown")}</div>
-        <div class="price">Free</div>
+        <div class="name win-type-ellipsis">${escapeHtml(app.name || "Unknown")}</div>
+        <div class="publisher ">${escapeHtml(app.publisher || "Unknown")}</div>
       </div>
     `;
 
@@ -339,6 +305,31 @@ function checkUrlParams() {
     closeDetails(false);
   }
 }
+
+// Remove the old appItemRenderer function completely[cite: 4]
+
+WinJS.UI.processAll().then(function () {
+  const listViewElem = document.getElementById("AppListView");
+  
+  if (listViewElem && listViewElem.winControl) {
+    // Assign the data source dynamically
+    listViewElem.winControl.itemDataSource = appListDataSource.dataSource;
+    
+    // Handle item clicks natively via WinJS iteminvoked
+    listViewElem.winControl.addEventListener("iteminvoked", function (event) {
+      event.detail.itemPromise.then(function (item) {
+        openDetailsById(item.data.id, true);
+      });
+    });
+  }
+
+  const searchBoxElem = document.getElementById("Search");
+  if (searchBoxElem && searchBoxElem.winControl) {
+    searchBoxElem.winControl.addEventListener("querychanged", function (event) {
+      filterApps(event.detail.queryText);
+    });
+  }
+});
 
 window.onpopstate = function() {
   checkUrlParams();
