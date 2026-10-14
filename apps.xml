@@ -6082,4 +6082,38 @@ Show Start Page:：Swipe up on the “GO” Button.
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+    <app id="otp-manager">
+    <name>OTP Manager</name>
+    <version>1.1.5.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/otpmanager_img.png</icon>
+    <publisher>Aftnet</publisher>
+    <featured>false</featured>
+    <description>OTP Manager generates 2-step verification codes.
+
+Works with all services supporting the TOTP standard, including:
+
+- Microsoft two-step verification
+- Google two-factor authentication
+- Dropbox
+- Evernote
+- Github
+
+and many more.
+
+Features:
+
+- Generates codes without need for internet access
+- Support for multiple accounts
+- Support exporting account data
+- Add account data via link or QR code
+- Account data is stored on disk encrypted</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15612Aftnet.OTPManager_1.1.5.0_neutral_~_wgtwcdjmkkg0e.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/otpmanager_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/otpmanager_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/otpmanager_scr3.png</screenshot3>
+    <category>Security</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
