@@ -13,15 +13,15 @@ document.addEventListener("contextmenu", (e) => {
 
 function toggleTheme() {
   const body = document.body;
-  const btn = document.getElementById("ThemeToggle");
+  const icon = document.getElementById("ThemeIcon");
   const isDark = body.getAttribute("data-theme") === "dark";
   
   if (isDark) {
     body.setAttribute("data-theme", "light");
-    btn.textContent = "Dark Mode";
+    if (icon) icon.innerHTML = "&#xE706;";
   } else {
     body.setAttribute("data-theme", "dark");
-    btn.textContent = "Light Mode";
+    if (icon) icon.innerHTML = "&#xE708;";
   }
 }
 
