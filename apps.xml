@@ -6116,4 +6116,41 @@ Features:
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="you-doo">
+    <name>You-Doo</name>
+    <version>2017.424.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/you-doo_img.png</icon>
+    <publisher>Plutnamium LLC</publisher>
+    <featured>false</featured>
+    <description>You-Doo is an easy to use proximity based to do list, task scheduler and reminder application. It is simple to use but has powerful features such as a live timeline, user defined gps locations, calendar view, task history and much more.
+
+Set up gps locations where you perform your most frequent tasks. Make one for your home, work, shopping centers, entertainment facilities, etc. You can then define individual tasks that will fire message reminders when you are nearby the defined areas that contain Active Tasks assigned to them.
+
+Organize your day by setting time-sensitive tasks, calendar items and reminders.  You-Doo is a full featured task manager and calendar app.
+
+•	Proximity triggered alerts for tasks
+•	Live Timeline View
+•	Live tiles for individual tasks and gps groups
+•	Configurable gps location groups for categorizing tasks
+•	Location information with mapping integration to Bing Maps and Foursquare
+•	Reminders and Notifications
+•	Multi Language Options
+•	Calendar view with daily detail
+•	Task sharing
+•	Outlook and local calendar export
+•	Driving directions
+•	Additional task icons and colors</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/PlutaniumLLC.You-Doo_2017.424.0.0_neutral_~_y4h1kcjaxd0zc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/you-doo_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/you-doo_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/you-doo_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/you-doo_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/you-doo_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/you-doo_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/you-doo_scr7.png</screenshot7>
+    <category>Productivity</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
