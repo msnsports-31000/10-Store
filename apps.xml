@@ -6153,4 +6153,48 @@ Organize your day by setting time-sensitive tasks, calendar items and reminders.
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="flipagram">
+    <name>Flipagram</name>
+    <version>2016.1.11.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/flipagram_img.png</icon>
+    <publisher>Flipagram Inc.</publisher>
+    <featured>false</featured>
+    <description>Tens of millions of monthly users worldwide and growing!
+
+Flipagram is the easiest way to create and share amazing musical video stories!
+
+Use your existing photos and videos to create compelling stories. Pick the perfect soundtrack from millions of popular free choices. Share your Flips privately, or with the Flipagram community and beyond.
+
+Our editors are always looking for fun, inspiring, or creative Flipagrams to feature to our fast-growing community. Explore a world of amazing stories by browsing channels, trending tags, and by following your friends, favorite influencers, and popular artists.
+
+Flipagram in 3 easy steps:
+1. Select - photos &amp; video clips from camera roll, albums, or Facebook.
+2. Create - add your favorite music, set timing, and text to tell your story.
+3. Share - on Flipagram or to Facebook, Twitter, Instagram or beyond.
+
+FEATURES
++ Add photos and video clips
++ Free 60 second music clips
++ Pause and scroll through Flipagrams one moment at a time
++ Get likes and comments
++ Find friends to follow
++ Channels to help discover popular Flipagram content
++ Beautiful fonts
++ Notifications of interesting activity
++ Explore users, #hashtags, and editor’s picks
++ Control the privacy of your profile and each flipagram that you create
++ Use Cortana to launch Flipagram and search for users or hashtags and see your activity
++ Pin Flipagram as a live tile
++ Use Windows Inking to draw on your profile photo
++ Easy sharing to all your favorite apps!</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/37CE31F9.FlipagramforWindowsPhone_2016.1.11.0_neutral_._gs7dpjqc2xhcp.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/flipagram_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/flipagram_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/flipagram_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/flipagram_scr4.png</screenshot4>
+    <category>Photo &amp; video</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
