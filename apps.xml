@@ -6197,4 +6197,56 @@ FEATURES
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="meedj">
+    <name>MeeDJ</name>
+    <version>10015.2.29.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/meedj_img.png</icon>
+    <publisher>jotURL s.r.l.</publisher>
+    <featured>false</featured>
+    <description>MEEDJ – interact with the music you love: you’re the DJ!
+
+MEEDJ is a DJ mixing console we created for people who want to easily interact with the music they love and to mix tracks like a DJ, having a simplified interface at their disposal. MEEDJ’s value is the interface itself (developed with a professional DJ), the social features tightly integrated within the App and the strong social engagement metrics (GetAll bundle). You are the DJ! Just load two audio tracks from your music library (or from OneDrive) and start mixing them, by jogging, pitching and applying audio effects, loops, samples… All key features are at your fingertips! If you want you may also upload your work to the cloud and share it on social media. Once shared you can track (GetAll bundle) the feedback coming from social media for your mixes and playlists, thus getting an idea on how much they have been appreciated by your friends. MEEDJ is FREE for ever with Ads. Paid version (GetAll bundle) removes Ads and 15’ recording limit, includes detailed social metrics, an amazing Sample Pad, additional audio filters, cool skins and much more.
+MAIN FEATURES:
+• Independent turntables with one-stop access to advanced audio features
+• Splitting: use one of the Out-channels for the preview
+• Free sound effects: Cue, Loops, Equalizer, Reverse, Flanger, Echo, Low Pass Filter, Band Pass Filter, High Pass Filter
+• Scratch / Pitch
+• Innovative and simplified DJ-interface, designed by a professional DJ, with a one-stop DJing experience
+• Unmatched sharing and upload capabilities
+• Channel splitting with preview on the device (pre-cueing)
+• Amazing Sample Pad: use up to 12 cool samples at a time, for your mixes, without leaving the app
+• Create, manage and organize your playlists
+• Integrated player for your tracks
+• Text to speech and voice recognition features to create effects and save them as samples
+• Load your tracks from your local Music Library and from OneDrive
+• Upload your playlists and mixed tracks to Microsoft OneDrive
+• Share your playlists and mixes on Facebook and Twitter
+• Share mixes on Sleeve Music and have the opportunity to showcase your work to a worldwide community of music lovers
+• Get the social engagement level (global visits, likes, reshares, favourites, retweets), for each of your shared playlists and mixes (Get All bundle)
+• Cool Skins (more coming soon)
+• New universal Windows 10 version (works on smartphones, tablets, desktops)
+• Voice commands integrated with Cortana for Windows 10
+• Soon also available: Automix and Spotify Music integration…
+
+Please, feel free to contact us at support@meedj.com for any feedback, question or suggestion!
+Happy mixing with MEEDJ ;)
+
+---------------------
+
+Follow us on Twitter at https://twitter.com/meedjapp and Like us on Facebook at https://www.facebook.com/meedjapp to get news about upcoming updates ;)
+
+---------------------</description>
+    <package>https://github.com/msnsports-31000backup/store2/releases/download/sup/EF1F3BDD.MeeDJ_10015.2.29.0_neutral_._aned891g64cap.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/meedj_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/meedj_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/meedj_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/meedj_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/meedj_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/meedj_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/meedj_scr7.png</screenshot7>
+    <category>Music</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
