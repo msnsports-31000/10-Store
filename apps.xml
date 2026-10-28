@@ -6340,4 +6340,25 @@ Version 2.1 - Limited support Lumia 5XX, 6XX (Vertical level not support</descri
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="timer">
+    <name>Timer++</name>
+    <version>3.0.4.1000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timer_img.png</icon>
+    <publisher>Everyapp lab</publisher>
+    <featured>false</featured>
+    <description>Meet the new version for Windows 10! Incredibly easy and enjoyable timer! Forget about the awkward controls! Choose a time, using a circular slider!
+
+Features:
+-Disabling the lock screen
+-Selectable ringtone
+-Keeping recent values
+-Work in background</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10984Everyapplab.Mandarintimer_3.0.4.1000_neutral_~_8axd689r6yqfc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timer_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timer_scr2.png</screenshot2>
+    <category>Multimedia design</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
