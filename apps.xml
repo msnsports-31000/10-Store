@@ -6267,4 +6267,60 @@ Follow us on Twitter at https://twitter.com/meedjapp and Like us on Facebook at 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="unotune-music-player">
+    <name>Unotune Music Player</name>
+    <version>2018.909.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unotunemusicplayer_img.png</icon>
+    <publisher>Everyapp lab</publisher>
+    <featured>false</featured>
+    <description>Very enjoyable and useful player for music and audiobooks. Listen with pleasure!
+
+Features:
+- Play by folder
+- Changing playback rate
+- Changing a background image
+- Changing theme
+- Live tile
+- Pin tiles
+- Sort playlist by date, title or file name
+- Slider to rewind song
+- Step rewind by 5 sec., 30 sec. or 3 min. (useful for audiobooks)
+- Bookmarks for audiobooks
+- Albums, artists, genres
+- Deep search by songs, folders, artists, genres, albums, file name
+- Album covers
+- Shuffle and repeat
+-Volume control</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10984Everyapplab.7640AA4EB1D7_2018.909.0.0_neutral_~_8axd689r6yqfc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unotunemusicplayer_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unotunemusicplayer_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unotunemusicplayer_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/unotunemusicplayer_scr4.png</screenshot4>
+    <category>Music</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="level">
+    <name>Level</name>
+    <version>3.0.2.1000</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/level_img.png</icon>
+    <publisher>Everyapp lab</publisher>
+    <featured>false</featured>
+    <description>This application is level meter. It can be used for household and construction needs. Program allows to measure the deviation in degrees with respect to three axes.
+
+Features
+
+• Calibration of the sensor. Measure the angle of inclination relative to a specified level you.
+• Sensitivity adjustment.
+
+Version 2.1 - Limited support Lumia 5XX, 6XX (Vertical level not support</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10984Everyapplab.7640AA4EB1D7_2018.909.0.0_neutral_~_8axd689r6yqfc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/level_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/level_scr2.png</screenshot2>
+    <category>Utilities &amp; tools</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
