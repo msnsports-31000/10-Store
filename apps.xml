@@ -6323,4 +6323,21 @@ Version 2.1 - Limited support Lumia 5XX, 6XX (Vertical level not support</descri
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="pen-and-pencil">
+    <name>Pen and Pencil</name>
+    <version>1.1.1.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/penandpencil_img.png</icon>
+    <publisher>Everyapp lab</publisher>
+    <featured>false</featured>
+    <description>The application for easy drawing, coloring and handwritten notes.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/10984Everyapplab.PenandPencil_1.1.1.0_neutral_~_8axd689r6yqfc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/penandpencil_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/penandpencil_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/penandpencil_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/penandpencil_scr4.png</screenshot4>
+    <category>Multimedia design</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
