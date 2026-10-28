@@ -6249,4 +6249,22 @@ Follow us on Twitter at https://twitter.com/meedjapp and Like us on Facebook at 
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="fox-news">
+    <name>Fox News</name>
+    <version>2.4.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/foxnews_img.png</icon>
+    <publisher>FOX News Network LLC</publisher>
+    <featured>false</featured>
+    <description>Follow dynamic, real-time reporting from Fox News in the Fox News app for Windows 10. Get comprehensive coverage of the day's hottest stories, Fair and Balanced headlines, vibrant photo galleries, the latest video clips from your favorite shows and more!</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/FOXNewsNetworkLLC.FoxNews_2.4.0.0_neutral_~_8j3m8841bkwpc.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/foxnews_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/foxnews_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/foxnews_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/foxnews_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/foxnews_scr5.png</screenshot5>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>false</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
