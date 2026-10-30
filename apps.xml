@@ -6382,4 +6382,21 @@ Features:
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="files-defender-for-windows-10">
+    <name>Files Defender for Windows 10</name>
+    <version>10.10240.51.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/filesdefenderforwindows10_img.png</icon>
+    <publisher>SKYBAND</publisher>
+    <featured>false</featured>
+    <description>Files Defender, this is a new era of data protection. You can easily move your files and folders in a lockbox and they will remain protected.
+The application will provide up-to-date protection.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/40740SKYBANDSecurity.ClosedGates2018_10.10240.51.0_neutral_~_03czh9h276vg4.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/filesdefenderforwindows10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/filesdefenderforwindows10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/filesdefenderforwindows10_scr3.png</screenshot3>
+    <category>Utilities &amp; tools</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
