@@ -6361,4 +6361,25 @@ Features:
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="visual-timers">
+    <name>Visual Timers</name>
+    <version>2017.7.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_img.png</icon>
+    <publisher>Abilities Software Inc.</publisher>
+    <featured>false</featured>
+    <description>Visual Timers are used to count down time. A visual timer makes the abstract idea of time more concrete by allowing users to "see" time pass.  The appearance and sounds for each timer can be customized to make the timer more meaningful and engaging. This is particularly helpful for individuals who have difficulty with waiting or staying on task.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/5C0C6879.VisualTimers_2017.7.0.0_neutral_~_79cy8rfb7tw06</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/visualtimers_scr8.png</screenshot8>
+    <category>Utilities &amp; tools</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
