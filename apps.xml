@@ -6399,4 +6399,76 @@ The application will provide up-to-date protection.</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="time-for-windows-10">
+    <name>TIME for Windows 10</name>
+    <version>1.0.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_img.png</icon>
+    <publisher>Denız Inanmaz</publisher>
+    <featured>false</featured>
+    <description>TIME is a global, breaking news multimedia brand. An essential destination for reporting on the people, places and issues that matter, TIME captures the events that shape our lives through exceptional reporting, writing and photography.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/50084DenzInanmaz.TIMEforWindows10_1.0.3.0_x86__k3v1cfzd3pgeg.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr5.png</screenshot5>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="time-for-windows-10-for-arm">
+    <name>TIME for Windows 10 for ARM</name>
+    <version>1.0.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_img.png</icon>
+    <publisher>Denız Inanmaz</publisher>
+    <featured>false</featured>
+    <description>TIME is a global, breaking news multimedia brand. An essential destination for reporting on the people, places and issues that matter, TIME captures the events that shape our lives through exceptional reporting, writing and photography.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/50084DenzInanmaz.TIMEforWindows10_1.0.3.0_x86__k3v1cfzd3pgeg.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr5.png</screenshot5>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="time-for-windows-10">
+    <name>TIME for Windows 10</name>
+    <version>1.0.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_img.png</icon>
+    <publisher>Denız Inanmaz</publisher>
+    <featured>false</featured>
+    <description>TIME is a global, breaking news multimedia brand. An essential destination for reporting on the people, places and issues that matter, TIME captures the events that shape our lives through exceptional reporting, writing and photography.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/50084DenzInanmaz.TIMEforWindows10_1.0.3.0_x86__k3v1cfzd3pgeg.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr5.png</screenshot5>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="time-for-windows-10-for-arm">
+    <name>TIME for Windows 10 for ARM</name>
+    <version>1.0.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_img.png</icon>
+    <publisher>Denız Inanmaz</publisher>
+    <featured>false</featured>
+    <description>TIME is a global, breaking news multimedia brand. An essential destination for reporting on the people, places and issues that matter, TIME captures the events that shape our lives through exceptional reporting, writing and photography.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/50084DenzInanmaz.TIMEforWindows10_1.0.3.0_x86__k3v1cfzd3pgeg.Appx</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr5.png</screenshot5>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
