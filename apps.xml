@@ -6494,4 +6494,28 @@ Worl'O'Clock is totally free, without any advertising and doesn't collect any da
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="tv-tweaker">
+    <name>TV Tweaker</name>
+    <version>10.0.10240.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tvtweaker_img.png</icon>
+    <publisher>Brendan Grant</publisher>
+    <featured>false</featured>
+    <description>Did you know you can control some TV's without the remote?
+
+Many modern TVs and other home electronics device expose services to the local network via UPnP (Universal Plug and Play) to allow for basic management of things such as brightness, contrast and volume.
+So long as your TV supports certain UPnP services and is on your home network, with this Microsoft Store app... you can control these values from your phone!
+While useful for basic tweaking on your own set... it's also useful for having fun with friends.
+Why not excuse yourself to the bathroom for a moment and while gone, slowly lower the volume of the TV... or swing by that same friend's house and reduce the brightness of the TV?
+"What the heck? Did I sit on the remote? Is my TV breaking down? What gives!?!?" your friend will puzzle. Only to have things return to normal shortly afterwards.
+If you are quiet about what you've done, you can keep doing this for weeks or months!
+
+So as to help make things right, the option also exists to backup &amp; and restore the settings, giving you the option to drive your friend mad... then return things to back to how you found them.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/48861BrendanGrant.TVTweaker_10.0.10240.0_neutral_~_9dz0c3wn4mg6e.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tvtweaker_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tvtweaker_scr2.png</screenshot2>
+    <category>Utilities &amp; tools</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
