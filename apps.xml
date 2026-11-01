@@ -6460,13 +6460,36 @@ The application will provide up-to-date protection.</description>
     <publisher>Denız Inanmaz</publisher>
     <featured>false</featured>
     <description>TIME is a global, breaking news multimedia brand. An essential destination for reporting on the people, places and issues that matter, TIME captures the events that shape our lives through exceptional reporting, writing and photography.</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/50084DenzInanmaz.TIMEforWindows10_1.0.3.0_x86__k3v1cfzd3pgeg.Appx</package>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/50084DenzInanmaz.TIMEforWindows10_1.0.3.0_arm__k3v1cfzd3pgeg.Appx</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr3.png</screenshot3>
     <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr4.png</screenshot4>
     <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/timeforwindows10_scr5.png</screenshot5>
     <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="worldoclock">
+    <name>WorldOClock</name>
+    <version>3.8.26.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_img.png</icon>
+    <publisher>Romain Ehret</publisher>
+    <featured>false</featured>
+    <description>With Worl'O'Clock, you put all your clocks in one place. You can very simply add a new clock of any place on Earth. And now you can pin the clocks on the Start Screen.
+
+Worl'O'Clock is totally free, without any advertising and doesn't collect any data for the greatest respect for your personal privacy.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/54753RomainEhret.WorldoClock_3.8.26.0_neutral_~_tepjb7rqjh09c.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_scr3.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_scr4.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/worldoclock_scr5.png</screenshot8>
+    <category>Utilities &amp; tools</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
