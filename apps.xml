@@ -6435,6 +6435,7 @@ The application will provide up-to-date protection.</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+<<<<<<< HEAD
   <app id="time-for-windows-10">
     <name>TIME for Windows 10</name>
     <version>1.0.3.0</version>
@@ -6518,4 +6519,6 @@ So as to help make things right, the option also exists to backup &amp; and rest
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+=======
+>>>>>>> c85ee44fcf4a6d260c275b20e0ea9bc281e1f653
 </data>
