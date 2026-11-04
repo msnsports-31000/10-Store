@@ -6482,4 +6482,64 @@ So as to help make things right, the option also exists to backup &amp; and rest
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="figure">
+    <name>Figure</name>
+    <version>2.0.6.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/figure_img.png</icon>
+    <publisher>Allihoopa</publisher>
+    <featured>false</featured>
+    <description>Make music in seconds. Share, remix and collaborate with music makers all over the world.
+
+• The top beat making app for iOS, now on Windows
+• Apple App Store Hall of Fame Inductee
+• Multiple times Apple App Store Editor's Choice/App of the Week in many countries
+
+“Anyone can craft killer beats with this superbly designed music maker.” - Apple App Store Editor’s Notes
+"[The] Figure Music App Is Awesome, Easy to Use" – Wired
+"Makes powerful electronic music-making technology accessible to all." – The Guardian
+"Music-Making App Lets You Be The Artist" – NPR
+
+
+Create an addictive beat before the next bus stop or lay down a beefy bass line while waiting in line at the bank. Share your creations on Allihoopa, the free music collaboration and sharing service, and see where other music makers will take your ideas. Figure will have anyone making music within seconds yet is deep enough for endless play on a transatlantic flight.
+
+
+Figure highlights
+Make songs with Drums, Bass and Lead Synth
+Play by sliding your finger across the play pad
+Always stay in key and on the beat
+Share your music on Allihoopa and let others remix or develop in Figure and other apps
+Make music with people all over the world
+Find music from the Allihoopa community to remix and develop
+No previous playing skills required 
+Tweak and twist your track on the fly
+Sounding amazing has never been this easy
+The sound of Reason on your device
+
+Truly designed for mobile use, with collaboration in mind, Figure gives you drums, bass and lead synths. All controlled through an incredibly easy to use touch interface that gets you sounding great literally in seconds. Slide your finger across the play pad and hear your bass line play. Tweak the Rhythm, Range and Scale Step wheels to get the result you’re after. Programming drumbeats is just as easy. Set the rhythm and play the drums with your fingers. You won’t want to stop. You won’t believe how amazing you can sound.
+
+If you are new to music making, getting started making great sounding tracks has never been this easy — and sounded so great!
+
+If you are a seasoned musician – music creation has never been this fun!
+
+The nitty gritty details:
+• Bass &amp; lead parts use Reason’s Thor synthesizer 
+• Drums powered by Reason’s Kong drum machine 
+• Play in different keys &amp; modes. Set once or change on the fly.
+• Use the arpeggiator to create melody lines from chords
+• Increase the Shuffle to loosen up your beats
+• Turn up Pump to add a club sound to your tracks
+• Adjust levels using Allihoopa’s legendary mixer
+• Save your songs in the cloud
+• Set length of loop (1,2,4,8 bars) 
+• Share and collaborate on Allihoopa</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/Propellerhead.FigureTesting_2.0.6.0_neutral_~_y99n7aszjw68m.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/figure_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/figure_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/figure_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/figure_scr4.png</screenshot4>
+    <category>Music</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
