@@ -1779,10 +1779,10 @@ Bank of America, N.A. Member FDIC
     <mobileCapable>false</mobileCapable>
     <win81compatible>true</win81compatible>
   </app>
-  <app id="uzzley">
+  <app id="muzzley">
     <name>muzzley</name>
     <version>2.7.4.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/aaaaaa-1779736246.png</icon>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files/muzzley_img.png</icon>
     <publisher>MUZZLEY S.A.</publisher>
     <featured>true</featured>
     <description>Create and Enjoy your Smart Home with Muzzley! Now available on Windows 10 Desktop and Windows 10 Mobile! Muzzley allows you to connect with and manage all your smart devices in the same app! Through a wifi or 4G connection, you can control them anytime, from anywhere! Create your own set of automation rules &amp; connect your devices according to your needs, without even having to open the app! When you go to bed at night, do you want to turn on the alarm? DONE! When you arrive home, do you want your living room lights to turn on? DONE! Want to make sure your home doors are locked when you are not at home? DONE! With so many devices &amp; automation options, the possibilities are endless! You don’t need to adjust to your home…now your home adjusts to you! FEATURES * Wide range of compatible devices, including: Wink Hub (Lights added through the Wink Hub: Hampton, Connected Cree, Commercial Electric, TCP LED, OSRAM, GE Link, Philips Hue ; Locks added through the Wink Hub: Kwikset, Schlage), Nest Thermostat, Nest Smoke Detector, Withings Scale, Koubachi Plant Sensor, Milight and Easybulb, TCP lighting, Rachio Iro Sprinkler, Insteon Hub V2 (model 2245-222), iHealth, Beurer, Misfit, FitBit, Jawbone, Lockitron, GreenIQ, Automatic, Egardia, LIFX * Shortcuts in-app * Home Automation * Security &amp; Surveillance * Health tracking * Manual/Remote Control * Location and Time based Agents, and much more! We are here to help! If you have any questions and/or suggestions, please email us at support@muzzley.com</description>
