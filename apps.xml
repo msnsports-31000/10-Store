@@ -6542,4 +6542,19 @@ The nitty gritty details:
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="storytel">
+    <name>Storytel</name>
+    <version>2017.9.21.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/storytel_img.png</icon>
+    <publisher>Storytel</publisher>
+    <featured>false</featured>
+    <description>Storytel is an audiobook subscription service that is delivered to your ears. With unlimited listening, Storytel brings you a large content library in multiple languages with the latest releases, bestselling books and timeless classics. Enjoy much loved authors and explore new reading experiences. Storytel brings you hours of entertainment. Sign up now to the unlimited listening option on Storytel.se for 169 SEK per month. Happy listening!</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/Storytel.Storytel_2017.9.21.0_neutral_~_j612155g63ybe.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/storytel_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/storytel_scr2.png</screenshot2>
+    <category>Books &amp; reference</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
