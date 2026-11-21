@@ -6557,4 +6557,36 @@ The nitty gritty details:
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="tiny-tiny-rss-reader">
+    <name>Tiny Tiny RSS Reader</name>
+    <version>4.3.3.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_img.png</icon>
+    <publisher>TheScientist</publisher>
+    <featured>false</featured>
+    <description>Reader client for Tiny Tiny RSS servers.
+Preconditions: You need a tt-RSS server account and enable API in its settings.
+Features:
+- Read Articles of all of your feeds including special feeds
+- Live tile of unread articles (can also be shown on lock screen)
+- Mark articles as read (manually or automatically), favorite or published
+- Edit multiple Articles from list of headlines
+- share Articles
+- load original article page in the app or ie
+- browse through headlines with different sort options
+- mark all articles of a feed as read</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/41231TheScientist.TinyTinyRSSReader_4.3.3.0_neutral_~_tjsvef8bsr4tr.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr1.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr2.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr1.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr2.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr1.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr2.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/tinytinyrssreader_scr1.png</screenshot9>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </apps
 </data>
