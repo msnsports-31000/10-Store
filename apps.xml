@@ -6588,5 +6588,5 @@ Features:
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
-  </apps
+  </app>
 </data>
