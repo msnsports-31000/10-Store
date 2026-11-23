@@ -6738,4 +6738,31 @@ if you think you miss a newspaper just mail me</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+<app id="canadian-news">
+    <name>Canadian News</name>
+    <version>1.1.6.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/canadiannews_img.png</icon>
+    <publisher>Bruce Dulion</publisher>
+    <featured>false</featured>
+    <description>All major newspapers from Canada in one handy app!
+Canadian news in your pocket.
+
+Switch to another newspaper in just 2 clicks!
+
+Add / remove favourites.
+
+The Montreal Gazette
+Le journal de Montréal
+Calgary Herald
+
+And many more...
+
+If you miss a newspaper please send me an email!</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.CanadianNews_1.1.6.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/canadiannews_scr1.png</screenshot1>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
