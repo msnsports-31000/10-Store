@@ -6611,4 +6611,109 @@ Features:
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="brain-breakers">
+    <name>Brain Breakers/name>
+    <version>1.1.64.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/brainbreakers_img.png</icon>
+    <publisher>Bruce Dulion</publisher>
+    <featured>false</featured>
+    <description>Brain Breakers is a fun app 'to break your brain' with a lot of questions, riddles and answers. The riddles vary from easy to very difficult.
+
+- Once you've started a riddle the answer will be available the next day.
+- If you see a green tick in a riddle number the answer to that riddle is available.
+- Every update the riddle list is updated with more riddles!
+- Brain Breakers offers a wide variety of riddles.
+- Train your brain every day with a new challenge.
+- Brain Breakers keeps your brain in shape.
+- Challenge yourself on numbers, logic, memory and much more...
+- One riddle a day keeps boredom away!
+
+Good riddles are always welcome, if you have a good riddle and you want it to be in Brain Breakers please mail me the question and answer.
+My email address can be found in the store (support). I'll add your name in the credits.
+
+WARNING!! 
+After playing Brain Breakers you've become a lot smarter :)</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.BrainBreakers_1.1.64.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/brainbreakers_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/brainbreakers_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/brainbreakers_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/brainbreakers_scr4.png</screenshot4>
+    <category>Education</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+  <app id="news-from-nepal">
+    <name>News from Nepal/name>
+    <version>1.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromnepal_img.png</icon>
+    <publisher>Bruce Dulion</publisher>
+    <featured>false</featured>
+    <description>All major newspapers from Nepal in a handy app!
+Nepali news in your pocket.
+
+Switch to a new newspaper in just 2 clicks by using the menu.
+
+Add your favorite newspaper or other site to the menu.
+
+Remove all the newspapers you are not going to read.
+
+Windows 10 and windows 10 mobile compatible.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.NewsfromNepal_1.1.0.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromnepal_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromnepal_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromnepal_scr3.png</screenshot3>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+<app id="news-from-the-philippines">
+    <name>News from the Philippines/name>
+    <version>1.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromthephilippines_img.png</icon>
+    <publisher>Bruce Dulion</publisher>
+    <featured>false</featured>
+    <description>All major newspapers from the Philippines in a handy app!
+Combine all your favorite newspapers and news sites together in the newspaper list in the menu.
+
+Switch to another newspaper in just 2 clicks.
+
+Press the star at the top of the screen to add a favorite in the menu.
+Press the trashcan to remove an item from the list or restore it to default.
+
+Windows 10 and windows 10 mobile compatible.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.NewsfromthePhilippines_1.1.0.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromthephilippines_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromthephilippines_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromthephilippines_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromthephilippines_scr4.png</screenshot4>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+<app id="south-korean-news">
+    <name>South Korean News/name>
+    <version>1.1.1.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/southkoreannews_img.png</icon>
+    <publisher>Bruce Dulion</publisher>
+    <featured>false</featured>
+    <description>All major newspapers from South Korea combined in a handy app!
+
+The Korea Herald
+The Seoul Times
+The Korea Times
+
+And many more...
+
+Mail me if you miss a newspaper.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.566334A279A37_1.1.1.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/southkoreannews_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/southkoreannews_scr2.png</screenshot2>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
