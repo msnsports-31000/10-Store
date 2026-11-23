@@ -6589,4 +6589,26 @@ Features:
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+  <app id="my-car-manager-pro">
+    <name>My Car Manager Pro</name>
+    <version>3.2.1106.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_img.png</icon>
+    <publisher>amostjar</publisher>
+    <featured>false</featured>
+    <description>Would you like to know how much you spend on your car? You want to control your expenses and see all the statistics of refills, services and other expenses? Then this app is for you. You only need to enter data about fueling, services or any other costs and application will calculate results and show statistics in various forms, in various categories and for different periods of time. And for added convenience, all data will be available on all your devices running Windows 10 and Windows 10 Mobile</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/55038amostjar.MyCarManagerPro_3.2.1106.0_neutral_~_y7k60mebkwdwy.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr2.png</screenshot2>
+    <screenshot3>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr3.png</screenshot3>
+    <screenshot4>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr4.png</screenshot4>
+    <screenshot5>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr5.png</screenshot5>
+    <screenshot6>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr6.png</screenshot6>
+    <screenshot7>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr7.png</screenshot7>
+    <screenshot8>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr8.png</screenshot8>
+    <screenshot9>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/mycarmanagerpro_scr9.png</screenshot9>
+    <category>Personal finance</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
