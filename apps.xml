@@ -6612,7 +6612,7 @@ Features:
     <win81compatible>false</win81compatible>
   </app>
   <app id="brain-breakers">
-    <name>Brain Breakers/name>
+    <name>Brain Breakers</name>
     <version>1.1.64.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/brainbreakers_img.png</icon>
     <publisher>Bruce Dulion</publisher>
@@ -6644,7 +6644,7 @@ After playing Brain Breakers you've become a lot smarter :)</description>
     <win81compatible>false</win81compatible>
   </app>
   <app id="news-from-nepal">
-    <name>News from Nepal/name>
+    <name>News from Nepal</name>
     <version>1.1.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromnepal_img.png</icon>
     <publisher>Bruce Dulion</publisher>
@@ -6669,7 +6669,7 @@ Windows 10 and windows 10 mobile compatible.</description>
     <win81compatible>false</win81compatible>
   </app>
 <app id="news-from-the-philippines">
-    <name>News from the Philippines/name>
+    <name>News from the Philippines</name>
     <version>1.1.0.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromthephilippines_img.png</icon>
     <publisher>Bruce Dulion</publisher>
@@ -6694,7 +6694,7 @@ Windows 10 and windows 10 mobile compatible.</description>
     <win81compatible>false</win81compatible>
   </app>
 <app id="south-korean-news">
-    <name>South Korean News/name>
+    <name>South Korean News</name>
     <version>1.1.1.0</version>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/southkoreannews_img.png</icon>
     <publisher>Bruce Dulion</publisher>
