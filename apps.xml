@@ -6716,4 +6716,26 @@ Mail me if you miss a newspaper.</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+<app id="vlaams-nieuws">
+    <name>Vlaams Nieuws</name>
+    <version>1.1.8.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/vlaamsnieuws_img.png</icon>
+    <publisher>Bruce Dulion</publisher>
+    <featured>false</featured>
+    <description>All the major Belgian newspapers combined in a handy app
+
+Nieuwblad
+De Morgen
+Gazet an Antwerpen
+And more
+
+if you think you miss a newspaper just mail me</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.VlaamsNieuws_1.1.8.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/vlaamsnieuws_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/vlaamsnieuws_scr2.png</screenshot2>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
