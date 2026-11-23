@@ -6771,33 +6771,6 @@ If you miss a newspaper please send me an email!</description>
     <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/deutschezeitungenunddeutschenachrichten_img.png</icon>
     <publisher>Bruce Dulion</publisher>
     <featured>false</featured>
-    <description>All major newspapers from Canada in one handy app!
-Canadian news in your pocket.
-
-Switch to another newspaper in just 2 clicks!
-
-Add / remove favourites.
-
-The Montreal Gazette
-Le journal de Montréal
-Calgary Herald
-
-And many more...
-
-If you miss a newspaper please send me an email!</description>
-    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.DeutscheZeitungenunddeutscheNachr_1.1.13.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
-    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/deutschezeitungenunddeutschenachrichten_scr1.png</screenshot1>
-    <category>News &amp; weather</category>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
-    <win81compatible>false</win81compatible>
-  </app>
-<app id="deutsche-zeitungen-und-deutsche-nachrichten">
-    <name>Deutsche Zeitungen und deutsche Nachrichten</name>
-    <version>1.1.13.0</version>
-    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/deutschezeitungenunddeutschenachrichten_img.png</icon>
-    <publisher>Bruce Dulion</publisher>
-    <featured>false</featured>
     <description>All major newspapers from Germany in a handy app!
 
 All the German news in your pocket.
@@ -6813,6 +6786,29 @@ Remove all the newspapers you are not going to read.
 Windows 10 and windows 10 mobile compatible.</description>
     <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.DeutscheZeitungenunddeutscheNachr_1.1.13.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/deutschezeitungenunddeutschenachrichten_scr1.png</screenshot1>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
+<app id="news-from-the-czech-republic">
+    <name>News from the Czech Republic</name>
+    <version>1.1.0.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromtheczechrepublic_img.png</icon>
+    <publisher>Bruce Dulion</publisher>
+    <featured>false</featured>
+    <description>All major newspapers from the Czech Republic in a handy app!
+
+Switch to a new newspaper in just 2 clicks by using the menu.
+
+Add your favorite newspaper or other site to the menu.
+
+Remove all the newspapers you are not going to read.
+
+Windows 10 and windows 10 mobile compatible.</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.NewsfromtheCzechRepublic_1.1.0.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromtheczechrepublic_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/newsfromtheczechrepublic_scr2.png</screenshot2>
     <category>News &amp; weather</category>
     <pcCapable>true</pcCapable>
     <mobileCapable>true</mobileCapable>
