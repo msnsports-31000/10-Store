@@ -6838,4 +6838,27 @@ Windows 10 and windows 10 mobile compatible.</description>
     <mobileCapable>true</mobileCapable>
     <win81compatible>false</win81compatible>
   </app>
+<app id="australian-news">
+    <name>Australian News</name>
+    <version>1.1.17.0</version>
+    <icon>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/australiannews_img.png</icon>
+    <publisher>Bruce Dulion</publisher>
+    <featured>false</featured>
+    <description>All your favorite news from Australia combined in a handy app!
+All the Australian news in your pocket.
+
+Add all your favorite newspapers together in the menu biy pressing the star on top of the screen!
+Switch to another newspaper in just 2 clicks by using the menu.
+
+Delete favorites by pressing on the trashcan.
+
+Windows 10 and Windows Mobile compatible</description>
+    <package>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/15020BruceDulion.AustralianNews_1.1.17.0_neutral_~_f0xmam1ybj8kw.AppxBundle</package>
+    <screenshot1>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/australiannews_scr1.png</screenshot1>
+    <screenshot2>https://raw.githubusercontent.com/msnsports-31000/10-Store/refs/heads/main/files2/australiannews_scr2.png</screenshot2>
+    <category>News &amp; weather</category>
+    <pcCapable>true</pcCapable>
+    <mobileCapable>true</mobileCapable>
+    <win81compatible>false</win81compatible>
+  </app>
 </data>
